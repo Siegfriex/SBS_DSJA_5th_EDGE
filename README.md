@@ -1,150 +1,123 @@
 <div align="center">
 
-**Data Engineering**  
+**Data Pipeline**  
 [![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-ETL%20%26%20QA-150458?logo=pandas)](https://pandas.pydata.org/)
-[![PyArrow](https://img.shields.io/badge/Parquet-PyArrow-4B8BBE)](https://arrow.apache.org/docs/python/)
-[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter)](https://jupyter.org/)
+[![Parquet](https://img.shields.io/badge/Parquet-Handoff-4B8BBE)](https://parquet.apache.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-EDA-F37626?logo=jupyter)](https://jupyter.org/)
+
+**Modeling Plan**  
+[![CRISP-DM](https://img.shields.io/badge/CRISP--DM-P2--G4-5B5FC7)](docs/P2_G4_RESEARCH_SPEC.md)
+[![GroupKFold](https://img.shields.io/badge/CV-GroupKFold_by_school-0F766E)](docs/P2_G4_RESEARCH_SPEC.md)
+[![MixedLM](https://img.shields.io/badge/Stats-MixedLM%20%7C%20FE%20%7C%20GAM-7C3AED)](docs/P2_G4_RESEARCH_SPEC.md)
+[![OOF](https://img.shields.io/badge/Residual-OOF_no_leakage-B45309)](docs/P2_G4_RESEARCH_SPEC.md)
 
 **Quality Gate**  
-[![Audit](https://img.shields.io/badge/Independent_Audit-GREEN-2E7D32)](https://github.com/Siegfriex/SBS_DSJA_5th_EDGE/tree/P2_1_3)
-[![Rows](https://img.shields.io/badge/D08-10%2C242_rows-1f77b4)](https://github.com/Siegfriex/SBS_DSJA_5th_EDGE/tree/P2_1_3)
-[![Lineage](https://img.shields.io/badge/D07_to_D08-0_mismatch-2E7D32)](https://github.com/Siegfriex/SBS_DSJA_5th_EDGE/tree/P2_1_3)
-[![Leakage](https://img.shields.io/badge/Split_Leakage-0-2E7D32)](https://github.com/Siegfriex/SBS_DSJA_5th_EDGE/tree/P2_1_3)
+[![Audit](https://img.shields.io/badge/Independent_Audit-GREEN-2E7D32)](docs/AUDIT_SUMMARY.md)
+[![Rows](https://img.shields.io/badge/D08-10%2C242_rows-1f77b4)](docs/DATA_CARD.md)
+[![Lineage](https://img.shields.io/badge/D07_to_D08-0_mismatch-2E7D32)](data/cross_agent_handoff_audit.csv)
+[![Leakage](https://img.shields.io/badge/Split_Leakage-0-2E7D32)](data/split_leakage_check.csv)
 
-**Portfolio Branch**  
-[![Branch](https://img.shields.io/badge/Branch-P2_1_3-6f42c1?logo=git)](https://github.com/Siegfriex/SBS_DSJA_5th_EDGE/tree/P2_1_3)
-[![GitHub](https://img.shields.io/badge/GitHub-SBS_DSJA_5th_EDGE-181717?logo=github)](https://github.com/Siegfriex/SBS_DSJA_5th_EDGE)
+# P2-G3/G4 University Grade Signal Project
 
-# SBS DSJA 5th EDGE
+**같은 A학점은 정말 같은 의미인가?**  
+2024년 대학-학과 단위 성적분포를 입결·전공구조·학교구조·노동시장 context와 결합하고, P2-G4에서 노동시장과 진학시장이 학점을 서로 다른 신호로 읽는지 검증하는 데이터저널리즘 프로젝트
 
-**P2-G3 University Department Modeling Base**  
-2024년 대학-학과 단위 입결·학점·취업·진학·구조자료·GOMS context를 하나의 model-ready mart로 통합한 데이터 엔지니어링 포트폴리오
-
-[프로젝트 보기](https://github.com/Siegfriex/SBS_DSJA_5th_EDGE/tree/P2_1_3) · [방법론](https://github.com/Siegfriex/SBS_DSJA_5th_EDGE/blob/P2_1_3/docs/METHODOLOGY.md) · [데이터 카드](https://github.com/Siegfriex/SBS_DSJA_5th_EDGE/blob/P2_1_3/docs/DATA_CARD.md) · [감사 요약](https://github.com/Siegfriex/SBS_DSJA_5th_EDGE/blob/P2_1_3/docs/AUDIT_SUMMARY.md)
+[연구명세](docs/P2_G4_RESEARCH_SPEC.md) · [방법론](docs/METHODOLOGY.md) · [데이터 카드](docs/DATA_CARD.md) · [감사 요약](docs/AUDIT_SUMMARY.md) · [검증 스크립트](src/verify_portfolio_snapshot.py)
 
 </div>
 
 ---
 
-## 소개
+## 핵심 질문
 
-이 저장소는 SBS 데이터저널리즘/데이터사이언스 과정의 P2-G3 산출물을 GitHub 포트폴리오 형태로 정리한 레포입니다.  
-목표는 대학 순위표를 만드는 것이 아니라, **대학-학과 단위**의 2024년 분석 spine을 만들고 이후 P4 모델링에서 사용할 수 있도록 검증 가능한 데이터 mart를 구축하는 것입니다.
+> **대학별·학과별 A비율 차이는 단순한 학점 관대성인가, 아니면 입학생 구성·전공구조·평가환경을 반영하는 신호인가? 그리고 이 신호는 취업시장과 대학원 진학시장에서 다르게 읽히는가?**
 
-`main` 브랜치는 랜딩 README만 유지합니다. 실제 포트폴리오 산출물은 [`P2_1_3`](https://github.com/Siegfriex/SBS_DSJA_5th_EDGE/tree/P2_1_3) 브랜치에 있습니다.
+본 프로젝트는 대학 순위를 만들지 않는다. 한 행의 단위는 `2024년 x 학교 x 캠퍼스 x 학과`이며, 결과는 개인 GPA가 아니라 집단 수준의 조건부 연관성으로 해석한다.
 
 ---
 
-## 주요 성과
+## 현재 완성된 것: P2-G3 Handoff
 
 | 항목 | 결과 |
 |---|---:|
-| 최종 판정 | **GREEN** |
-| Critical failure | **0** |
+| 독립감사 판정 | **GREEN** |
+| critical failure | **0** |
 | 최종 mart `D08` | **10,242 x 151** |
 | 구조 master `D01` | **34,969 x 186** |
 | D01 grain duplicate | **0** |
 | 구조 고신뢰 매칭률 | **83.59%** |
 | `major_group_7` 매핑률 | **98.60%** |
-| D07 → D08 lineage mismatch | **0** |
-| Split leakage | **0** |
-| Manifest hash mismatch | **0** |
+| split leakage | **0** |
+| manifest hash mismatch | **0** |
 
 ---
 
-## 파이프라인
+## 다음 분석: P2-G4 CRISP-DM
+
+| CRISP-DM 단계 | 이번 프로젝트에서의 의미 | 산출물 |
+|---|---|---|
+| Business Understanding | “같은 A학점은 같은 의미인가?”를 기사 질문으로 정식화 | RQ/Hypothesis/Gate |
+| Data Understanding | P2-G3 GREEN handoff의 grain, target, missingness, leakage 확인 | data card, sample registry |
+| Data Preparation | target별 model matrix, GroupKFold, OOF residual 생성 | grade/employment/progression matrix |
+| Modeling | OLS, MixedLM, school FE, GAM, ML benchmark | effect size, ICC, block increment |
+| Evaluation | 취업 vs 진학에서 A비율/OOF 잔차의 추가 설명력 비교 | hypothesis verdict table |
+| Deployment | 기사·보고서·재현 가능한 분석자산으로 배포 | visuals, report, audit bundle |
+
+자세한 연구 설계는 [`docs/P2_G4_RESEARCH_SPEC.md`](docs/P2_G4_RESEARCH_SPEC.md)에 압축 정리했다.
+
+---
+
+## Modeling Roadmap
 
 ```mermaid
 flowchart LR
-    A[KEDI 2024 학과 구조] --> D01[D01 Headcount Master]
-    B[입결/학점/취업/진학 Outcome] --> D02[D02 Outcome Spine]
-    D01 --> M1[School-Campus-Department Bridge]
-    D02 --> M1
-    M1 --> D03[D03 Department Core]
-    C[GOMS 2007-2019 Long Data] --> D06[D06 Major-Year Labor Baseline]
-    D06 --> D07[D07 Recent Major Profile]
-    D03 --> D08[D08 P4 Model Base]
-    D07 --> D08
-    E[Independent Audit] --> GREEN[GREEN Readiness]
+    X[입결·학교·학과구조] --> A[A비율 형성]
+    A --> R[조건 대비 A비율 OOF 잔차]
+    R --> E[취업성과]
+    R --> P[대학원 진학]
+    C[계열별 노동시장 context] --> E
+    C --> P
+    E --> J[노동시장 신호]
+    P --> G[진학시장 신호]
 ```
 
+핵심 비교는 예측 정확도 자체가 아니라, 같은 조건에서 `A비율` 또는 `조건 대비 A비율 잔차`가 취업성과와 대학원 진학성과에 제공하는 **증분 설명력**이다.
+
 ---
 
-## 핵심 기능
+## Repository Map
 
-| 기능 | 설명 |
+| 경로 | 설명 |
 |---|---|
-| **학과 단위 spine 고정** | 2024년 outcome row `10,242`개를 삭제하지 않고 최종 mart까지 보존 |
-| **구조자료 bridge** | 학교명·캠퍼스·학과명 alias를 분리하고 다중 후보/캠퍼스 충돌은 자동확정 금지 |
-| **계열 표준화** | `HUM/SOC/EDU/ENG/NAT/MED/ART` 7계열로 mapping하고 ambiguous/unknown은 sample mask로 분리 |
-| **GOMS context 결합** | 2007-2019 전공계열별 노동시장 지표를 D06/D07로 재계산 후 D08에 lineage 보존 |
-| **감사 패키지** | shape, key duplicate, split leakage, manifest hash, sample registry를 독립 재검산 |
-| **GitHub 공개 패키징** | raw CSV/parquet/notebook은 제외하고 QA 요약·샘플·문서 중심으로 공개 |
+| `docs/P2_G4_RESEARCH_SPEC.md` | 간추린 P2-G4 CRISP-DM 연구명세 |
+| `docs/PROJECT_BRIEF.md` | 문제정의와 프로젝트 해석 |
+| `docs/METHODOLOGY.md` | P2-G3 handoff와 P2-G4 모델링 방법론 |
+| `docs/DATA_CARD.md` | 데이터 grain, target, sample registry, 한계 |
+| `docs/AUDIT_SUMMARY.md` | 독립감사 GREEN 근거 |
+| `data/*.csv` | QA, sample, hash, lineage 요약 |
+| `src/verify_portfolio_snapshot.py` | 공개 스냅샷 자체 검증 |
 
 ---
 
-## 브랜치 구조
-
-| 브랜치 | 용도 |
-|---|---|
-| `main` | README-only 랜딩 페이지 |
-| `P2_1_3` | P2-G3 포트폴리오 문서, QA 요약 CSV, 샘플, 검증 스크립트 |
-
----
-
-## P2_1_3 구성
-
-```text
-.
-├── README.md
-├── docs/
-│   ├── PROJECT_BRIEF.md
-│   ├── METHODOLOGY.md
-│   ├── DATA_CARD.md
-│   ├── AUDIT_SUMMARY.md
-│   └── GITHUB_RELEASE_CHECKLIST.md
-├── data/
-│   ├── portfolio_metrics.json
-│   ├── local1_independent_qa.csv
-│   ├── local2_independent_qa.csv
-│   ├── manifest_hash_check.csv
-│   ├── sample_registry_recalculation.csv
-│   └── d08_sample_50_seed3085.csv
-└── src/
-    └── verify_portfolio_snapshot.py
-```
-
----
-
-## 검증 방법
-
-`P2_1_3` 브랜치에서 아래 명령으로 포트폴리오 스냅샷의 핵심 QA를 다시 확인할 수 있습니다.
+## 검증
 
 ```bash
 python src/verify_portfolio_snapshot.py
 ```
 
-검증 항목:
-
-- final verdict가 `GREEN`인지
-- critical failure가 0인지
-- Local 1/2 QA가 전부 PASS인지
-- manifest hash check가 전부 PASS인지
-- sample registry 재계산이 registry 값과 일치하는지
-- D08 행수가 10,242인지
+이 명령은 final verdict, critical failure, Local 1/2 QA, manifest hash, sample registry, D08 row count를 확인한다.
 
 ---
 
-## 데이터 공개 정책
+## 공개 정책
 
-원본 CSV, 전체 parquet mart, notebook 실행 dump는 공개 저장소에 올리지 않습니다.  
-대신 감사 가능한 요약 CSV, 샘플 50행, hash/shape inventory, 방법론 문서를 제공합니다.
+원본 CSV, 전체 parquet mart, notebook 실행 dump는 공개 저장소에 올리지 않는다. 공개 브랜치에는 QA 요약, 샘플 50행, hash/shape inventory, 연구명세와 방법론만 포함한다.
 
 ---
 
 <div align="center">
 
-**SBS DSJA 5th EDGE** — P2-G3 Data Engineering Portfolio
+**P2-G3/G4** — University Grade Signal, Labor Market, and Progression Pathways
 
 </div>
