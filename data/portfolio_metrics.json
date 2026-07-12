@@ -1,0 +1,147 @@
+{
+  "generated_at": "2026-07-12T22:19:00",
+  "portfolio_scope": "P2-G3 candidate handoff for GitHub portfolio",
+  "source_workbook_dir": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3",
+  "source_audit_dir": "/home/sieg/projects-wsl/SBS_dataScience/audit/p2_g3_candidate_green_audit",
+  "final_verdict": "GREEN",
+  "critical_failure_count": 0,
+  "d01_shape": [
+    34969,
+    186
+  ],
+  "d08_shape": [
+    10242,
+    151
+  ],
+  "d08_sha256": "598b68b31b5358dfd23839d4c138cc64838d05876b7791980b376c0453f29962",
+  "d08_path": "workbook/p2/p2_3/p4_handoff_candidate/shared/mart_department_model_base_2024.parquet",
+  "d01_grain_duplicate_n": 0,
+  "structure_high_confidence_match_rate": 0.8358719000195274,
+  "major_mapping_rate": 0.9860378832259324,
+  "split_leakage_n": 0,
+  "local1_pass": 9,
+  "local1_checks": 9,
+  "local2_pass": 8,
+  "local2_checks": 8,
+  "manifest_hash_mismatch_n": 0,
+  "sample_registry": [
+    {
+      "sample_id": "GRADE_ALL",
+      "actual_n": 10099,
+      "registry_n": 10099,
+      "actual_train_n": 7417,
+      "registry_train_n": 7417,
+      "actual_val_n": 1504,
+      "registry_val_n": 1504,
+      "actual_test_n": 1178,
+      "registry_test_n": 1178,
+      "status": "PASS"
+    },
+    {
+      "sample_id": "GRADE_SELECTIVITY",
+      "actual_n": 3707,
+      "registry_n": 3707,
+      "actual_train_n": 2760,
+      "registry_train_n": 2760,
+      "actual_val_n": 585,
+      "registry_val_n": 585,
+      "actual_test_n": 362,
+      "registry_test_n": 362,
+      "status": "PASS"
+    },
+    {
+      "sample_id": "EMPLOYMENT_HEALTH",
+      "actual_n": 7389,
+      "registry_n": 7389,
+      "actual_train_n": 5428,
+      "registry_train_n": 5428,
+      "actual_val_n": 1121,
+      "registry_val_n": 1121,
+      "actual_test_n": 840,
+      "registry_test_n": 840,
+      "status": "PASS"
+    },
+    {
+      "sample_id": "PROGRESSION_GRADSCHOOL",
+      "actual_n": 7498,
+      "registry_n": 7498,
+      "actual_train_n": 5499,
+      "registry_train_n": 5499,
+      "actual_val_n": 1141,
+      "registry_val_n": 1141,
+      "actual_test_n": 858,
+      "registry_test_n": 858,
+      "status": "PASS"
+    },
+    {
+      "sample_id": "JOINT_EMP_PROG",
+      "actual_n": 7389,
+      "registry_n": 7389,
+      "actual_train_n": 5428,
+      "registry_train_n": 5428,
+      "actual_val_n": 1121,
+      "registry_val_n": 1121,
+      "actual_test_n": 840,
+      "registry_test_n": 840,
+      "status": "PASS"
+    }
+  ],
+  "dataset_shapes": [
+    {
+      "dataset": "D01",
+      "row_count": 34969,
+      "column_count": 186,
+      "sha256": "2f187b5af44c828d4107af12368029caf6b83b6254af75b9653b6402b8f1b0ce",
+      "artifact_path": "workbook/p2/p2_3/p4_handoff_candidate/local1/dept_headcount_master_2024.parquet"
+    },
+    {
+      "dataset": "D02",
+      "row_count": 10242,
+      "column_count": 37,
+      "sha256": "45f8aa40f31e14b83b5d97f594abf89bb4a5aaa4bc67735767e19077d189f493",
+      "artifact_path": "workbook/p2/p2_3/p4_handoff_candidate/local1/dept_outcomes_2024.parquet"
+    },
+    {
+      "dataset": "D03",
+      "row_count": 10242,
+      "column_count": 108,
+      "sha256": "c6fd569052684502e5bab5758510d3cd945f68ddeaa47fdfb3e9bab803889dca",
+      "artifact_path": "workbook/p2/p2_3/p4_handoff_candidate/local1/dept_master_2024_core.parquet"
+    },
+    {
+      "dataset": "D04",
+      "row_count": 14,
+      "column_count": 87,
+      "sha256": "489caf15edbefa1ed0c30fdfa98dbe31096b36c219f6610dae69a2d5e49c47e5",
+      "artifact_path": "workbook/p2/p2_3/p4_handoff_candidate/local1/wage_reference_by_major.parquet"
+    },
+    {
+      "dataset": "D05",
+      "row_count": 24,
+      "column_count": 32,
+      "sha256": "f4447cf519bdf366e36851a68e6ec6b6605f9c9a591d96c911de4eece2327246",
+      "artifact_path": "workbook/p2/p2_3/p4_handoff_candidate/local1/job_cert_bridge.parquet"
+    },
+    {
+      "dataset": "D06",
+      "row_count": 91,
+      "column_count": 45,
+      "sha256": "75d8bc34a0bf092c3e2c4332fd213d4a01f5a86252b6f6b4ac6f29709b3202c3",
+      "artifact_path": "workbook/p2/p2_3/p3_2/goms_major_year_labor_baseline.parquet"
+    },
+    {
+      "dataset": "D07",
+      "row_count": 7,
+      "column_count": 29,
+      "sha256": "f44c6f9e7a7539361dce301686144780e0ce588deb929b625ebe811674bb621f",
+      "artifact_path": "workbook/p2/p2_3/p3_2/goms_major_profile_recent.parquet"
+    },
+    {
+      "dataset": "D08",
+      "row_count": 10242,
+      "column_count": 151,
+      "sha256": "598b68b31b5358dfd23839d4c138cc64838d05876b7791980b376c0453f29962",
+      "artifact_path": "workbook/p2/p2_3/p4_handoff_candidate/shared/mart_department_model_base_2024.parquet"
+    }
+  ]
+}

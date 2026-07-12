@@ -1,0 +1,10 @@
+﻿check,actual,expected,status
+D01 grain duplicate 0,0.0,0,PASS
+D03 row count 10242,10242.0,10242,PASS
+D08 row count 10242,10242.0,10242,PASS
+structure high confidence match rate >=70%,0.8358719000195274,>=0.70,PASS
+major mapping rate >=97%,0.9860378832259324,>=0.97,PASS
+candidate_count>=2 auto-confirmed 0,0.0,0,PASS
+campus conflict auto-confirmed 0,0.0,0,PASS
+split leakage 0,0.0,0,PASS
+all-null active feature 0,0.0,0,PASS

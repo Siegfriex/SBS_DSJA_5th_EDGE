@@ -1,0 +1,9 @@
+﻿check,actual,expected,status
+D06 shape 91x45,"[91, 45]","[91, 45]",PASS
+D07 shape 7x29,"[7, 29]","[7, 29]",PASS
+GOMS 7 major x 13 years complete,True,True,PASS
+occupation review_pending 0,0,0,PASS
+strict distribution sum fail 0,0,0,PASS
+ready_for_local1 true,True,True,PASS
+immutable_handoff true,True,True,PASS
+D07 handoff hash exact,f44c6f9e7a7539361dce301686144780e0ce588deb929b625ebe811674bb621f,f44c6f9e7a7539361dce301686144780e0ce588deb929b625ebe811674bb621f,PASS
