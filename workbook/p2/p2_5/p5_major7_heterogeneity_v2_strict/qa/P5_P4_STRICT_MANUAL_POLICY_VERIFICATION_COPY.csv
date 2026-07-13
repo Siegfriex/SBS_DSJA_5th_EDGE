@@ -1,0 +1,12 @@
+check,actual,expected,status,path
+strict_d08_shape,"[7592, 151]","[7592, 151]",PASS,
+manual_approved_p4_use_true_n,131,131,PASS,
+strict_target_sample_count__a_rate_pct,7592,7592,PASS,
+strict_target_sample_count__cd_rate_pct,7592,7592,PASS,
+strict_target_sample_count__f_rate_pct,7592,7592,PASS,
+strict_target_sample_count__graduate_school_progression_rate_pct,5674,5674,PASS,
+strict_target_sample_count__health_employment_rate_pct,5600,5600,PASS,
+strict_target_sample_count__selectivity_proxy_pct,3119,3119,PASS,
+manual_target_scope_policy_rows,32,32,PASS,
+human_required_decision_sheet_approved,13,13,PASS,workbook/p2/p2_4/source_eda/strict_clean_v1/human_required_decision_sheet_manual_completed.csv
+target_leakage_override_sheet_keep_blocked,16,16,PASS,workbook/p2/p2_4/source_eda/strict_clean_v1/target_leakage_override_sheet_manual_completed.csv

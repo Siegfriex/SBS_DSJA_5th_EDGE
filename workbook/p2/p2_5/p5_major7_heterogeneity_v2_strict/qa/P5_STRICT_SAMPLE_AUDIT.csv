@@ -1,0 +1,3 @@
+sample_id,row_n,expected_row_n,school_n,expected_school_n,split
+P4_JOINT_STRUCTURE_READY,5600,5600,185,185,"{'train': 4080, 'val': 871, 'test': 649}"
+P4_JOINT_SELECTIVITY_READY,2355,2355,130,130,"{'train': 1742, 'val': 360, 'test': 253}"

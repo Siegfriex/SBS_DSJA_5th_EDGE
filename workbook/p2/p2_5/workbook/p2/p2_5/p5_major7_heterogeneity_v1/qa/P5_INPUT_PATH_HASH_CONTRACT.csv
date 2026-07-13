@@ -1,0 +1,7 @@
+input_name,path,exists,shape,actual_sha256,expected_sha256,hash_match,expected_shape,shape_match
+d08_model_base,workbook/p2/p2_3/p4_handoff_candidate/shared/mart_department_model_base_2024.parquet,False,,,598b68b31b5358dfd23839d4c138cc64838d05876b7791980b376c0453f29962,False,"(10242, 151)",
+phase_sample_membership,workbook/p2/p2_4/p4_modeling_readiness_v4/data/P4_PHASE_SAMPLE_MEMBERSHIP_FINAL.parquet,False,,,,,,
+phase_sample_registry,workbook/p2/p2_4/p4_modeling_readiness_v4/artifacts/P4_PHASE_SAMPLE_REGISTRY_FINAL.csv,False,,,,,,
+column_registry,workbook/p2/p2_4/p4_modeling_readiness_v4/artifacts/department_model_column_registry_v4.csv,False,,,,,,
+feature_contract,workbook/p2/p2_4/p4_modeling_readiness_v4/artifacts/P4_PHASE_FEATURE_SET_FINAL.csv,False,,,,,,
+model_spec,workbook/p2/p2_4/p4_modeling_readiness_v4/artifacts/P4_PHASE_MODEL_SPEC_FINAL.csv,False,,,,,,

@@ -1,0 +1,52 @@
+{
+  "python": "3.12.3",
+  "platform": "Linux-6.18.33.2-microsoft-standard-WSL2-x86_64-with-glibc2.39",
+  "pandas": "3.0.3",
+  "numpy": "2.5.0",
+  "statsmodels": "0.14.6",
+  "working_directory": "/home/sieg/projects-wsl/SBS_dataScience",
+  "git_commit": "5b1a3d54266d881a839ad9a3cec750da66e94bc7",
+  "execution_timestamp_utc": "2026-07-13T06:12:57.912696+00:00",
+  "notebook_path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_5/p5_major7_heterogeneity_v2_strict/p2_g5_1_strict.ipynb",
+  "output_root": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_5/p5_major7_heterogeneity_v2_strict",
+  "P5_STRICT_INPUT_STATUS": "READY",
+  "P5_STRICT_STRUCTURE_STATUS": "READY",
+  "P5_STRICT_SELECTIVITY_STATUS": "READY",
+  "P5_RAW_A_STATUS": "READY",
+  "P5_RESIDUAL_STATUS": "PENDING_UPSTREAM_RESIDUAL",
+  "P5_CONTEXT_STATUS": "READY",
+  "P5_V1_COMPARISON_STATUS": "READY",
+  "P5_OVERALL_STATUS": "READY_WITH_WARNINGS",
+  "strict_d08_path": "workbook/p2/p2_4/source_eda/strict_clean_v1/mart_department_model_base_2024_strict_drop.parquet",
+  "strict_d08_shape": [
+    7592,
+    151
+  ],
+  "strict_d08_sha256": "5f56e375fd1c0474a5e55652859ae007e2f45becd6d3350ee4c82e21fab8df9b",
+  "structure_sample": {
+    "sample_id": "P4_JOINT_STRUCTURE_READY",
+    "row_n": 5600,
+    "expected_row_n": 5600,
+    "school_n": 185,
+    "expected_school_n": 185,
+    "split": {
+      "train": 4080,
+      "val": 871,
+      "test": 649
+    }
+  },
+  "selectivity_sample": {
+    "sample_id": "P4_JOINT_SELECTIVITY_READY",
+    "row_n": 2355,
+    "expected_row_n": 2355,
+    "school_n": 130,
+    "expected_school_n": 130,
+    "split": {
+      "train": 1742,
+      "val": 360,
+      "test": 253
+    }
+  },
+  "slope_rows": 84,
+  "model_failures": 0
+}

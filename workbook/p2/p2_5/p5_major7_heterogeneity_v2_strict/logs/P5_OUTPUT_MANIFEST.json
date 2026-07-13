@@ -1,0 +1,539 @@
+{
+  "created_at": "2026-07-13T06:13:14.177993+00:00",
+  "output_root": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_5/p5_major7_heterogeneity_v2_strict",
+  "notebook_path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_5/p5_major7_heterogeneity_v2_strict/p2_g5_1_strict.ipynb",
+  "lineage_inputs": [
+    {
+      "path": "workbook/p2/p2_4/source_eda/strict_clean_v1/mart_department_model_base_2024_strict_drop.parquet",
+      "shape": [
+        7592,
+        151
+      ],
+      "size_bytes": 1565423,
+      "sha256": "5f56e375fd1c0474a5e55652859ae007e2f45becd6d3350ee4c82e21fab8df9b",
+      "mtime": "2026-07-13T11:10:43.122172"
+    },
+    {
+      "path": "workbook/p2/p2_4/p4_modeling_readiness_v4/artifacts/P4_PHASE_SAMPLE_REGISTRY_FINAL.csv",
+      "shape": [
+        12,
+        12
+      ],
+      "size_bytes": 1667,
+      "sha256": "d518bab363399a31037590a2cb285f2a76e88318f5d25bf93ac365441f48e611",
+      "mtime": "2026-07-13T14:06:03.312332"
+    },
+    {
+      "path": "workbook/p2/p2_4/p4_modeling_readiness_v4/data/P4_PHASE_SAMPLE_MEMBERSHIP_FINAL.parquet",
+      "shape": [
+        7592,
+        21
+      ],
+      "size_bytes": 198537,
+      "sha256": "c6504fd04c918ce33439462f7b277aa8ae4363f185ef93210fcc761f01e9fb46",
+      "mtime": "2026-07-13T14:06:03.317337"
+    },
+    {
+      "path": "workbook/p2/p2_4/source_eda/human_handoff_packet/03_MODEL_INPUT/manual_approved_feature_registry.csv",
+      "shape": [
+        198,
+        11
+      ],
+      "size_bytes": 29026,
+      "sha256": "2cdb7797c4619c625fc6a171710970b7691446f4d62cae9accd2ab5c68f15051",
+      "mtime": "2026-07-13T13:29:07.567287"
+    },
+    {
+      "path": "workbook/p2/p2_4/p4_modeling_readiness_v4/qa/P4_TARGET_SPECIFIC_DENYLIST_FINAL.csv",
+      "shape": [
+        16,
+        3
+      ],
+      "size_bytes": 1091,
+      "sha256": "97435cb3a6b20b490ce2ce7e65160414517aee5b472f8ef8040d91de9f868895",
+      "mtime": "2026-07-13T14:06:03.324084"
+    }
+  ],
+  "outputs": [
+    {
+      "path": "workbook/p2/p2_5/p5_major7_heterogeneity_v2_strict/artifacts/P5_EMPLOYMENT_PROGRESSION_AME_DIFFERENCE.csv",
+      "shape": [
+        7,
+        10
+      ],
+      "size_bytes": 1275,
+      "sha256": "773b64b49d64c6f919d715a8aac42b229bdc3780f73c083471a69ff01fb17a44",
+      "mtime": "2026-07-13T15:13:04.509853"
+    },
+    {
+      "path": "workbook/p2/p2_5/p5_major7_heterogeneity_v2_strict/artifacts/P5_MAJOR7_CONTEXT_PROFILE.csv",
+      "shape": [
+        7,
+        11
+      ],
+      "size_bytes": 789,
+      "sha256": "bea057f64d2daff1328374c90c5dfb56a3feca3bacf71a16b9dcda9628f5dd5a",
+      "mtime": "2026-07-13T15:13:04.617465"
+    },
+    {
+      "path": "workbook/p2/p2_5/p5_major7_heterogeneity_v2_strict/artifacts/P5_MAJOR7_SLOPE_ESTIMATES.csv",
+      "shape": [
+        84,
+        28
+      ],
+      "size_bytes": 57915,
+      "sha256": "64205194868185d837ac25c704589d79902d22bb0cb28d191c8ba496677064b7",
+      "mtime": "2026-07-13T15:13:04.282400"
+    },
+    {
+      "path": "workbook/p2/p2_5/p5_major7_heterogeneity_v2_strict/artifacts/P5_MODEL_SPEC_REGISTRY.csv",
+      "shape": [
+        42,
+        7
+      ],
+      "size_bytes": 3658,
+      "sha256": "796076ae29040efec62f65273705674db6cc57f160c6cafbc7e3992d225ec5e9",
+      "mtime": "2026-07-13T15:13:04.280872"
+    },
+    {
+      "path": "workbook/p2/p2_5/p5_major7_heterogeneity_v2_strict/artifacts/P5_RAW_A_PRIMARY_SUMMARY.csv",
+      "shape": [
+        2,
+        5
+      ],
+      "size_bytes": 139,
+      "sha256": "7f15e7daa6ad285dfe51a425a2979ce6284d22440d53646bb1712284c72dd6da",
+      "mtime": "2026-07-13T15:13:09.558511"
+    },
+    {
+      "path": "workbook/p2/p2_5/p5_major7_heterogeneity_v2_strict/artifacts/P5_SLOPE_CONTEXT_DESCRIPTIVE.csv",
+      "shape": [
+        10,
+        8
+      ],
+      "size_bytes": 1375,
+      "sha256": "d9b3cbdde39fc91f7aa5d95c430d675f9d444a343d1fa55e39a0e17b3fa79904",
+      "mtime": "2026-07-13T15:13:05.689448"
+    },
+    {
+      "path": "workbook/p2/p2_5/p5_major7_heterogeneity_v2_strict/artifacts/P5_SLOPE_CONTEXT_MERGED.csv",
+      "shape": [
+        14,
+        15
+      ],
+      "size_bytes": 2447,
+      "sha256": "9376c7164bea8fdd304d63bed94376ec329b0f12d2fe4de0c5f6e47bae8786ae",
+      "mtime": "2026-07-13T15:13:05.688275"
+    },
+    {
+      "path": "workbook/p2/p2_5/p5_major7_heterogeneity_v2_strict/artifacts/P5_STRICT_INSIGHT_SUMMARY.csv",
+      "shape": [
+        14,
+        15
+      ],
+      "size_bytes": 2890,
+      "sha256": "e10446841981473ae64a85ad7c29db465235a1e18798f4ce2598cef6efb2c961",
+      "mtime": "2026-07-13T15:13:09.701032"
+    },
+    {
+      "path": "workbook/p2/p2_5/p5_major7_heterogeneity_v2_strict/artifacts/P5_STRICT_INSIGHT_V1_SENSITIVITY_PRIMARY.csv",
+      "shape": [
+        14,
+        21
+      ],
+      "size_bytes": 4485,
+      "sha256": "95a1a6252d83b68a73d25168b5bc03fb6ef5c81ff2817e9cbe6f86bf208232f6",
+      "mtime": "2026-07-13T15:13:10.217303"
+    },
+    {
+      "path": "workbook/p2/p2_5/p5_major7_heterogeneity_v2_strict/artifacts/P5_TABLE1_EMPLOYMENT_AME.csv",
+      "shape": [
+        7,
+        28
+      ],
+      "size_bytes": 4832,
+      "sha256": "5c0c1487dac18cc35e5f5097ba889b6c3408360641e3531e8771ffb43fe40559",
+      "mtime": "2026-07-13T15:13:09.545981"
+    },
+    {
+      "path": "workbook/p2/p2_5/p5_major7_heterogeneity_v2_strict/artifacts/P5_TABLE2_PROGRESSION_AME.csv",
+      "shape": [
+        7,
+        28
+      ],
+      "size_bytes": 5046,
+      "sha256": "444ade8873dc2eabb2e186025d791c13e56ce94b6eefb88e9a5d53343a2c0b3d",
+      "mtime": "2026-07-13T15:13:09.549080"
+    },
+    {
+      "path": "workbook/p2/p2_5/p5_major7_heterogeneity_v2_strict/artifacts/P5_TABLE3_PROGRESSION_MINUS_EMPLOYMENT_AME.csv",
+      "shape": [
+        7,
+        10
+      ],
+      "size_bytes": 1275,
+      "sha256": "773b64b49d64c6f919d715a8aac42b229bdc3780f73c083471a69ff01fb17a44",
+      "mtime": "2026-07-13T15:13:09.549993"
+    },
+    {
+      "path": "workbook/p2/p2_5/p5_major7_heterogeneity_v2_strict/artifacts/P5_TABLE4_CONTEXT_PROFILE.csv",
+      "shape": [
+        7,
+        11
+      ],
+      "size_bytes": 789,
+      "sha256": "bea057f64d2daff1328374c90c5dfb56a3feca3bacf71a16b9dcda9628f5dd5a",
+      "mtime": "2026-07-13T15:13:09.550596"
+    },
+    {
+      "path": "workbook/p2/p2_5/p5_major7_heterogeneity_v2_strict/artifacts/P5_V1_VS_STRICT_SENSITIVITY.csv",
+      "shape": [
+        84,
+        17
+      ],
+      "size_bytes": 19265,
+      "sha256": "7973e7502051924273042e5d9bcc85718bebe5eec992565fb0a91f917e09693a",
+      "mtime": "2026-07-13T15:13:09.609222"
+    },
+    {
+      "path": "workbook/p2/p2_5/p5_major7_heterogeneity_v2_strict/data/P5_SELECTIVITY_ANALYSIS_FRAME.parquet",
+      "shape": [
+        2355,
+        178
+      ],
+      "size_bytes": 704494,
+      "sha256": "6e405433d3a3accae622cc3a05dbfdcb59b522e572f60289b4cab3aadda7603f",
+      "mtime": "2026-07-13T15:13:04.440191"
+    },
+    {
+      "path": "workbook/p2/p2_5/p5_major7_heterogeneity_v2_strict/data/P5_STRUCTURE_ANALYSIS_FRAME.parquet",
+      "shape": [
+        5600,
+        178
+      ],
+      "size_bytes": 1460428,
+      "sha256": "e63b8826bc1ced32c6678c699e0bc57c542b7c64d0407414683751e9f07ea73c",
+      "mtime": "2026-07-13T15:13:04.375985"
+    },
+    {
+      "path": "workbook/p2/p2_5/p5_major7_heterogeneity_v2_strict/figures/P5_CONTEXT_GRAD_SCHOOL_PROGRESSION_RAW_A_ctx24_income_400plus_pct.png",
+      "shape": null,
+      "size_bytes": 46541,
+      "sha256": "d5ee016e99811dca7d356fbfdf61393157ab811986ac8cf58272d5740690a150",
+      "mtime": "2026-07-13T15:13:05.205826"
+    },
+    {
+      "path": "workbook/p2/p2_5/p5_major7_heterogeneity_v2_strict/figures/P5_CONTEXT_GRAD_SCHOOL_PROGRESSION_RAW_A_ctx24_large_mid_company_pct.png",
+      "shape": null,
+      "size_bytes": 46964,
+      "sha256": "0481dd12d9f0b8823588c028ceedbd99ee635fe8998492e4a387a26eacfeb96e",
+      "mtime": "2026-07-13T15:13:05.279462"
+    },
+    {
+      "path": "workbook/p2/p2_5/p5_major7_heterogeneity_v2_strict/figures/P5_CONTEXT_GRAD_SCHOOL_PROGRESSION_RAW_A_goms_recent_firm_300plus_pct.png",
+      "shape": null,
+      "size_bytes": 47428,
+      "sha256": "8854b416b79183cd2fbccba3c9d9bb82126a74d7e2907a1a40706d43cd1c20d0",
+      "mtime": "2026-07-13T15:13:05.369462"
+    },
+    {
+      "path": "workbook/p2/p2_5/p5_major7_heterogeneity_v2_strict/figures/P5_CONTEXT_GRAD_SCHOOL_PROGRESSION_RAW_A_goms_recent_permanent_pct.png",
+      "shape": null,
+      "size_bytes": 46572,
+      "sha256": "6e8b975e84a25ebe2eca776005d6af8378906eb07df96a98e88d66df82b01e2e",
+      "mtime": "2026-07-13T15:13:05.441462"
+    },
+    {
+      "path": "workbook/p2/p2_5/p5_major7_heterogeneity_v2_strict/figures/P5_CONTEXT_GRAD_SCHOOL_PROGRESSION_RAW_A_goms_recent_professional_highskill_pct.png",
+      "shape": null,
+      "size_bytes": 48738,
+      "sha256": "9565fae59fb39b9369d28af2868005c425c001b1d8bee8072a51a23cb459545a",
+      "mtime": "2026-07-13T15:13:05.679062"
+    },
+    {
+      "path": "workbook/p2/p2_5/p5_major7_heterogeneity_v2_strict/figures/P5_CONTEXT_HEALTH_EMPLOYMENT_RAW_A_ctx24_income_400plus_pct.png",
+      "shape": null,
+      "size_bytes": 47005,
+      "sha256": "58ac957be57cc4e9e4ef69aa8ed4e34e3f5b254235459119d92e09fbb7a32e82",
+      "mtime": "2026-07-13T15:13:04.707062"
+    },
+    {
+      "path": "workbook/p2/p2_5/p5_major7_heterogeneity_v2_strict/figures/P5_CONTEXT_HEALTH_EMPLOYMENT_RAW_A_ctx24_large_mid_company_pct.png",
+      "shape": null,
+      "size_bytes": 48685,
+      "sha256": "de706755ee913e1c1ea5d2a7f7be8dc6049fc75334270ff9c7465ddf27164a90",
+      "mtime": "2026-07-13T15:13:04.804261"
+    },
+    {
+      "path": "workbook/p2/p2_5/p5_major7_heterogeneity_v2_strict/figures/P5_CONTEXT_HEALTH_EMPLOYMENT_RAW_A_goms_recent_firm_300plus_pct.png",
+      "shape": null,
+      "size_bytes": 48472,
+      "sha256": "239eaf14b8ff540a3931ba21797937fd224adc6721a3398e39b483c0740ecd55",
+      "mtime": "2026-07-13T15:13:04.905061"
+    },
+    {
+      "path": "workbook/p2/p2_5/p5_major7_heterogeneity_v2_strict/figures/P5_CONTEXT_HEALTH_EMPLOYMENT_RAW_A_goms_recent_permanent_pct.png",
+      "shape": null,
+      "size_bytes": 46842,
+      "sha256": "2564520676e072d1dd5d927671cfcabb1dab209248e5ea82ecd2047ad5386e3a",
+      "mtime": "2026-07-13T15:13:05.016662"
+    },
+    {
+      "path": "workbook/p2/p2_5/p5_major7_heterogeneity_v2_strict/figures/P5_CONTEXT_HEALTH_EMPLOYMENT_RAW_A_goms_recent_professional_highskill_pct.png",
+      "shape": null,
+      "size_bytes": 50458,
+      "sha256": "e3b2cf6a64d836623607d6645a8305be1647d4966c31d6cfab39793acbefe67f",
+      "mtime": "2026-07-13T15:13:05.121062"
+    },
+    {
+      "path": "workbook/p2/p2_5/p5_major7_heterogeneity_v2_strict/figures/P5_FOREST_GRAD_SCHOOL_PROGRESSION_RAW_A.png",
+      "shape": null,
+      "size_bytes": 35480,
+      "sha256": "229dfafd9ab3102d9bdf720d3ce48551db7eb278a70c98685a861df1795e0778",
+      "mtime": "2026-07-13T15:13:09.534840"
+    },
+    {
+      "path": "workbook/p2/p2_5/p5_major7_heterogeneity_v2_strict/figures/P5_FOREST_HEALTH_EMPLOYMENT_RAW_A.png",
+      "shape": null,
+      "size_bytes": 34365,
+      "sha256": "fad73c94be3737143d711c69c4bf94999e8db8b795dcb7ded8e6653d99c5198c",
+      "mtime": "2026-07-13T15:13:05.848262"
+    },
+    {
+      "path": "workbook/p2/p2_5/p5_major7_heterogeneity_v2_strict/figures/P5_STRICT_INSIGHT_AME_HEATMAP_RAW_A.png",
+      "shape": null,
+      "size_bytes": 79357,
+      "sha256": "e3e0d2e6d4c6c84d239df22ecca542177438427f9c30d2fdf5e9fd7f25306f8e",
+      "mtime": "2026-07-13T15:13:09.920040"
+    },
+    {
+      "path": "workbook/p2/p2_5/p5_major7_heterogeneity_v2_strict/figures/P5_STRICT_INSIGHT_CONTEXT_RHO_HEATMAP_RAW_A.png",
+      "shape": null,
+      "size_bytes": 95275,
+      "sha256": "719fffdc13fdcf9cfa9272d0a36167925a7dea180d60e6f548242d5c42fc7e70",
+      "mtime": "2026-07-13T15:13:11.648040"
+    },
+    {
+      "path": "workbook/p2/p2_5/p5_major7_heterogeneity_v2_strict/figures/P5_STRICT_INSIGHT_MODEL_DIAGNOSTIC_DASHBOARD.png",
+      "shape": null,
+      "size_bytes": 87221,
+      "sha256": "f0151bba2a4db442defe2359913cb5d2b8d8e63cb5646f92db0a0898426c3b1c",
+      "mtime": "2026-07-13T15:13:11.336608"
+    },
+    {
+      "path": "workbook/p2/p2_5/p5_major7_heterogeneity_v2_strict/figures/P5_STRICT_INSIGHT_PROGRESSION_MINUS_EMPLOYMENT_RAW_A.png",
+      "shape": null,
+      "size_bytes": 54747,
+      "sha256": "3b88a2f0c763468b30c554b79e999d17b2b2fcfb97138d74c5e7f2c9ba35f58a",
+      "mtime": "2026-07-13T15:13:10.121640"
+    },
+    {
+      "path": "workbook/p2/p2_5/p5_major7_heterogeneity_v2_strict/figures/P5_STRICT_INSIGHT_STRUCTURE_SELECTIVITY_STABILITY_RAW_A.png",
+      "shape": null,
+      "size_bytes": 108671,
+      "sha256": "9b53544ada70cc2aea46732324a92b77d287c8ff155c22718427b67dcb9ab485",
+      "mtime": "2026-07-13T15:13:10.838040"
+    },
+    {
+      "path": "workbook/p2/p2_5/p5_major7_heterogeneity_v2_strict/figures/P5_STRICT_INSIGHT_V1_SENSITIVITY_RAW_A.png",
+      "shape": null,
+      "size_bytes": 87137,
+      "sha256": "9f04e7ff2a2f6022fc9a928d616ab8a55a99369675b6f4e7e996b66281bd501e",
+      "mtime": "2026-07-13T15:13:10.485240"
+    },
+    {
+      "path": "workbook/p2/p2_5/p5_major7_heterogeneity_v2_strict/figures/P5_STRICT_MODELING_VISUAL_BOARD.png",
+      "shape": null,
+      "size_bytes": 657432,
+      "sha256": "d8bc6461d44eda44504d3704fa91008f05d22955041976533acadd11ceba3c26",
+      "mtime": "2026-07-13T15:13:13.225452"
+    },
+    {
+      "path": "workbook/p2/p2_5/p5_major7_heterogeneity_v2_strict/p2_g5_1_strict.ipynb",
+      "shape": null,
+      "size_bytes": 983286,
+      "sha256": "3ab98db2758cd982460295bf8616ed577d4bb0a352a2f3202229523a5a258c77",
+      "mtime": "2026-07-13T15:10:04.650934"
+    },
+    {
+      "path": "workbook/p2/p2_5/p5_major7_heterogeneity_v2_strict/qa/P5_CELL_ELIGIBILITY.csv",
+      "shape": [
+        42,
+        14
+      ],
+      "size_bytes": 5390,
+      "sha256": "cf5814a6696ddf0d594a87bd3b01812d60c43fb1e8e4ac82fb1301b7bcf75f51",
+      "mtime": "2026-07-13T15:13:04.279924"
+    },
+    {
+      "path": "workbook/p2/p2_5/p5_major7_heterogeneity_v2_strict/qa/P5_CONTEXT_GRAIN_AUDIT.csv",
+      "shape": [
+        35,
+        5
+      ],
+      "size_bytes": 1706,
+      "sha256": "b7c63d0a3f5df4ded0eb34628027f2dd227496dadc701dc31921cdf06d7aa339",
+      "mtime": "2026-07-13T15:13:04.616842"
+    },
+    {
+      "path": "workbook/p2/p2_5/p5_major7_heterogeneity_v2_strict/qa/P5_CONTEXT_UNKNOWN_MAJOR_QA.csv",
+      "shape": [
+        0,
+        11
+      ],
+      "size_bytes": 358,
+      "sha256": "3fd16ad67bb0f6f79b3b2c0eb1b5b3e360460204293037e1df92690c621edca9",
+      "mtime": "2026-07-13T15:13:04.617823"
+    },
+    {
+      "path": "workbook/p2/p2_5/p5_major7_heterogeneity_v2_strict/qa/P5_FRACTIONAL_OLS_SIGN_DISAGREEMENT.csv",
+      "shape": [
+        42,
+        10
+      ],
+      "size_bytes": 5668,
+      "sha256": "74600c972cb03764f7cd0dbbb378505b78b4d7991954963549f49ad62844dbd7",
+      "mtime": "2026-07-13T15:13:04.490783"
+    },
+    {
+      "path": "workbook/p2/p2_5/p5_major7_heterogeneity_v2_strict/qa/P5_MODEL_DIAGNOSTICS.csv",
+      "shape": [
+        84,
+        7
+      ],
+      "size_bytes": 5977,
+      "sha256": "a4ca64cd175cc9a2d73138aff7570e2e38b6fca58be0b1c5415518814f6ac63f",
+      "mtime": "2026-07-13T15:13:04.476190"
+    },
+    {
+      "path": "workbook/p2/p2_5/p5_major7_heterogeneity_v2_strict/qa/P5_MODEL_FAILURES.csv",
+      "shape": [
+        0,
+        7
+      ],
+      "size_bytes": 71,
+      "sha256": "5d05c27787ad706ba3871ef2043725c3d14d584f017dcb842c4a06244f5eed97",
+      "mtime": "2026-07-13T15:13:04.282837"
+    },
+    {
+      "path": "workbook/p2/p2_5/p5_major7_heterogeneity_v2_strict/qa/P5_MODEL_GRID_AUDIT.csv",
+      "shape": [
+        42,
+        7
+      ],
+      "size_bytes": 3658,
+      "sha256": "796076ae29040efec62f65273705674db6cc57f160c6cafbc7e3992d225ec5e9",
+      "mtime": "2026-07-13T15:13:04.280493"
+    },
+    {
+      "path": "workbook/p2/p2_5/p5_major7_heterogeneity_v2_strict/qa/P5_P3_RESIDUAL_GATE.csv",
+      "shape": [
+        1,
+        2
+      ],
+      "size_bytes": 105,
+      "sha256": "43cbac3322e3589bd72aaff1c8de5d6c6c257cb4105bb4b03be2e728f469a1c8",
+      "mtime": "2026-07-13T15:12:58.629060"
+    },
+    {
+      "path": "workbook/p2/p2_5/p5_major7_heterogeneity_v2_strict/qa/P5_P4_STRICT_MANUAL_POLICY_VERIFICATION_COPY.csv",
+      "shape": [
+        11,
+        5
+      ],
+      "size_bytes": 851,
+      "sha256": "dad7e521e318319c9e0a4e4beab21ed1b49bb261d93532f9928bdd9f318ac375",
+      "mtime": "2026-07-13T15:12:58.124648"
+    },
+    {
+      "path": "workbook/p2/p2_5/p5_major7_heterogeneity_v2_strict/qa/P5_STRICT_INPUT_CONTRACT.csv",
+      "shape": [
+        11,
+        5
+      ],
+      "size_bytes": 2117,
+      "sha256": "d6e3b3eb15c0cbcbbbf7987737a18bbd2afd6e630565efeae66e6e8d21fac638",
+      "mtime": "2026-07-13T15:12:58.123443"
+    },
+    {
+      "path": "workbook/p2/p2_5/p5_major7_heterogeneity_v2_strict/qa/P5_STRICT_SAMPLE_AUDIT.csv",
+      "shape": [
+        2,
+        6
+      ],
+      "size_bytes": 238,
+      "sha256": "ad53f1636087e4858d3536739f84651decaacfc8ef81f8426af85698e5b60c9a",
+      "mtime": "2026-07-13T15:12:58.280133"
+    },
+    {
+      "path": "workbook/p2/p2_5/p5_major7_heterogeneity_v2_strict/qa/P5_STRICT_SIGNAL_DERIVATION_AUDIT.csv",
+      "shape": [
+        10,
+        5
+      ],
+      "size_bytes": 719,
+      "sha256": "2215d0efc8b870b5c5620f88658adcf92bc773b2794802091bb0bdc3793068f6",
+      "mtime": "2026-07-13T15:12:58.664865"
+    },
+    {
+      "path": "workbook/p2/p2_5/p5_major7_heterogeneity_v2_strict/qa/P5_STRUCTURE_SELECTIVITY_STABILITY.csv",
+      "shape": [
+        14,
+        10
+      ],
+      "size_bytes": 1718,
+      "sha256": "0cb84eb8242c518d616d70de489d7cd9a406286eb9a030a89e57c628a4185d20",
+      "mtime": "2026-07-13T15:13:04.533772"
+    },
+    {
+      "path": "workbook/p2/p2_5/p5_major7_heterogeneity_v2_strict/reports/P5_2024_MAJOR7_HETEROGENEITY_V2_STRICT_REPORT.md",
+      "shape": null,
+      "size_bytes": 5577,
+      "sha256": "45e60516bea17d0e58812d567533e4f408def3ad0a2819a30602eaf81a60633e",
+      "mtime": "2026-07-13T15:13:14.132329"
+    },
+    {
+      "path": "workbook/p2/p2_5/p5_major7_heterogeneity_v2_strict/reports/P5_2024_MAJOR7_HETEROGENEITY_V2_STRICT_STATUS.json",
+      "shape": null,
+      "size_bytes": 1732,
+      "sha256": "419d18bb0b47f44e52b81ee25d9973b7a3e98cb3915f957dd7a02b5ffa7cf54e",
+      "mtime": "2026-07-13T15:13:14.176514"
+    },
+    {
+      "path": "workbook/p2/p2_5/p5_major7_heterogeneity_v2_strict/reports/P5_STRICT_MODELING_VISUAL_INSIGHT_NOTES.md",
+      "shape": null,
+      "size_bytes": 2701,
+      "sha256": "1975b35d7635c62fa98e3ea46db95faf7493f15d8377919ced9e3b4acefc3b4b",
+      "mtime": "2026-07-13T15:13:14.061328"
+    },
+    {
+      "path": "workbook/p2/p2_5/p5_major7_heterogeneity_v2_strict/visualization_cells.py",
+      "shape": null,
+      "size_bytes": 926,
+      "sha256": "e0b1b2d19cc7c7467100633148c34d8a48e16143b805769b6cff00e3e38e01cb",
+      "mtime": "2026-07-13T15:09:25.421109"
+    },
+    {
+      "path": "workbook/p2/p2_5/p5_major7_heterogeneity_v2_strict/visualization_checklist.md",
+      "shape": null,
+      "size_bytes": 545,
+      "sha256": "426d5371e7984ecb666e4b8b17843ce89f1149a68d63e70cc24d2905cebf1c87",
+      "mtime": "2026-07-13T15:09:25.421179"
+    },
+    {
+      "path": "workbook/p2/p2_5/p5_major7_heterogeneity_v2_strict/visualization_spec.md",
+      "shape": null,
+      "size_bytes": 4752,
+      "sha256": "c93bb1d643522bbbcf8bebd1267d6b23333cdca0720efcbb350406ae37833fb6",
+      "mtime": "2026-07-13T15:09:25.420967"
+    }
+  ],
+  "required_hashes": {
+    "strict_d08_sha256": "5f56e375fd1c0474a5e55652859ae007e2f45becd6d3350ee4c82e21fab8df9b",
+    "sample_registry_sha256": "d518bab363399a31037590a2cb285f2a76e88318f5d25bf93ac365441f48e611",
+    "structure_frame_sha256": "e63b8826bc1ced32c6678c699e0bc57c542b7c64d0407414683751e9f07ea73c",
+    "selectivity_frame_sha256": "6e405433d3a3accae622cc3a05dbfdcb59b522e572f60289b4cab3aadda7603f",
+    "result_table_sha256": "64205194868185d837ac25c704589d79902d22bb0cb28d191c8ba496677064b7",
+    "notebook_sha256": "3ab98db2758cd982460295bf8616ed577d4bb0a352a2f3202229523a5a258c77"
+  }
+}

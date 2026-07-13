@@ -1,0 +1,9 @@
+check,value
+D08 rows,7592
+membership rows,7592
+joined rows,7592
+D08 key unique,True
+membership key unique,True
+outcome_row_id null,0
+split values,"{'train': 5534, 'val': 1168, 'test': 890}"
+major_group_7 values,"{'ENG': 1940, 'SOC': 1559, 'ART': 1107, 'NAT': 950, 'HUM': 876, 'EDU': 661, 'MED': 499}"

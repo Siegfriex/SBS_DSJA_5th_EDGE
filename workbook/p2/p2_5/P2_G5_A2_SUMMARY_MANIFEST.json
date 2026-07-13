@@ -1,0 +1,183 @@
+{
+  "created_at": "2026-07-13T07:12:28.111590+00:00",
+  "notebook": {
+    "label": "P2_G5_A2 notebook",
+    "path": "workbook/p2/p2_5/P2_G5_A2.ipynb",
+    "exists": true,
+    "sha256": "da53bac33b82735c420a4f001695c6385791ef355f38534878a2ecd8eb0828dc",
+    "size_bytes": 213944
+  },
+  "report": {
+    "label": "P2_G5_A2 summary report",
+    "path": "workbook/p2/p2_5/P2_G5_A2_SUMMARY_REPORT.md",
+    "exists": true,
+    "sha256": "23c6853093c2e81136a60e07b3ebc1778f2c4f283ecf2a0b6247a4fca91164d5",
+    "size_bytes": 5272
+  },
+  "visual_insight_notes": {
+    "label": "P2_G5_A2 visual insight notes",
+    "path": "workbook/p2/p2_5/P2_G5_A2_visuals/P2_G5_A2_VISUAL_INSIGHT_NOTES.md",
+    "exists": true,
+    "sha256": "c8b249c7dc4cbd298708d57998f0e25884abe4d0cc4a7306f5a191d9d499f9df",
+    "size_bytes": 2489
+  },
+  "figures": [
+    {
+      "label": "A2_00_environment_flow.png",
+      "path": "workbook/p2/p2_5/P2_G5_A2_visuals/figures/A2_00_environment_flow.png",
+      "exists": true,
+      "sha256": "ae8e5fd1011043b5e7fdb01010a1d62c12e42cbbfb18bb9473e0463abc4e6f8b",
+      "size_bytes": 46363
+    },
+    {
+      "label": "A2_01_status_board.png",
+      "path": "workbook/p2/p2_5/P2_G5_A2_visuals/figures/A2_01_status_board.png",
+      "exists": true,
+      "sha256": "65ef6c04e697bcd3f37a9914bc3eb298a9bcf9e6c37154a47a6b0c603ec0242f",
+      "size_bytes": 164829
+    },
+    {
+      "label": "A2_02_lineage_artifact_sizes.png",
+      "path": "workbook/p2/p2_5/P2_G5_A2_visuals/figures/A2_02_lineage_artifact_sizes.png",
+      "exists": true,
+      "sha256": "e60b4c1ce54f9c240a03b540e6fc74231372b9e54384a66e16ca32cd08ef6b14",
+      "size_bytes": 58563
+    },
+    {
+      "label": "A2_03_sample_feature_contract.png",
+      "path": "workbook/p2/p2_5/P2_G5_A2_visuals/figures/A2_03_sample_feature_contract.png",
+      "exists": true,
+      "sha256": "0201f4f08fa6a330d5603ff617ab12a3d2dec85cffd0772a25e7f47b86f3d83f",
+      "size_bytes": 98823
+    },
+    {
+      "label": "A2_04_p2_nested_ols_performance.png",
+      "path": "workbook/p2/p2_5/P2_G5_A2_visuals/figures/A2_04_p2_nested_ols_performance.png",
+      "exists": true,
+      "sha256": "9b78f75693fd29b3ec4838ba64ca82c5da3f19a9650ad523df5d8b54b627c214",
+      "size_bytes": 147022
+    },
+    {
+      "label": "A2_05_p2_coefficients_forest.png",
+      "path": "workbook/p2/p2_5/P2_G5_A2_visuals/figures/A2_05_p2_coefficients_forest.png",
+      "exists": true,
+      "sha256": "a5f954c736a11072cdaaedc8c5218389133404596dd2db6a2643b288d40fbcc8",
+      "size_bytes": 128067
+    },
+    {
+      "label": "A2_06_p2_nonlinearity_variance_tests.png",
+      "path": "workbook/p2/p2_5/P2_G5_A2_visuals/figures/A2_06_p2_nonlinearity_variance_tests.png",
+      "exists": true,
+      "sha256": "58a8c5648d50de45a853b9e847f89e9c08b2375958324d431a912ad84a173904",
+      "size_bytes": 106504
+    },
+    {
+      "label": "A2_07_selectivity_bias_audit.png",
+      "path": "workbook/p2/p2_5/P2_G5_A2_visuals/figures/A2_07_selectivity_bias_audit.png",
+      "exists": true,
+      "sha256": "8a80021c1e2b622ddbeb41e63868252bfe7e7301bf8144d15dd0b69b1f324be8",
+      "size_bytes": 88494
+    },
+    {
+      "label": "A2_08_p5_strict_heterogeneity.png",
+      "path": "workbook/p2/p2_5/P2_G5_A2_visuals/figures/A2_08_p5_strict_heterogeneity.png",
+      "exists": true,
+      "sha256": "090614a3b90596ab8b1ea2a57e68a5743ad43e5d235c7ceabfe089b41c267143",
+      "size_bytes": 125567
+    },
+    {
+      "label": "A2_09_p5_context_profile.png",
+      "path": "workbook/p2/p2_5/P2_G5_A2_visuals/figures/A2_09_p5_context_profile.png",
+      "exists": true,
+      "sha256": "39e5b5c92971117f693e5a760af62308e7d2203b3271bed5606be300596c1a0d",
+      "size_bytes": 99020
+    },
+    {
+      "label": "A2_10_final_judgement_board.png",
+      "path": "workbook/p2/p2_5/P2_G5_A2_visuals/figures/A2_10_final_judgement_board.png",
+      "exists": true,
+      "sha256": "b57d570885ae282d164b640a5fb6f2307039bf76006279c0ac444e6bc2f4143a",
+      "size_bytes": 99119
+    }
+  ],
+  "inputs": [
+    {
+      "label": "P2 executed notebook",
+      "path": "workbook/p2/p2_4/p2_grade_formation_v1_strict/p2_grade_formation_strict.ipynb",
+      "exists": true,
+      "sha256": "1e2588b6c0d41601b513f6a891acbe2079a97e40edcf09c771c760685b161bdd",
+      "size_bytes": 303969.0,
+      "strict_d08_sha_from_status": "5f56e375fd1c0474a5e55652859ae007e2f45becd6d3350ee4c82e21fab8df9b",
+      "size_mb": 0.2898874282836914
+    },
+    {
+      "label": "P2 output manifest",
+      "path": "workbook/p2/p2_4/p2_grade_formation_v1_strict/logs/P2_OUTPUT_MANIFEST.json",
+      "exists": true,
+      "sha256": "052eeb40639fe60a23aadc3d9e7fe7c4e530baa9edcd21aa3cdc1e7e29db1aa3",
+      "size_bytes": 17589.0,
+      "strict_d08_sha_from_status": "",
+      "size_mb": 0.01677417755126953
+    },
+    {
+      "label": "P2 to P3 handoff",
+      "path": "workbook/p2/p2_4/p2_grade_formation_v1_strict/artifacts/P2_TO_P3_FEATURE_MATRIX_SCHEMA.json",
+      "exists": true,
+      "sha256": "2bbc7d64784b7b530d57bb6a2096d14cb11c5879f41a5208f9ff3b02f4bdddcb",
+      "size_bytes": 2607.0,
+      "strict_d08_sha_from_status": "",
+      "size_mb": 0.0024862289428710938
+    },
+    {
+      "label": "P5 strict notebook",
+      "path": "workbook/p2/p2_5/p5_major7_heterogeneity_v2_strict/p2_g5_1_strict.ipynb",
+      "exists": false,
+      "sha256": NaN,
+      "size_bytes": NaN,
+      "strict_d08_sha_from_status": "5f56e375fd1c0474a5e55652859ae007e2f45becd6d3350ee4c82e21fab8df9b",
+      "size_mb": 0.0
+    },
+    {
+      "label": "P5 output manifest",
+      "path": "workbook/p2/p2_5/p5_major7_heterogeneity_v2_strict/logs/P5_OUTPUT_MANIFEST.json",
+      "exists": true,
+      "sha256": "7c059dce1bf5358778cf36e82566bbb2eafd23cf6052dabb7f404dd89ba6088f",
+      "size_bytes": 20139.0,
+      "strict_d08_sha_from_status": "",
+      "size_mb": 0.01920604705810547
+    },
+    {
+      "label": "P5 slope estimates",
+      "path": "workbook/p2/p2_5/p5_major7_heterogeneity_v2_strict/artifacts/P5_MAJOR7_SLOPE_ESTIMATES.csv",
+      "exists": true,
+      "sha256": "64205194868185d837ac25c704589d79902d22bb0cb28d191c8ba496677064b7",
+      "size_bytes": 57915.0,
+      "strict_d08_sha_from_status": "",
+      "size_mb": 0.05523204803466797
+    }
+  ],
+  "p2_status": {
+    "P2_INPUT_STATUS": "READY",
+    "P2_SAMPLE_STATUS": "READY",
+    "P2_FEATURE_CONTRACT_STATUS": "READY_WITH_WARNINGS",
+    "P2_S_OLS_STATUS": "READY",
+    "P2_Q_OLS_STATUS": "BLOCKED_FEATURE_CONTRACT",
+    "P2_GAM_STATUS": "READY_WITH_WARNINGS",
+    "P2_MIXEDLM_STATUS": "MODEL_CONVERGENCE_WARNING",
+    "P2_SCHOOL_FE_STATUS": "READY",
+    "P2_FRACTIONAL_STATUS": "READY",
+    "P2_TEST_STATUS": "READY",
+    "P2_TO_P3_HANDOFF_STATUS": "READY",
+    "P2_OVERALL_STATUS": "READY_WITH_WARNINGS"
+  },
+  "p5_status": {
+    "P5_STRICT_INPUT_STATUS": "READY",
+    "P5_STRICT_STRUCTURE_STATUS": "READY",
+    "P5_STRICT_SELECTIVITY_STATUS": "READY",
+    "P5_RAW_A_STATUS": "READY",
+    "P5_RESIDUAL_STATUS": "PENDING_UPSTREAM_RESIDUAL",
+    "P5_CONTEXT_STATUS": "READY",
+    "P5_V1_COMPARISON_STATUS": "READY",
+    "P5_OVERALL_STATUS": "READY_WITH_WARNINGS"
+  }
+}

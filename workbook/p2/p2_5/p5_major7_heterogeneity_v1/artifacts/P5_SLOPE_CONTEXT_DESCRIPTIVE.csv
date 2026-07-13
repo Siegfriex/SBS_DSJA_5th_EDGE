@@ -1,0 +1,21 @@
+outcome,grade_signal,context_column,n_major,spearman_rho,p_value_descriptive_not_for_conclusion,leave_one_major_out_rho_min,leave_one_major_out_rho_max,interpretation_rule
+HEALTH_EMPLOYMENT,RAW_A,ctx24_income_400plus_pct,7,0.5357142857142858,0.21521745567801298,0.3142857142857143,0.7142857142857143,descriptive only; N=7 major-level points; no confirmatory context-effect claim
+HEALTH_EMPLOYMENT,RAW_A,ctx24_large_mid_company_pct,7,0.4642857142857144,0.29393410760025196,0.14285714285714288,0.7714285714285715,descriptive only; N=7 major-level points; no confirmatory context-effect claim
+HEALTH_EMPLOYMENT,RAW_A,goms_recent_firm_300plus_pct,7,-0.10714285714285716,0.8191508555699912,-0.3714285714285715,0.4285714285714286,descriptive only; N=7 major-level points; no confirmatory context-effect claim
+HEALTH_EMPLOYMENT,RAW_A,goms_recent_permanent_pct,7,-0.1785714285714286,0.7016579425162727,-0.4285714285714286,0.3142857142857143,descriptive only; N=7 major-level points; no confirmatory context-effect claim
+HEALTH_EMPLOYMENT,RAW_A,goms_recent_professional_highskill_pct,7,-0.3214285714285715,0.48207203829967776,-0.48571428571428577,0.08571428571428573,descriptive only; N=7 major-level points; no confirmatory context-effect claim
+HEALTH_EMPLOYMENT,WITHIN_MAJOR_A,ctx24_income_400plus_pct,7,0.5357142857142858,0.21521745567801298,0.3142857142857143,0.7142857142857143,descriptive only; N=7 major-level points; no confirmatory context-effect claim
+HEALTH_EMPLOYMENT,WITHIN_MAJOR_A,ctx24_large_mid_company_pct,7,0.4642857142857144,0.29393410760025196,0.14285714285714288,0.7714285714285715,descriptive only; N=7 major-level points; no confirmatory context-effect claim
+HEALTH_EMPLOYMENT,WITHIN_MAJOR_A,goms_recent_firm_300plus_pct,7,-0.10714285714285716,0.8191508555699912,-0.3714285714285715,0.4285714285714286,descriptive only; N=7 major-level points; no confirmatory context-effect claim
+HEALTH_EMPLOYMENT,WITHIN_MAJOR_A,goms_recent_permanent_pct,7,-0.1785714285714286,0.7016579425162727,-0.4285714285714286,0.3142857142857143,descriptive only; N=7 major-level points; no confirmatory context-effect claim
+HEALTH_EMPLOYMENT,WITHIN_MAJOR_A,goms_recent_professional_highskill_pct,7,-0.3214285714285715,0.48207203829967776,-0.48571428571428577,0.08571428571428573,descriptive only; N=7 major-level points; no confirmatory context-effect claim
+GRAD_SCHOOL_PROGRESSION,RAW_A,ctx24_income_400plus_pct,7,0.5714285714285715,0.18020198891152767,0.3142857142857143,0.7714285714285715,descriptive only; N=7 major-level points; no confirmatory context-effect claim
+GRAD_SCHOOL_PROGRESSION,RAW_A,ctx24_large_mid_company_pct,7,1.0,0.0,1.0,1.0,descriptive only; N=7 major-level points; no confirmatory context-effect claim
+GRAD_SCHOOL_PROGRESSION,RAW_A,goms_recent_firm_300plus_pct,7,0.21428571428571433,0.6445115810207203,0.08571428571428573,0.942857142857143,descriptive only; N=7 major-level points; no confirmatory context-effect claim
+GRAD_SCHOOL_PROGRESSION,RAW_A,goms_recent_permanent_pct,7,-0.21428571428571433,0.6445115810207203,-0.6,0.2571428571428572,descriptive only; N=7 major-level points; no confirmatory context-effect claim
+GRAD_SCHOOL_PROGRESSION,RAW_A,goms_recent_professional_highskill_pct,7,-0.5,0.2531699951003227,-0.7714285714285715,-0.2,descriptive only; N=7 major-level points; no confirmatory context-effect claim
+GRAD_SCHOOL_PROGRESSION,WITHIN_MAJOR_A,ctx24_income_400plus_pct,7,0.5714285714285715,0.18020198891152767,0.3142857142857143,0.7714285714285715,descriptive only; N=7 major-level points; no confirmatory context-effect claim
+GRAD_SCHOOL_PROGRESSION,WITHIN_MAJOR_A,ctx24_large_mid_company_pct,7,1.0,0.0,1.0,1.0,descriptive only; N=7 major-level points; no confirmatory context-effect claim
+GRAD_SCHOOL_PROGRESSION,WITHIN_MAJOR_A,goms_recent_firm_300plus_pct,7,0.21428571428571433,0.6445115810207203,0.08571428571428573,0.942857142857143,descriptive only; N=7 major-level points; no confirmatory context-effect claim
+GRAD_SCHOOL_PROGRESSION,WITHIN_MAJOR_A,goms_recent_permanent_pct,7,-0.21428571428571433,0.6445115810207203,-0.6,0.2571428571428572,descriptive only; N=7 major-level points; no confirmatory context-effect claim
+GRAD_SCHOOL_PROGRESSION,WITHIN_MAJOR_A,goms_recent_professional_highskill_pct,7,-0.5,0.2531699951003227,-0.7714285714285715,-0.2,descriptive only; N=7 major-level points; no confirmatory context-effect claim

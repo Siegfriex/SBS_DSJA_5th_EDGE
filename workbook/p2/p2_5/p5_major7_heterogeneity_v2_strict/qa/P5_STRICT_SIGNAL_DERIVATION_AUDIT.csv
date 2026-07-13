@@ -1,0 +1,11 @@
+frame,column,min,max,ok
+structure,health_employment_rate_pct,0.0,100.0,True
+structure,health_employment_rate_prop,0.0,1.0,True
+structure,graduate_school_progression_rate_pct,0.0,92.85713958740234,True
+structure,graduate_school_progression_rate_prop,0.0,0.9285714030265808,True
+structure,a_rate_within_major_year_pp,-3.0635361347097504e-15,2.9808573578782404e-15,True
+selectivity,health_employment_rate_pct,0.0,100.0,True
+selectivity,health_employment_rate_prop,0.0,1.0,True
+selectivity,graduate_school_progression_rate_pct,0.0,72.09302520751953,True
+selectivity,graduate_school_progression_rate_prop,0.0,0.720930278301239,True
+selectivity,a_rate_within_major_year_pp,-2.5244831729600366e-15,3.1824752244687413e-15,True

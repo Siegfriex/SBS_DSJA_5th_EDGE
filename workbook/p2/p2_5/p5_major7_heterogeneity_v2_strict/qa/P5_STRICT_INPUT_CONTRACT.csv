@@ -1,0 +1,12 @@
+input_name,path,exists,shape,sha256
+strict_d08,workbook/p2/p2_4/source_eda/strict_clean_v1/mart_department_model_base_2024_strict_drop.parquet,True,"(7592, 151)",5f56e375fd1c0474a5e55652859ae007e2f45becd6d3350ee4c82e21fab8df9b
+phase_sample_membership,workbook/p2/p2_4/p4_modeling_readiness_v4/data/P4_PHASE_SAMPLE_MEMBERSHIP_FINAL.parquet,True,"(7592, 21)",c6504fd04c918ce33439462f7b277aa8ae4363f185ef93210fcc761f01e9fb46
+phase_sample_registry,workbook/p2/p2_4/p4_modeling_readiness_v4/artifacts/P4_PHASE_SAMPLE_REGISTRY_FINAL.csv,True,"(12, 12)",d518bab363399a31037590a2cb285f2a76e88318f5d25bf93ac365441f48e611
+column_registry,workbook/p2/p2_4/p4_modeling_readiness_v4/artifacts/department_model_column_registry_v4.csv,True,"(151, 27)",c8f3954654de2853c92c4643b7ccf5cb271a7ad50de92507538d0fb336365ee5
+feature_contract,workbook/p2/p2_4/p4_modeling_readiness_v4/artifacts/P4_PHASE_FEATURE_SET_FINAL.csv,True,"(241, 11)",05e3d5a89e4405d305ee496efc6dae97c1a790c2023c88363a34205ccf284899
+model_spec,workbook/p2/p2_4/p4_modeling_readiness_v4/artifacts/P4_PHASE_MODEL_SPEC_FINAL.csv,True,"(18, 11)",7887229f14c99f2fc729724944e2c174824770bd3c8fd1f501f577d8de8f7e74
+target_denylist,workbook/p2/p2_4/p4_modeling_readiness_v4/qa/P4_TARGET_SPECIFIC_DENYLIST_FINAL.csv,True,"(16, 3)",97435cb3a6b20b490ce2ce7e65160414517aee5b472f8ef8040d91de9f868895
+manual_feature_registry,workbook/p2/p2_4/source_eda/human_handoff_packet/03_MODEL_INPUT/manual_approved_feature_registry.csv,True,"(198, 11)",2cdb7797c4619c625fc6a171710970b7691446f4d62cae9accd2ab5c68f15051
+manual_target_policy,workbook/p2/p2_4/source_eda/human_handoff_packet/03_MODEL_INPUT/manual_approved_target_and_scope_policy.csv,True,"(32, 7)",c3f56647cc63135dd74609ed4b0436d0058655fc0e82354691b276a067d5b389
+strict_target_membership,workbook/p2/p2_4/source_eda/strict_clean_v1/strict_target_sample_membership.csv,True,"(61452, 7)",29bf19120774e7d0a86e1c6b6892d012832f3fd6fd5dbed5e6a752e8f2e0e61c
+strict_target_counts,workbook/p2/p2_4/source_eda/strict_clean_v1/strict_target_sample_counts.csv,True,"(6, 7)",dde484367e1849b34a28b17e99381f59c04c94fb549d78390e720fbe3d905517
