@@ -1,0 +1,67 @@
+﻿raw_dtype,est_type,non_null,null_count,null_pct,unique_count,zero_count_if_numeric,min_if_numeric,max_if_numeric,column,role_guess,reason
+int64,numeric_count,15727,0,0.0,1080,5540,0.0,9213.0,지원자_전체_계,target_candidate_count,입시 수요/경쟁 규모 후보
+int64,numeric_count,15727,0,0.0,699,6479,0.0,4384.0,지원자_전체_남,target_candidate_count,입시 수요/경쟁 규모 후보
+int64,numeric_count,15727,0,0.0,763,6292,0.0,9213.0,지원자_전체_여,target_candidate_count,입시 수요/경쟁 규모 후보
+int64,numeric_count,15727,0,0.0,242,10095,0.0,1488.0,지원자_석사_계,target_candidate_count,입시 수요/경쟁 규모 후보
+int64,numeric_count,15727,0,0.0,162,10916,0.0,763.0,지원자_석사_남,target_candidate_count,입시 수요/경쟁 규모 후보
+int64,numeric_count,15727,0,0.0,171,10803,0.0,725.0,지원자_석사_여,target_candidate_count,입시 수요/경쟁 규모 후보
+int64,numeric_count,15727,0,0.0,126,11116,0.0,412.0,지원자_박사_계,target_candidate_count,입시 수요/경쟁 규모 후보
+int64,numeric_count,15727,0,0.0,88,11935,0.0,209.0,지원자_박사_남,target_candidate_count,입시 수요/경쟁 규모 후보
+int64,numeric_count,15727,0,0.0,76,12084,0.0,231.0,지원자_박사_여,target_candidate_count,입시 수요/경쟁 규모 후보
+int64,numeric_count,15727,0,0.0,248,5685,0.0,809.0,입학자_전체_계,target_candidate_count,입학 성과/규모 후보
+int64,numeric_count,15727,0,0.0,168,6832,0.0,393.0,입학자_전체_남,target_candidate_count,입학 성과/규모 후보
+int64,numeric_count,15727,0,0.0,164,6544,0.0,652.0,입학자_전체_여,target_candidate_count,입학 성과/규모 후보
+int64,numeric_count,15727,0,0.0,130,10395,0.0,358.0,입학자_석사_계,target_candidate_count,입학 성과/규모 후보
+int64,numeric_count,15727,0,0.0,81,11361,0.0,294.0,입학자_석사_남,target_candidate_count,입학 성과/규모 후보
+int64,numeric_count,15727,0,0.0,81,11184,0.0,179.0,입학자_석사_여,target_candidate_count,입학 성과/규모 후보
+int64,numeric_count,15727,0,0.0,87,11428,0.0,173.0,입학자_박사_계,target_candidate_count,입학 성과/규모 후보
+int64,numeric_count,15727,0,0.0,64,12330,0.0,136.0,입학자_박사_남,target_candidate_count,입학 성과/규모 후보
+int64,numeric_count,15727,0,0.0,48,12429,0.0,103.0,입학자_박사_여,target_candidate_count,입학 성과/규모 후보
+int64,numeric_count,15727,0,0.0,213,6389,0.0,729.0,정원내_입학자_전체_계,target_candidate_count,입학 성과/규모 후보
+int64,numeric_count,15727,0,0.0,156,7584,0.0,377.0,정원내_입학자_전체_남,target_candidate_count,입학 성과/규모 후보
+int64,numeric_count,15727,0,0.0,142,7362,0.0,584.0,정원내_입학자_전체_여,target_candidate_count,입학 성과/규모 후보
+int64,numeric_count,15727,0,0.0,204,11921,0.0,729.0,정원내_입학자_학부_계,target_candidate_count,입학 성과/규모 후보
+int64,numeric_count,15727,0,0.0,149,12186,0.0,377.0,정원내_입학자_학부_남,target_candidate_count,입학 성과/규모 후보
+int64,numeric_count,15727,0,0.0,141,11987,0.0,584.0,정원내_입학자_학부_여,target_candidate_count,입학 성과/규모 후보
+int64,numeric_count,15727,0,0.0,109,10949,0.0,343.0,정원내_입학자_석사_계,target_candidate_count,입학 성과/규모 후보
+int64,numeric_count,15727,0,0.0,74,11926,0.0,286.0,정원내_입학자_석사_남,target_candidate_count,입학 성과/규모 후보
+int64,numeric_count,15727,0,0.0,69,11804,0.0,117.0,정원내_입학자_석사_여,target_candidate_count,입학 성과/규모 후보
+int64,numeric_count,15727,0,0.0,75,11875,0.0,157.0,정원내_입학자_박사_계,target_candidate_count,입학 성과/규모 후보
+int64,numeric_count,15727,0,0.0,59,12775,0.0,135.0,정원내_입학자_박사_남,target_candidate_count,입학 성과/규모 후보
+int64,numeric_count,15727,0,0.0,39,12888,0.0,54.0,정원내_입학자_박사_여,target_candidate_count,입학 성과/규모 후보
+int64,numeric_count,15727,0,0.0,114,9794,0.0,461.0,정원외_입학자_전체_계,target_candidate_count,입학 성과/규모 후보
+int64,numeric_count,15727,0,0.0,70,11382,0.0,312.0,정원외_입학자_전체_남,target_candidate_count,입학 성과/규모 후보
+int64,numeric_count,15727,0,0.0,78,11160,0.0,225.0,정원외_입학자_전체_여,target_candidate_count,입학 성과/규모 후보
+int64,numeric_count,15727,0,0.0,77,13507,0.0,320.0,정원외_입학자_석사_계,target_candidate_count,입학 성과/규모 후보
+int64,numeric_count,15727,0,0.0,48,14306,0.0,229.0,정원외_입학자_석사_남,target_candidate_count,입학 성과/규모 후보
+int64,numeric_count,15727,0,0.0,59,14009,0.0,179.0,정원외_입학자_석사_여,target_candidate_count,입학 성과/규모 후보
+int64,numeric_count,15727,0,0.0,52,13943,0.0,158.0,정원외_입학자_박사_계,target_candidate_count,입학 성과/규모 후보
+int64,numeric_count,15727,0,0.0,34,14484,0.0,83.0,정원외_입학자_박사_남,target_candidate_count,입학 성과/규모 후보
+int64,numeric_count,15727,0,0.0,35,14520,0.0,93.0,정원외_입학자_박사_여,target_candidate_count,입학 성과/규모 후보
+int64,numeric_count,15727,0,0.0,685,2138,0.0,2777.0,재적생_전체_계,target_candidate_count,재적 규모 후보
+int64,numeric_count,15727,0,0.0,507,3263,0.0,1952.0,재적생_전체_남,target_candidate_count,재적 규모 후보
+int64,numeric_count,15727,0,0.0,417,3473,0.0,1383.0,재적생_전체_여,target_candidate_count,재적 규모 후보
+int64,numeric_count,15727,0,0.0,574,2767,0.0,1950.0,재학생_전체_계,target_candidate_count,재학생 규모 후보
+int64,numeric_count,15727,0,0.0,396,3892,0.0,1342.0,재학생_전체_남,target_candidate_count,재학생 규모 후보
+int64,numeric_count,15727,0,0.0,378,3883,0.0,1294.0,재학생_전체_여,target_candidate_count,재학생 규모 후보
+int64,numeric_count,15727,0,0.0,215,9785,0.0,1124.0,재적생_석사_계,target_candidate_count,재적 규모 후보
+int64,numeric_count,15727,0,0.0,142,10574,0.0,951.0,재적생_석사_남,target_candidate_count,재적 규모 후보
+int64,numeric_count,15727,0,0.0,138,10415,0.0,328.0,재적생_석사_여,target_candidate_count,재적 규모 후보
+int64,numeric_count,15727,0,0.0,204,9899,0.0,1010.0,재학생_석사_계,target_candidate_count,재학생 규모 후보
+int64,numeric_count,15727,0,0.0,135,10725,0.0,857.0,재학생_석사_남,target_candidate_count,재학생 규모 후보
+int64,numeric_count,15727,0,0.0,132,10540,0.0,321.0,재학생_석사_여,target_candidate_count,재학생 규모 후보
+int64,numeric_count,15727,0,0.0,177,10596,0.0,782.0,재적생_박사_계,target_candidate_count,재적 규모 후보
+int64,numeric_count,15727,0,0.0,131,11275,0.0,678.0,재적생_박사_남,target_candidate_count,재적 규모 후보
+int64,numeric_count,15727,0,0.0,99,11439,0.0,258.0,재적생_박사_여,target_candidate_count,재적 규모 후보
+int64,numeric_count,15727,0,0.0,171,10749,0.0,733.0,재학생_박사_계,target_candidate_count,재학생 규모 후보
+int64,numeric_count,15727,0,0.0,123,11446,0.0,638.0,재학생_박사_남,target_candidate_count,재학생 규모 후보
+int64,numeric_count,15727,0,0.0,94,11593,0.0,230.0,재학생_박사_여,target_candidate_count,재학생 규모 후보
+int64,numeric_count,15727,0,0.0,210,4643,0.0,594.0,졸업자_전체,target_candidate_count,졸업 성과/규모 후보
+int64,numeric_count,15727,0,0.0,149,6258,0.0,353.0,졸업자_남,target_candidate_count,졸업 성과/규모 후보
+int64,numeric_count,15727,0,0.0,139,6327,0.0,310.0,졸업자_전체_여,target_candidate_count,졸업 성과/규모 후보
+int64,numeric_count,15727,0,0.0,108,10710,0.0,522.0,졸업자_석사_계,target_candidate_count,졸업 성과/규모 후보
+int64,numeric_count,15727,0,0.0,77,11874,0.0,322.0,졸업자_석사_남,target_candidate_count,졸업 성과/규모 후보
+int64,numeric_count,15727,0,0.0,71,11637,0.0,200.0,졸업자_석사_여,target_candidate_count,졸업 성과/규모 후보
+int64,numeric_count,15727,0,0.0,69,12077,0.0,142.0,졸업자_박사_계,target_candidate_count,졸업 성과/규모 후보
+int64,numeric_count,15727,0,0.0,49,12957,0.0,130.0,졸업자_박사_남,target_candidate_count,졸업 성과/규모 후보
+int64,numeric_count,15727,0,0.0,37,13340,0.0,58.0,졸업자_박사_여,target_candidate_count,졸업 성과/규모 후보

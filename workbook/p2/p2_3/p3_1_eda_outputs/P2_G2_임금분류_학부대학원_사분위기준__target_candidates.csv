@@ -1,0 +1,6 @@
+﻿raw_dtype,est_type,non_null,null_count,null_pct,unique_count,zero_count_if_numeric,min_if_numeric,max_if_numeric,column,role_guess,reason
+float64,numeric_rate_or_ratio,23,0,0.0,23,0,0.7249428421071251,7032.75,q1_25pct,reference_stat,사분위 기준값. 모델 y가 아니라 기준표의 수치 요약 대상
+float64,numeric_continuous,23,0,0.0,23,0,0.8914917202508317,12685.0,q2_median,reference_stat,사분위 기준값. 모델 y가 아니라 기준표의 수치 요약 대상
+float64,numeric_rate_or_ratio,23,0,0.0,23,0,1.1948988783956531,20383.25,q3_75pct,reference_stat,사분위 기준값. 모델 y가 아니라 기준표의 수치 요약 대상
+float64,numeric_continuous,23,0,0.0,23,0,0.413953375188592,1752.0,min,reference_stat,사분위 기준값. 모델 y가 아니라 기준표의 수치 요약 대상
+float64,numeric_continuous,23,0,0.0,23,0,1.441111111111111,103757.0,max,reference_stat,사분위 기준값. 모델 y가 아니라 기준표의 수치 요약 대상

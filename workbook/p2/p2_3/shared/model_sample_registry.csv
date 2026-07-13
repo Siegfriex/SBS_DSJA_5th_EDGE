@@ -1,0 +1,6 @@
+﻿sample_id,description,required_columns,usable_rows_n,usable_schools_n,row_mask_rule,p3_policy
+GRADE_ALL,A비율이 있는 전체 학점 성과 표본,a_rate_pct,10242,200,a_rate_pct.notna(),P3에서는 결측대체/스케일링/타깃고정 없이 mask 정의만 제공
+GRADE_SELECTIVITY,A비율과 입결 proxy가 모두 있는 표본,a_rate_pct|selectivity_proxy_pct,3737,151,a_rate_pct.notna() & selectivity_proxy_pct.notna(),P3에서는 결측대체/스케일링/타깃고정 없이 mask 정의만 제공
+EMPLOYMENT_HEALTH,건강보험 가입 취업률이 있는 표본,health_employment_rate_pct,7477,188,health_employment_rate_pct.notna(),P3에서는 결측대체/스케일링/타깃고정 없이 mask 정의만 제공
+PROGRESSION_GRADSCHOOL,대학원 진학률이 있는 표본,graduate_school_progression_rate_pct,7587,197,graduate_school_progression_rate_pct.notna(),P3에서는 결측대체/스케일링/타깃고정 없이 mask 정의만 제공
+JOINT_EMP_PROG,건강보험 취업률과 대학원 진학률이 모두 있는 표본,health_employment_rate_pct|graduate_school_progression_rate_pct,7477,188,health_employment_rate_pct.notna() & graduate_school_progression_rate_pct.notna(),P3에서는 결측대체/스케일링/타깃고정 없이 mask 정의만 제공

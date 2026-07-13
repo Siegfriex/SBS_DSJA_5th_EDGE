@@ -1,0 +1,92 @@
+{
+  "created_at": "2026-07-12T21:38:43+09:00",
+  "agent": "local2",
+  "ready_for_local1": true,
+  "immutable_handoff": true,
+  "d06_shape": [
+    91,
+    45
+  ],
+  "d07_shape": [
+    7,
+    29
+  ],
+  "d07_hash": "f44c6f9e7a7539361dce301686144780e0ce588deb929b625ebe811674bb621f",
+  "goms_major_profile_recent_hash": "f44c6f9e7a7539361dce301686144780e0ce588deb929b625ebe811674bb621f",
+  "d07_handoff_byte_identical": true,
+  "occupation_crosswalk_review_count": 8,
+  "occupation_crosswalk_review_pending_count": 0,
+  "distribution_sum_strict_status_counts": {
+    "PASS": 572
+  },
+  "distribution_sum_strict_max_abs_error_from_100": 1.7000000000000028,
+  "handoff_files": {
+    "D06": {
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/p3_2/goms_major_year_labor_baseline.parquet",
+      "sha256": "75d8bc34a0bf092c3e2c4332fd213d4a01f5a86252b6f6b4ac6f29709b3202c3",
+      "size_bytes": 44315
+    },
+    "D07": {
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/p3_2/goms_major_profile_recent.parquet",
+      "sha256": "f44c6f9e7a7539361dce301686144780e0ce588deb929b625ebe811674bb621f",
+      "size_bytes": 20580
+    },
+    "D07_HANDOFF": {
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/shared_handoff/goms_major_profile_recent.parquet",
+      "sha256": "f44c6f9e7a7539361dce301686144780e0ce588deb929b625ebe811674bb621f",
+      "size_bytes": 20580
+    },
+    "national": {
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/p3_2/goms_national_year_benchmark.parquet",
+      "sha256": "2bb79134d30ab77e33bd65b854deed2ca077a51e81eaa9b1cbef2a975b1f05d0",
+      "size_bytes": 30585
+    },
+    "topic_axis_registry": {
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/shared_handoff/goms_topic_axis_registry.csv",
+      "sha256": "1d60b4f5a324179ff17c5c070e6155d3cb0cf59199c8b4efee38cf4039f57d0d",
+      "size_bytes": 11935
+    },
+    "goms_column_registry": {
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/shared_handoff/goms_column_registry.csv",
+      "sha256": "c81793185fa785f8991f80e3cfcce510facf77ca47a7b1a1a151f6ec9468fe56",
+      "size_bytes": 14133
+    },
+    "distribution_sum_check": {
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/qa/goms_distribution_sum_check.csv",
+      "sha256": "d4a54eb25f682571b95357fc67ffe89d7a53d170c37d9687b97049d1aeedff22",
+      "size_bytes": 42645
+    },
+    "occupation_crosswalk_review": {
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/qa/goms_occupation_crosswalk_review.csv",
+      "sha256": "1ca8fb9f705d77313a864c175465cda7da96bea20dacf41e065f7f3a21c60693",
+      "size_bytes": 1298
+    },
+    "goms_run_manifest": {
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/shared_handoff/goms_run_manifest.json",
+      "sha256": "e58cb64a06511c4a0aa4ced236beb44467172396802bc417a4ae1f5493f8a83d",
+      "size_bytes": 8501
+    }
+  },
+  "namespaced_logs": {
+    "decision_log": {
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/logs/local2/decision_log.jsonl",
+      "sha256": "89ac68eb64aed016d8a8b8117229182b0721943c109670747f7d048e441c9412",
+      "size_bytes": 7423
+    },
+    "transformation_log": {
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/logs/local2/transformation_log.jsonl",
+      "sha256": "5b22435231e6c4163e08dbd267558c57aafce73a07836e7bb35cfcca263ddc91",
+      "size_bytes": 4855
+    },
+    "merge_audit": {
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/logs/local2/merge_audit.csv",
+      "sha256": "57f1e4a2f41351b1af882f14a396390c44a337cc5411e90ded8c0bd01031b01e",
+      "size_bytes": 1268
+    },
+    "schema_deviation_report": {
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/logs/local2/schema_deviation_report.csv",
+      "sha256": "fb8c89306095994f90c5f41fbdd5722cfaba8b8b83897912905b5edf00589715",
+      "size_bytes": 3394
+    }
+  }
+}

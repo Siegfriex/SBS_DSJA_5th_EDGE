@@ -1,0 +1,5 @@
+﻿item,previous_contract,candidate_value,reason,p4_impact,status
+D01 shape,"15,727 x 175 from cleaned CSV",34969 x 186,raw Excel restored 주야구분/학교상태/full school-type axes required to resolve D01 grain and improve matching,"candidate D01 is semantically broader; D03/D08 spine remains 10,242",WARN
+D08 candidate,"10,242 rows",10242 x 151,Local2 manifest accepted,shared candidate is withheld until Local2 handoff manifest is present and hash-validated,PASS
+ctx24_industry_hhi/top3,requested context columns,p4_use=False,D04 wage source has no industry distribution columns,P4 must not use these all-null columns,WARN
+D03 shape,"10,242 rows",10242 x 108,D02 outcome spine preserved; additional lineage/eligibility columns added,row grain unchanged,PASS

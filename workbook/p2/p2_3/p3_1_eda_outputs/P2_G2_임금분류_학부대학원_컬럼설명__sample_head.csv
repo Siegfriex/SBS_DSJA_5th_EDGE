@@ -1,0 +1,6 @@
+﻿column,role,semantic_type,source_file,source_raw_column,unit,meaning,quartile_column,zero_policy,null_policy
+기준연도,key,year,원자료 공통 키,기준연도,year,행을 식별하는 기준 키,,관측된 0은 실제 0으로 유지,최종 CSV에 NULL이 남으면 실질 결측으로 검토
+대학원여부,binary_key,binary,원자료 공통 키,구분,0/1,"기존 구분 컬럼에서 학부는 0, 대학원은 1로 변환한 모델 입력용 바이너리",,0은 학부를 의미하는 정상 범주값,NULL이면 학부/대학원 구분 매핑 실패
+계열,key,category,원자료 공통 키,계열,category,행을 식별하는 기준 키,,관측된 0은 실제 0으로 유지,최종 CSV에 NULL이 남으면 실질 결측으로 검토
+분석대상자_명,denominator,numeric,2024_계열별 초임급여 현황.xlsx,분석대상자,명,"조사기준일 당시 건강보험 직장가입자 중 가입된 회사명이 1개이면서 기업명, 기업규모, 기업유형, 소득 등 상세 취업정보가 모두 확인된 취업자 수",,관측된 0은 실제 0으로 유지,최종 CSV에 NULL이 남으면 실질 결측으로 검토
+평균소득만원,primary_target,numeric,2024_계열별 초임급여 현황.xlsx,월 평균 소득액 - 평균소득,만원,"원자료 '월 평균 소득액 - 평균소득'. 분석대상자의 월 초임 소득 평균, 단위 만원",평균소득만원_사분위,관측된 0은 실제 0으로 유지,최종 CSV에 NULL이 남으면 실질 결측으로 검토

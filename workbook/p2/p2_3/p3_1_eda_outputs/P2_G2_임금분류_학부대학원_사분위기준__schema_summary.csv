@@ -1,0 +1,11 @@
+﻿column,raw_dtype,est_type,non_null,null_count,null_pct,unique_count,zero_count_if_numeric,min_if_numeric,max_if_numeric
+column,str,identifier_or_key,23,0,0.0,23,,,
+quartile_column,str,ordered_quartile_label,23,0,0.0,23,,,
+source_definition,str,categorical_low_cardinality,23,0,0.0,12,,,
+q1_25pct,float64,numeric_rate_or_ratio,23,0,0.0,23,0,0.7249428421071251,7032.75
+q2_median,float64,numeric_continuous,23,0,0.0,23,0,0.8914917202508317,12685.0
+q3_75pct,float64,numeric_rate_or_ratio,23,0,0.0,23,0,1.1948988783956531,20383.25
+min,float64,numeric_continuous,23,0,0.0,23,0,0.413953375188592,1752.0
+max,float64,numeric_continuous,23,0,0.0,23,0,1.441111111111111,103757.0
+quartile_scope,str,ordered_quartile_label,23,0,0.0,1,,,
+interpretation,str,categorical_low_cardinality,23,0,0.0,7,,,

@@ -1,0 +1,7 @@
+﻿grain_version,key_column,role
+v2_year_school_campus_day_degree_deptcode,analysis_year,semantic grain axis
+v2_year_school_campus_day_degree_deptcode,school_name_std,semantic grain axis
+v2_year_school_campus_day_degree_deptcode,campus_name_std,semantic grain axis
+v2_year_school_campus_day_degree_deptcode,day_evening_raw,semantic grain axis
+v2_year_school_campus_day_degree_deptcode,degree_course,semantic grain axis
+v2_year_school_campus_day_degree_deptcode,kedi_dept_code,semantic grain axis

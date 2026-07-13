@@ -1,0 +1,4 @@
+﻿merge_id,left_file,right_file,left_shape,right_shape,join_type,keys,validate_mode,left_key_duplicates,right_key_duplicates,row_count_before,row_count_after,matched_n,left_only_n,right_only_n,match_rate,status
+L1-M01_D02_bridge,dept_outcomes_2024,bridge_outcome_headcount_v2,"[10242, 37]","[10242, 17]",left,outcome_row_id,one_to_one,0,0,10242,10242,8561,1681,0.0,0.8358719000195274,PASS
+L1-M02_D03_headcount,D02+bridge,dept_headcount_master_2024_v2,"[10242, 17]","[34969, 1]",left,headcount_row_id,many_to_one,14,0,10242,10242,8561,1681,,0.8358719000195274,PASS
+L1-M03_D03_D04_D07_D08,dept_master_2024_core_v2,wage_undergrad_context + local2 D07,"[10242, 108]","[14, 116]",left,major_group_7,many_to_one,10092,0,10242,10242,10099,143,0.0,0.9860378832259324,PASS

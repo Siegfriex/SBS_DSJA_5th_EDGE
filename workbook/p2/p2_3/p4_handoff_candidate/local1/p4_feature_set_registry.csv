@@ -1,0 +1,5 @@
+﻿feature_set_id,context_block,feature_count,all_null_count,all_null_columns,p4_use,exclusion_rule
+STRUCTURE,structure,31,0,,True,use only rows where required context is observed; no all-null source columns
+CTX24_WAGE,ctx24_wage,13,0,,True,use only rows where required context is observed; no all-null source columns
+CTX24_WAGE_DISABLED_ALL_NULL,ctx24_wage,2,2,ctx24_industry_top3_pct|ctx24_industry_hhi,False,disabled because source D04 has no industry distribution columns
+GOMS_RECENT,goms_recent,28,0,,True,use only rows where required context is observed; no all-null source columns

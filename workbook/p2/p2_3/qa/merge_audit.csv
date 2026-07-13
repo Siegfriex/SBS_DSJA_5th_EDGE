@@ -1,0 +1,9 @@
+﻿check,value,expected,status
+D01 rows,15727,15727,PASS
+D02 rows,10242,10242,PASS
+D03 rows,10242,10242,PASS
+D04 rows,14,14,PASS
+D05 rows,24,24,PASS
+D08 status,BUILT,BUILT when D07 exists,PASS
+school split leakage max split per school,1,1,PASS
+job_cert join_now any true,False,False,PASS

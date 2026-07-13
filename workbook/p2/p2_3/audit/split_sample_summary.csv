@@ -1,0 +1,9 @@
+﻿type,id,rows,schools,major_counts,outcome_observed_a_rate,headcount_match_rate,split_counts
+split,test,1199,30,"{'ENG': 260, 'SOC': 254, 'ART': 204, '<NA>': 129, 'NAT': 102, 'HUM': 85, 'EDU': 83, 'MED': 82}",1199.0,0.31526271893244373,
+split,train,7529,140,"{'ENG': 1758, 'SOC': 1466, 'NAT': 969, 'ART': 914, 'HUM': 862, '<NA>': 640, 'EDU': 541, 'MED': 379}",7529.0,0.49634745650152745,
+split,val,1514,30,"{'ENG': 354, 'SOC': 284, 'ART': 219, 'NAT': 181, 'HUM': 155, '<NA>': 112, 'EDU': 106, 'MED': 103}",1514.0,0.39365918097754293,
+sample,GRADE_ALL,10242,200,"{'ENG': 2372, 'SOC': 2004, 'ART': 1337, 'NAT': 1252, 'HUM': 1102, '<NA>': 881, 'EDU': 730, 'MED': 564}",,,"{'train': 7529, 'val': 1514, 'test': 1199}"
+sample,GRADE_SELECTIVITY,3737,151,"{'ENG': 929, 'SOC': 685, 'NAT': 552, 'HUM': 427, 'EDU': 383, 'MED': 289, 'ART': 272, '<NA>': 200}",,,"{'train': 2787, 'val': 586, 'test': 364}"
+sample,EMPLOYMENT_HEALTH,7477,188,"{'ENG': 1610, 'SOC': 1458, 'ART': 966, 'NAT': 944, 'HUM': 864, 'EDU': 673, '<NA>': 515, 'MED': 447}",,,"{'train': 5494, 'val': 1127, 'test': 856}"
+sample,PROGRESSION_GRADSCHOOL,7587,197,"{'ENG': 1614, 'SOC': 1472, 'ART': 972, 'NAT': 947, 'HUM': 921, 'EDU': 684, '<NA>': 530, 'MED': 447}",,,"{'train': 5566, 'val': 1147, 'test': 874}"
+sample,JOINT_EMP_PROG,7477,188,"{'ENG': 1610, 'SOC': 1458, 'ART': 966, 'NAT': 944, 'HUM': 864, 'EDU': 673, '<NA>': 515, 'MED': 447}",,,"{'train': 5494, 'val': 1127, 'test': 856}"

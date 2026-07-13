@@ -1,0 +1,4 @@
+﻿dataset,keys,rows,duplicate_key_rows,status
+D06,year|major_group_7,91,0,PASS
+D07,major_group_7,7,0,PASS
+national,year|major_group_7,13,0,PASS

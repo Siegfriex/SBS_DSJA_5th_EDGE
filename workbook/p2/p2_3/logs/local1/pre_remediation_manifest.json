@@ -1,0 +1,141 @@
+{
+  "created_at": "2026-07-12T21:46:47",
+  "agent": "P2-G3 Local Agent 1",
+  "purpose": "freeze audited RED inputs and existing public outputs before local1 remediation",
+  "python": "3.12.3 (main, Jun 19 2026, 12:46:00) [GCC 13.3.0]",
+  "platform": "Linux-6.18.33.2-microsoft-standard-WSL2-x86_64-with-glibc2.39",
+  "files": [
+    {
+      "logical_name": "D01",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/p3_1/dept_headcount_master_2024.parquet",
+      "exists": true,
+      "shape": [
+        15727,
+        175
+      ],
+      "sha256": "9ad156f25ad71e17835e1d2c73a15515e63b49c87e161458579b6733e3d60a4f",
+      "mtime": "2026-07-12T21:42:11",
+      "size_bytes": 2358953
+    },
+    {
+      "logical_name": "D02",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/p3_1/dept_outcomes_2024.parquet",
+      "exists": true,
+      "shape": [
+        10242,
+        32
+      ],
+      "sha256": "871cfacbfc1020717c0ccbea64f4fad3e6adf5dd9b091b72bd22f50a139d16c5",
+      "mtime": "2026-07-12T21:42:11",
+      "size_bytes": 630583
+    },
+    {
+      "logical_name": "D03",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/p3_1/dept_master_2024_core.parquet",
+      "exists": true,
+      "shape": [
+        10242,
+        88
+      ],
+      "sha256": "06892a716d5fef2b87e4b0806c6f4b398e8c0ddfa6c4f80d063c6643d54fffce",
+      "mtime": "2026-07-12T21:42:11",
+      "size_bytes": 1197925
+    },
+    {
+      "logical_name": "D04",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/p3_1/wage_reference_by_major.parquet",
+      "exists": true,
+      "shape": [
+        14,
+        87
+      ],
+      "sha256": "489caf15edbefa1ed0c30fdfa98dbe31096b36c219f6610dae69a2d5e49c47e5",
+      "mtime": "2026-07-12T21:42:11",
+      "size_bytes": 77696
+    },
+    {
+      "logical_name": "D05",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/p3_1/job_cert_bridge.parquet",
+      "exists": true,
+      "shape": [
+        24,
+        32
+      ],
+      "sha256": "02dd640c73448f901b08c195091f6a6f3893cdf69af23d79139ebdac8f1cc33f",
+      "mtime": "2026-07-12T21:42:11",
+      "size_bytes": 31747
+    },
+    {
+      "logical_name": "existing_D08",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/shared/mart_department_model_base_2024.parquet",
+      "exists": true,
+      "shape": [
+        10242,
+        131
+      ],
+      "sha256": "e7021282447ef1c993dcfe552d61738a2a4f990fddb1d7b85676c9d5a10cdb01",
+      "mtime": "2026-07-12T21:42:11",
+      "size_bytes": 1386259
+    },
+    {
+      "logical_name": "bridge_outcome_headcount",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/shared/bridge_outcome_headcount.csv",
+      "exists": true,
+      "shape": [
+        10242,
+        9
+      ],
+      "sha256": "61efdbc561b56691904b9606a162789d4760966d84357d8cb9620ba555e39e3d",
+      "mtime": "2026-07-12T21:42:11",
+      "size_bytes": 1344645
+    },
+    {
+      "logical_name": "bridge_department_major7",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/shared/bridge_department_major7.csv",
+      "exists": true,
+      "shape": [
+        10242,
+        7
+      ],
+      "sha256": "b6e5f6d81988538b9bdd9a065a6719b083f49d21e6d32bc1794790644503d888",
+      "mtime": "2026-07-12T21:42:11",
+      "size_bytes": 849206
+    },
+    {
+      "logical_name": "dim_school_split",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/shared/dim_school_split.csv",
+      "exists": true,
+      "shape": [
+        200,
+        6
+      ],
+      "sha256": "85c2c851ddcfd02d5ead41dbd9424124e4ef1993347842c031e487e8f2a13583",
+      "mtime": "2026-07-12T21:42:11",
+      "size_bytes": 10962
+    },
+    {
+      "logical_name": "model_sample_registry",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/shared/model_sample_registry.csv",
+      "exists": true,
+      "shape": [
+        5,
+        7
+      ],
+      "sha256": "9971a62aa8c3dbb59a79a17cd557d18e4445a2ba9b0581d902329b15bef18d28",
+      "mtime": "2026-07-12T21:42:11",
+      "size_bytes": 1279
+    },
+    {
+      "logical_name": "department_model_column_registry",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/shared/department_model_column_registry.csv",
+      "exists": true,
+      "shape": [
+        178,
+        6
+      ],
+      "sha256": "b3e12ca60152a7db19930157f85908b45b3523dc400c08d0cc500bb110d78d47",
+      "mtime": "2026-07-12T21:42:11",
+      "size_bytes": 28264
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+﻿dataset_key,filename,rows,columns,total_null_cells,duplicated_rows,numeric_columns,non_numeric_columns,candidate_target_columns,top_candidate_targets
+01_main_admission_grade_employment,P2_G2_메인_입결_A_취업진학.CSV,15727,120,8260,0,107,13,66,"지원자_전체_계, 지원자_전체_남, 지원자_전체_여, 지원자_석사_계, 지원자_석사_남, 지원자_석사_여, 지원자_박사_계, 지원자_박사_남"
+02_salary_quartile_reference,P2_G2_임금분류_학부대학원_사분위기준.CSV,23,10,0,0,5,5,5,"q1_25pct, q2_median, q3_75pct, min, max"
+03_salary_column_contract,P2_G2_임금분류_학부대학원_컬럼설명.CSV,66,10,43,0,0,10,3,"role, meaning, quartile_column"
+04_salary_degree_clean,P2_G2_임금분류_학부대학원.CSV,14,66,0,0,42,24,42,"평균소득만원, 평균소득만원_사분위, 중위소득만원, 중위소득만원_사분위, 평균소득_중위소득_차이만원, 평균소득_중위소득_차이만원_사분위, 평균소득_중위소득_비율, 평균소득_중위소득_비율_사분위"
+05_regular_admission_outcome,P2_G2_정시입결.csv,10242,17,27965,0,13,4,12,"입결_프록시, A비율, CD비율, F비율, 전체취업률, 건보가입취업률, 전체진학률, 전문대학진학률"
+06_job_certificate_mapping,P2_G2_직무별_자격증매핑.CSV,24,26,0,0,11,15,3,"job_cert_직무비율_pct, job_cert_대학원비율_pct, job_cert_학부대학원차이_pctp"

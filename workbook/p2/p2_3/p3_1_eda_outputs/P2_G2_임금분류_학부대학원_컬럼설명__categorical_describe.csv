@@ -1,0 +1,11 @@
+﻿column,dtype,unique_count,null_count,top_values
+column,str,66,0,기준연도: 1 | 대학원여부: 1 | 계열: 1 | 분석대상자_명: 1 | 평균소득만원: 1
+role,str,9,0,quartile_label: 23 | feature: 23 | target_distribution_share: 7 | target_distribution_count: 5 | key: 2
+semantic_type,str,5,0,numeric: 40 | ordered_category: 23 | year: 1 | binary: 1 | category: 1
+source_file,str,5,0,P2_G2_임금분류_학부대학원.CSV 내부 계산: 23 | 2024_계열별 초임급여 현황.xlsx: 17 | 2024_계열별 기업유형별 취업현황.xlsx: 16 | 2024_계열별 자격증 취득현황.xlsx: 7 | 원자료 공통 키: 3
+source_raw_column,str,65,0,"월 평균 소득액, 월 평균 소득액.1: 2 | 기준연도: 1 | 구분: 1 | 계열: 1 | 분석대상자: 1"
+unit,str,10,0,Q1~Q4: 23 | %: 18 | 명: 15 | 만원: 3 | 건/명: 2
+meaning,str,50,0,"기업유형별 취업 구성값. 기업유형은 서로 배타적인 경쟁형 구성: 16 | 행을 식별하는 기준 키: 2 | 기존 구분 컬럼에서 학부는 0, 대학원은 1로 변환한 모델 입력용 바이너리: 1 | 조사기준일 당시 건강보험 직장가입자 중 가입된 회사명이 1개이면서 기업명, 기업규모, 기업유형, 소득 등 상세 취업정보가 모두 확인된 취업자 수: 1 | 원자료 '월 평균 소득액 - 평균소득'. 분석대상자의 월 초임 소득 평균, 단위 만원: 1"
+quartile_column,str,23,43,<NA>: 43 | 평균소득만원_사분위: 1 | 중위소득만원_사분위: 1 | 평균소득_중위소득_차이만원_사분위: 1 | 평균소득_중위소득_비율_사분위: 1
+zero_policy,str,3,0,관측된 0은 실제 0으로 유지: 42 | 해당 없음: 23 | 0은 학부를 의미하는 정상 범주값: 1
+null_policy,str,2,0,최종 CSV에 NULL이 남으면 실질 결측으로 검토: 65 | NULL이면 학부/대학원 구분 매핑 실패: 1

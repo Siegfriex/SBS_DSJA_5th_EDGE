@@ -1,0 +1,262 @@
+{
+  "run_started_at": "2026-07-12T21:42:05",
+  "run_finished_at": "2026-07-12T21:42:11",
+  "notebook": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/p3_1.ipynb",
+  "d08_status": "BUILT",
+  "source_manifest": [
+    {
+      "logical_name": "headcount_master_raw",
+      "filename": "P2_G2_메인_입결_A_취업진학.CSV",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/P2_G2_메인_입결_A_취업진학.CSV",
+      "exists": true,
+      "encoding": "utf-8-sig",
+      "rows": 15727,
+      "columns": 120,
+      "mtime": "2026-07-12T19:12:08",
+      "size_bytes": 6661070,
+      "sha256": "e307fae021366d2c4aaacbb4b1d67c9e176fbbbecbbea101a7e3d79282203449"
+    },
+    {
+      "logical_name": "outcome_spine_raw",
+      "filename": "P2_G2_정시입결.csv",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/P2_G2_정시입결.csv",
+      "exists": true,
+      "encoding": "utf-8-sig",
+      "rows": 10242,
+      "columns": 17,
+      "mtime": "2026-07-12T19:12:08",
+      "size_bytes": 1810159,
+      "sha256": "2530f88a0d923edf11c83e5884d2bb47d1811679cc9b6198b0d3384c50950b04"
+    },
+    {
+      "logical_name": "wage_reference_raw",
+      "filename": "P2_G2_임금분류_학부대학원.CSV",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/P2_G2_임금분류_학부대학원.CSV",
+      "exists": true,
+      "encoding": "utf-8-sig",
+      "rows": 14,
+      "columns": 66,
+      "mtime": "2026-07-12T19:12:08",
+      "size_bytes": 12461,
+      "sha256": "90f94f0b781d88a45a168a3b60095b16537a532de1dbee0b54dfb3d1cf3efb85"
+    },
+    {
+      "logical_name": "wage_quartile_reference_raw",
+      "filename": "P2_G2_임금분류_학부대학원_사분위기준.CSV",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/P2_G2_임금분류_학부대학원_사분위기준.CSV",
+      "exists": true,
+      "encoding": "utf-8-sig",
+      "rows": 23,
+      "columns": 10,
+      "mtime": "2026-07-12T19:12:08",
+      "size_bytes": 7434,
+      "sha256": "c46a158b418c8ec114af62a95d978692cc75890ff550064db9333d6b91848ddf"
+    },
+    {
+      "logical_name": "wage_column_contract_raw",
+      "filename": "P2_G2_임금분류_학부대학원_컬럼설명.CSV",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/P2_G2_임금분류_학부대학원_컬럼설명.CSV",
+      "exists": true,
+      "encoding": "utf-8-sig",
+      "rows": 66,
+      "columns": 10,
+      "mtime": "2026-07-12T19:12:08",
+      "size_bytes": 21866,
+      "sha256": "2431de62f6b0b8d3276b603d64f94c7cbdeaa4450aa79f549dd7ff43a4eaa491"
+    },
+    {
+      "logical_name": "job_cert_bridge_raw",
+      "filename": "P2_G2_직무별_자격증매핑.CSV",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/P2_G2_직무별_자격증매핑.CSV",
+      "exists": true,
+      "encoding": "utf-8-sig",
+      "rows": 24,
+      "columns": 26,
+      "mtime": "2026-07-12T19:12:09",
+      "size_bytes": 15660,
+      "sha256": "e88fe083e07430f96f5549071cde674021048c3f482f69d2981c02b9f882c471"
+    }
+  ],
+  "outputs": [
+    {
+      "logical_name": "D01 dept_headcount_master_2024.parquet",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/p3_1/dept_headcount_master_2024.parquet",
+      "exists": true,
+      "rows": 15727,
+      "columns": 175,
+      "sha256": "9ad156f25ad71e17835e1d2c73a15515e63b49c87e161458579b6733e3d60a4f"
+    },
+    {
+      "logical_name": "D02 dept_outcomes_2024.parquet",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/p3_1/dept_outcomes_2024.parquet",
+      "exists": true,
+      "rows": 10242,
+      "columns": 32,
+      "sha256": "871cfacbfc1020717c0ccbea64f4fad3e6adf5dd9b091b72bd22f50a139d16c5"
+    },
+    {
+      "logical_name": "D03 dept_master_2024_core.parquet",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/p3_1/dept_master_2024_core.parquet",
+      "exists": true,
+      "rows": 10242,
+      "columns": 88,
+      "sha256": "06892a716d5fef2b87e4b0806c6f4b398e8c0ddfa6c4f80d063c6643d54fffce"
+    },
+    {
+      "logical_name": "D04 wage_reference_by_major.parquet",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/p3_1/wage_reference_by_major.parquet",
+      "exists": true,
+      "rows": 14,
+      "columns": 87,
+      "sha256": "489caf15edbefa1ed0c30fdfa98dbe31096b36c219f6610dae69a2d5e49c47e5"
+    },
+    {
+      "logical_name": "D05 job_cert_bridge.parquet",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/p3_1/job_cert_bridge.parquet",
+      "exists": true,
+      "rows": 24,
+      "columns": 32,
+      "sha256": "02dd640c73448f901b08c195091f6a6f3893cdf69af23d79139ebdac8f1cc33f"
+    },
+    {
+      "logical_name": "D08 mart_department_model_base_2024.parquet",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/shared/mart_department_model_base_2024.parquet",
+      "exists": true,
+      "rows": 10242,
+      "columns": 131,
+      "sha256": "e7021282447ef1c993dcfe552d61738a2a4f990fddb1d7b85676c9d5a10cdb01"
+    },
+    {
+      "logical_name": "bridge_outcome_headcount.csv",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/shared/bridge_outcome_headcount.csv",
+      "exists": true,
+      "rows": 10242,
+      "columns": 9,
+      "sha256": "61efdbc561b56691904b9606a162789d4760966d84357d8cb9620ba555e39e3d"
+    },
+    {
+      "logical_name": "bridge_department_major7.csv",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/shared/bridge_department_major7.csv",
+      "exists": true,
+      "rows": 10242,
+      "columns": 7,
+      "sha256": "b6e5f6d81988538b9bdd9a065a6719b083f49d21e6d32bc1794790644503d888"
+    },
+    {
+      "logical_name": "dim_school_split.csv",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/shared/dim_school_split.csv",
+      "exists": true,
+      "rows": 200,
+      "columns": 6,
+      "sha256": "85c2c851ddcfd02d5ead41dbd9424124e4ef1993347842c031e487e8f2a13583"
+    },
+    {
+      "logical_name": "model_sample_registry.csv",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/shared/model_sample_registry.csv",
+      "exists": true,
+      "rows": 5,
+      "columns": 7,
+      "sha256": "9971a62aa8c3dbb59a79a17cd557d18e4445a2ba9b0581d902329b15bef18d28"
+    },
+    {
+      "logical_name": "department_model_column_registry.csv",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/shared/department_model_column_registry.csv",
+      "exists": true,
+      "rows": 178,
+      "columns": 6,
+      "sha256": "b3e12ca60152a7db19930157f85908b45b3523dc400c08d0cc500bb110d78d47"
+    },
+    {
+      "logical_name": "merge_audit.csv",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/qa/merge_audit.csv",
+      "exists": true,
+      "rows": 8,
+      "columns": 4,
+      "sha256": "3e70e41b531f292564236c65abdd49121043d623285d9313135d55cb09561900"
+    },
+    {
+      "logical_name": "final_qa_summary.csv",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/qa/final_qa_summary.csv",
+      "exists": true,
+      "rows": 7,
+      "columns": 3,
+      "sha256": "3788f8a91fcd752f0a95738826bb9065ea887e1e7139e47ae0757ba4c30da93b"
+    },
+    {
+      "logical_name": "failed_checks.csv",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/qa/failed_checks.csv",
+      "exists": true,
+      "rows": 1,
+      "columns": 3,
+      "sha256": "a34fec91e7db7d57df7d03422d0d1090cc77360c7ac9075e4fe74be9c18424b4"
+    },
+    {
+      "logical_name": "decision_log.jsonl",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/logs/decision_log.jsonl",
+      "exists": true,
+      "rows": null,
+      "columns": null,
+      "sha256": "b10a52e4bcc8f2dde2821c26f2d8742a0c84d78523e909b8e8e8e19a12830370"
+    },
+    {
+      "logical_name": "transformation_log.jsonl",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/logs/transformation_log.jsonl",
+      "exists": true,
+      "rows": null,
+      "columns": null,
+      "sha256": "9c1887b3bb5104e27bbf768f8e2486e5bf3124cef4978efe77b3d9ea325831e9"
+    },
+    {
+      "logical_name": "schema_deviation_report.csv",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/logs/schema_deviation_report.csv",
+      "exists": true,
+      "rows": 3,
+      "columns": 4,
+      "sha256": "0e00b31b467ffcd91541a0dacb251f1f910832e379e11f28c9829c7411d50632"
+    }
+  ],
+  "match_method_distribution": {
+    "unmatched": 5204,
+    "exact_normalized": 4710,
+    "manual_review": 327,
+    "fuzzy_unique": 1
+  },
+  "headcount_high_confidence_match_rate": 0.45996875610232374,
+  "major7_mapping_distribution": {
+    "inherited_headcount": 4711,
+    "exact_dictionary": 3481,
+    "keyword_rule": 1169,
+    "ambiguous": 472,
+    "unknown": 409
+  },
+  "outcome_non_null_counts": {
+    "selectivity_proxy_pct": 3737,
+    "a_rate_pct": 10242,
+    "health_employment_rate_pct": 7477,
+    "graduate_school_progression_rate_pct": 7587
+  },
+  "split_summary": [
+    {
+      "split": "test",
+      "rows": 1199,
+      "schools": 30
+    },
+    {
+      "split": "train",
+      "rows": 7529,
+      "schools": 140
+    },
+    {
+      "split": "val",
+      "rows": 1514,
+      "schools": 30
+    }
+  ],
+  "failed_checks": [
+    {
+      "check_name": "D04 industry context",
+      "status": "WARN",
+      "detail": "industry_top3_pct and industry_hhi source columns unavailable in current D04 source"
+    }
+  ]
+}

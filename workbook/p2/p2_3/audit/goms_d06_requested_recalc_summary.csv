@@ -1,0 +1,13 @@
+﻿column,rows_compared,max_abs_diff,mismatch_rows_gt_1e_4
+employment_rate_pct,91,3.8035253311363704e-06,0
+unemployment_rate_pct,91,4.7020445315126835e-07,0
+inactivity_rate_pct,91,9.431400762593967e-07,0
+industry_top1_pct,91,3.051757815342171e-06,0
+industry_top3_pct,91,3.051757815342171e-06,0
+industry_hhi,91,2.898859197131287e-08,0
+industry_entropy,91,1.1710204628201382e-07,0
+firm_size_hhi,91,1.474710487059383e-08,0
+public_nonprofit_pct,91,1.5258789076710855e-06,0
+unstable_pct,91,7.629394538355427e-07,0
+occupation_hhi,91,2.814389676863982e-08,0
+hourly_income_proxy,91,5.922503731881079e-08,0

@@ -1,0 +1,13 @@
+﻿column,source_column,non_null_n,missing_n,min,max,invalid_0_100_n
+selectivity_proxy_pct,입결_프록시,3737,6505,0.10000000149011612,100.0,0
+a_rate_pct,A비율,10242,0,0.0,100.0,0
+cd_rate_pct,CD비율,10242,0,0.0,100.0,0
+f_rate_pct,F비율,10242,0,0.0,100.0,0
+employment_rate_pct,전체취업률,7477,2765,0.0,100.0,0
+health_employment_rate_pct,건보가입취업률,7477,2765,0.0,100.0,0
+progression_rate_pct,전체진학률,7587,2655,0.0,100.0,0
+vocational_college_progression_rate_pct,전문대학진학률,7587,2655,0.0,50.0,0
+university_progression_rate_pct,대학진학률,7587,2655,0.0,25.0,0
+graduate_school_progression_rate_pct,대학원진학률,7587,2655,0.0,100.0,0
+domestic_progression_rate_pct,국내진학률,7587,2655,0.0,100.0,0
+overseas_progression_rate_pct,국외진학률,7587,2655,0.0,18.18181800842285,0

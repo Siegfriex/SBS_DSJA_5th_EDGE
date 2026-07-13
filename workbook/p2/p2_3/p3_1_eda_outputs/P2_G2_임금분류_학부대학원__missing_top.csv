@@ -1,0 +1,16 @@
+﻿column,raw_dtype,est_type,non_null,null_count,null_pct,unique_count,zero_count_if_numeric,min_if_numeric,max_if_numeric
+기준연도,int64,numeric_low_cardinality,14,0,0.0,1,0,2024.0,2024.0
+대학원여부,int64,binary_numeric,14,0,0.0,2,7,0.0,1.0
+계열,str,categorical_low_cardinality,14,0,0.0,7,,,
+분석대상자_명,int64,numeric_count,14,0,0.0,14,0,2304.0,72776.0
+평균소득만원,float64,numeric_continuous,14,0,0.0,14,0,234.7,648.5
+평균소득만원_사분위,str,ordered_quartile_label,14,0,0.0,4,,,
+중위소득만원,float64,numeric_continuous,14,0,0.0,14,0,217.5,500.0
+중위소득만원_사분위,str,ordered_quartile_label,14,0,0.0,4,,,
+평균소득_중위소득_차이만원,float64,numeric_continuous,14,0,0.0,14,0,13.099999999999966,198.5
+평균소득_중위소득_차이만원_사분위,str,ordered_quartile_label,14,0,0.0,4,,,
+평균소득_중위소득_비율,float64,numeric_rate_or_ratio,14,0,0.0,14,0,1.0309473186865106,1.441111111111111
+평균소득_중위소득_비율_사분위,str,ordered_quartile_label,14,0,0.0,4,,,
+초임급여_100만원미만_명,int64,numeric_count,14,0,0.0,14,0,70.0,1490.0
+초임급여_100만원미만_명_사분위,str,ordered_quartile_label,14,0,0.0,4,,,
+초임급여_100~200만원미만_명,int64,numeric_count,14,0,0.0,14,0,199.0,7584.0

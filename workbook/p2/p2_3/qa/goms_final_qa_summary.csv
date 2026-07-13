@@ -1,0 +1,58 @@
+﻿check_id,dataset,observed,expected,status,detail
+D06_shape_rows,D06,91,91,PASS,D06 rows
+D06_shape_cols,D06,45,45,PASS,D06 columns
+D07_shape_rows,D07,7,7,PASS,D07 rows
+D07_shape_cols,D07,29,29,PASS,D07 columns
+D06_major_complete,D06,"['공학', '교육', '사회', '예체능', '의약', '인문', '자연']","['인문', '사회', '교육', '공학', '자연', '의약', '예체능']",PASS,7 major groups excluding national total
+D06_year_complete,D06,"[2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019]","[2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019]",PASS,2007-2019 complete
+GOMS_003_frequency_identity,D06,2.0,<=2.0,PASS,graduate total equals employed+unemployed+inactive within rounded weighted frequencies
+distribution_sum_tolerance,qa,0,0,PASS,share sums within 2 percentage points due one-decimal source rounding
+duplicate_keys,all,0,0,PASS,key duplicate rows across D06/D07/national
+inf_values,D06_D07,0,0,PASS,inf/-inf count
+standard_deviation_columns,D06_D07,0,0,PASS,standard deviation columns must not be reconstructed
+occupation_pre_post_schema_mixing,D06,0,0,PASS,pre/post occupation schema version must follow year boundary
+population_scope_unresolved,topic_axis_registry,0,0,PASS,population scope decided by topic_group
+schema_deviation,D06_D07,0,0,PASS,column order and dtype contract
+D06_employment_rate_pct_0_100,D06,0,0,PASS,employment_rate_pct outside 0-100
+D06_unemployment_rate_pct_0_100,D06,0,0,PASS,unemployment_rate_pct outside 0-100
+D06_inactivity_rate_pct_0_100,D06,0,0,PASS,inactivity_rate_pct outside 0-100
+D06_manufacturing_pct_0_100,D06,0,0,PASS,manufacturing_pct outside 0-100
+D06_information_communication_pct_0_100,D06,0,0,PASS,information_communication_pct outside 0-100
+D06_professional_science_pct_0_100,D06,0,0,PASS,professional_science_pct outside 0-100
+D06_education_service_pct_0_100,D06,0,0,PASS,education_service_pct outside 0-100
+D06_health_social_pct_0_100,D06,0,0,PASS,health_social_pct outside 0-100
+D06_industry_top1_pct_0_100,D06,0,0,PASS,industry_top1_pct outside 0-100
+D06_industry_top3_pct_0_100,D06,0,0,PASS,industry_top3_pct outside 0-100
+D06_professional_highskill_pct_0_100,D06,0,0,PASS,professional_highskill_pct outside 0-100
+D06_business_office_finance_pct_0_100,D06,0,0,PASS,business_office_finance_pct outside 0-100
+D06_service_sales_pct_0_100,D06,0,0,PASS,service_sales_pct outside 0-100
+D06_production_transport_pct_0_100,D06,0,0,PASS,production_transport_pct outside 0-100
+D06_occupation_top3_pct_0_100,D06,0,0,PASS,occupation_top3_pct outside 0-100
+D06_firm_1_9_pct_0_100,D06,0,0,PASS,firm_1_9_pct outside 0-100
+D06_firm_10_49_pct_0_100,D06,0,0,PASS,firm_10_49_pct outside 0-100
+D06_firm_50_299_pct_0_100,D06,0,0,PASS,firm_50_299_pct outside 0-100
+D06_firm_300plus_pct_0_100,D06,0,0,PASS,firm_300plus_pct outside 0-100
+D06_private_domestic_pct_0_100,D06,0,0,PASS,private_domestic_pct outside 0-100
+D06_foreign_private_pct_0_100,D06,0,0,PASS,foreign_private_pct outside 0-100
+D06_public_enterprise_pct_0_100,D06,0,0,PASS,public_enterprise_pct outside 0-100
+D06_government_pct_0_100,D06,0,0,PASS,government_pct outside 0-100
+D06_nonprofit_pct_0_100,D06,0,0,PASS,nonprofit_pct outside 0-100
+D06_public_nonprofit_pct_0_100,D06,0,0,PASS,public_nonprofit_pct outside 0-100
+D06_permanent_pct_0_100,D06,0,0,PASS,permanent_pct outside 0-100
+D06_unstable_pct_0_100,D06,0,0,PASS,unstable_pct outside 0-100
+D06_self_employed_pct_0_100,D06,0,0,PASS,self_employed_pct outside 0-100
+D06_industry_hhi_0_1,D06,0,0,PASS,industry_hhi outside 0-1
+D06_occupation_hhi_0_1,D06,0,0,PASS,occupation_hhi outside 0-1
+D06_firm_size_hhi_0_1,D06,0,0,PASS,firm_size_hhi outside 0-1
+D06_industry_entropy_nonnegative,D06,0,0,PASS,industry_entropy below 0
+D07_recent_employment_rate_pct_0_100,D07,0,0,PASS,recent_employment_rate_pct outside 0-100
+D07_recent_firm_300plus_pct_0_100,D07,0,0,PASS,recent_firm_300plus_pct outside 0-100
+D07_recent_public_nonprofit_pct_0_100,D07,0,0,PASS,recent_public_nonprofit_pct outside 0-100
+D07_recent_permanent_pct_0_100,D07,0,0,PASS,recent_permanent_pct outside 0-100
+D07_recent_unstable_pct_0_100,D07,0,0,PASS,recent_unstable_pct outside 0-100
+D07_recent_self_employed_pct_0_100,D07,0,0,PASS,recent_self_employed_pct outside 0-100
+D07_recent_industry_top3_pct_0_100,D07,0,0,PASS,recent_industry_top3_pct outside 0-100
+D07_recent_professional_highskill_pct_0_100,D07,0,0,PASS,recent_professional_highskill_pct outside 0-100
+D07_latest_2019_firm_300plus_pct_0_100,D07,0,0,PASS,latest_2019_firm_300plus_pct outside 0-100
+D07_latest_2019_permanent_pct_0_100,D07,0,0,PASS,latest_2019_permanent_pct outside 0-100
+D07_recent_industry_hhi_0_1,D07,0,0,PASS,recent_industry_hhi outside 0-1

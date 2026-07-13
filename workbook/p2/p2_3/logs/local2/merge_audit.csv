@@ -1,0 +1,8 @@
+﻿merge_id,left_file,right_file,left_shape,right_shape,join_type,keys,validate_mode,left_key_duplicates,right_key_duplicates,row_count_before,row_count_after,matched_n,left_only_n,right_only_n,match_rate,status
+M01_economic_activity,in_memory_baseline_spine,GOMS_003_economic_activity,"(104, 2)","(104, 9)",left,year|major_group_7,one_to_one,0,0,104,104,104,0,0,1.0,PASS
+M02_industry,in_memory_baseline_spine,GOMS_006_industry,"(104, 9)","(104, 11)",left,year|major_group_7,one_to_one,0,0,104,104,104,0,0,1.0,PASS
+M03_occupation,in_memory_baseline_spine,GOMS_011_012_occupation,"(104, 18)","(104, 9)",left,year|major_group_7,one_to_one,0,0,104,104,104,0,0,1.0,PASS
+M04_firm_size,in_memory_baseline_spine,GOMS_015_firm_size,"(104, 25)","(104, 7)",left,year|major_group_7,one_to_one,0,0,104,104,104,0,0,1.0,PASS
+M05_firm_type,in_memory_baseline_spine,GOMS_018_firm_type,"(104, 30)","(104, 8)",left,year|major_group_7,one_to_one,0,0,104,104,104,0,0,1.0,PASS
+M06_employment_status,in_memory_baseline_spine,GOMS_021_employment_status,"(104, 36)","(104, 5)",left,year|major_group_7,one_to_one,0,0,104,104,104,0,0,1.0,PASS
+M07_continuous,in_memory_baseline_spine,GOMS_024_033_continuous,"(104, 39)","(104, 5)",left,year|major_group_7,one_to_one,0,0,104,104,104,0,0,1.0,PASS

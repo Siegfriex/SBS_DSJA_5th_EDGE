@@ -1,0 +1,4 @@
+﻿raw_dtype,est_type,non_null,null_count,null_pct,unique_count,zero_count_if_numeric,min_if_numeric,max_if_numeric,column,role_guess,reason
+float64,numeric_rate_or_ratio,24,0,0.0,24,0,0.0036250152415413,100.0,job_cert_직무비율_pct,target_distribution,직무별 자격증 취득 구성비
+float64,numeric_rate_or_ratio,24,0,0.0,24,0,9.15944818735964,76.43923240938166,job_cert_대학원비율_pct,feature_or_target,직무별 자격증 중 대학원 비중
+float64,numeric_rate_or_ratio,24,0,0.0,24,0,-52.87846481876332,81.68110362528071,job_cert_학부대학원차이_pctp,diagnostic,직무별 학부-대학원 비율 차이

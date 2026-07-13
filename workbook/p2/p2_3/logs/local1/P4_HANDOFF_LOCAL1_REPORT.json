@@ -1,0 +1,341 @@
+{
+  "created_at": "2026-07-12T21:47:51",
+  "script_runtime_seconds": 64.703,
+  "final_status": "READY_FOR_REAUDIT",
+  "metrics": {
+    "d01_grain_duplicate_n": 0,
+    "high_conf_match_n": 8561,
+    "high_conf_match_rate": 0.8358719000195274,
+    "major_high_medium_n": 10099,
+    "major_high_medium_rate": 0.9860378832259324,
+    "major_ambiguous_unknown_n": 143,
+    "major_ambiguous_unknown_rate": 0.013962116774067565,
+    "candidate_ge2_auto_confirmed_n": 0,
+    "campus_conflict_auto_confirmed_n": 0,
+    "split_leakage_n": 0,
+    "final_status": "READY_FOR_REAUDIT"
+  },
+  "d01_shape": [
+    34969,
+    186
+  ],
+  "d01_hash": "2f187b5af44c828d4107af12368029caf6b83b6254af75b9653b6402b8f1b0ce",
+  "d03_shape": [
+    10242,
+    108
+  ],
+  "d03_hash": "c6fd569052684502e5bab5758510d3cd945f68ddeaa47fdfb3e9bab803889dca",
+  "d08_shape": [
+    10242,
+    151
+  ],
+  "d08_hash": "598b68b31b5358dfd23839d4c138cc64838d05876b7791980b376c0453f29962",
+  "match_method_v1": {
+    "unmatched": 5204,
+    "exact_normalized": 4710,
+    "manual_review": 327,
+    "fuzzy_unique": 1
+  },
+  "match_method_v2": {
+    "exact_strict": 8556,
+    "manual_pending": 1316,
+    "unmatched": 365,
+    "exact_token_unique": 5
+  },
+  "major_mapping_v2": {
+    "inherited_headcount": 8561,
+    "keyword_rule": 859,
+    "exact_dictionary": 679,
+    "ambiguous": 85,
+    "unknown": 58
+  },
+  "split_summary": [
+    {
+      "split": "test",
+      "rows": 1199,
+      "schools": 30
+    },
+    {
+      "split": "train",
+      "rows": 7529,
+      "schools": 140
+    },
+    {
+      "split": "val",
+      "rows": 1514,
+      "schools": 30
+    }
+  ],
+  "sample_registry": [
+    {
+      "sample_id": "GRADE_ALL",
+      "base_rule": "a_rate_pct.notna()",
+      "sample_level_exclusion_rule": "exclude major7 ambiguous/unknown from major/context/GOMS samples; keep D03 spine rows outside model sample",
+      "requires_major_group_7": true,
+      "requires_structure_context": false,
+      "usable_rows_n": 10099,
+      "usable_rows_with_structure_n": 8561,
+      "usable_schools_n": 200,
+      "train_n": 7417,
+      "val_n": 1504,
+      "test_n": 1178,
+      "p3_policy": "P3 freezes masks only; no imputation, scaling, one-hot, PCA, or model training"
+    },
+    {
+      "sample_id": "GRADE_SELECTIVITY",
+      "base_rule": "a_rate_pct.notna() & selectivity_proxy_pct.notna()",
+      "sample_level_exclusion_rule": "exclude major7 ambiguous/unknown from major/context/GOMS samples; keep D03 spine rows outside model sample",
+      "requires_major_group_7": true,
+      "requires_structure_context": false,
+      "usable_rows_n": 3707,
+      "usable_rows_with_structure_n": 3198,
+      "usable_schools_n": 151,
+      "train_n": 2760,
+      "val_n": 585,
+      "test_n": 362,
+      "p3_policy": "P3 freezes masks only; no imputation, scaling, one-hot, PCA, or model training"
+    },
+    {
+      "sample_id": "EMPLOYMENT_HEALTH",
+      "base_rule": "health_employment_rate_pct.notna()",
+      "sample_level_exclusion_rule": "exclude major7 ambiguous/unknown from major/context/GOMS samples; keep D03 spine rows outside model sample",
+      "requires_major_group_7": true,
+      "requires_structure_context": true,
+      "usable_rows_n": 7389,
+      "usable_rows_with_structure_n": 6270,
+      "usable_schools_n": 188,
+      "train_n": 5428,
+      "val_n": 1121,
+      "test_n": 840,
+      "p3_policy": "P3 freezes masks only; no imputation, scaling, one-hot, PCA, or model training"
+    },
+    {
+      "sample_id": "PROGRESSION_GRADSCHOOL",
+      "base_rule": "graduate_school_progression_rate_pct.notna()",
+      "sample_level_exclusion_rule": "exclude major7 ambiguous/unknown from major/context/GOMS samples; keep D03 spine rows outside model sample",
+      "requires_major_group_7": true,
+      "requires_structure_context": true,
+      "usable_rows_n": 7498,
+      "usable_rows_with_structure_n": 6366,
+      "usable_schools_n": 197,
+      "train_n": 5499,
+      "val_n": 1141,
+      "test_n": 858,
+      "p3_policy": "P3 freezes masks only; no imputation, scaling, one-hot, PCA, or model training"
+    },
+    {
+      "sample_id": "JOINT_EMP_PROG",
+      "base_rule": "health_employment_rate_pct.notna() & graduate_school_progression_rate_pct.notna()",
+      "sample_level_exclusion_rule": "exclude major7 ambiguous/unknown from major/context/GOMS samples; keep D03 spine rows outside model sample",
+      "requires_major_group_7": true,
+      "requires_structure_context": true,
+      "usable_rows_n": 7389,
+      "usable_rows_with_structure_n": 6270,
+      "usable_schools_n": 188,
+      "train_n": 5428,
+      "val_n": 1121,
+      "test_n": 840,
+      "p3_policy": "P3 freezes masks only; no imputation, scaling, one-hot, PCA, or model training"
+    }
+  ],
+  "feature_registry": [
+    {
+      "feature_set_id": "STRUCTURE",
+      "context_block": "structure",
+      "feature_count": 31,
+      "all_null_count": 0,
+      "all_null_columns": "",
+      "p4_use": true,
+      "exclusion_rule": "use only rows where required context is observed; no all-null source columns"
+    },
+    {
+      "feature_set_id": "CTX24_WAGE",
+      "context_block": "ctx24_wage",
+      "feature_count": 13,
+      "all_null_count": 0,
+      "all_null_columns": "",
+      "p4_use": true,
+      "exclusion_rule": "use only rows where required context is observed; no all-null source columns"
+    },
+    {
+      "feature_set_id": "CTX24_WAGE_DISABLED_ALL_NULL",
+      "context_block": "ctx24_wage",
+      "feature_count": 2,
+      "all_null_count": 2,
+      "all_null_columns": "ctx24_industry_top3_pct|ctx24_industry_hhi",
+      "p4_use": false,
+      "exclusion_rule": "disabled because source D04 has no industry distribution columns"
+    },
+    {
+      "feature_set_id": "GOMS_RECENT",
+      "context_block": "goms_recent",
+      "feature_count": 28,
+      "all_null_count": 0,
+      "all_null_columns": "",
+      "p4_use": true,
+      "exclusion_rule": "use only rows where required context is observed; no all-null source columns"
+    }
+  ],
+  "decision_event_count": 17,
+  "transformation_step_count": 4,
+  "manifest_path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/p4_handoff_candidate/local1/P4_HANDOFF_MANIFEST.json",
+  "shared_manifest_path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/p4_handoff_candidate/shared/P4_HANDOFF_MANIFEST.json",
+  "qa_path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/qa/local1/final_qa_summary.csv",
+  "failed_checks_path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/qa/local1/failed_checks.csv",
+  "local2_handoff_gate": {
+    "required_d07_path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/shared_handoff/goms_major_profile_recent.parquet",
+    "required_manifest_path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/shared_handoff/LOCAL2_HANDOFF_MANIFEST.json",
+    "d07_exists": true,
+    "d07_actual_hash": "f44c6f9e7a7539361dce301686144780e0ce588deb929b625ebe811674bb621f",
+    "local2_manifest_exists": true,
+    "local2_manifest_hash": "24609ead002563288af769758e91bf26b82f972e0be7e14c2b2ea607b707df6a",
+    "local2_manifest_ready_for_local1": true,
+    "local2_manifest_declared_d07_hash": "f44c6f9e7a7539361dce301686144780e0ce588deb929b625ebe811674bb621f",
+    "legacy_goms_run_manifest_exists": true,
+    "legacy_ready_for_local1": true,
+    "legacy_declared_d07_hash": "f44c6f9e7a7539361dce301686144780e0ce588deb929b625ebe811674bb621f",
+    "ready_for_d08_rebuild": true,
+    "block_reason": null
+  },
+  "pre_remediation_manifest": {
+    "created_at": "2026-07-12T21:46:47",
+    "agent": "P2-G3 Local Agent 1",
+    "purpose": "freeze audited RED inputs and existing public outputs before local1 remediation",
+    "python": "3.12.3 (main, Jun 19 2026, 12:46:00) [GCC 13.3.0]",
+    "platform": "Linux-6.18.33.2-microsoft-standard-WSL2-x86_64-with-glibc2.39",
+    "files": [
+      {
+        "logical_name": "D01",
+        "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/p3_1/dept_headcount_master_2024.parquet",
+        "exists": true,
+        "shape": [
+          15727,
+          175
+        ],
+        "sha256": "9ad156f25ad71e17835e1d2c73a15515e63b49c87e161458579b6733e3d60a4f",
+        "mtime": "2026-07-12T21:42:11",
+        "size_bytes": 2358953
+      },
+      {
+        "logical_name": "D02",
+        "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/p3_1/dept_outcomes_2024.parquet",
+        "exists": true,
+        "shape": [
+          10242,
+          32
+        ],
+        "sha256": "871cfacbfc1020717c0ccbea64f4fad3e6adf5dd9b091b72bd22f50a139d16c5",
+        "mtime": "2026-07-12T21:42:11",
+        "size_bytes": 630583
+      },
+      {
+        "logical_name": "D03",
+        "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/p3_1/dept_master_2024_core.parquet",
+        "exists": true,
+        "shape": [
+          10242,
+          88
+        ],
+        "sha256": "06892a716d5fef2b87e4b0806c6f4b398e8c0ddfa6c4f80d063c6643d54fffce",
+        "mtime": "2026-07-12T21:42:11",
+        "size_bytes": 1197925
+      },
+      {
+        "logical_name": "D04",
+        "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/p3_1/wage_reference_by_major.parquet",
+        "exists": true,
+        "shape": [
+          14,
+          87
+        ],
+        "sha256": "489caf15edbefa1ed0c30fdfa98dbe31096b36c219f6610dae69a2d5e49c47e5",
+        "mtime": "2026-07-12T21:42:11",
+        "size_bytes": 77696
+      },
+      {
+        "logical_name": "D05",
+        "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/p3_1/job_cert_bridge.parquet",
+        "exists": true,
+        "shape": [
+          24,
+          32
+        ],
+        "sha256": "02dd640c73448f901b08c195091f6a6f3893cdf69af23d79139ebdac8f1cc33f",
+        "mtime": "2026-07-12T21:42:11",
+        "size_bytes": 31747
+      },
+      {
+        "logical_name": "existing_D08",
+        "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/shared/mart_department_model_base_2024.parquet",
+        "exists": true,
+        "shape": [
+          10242,
+          131
+        ],
+        "sha256": "e7021282447ef1c993dcfe552d61738a2a4f990fddb1d7b85676c9d5a10cdb01",
+        "mtime": "2026-07-12T21:42:11",
+        "size_bytes": 1386259
+      },
+      {
+        "logical_name": "bridge_outcome_headcount",
+        "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/shared/bridge_outcome_headcount.csv",
+        "exists": true,
+        "shape": [
+          10242,
+          9
+        ],
+        "sha256": "61efdbc561b56691904b9606a162789d4760966d84357d8cb9620ba555e39e3d",
+        "mtime": "2026-07-12T21:42:11",
+        "size_bytes": 1344645
+      },
+      {
+        "logical_name": "bridge_department_major7",
+        "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/shared/bridge_department_major7.csv",
+        "exists": true,
+        "shape": [
+          10242,
+          7
+        ],
+        "sha256": "b6e5f6d81988538b9bdd9a065a6719b083f49d21e6d32bc1794790644503d888",
+        "mtime": "2026-07-12T21:42:11",
+        "size_bytes": 849206
+      },
+      {
+        "logical_name": "dim_school_split",
+        "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/shared/dim_school_split.csv",
+        "exists": true,
+        "shape": [
+          200,
+          6
+        ],
+        "sha256": "85c2c851ddcfd02d5ead41dbd9424124e4ef1993347842c031e487e8f2a13583",
+        "mtime": "2026-07-12T21:42:11",
+        "size_bytes": 10962
+      },
+      {
+        "logical_name": "model_sample_registry",
+        "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/shared/model_sample_registry.csv",
+        "exists": true,
+        "shape": [
+          5,
+          7
+        ],
+        "sha256": "9971a62aa8c3dbb59a79a17cd557d18e4445a2ba9b0581d902329b15bef18d28",
+        "mtime": "2026-07-12T21:42:11",
+        "size_bytes": 1279
+      },
+      {
+        "logical_name": "department_model_column_registry",
+        "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/shared/department_model_column_registry.csv",
+        "exists": true,
+        "shape": [
+          178,
+          6
+        ],
+        "sha256": "b3e12ca60152a7db19930157f85908b45b3523dc400c08d0cc500bb110d78d47",
+        "mtime": "2026-07-12T21:42:11",
+        "size_bytes": 28264
+      }
+    ]
+  }
+}

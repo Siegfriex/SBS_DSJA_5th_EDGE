@@ -1,0 +1,13 @@
+﻿check,actual,expected,status
+D01 canonical grain duplicate,0,0,PASS
+D03 row count,10242,10242,PASS
+structure high-confidence match rate,0.835872,>=0.70,PASS
+major high/medium mapping rate,0.986038,>=0.97,PASS
+major ambiguous+unknown rate,0.013962,<=0.03,PASS
+candidate_count>=2 auto-confirmed,0,0,PASS
+campus conflict auto-confirmed,0,0,PASS
+Local2 D07 handoff ready,True,True,PASS
+D08 row count,10242,10242,PASS
+D07->D08 exact mismatch,0,0,PASS
+school split leakage,0,0,PASS
+all-null feature active,0,0,PASS

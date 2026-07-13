@@ -1,0 +1,2 @@
+﻿check_name,status,detail
+D04 industry context,WARN,industry_top3_pct and industry_hhi source columns unavailable in current D04 source

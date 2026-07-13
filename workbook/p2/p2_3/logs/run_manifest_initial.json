@@ -1,0 +1,83 @@
+{
+  "run_started_at": "2026-07-12T21:42:05",
+  "notebook": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/p3_1.ipynb",
+  "python": "3.12.3 (main, Jun 19 2026, 12:46:00) [GCC 13.3.0]",
+  "platform": "Linux-6.18.33.2-microsoft-standard-WSL2-x86_64-with-glibc2.39",
+  "pandas": "3.0.3",
+  "numpy": "2.5.0",
+  "pyarrow": "24.0.0",
+  "source_manifest": [
+    {
+      "logical_name": "headcount_master_raw",
+      "filename": "P2_G2_메인_입결_A_취업진학.CSV",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/P2_G2_메인_입결_A_취업진학.CSV",
+      "exists": true,
+      "encoding": "utf-8-sig",
+      "rows": 15727,
+      "columns": 120,
+      "mtime": "2026-07-12T19:12:08",
+      "size_bytes": 6661070,
+      "sha256": "e307fae021366d2c4aaacbb4b1d67c9e176fbbbecbbea101a7e3d79282203449"
+    },
+    {
+      "logical_name": "outcome_spine_raw",
+      "filename": "P2_G2_정시입결.csv",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/P2_G2_정시입결.csv",
+      "exists": true,
+      "encoding": "utf-8-sig",
+      "rows": 10242,
+      "columns": 17,
+      "mtime": "2026-07-12T19:12:08",
+      "size_bytes": 1810159,
+      "sha256": "2530f88a0d923edf11c83e5884d2bb47d1811679cc9b6198b0d3384c50950b04"
+    },
+    {
+      "logical_name": "wage_reference_raw",
+      "filename": "P2_G2_임금분류_학부대학원.CSV",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/P2_G2_임금분류_학부대학원.CSV",
+      "exists": true,
+      "encoding": "utf-8-sig",
+      "rows": 14,
+      "columns": 66,
+      "mtime": "2026-07-12T19:12:08",
+      "size_bytes": 12461,
+      "sha256": "90f94f0b781d88a45a168a3b60095b16537a532de1dbee0b54dfb3d1cf3efb85"
+    },
+    {
+      "logical_name": "wage_quartile_reference_raw",
+      "filename": "P2_G2_임금분류_학부대학원_사분위기준.CSV",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/P2_G2_임금분류_학부대학원_사분위기준.CSV",
+      "exists": true,
+      "encoding": "utf-8-sig",
+      "rows": 23,
+      "columns": 10,
+      "mtime": "2026-07-12T19:12:08",
+      "size_bytes": 7434,
+      "sha256": "c46a158b418c8ec114af62a95d978692cc75890ff550064db9333d6b91848ddf"
+    },
+    {
+      "logical_name": "wage_column_contract_raw",
+      "filename": "P2_G2_임금분류_학부대학원_컬럼설명.CSV",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/P2_G2_임금분류_학부대학원_컬럼설명.CSV",
+      "exists": true,
+      "encoding": "utf-8-sig",
+      "rows": 66,
+      "columns": 10,
+      "mtime": "2026-07-12T19:12:08",
+      "size_bytes": 21866,
+      "sha256": "2431de62f6b0b8d3276b603d64f94c7cbdeaa4450aa79f549dd7ff43a4eaa491"
+    },
+    {
+      "logical_name": "job_cert_bridge_raw",
+      "filename": "P2_G2_직무별_자격증매핑.CSV",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/P2_G2_직무별_자격증매핑.CSV",
+      "exists": true,
+      "encoding": "utf-8-sig",
+      "rows": 24,
+      "columns": 26,
+      "mtime": "2026-07-12T19:12:09",
+      "size_bytes": 15660,
+      "sha256": "e88fe083e07430f96f5549071cde674021048c3f482f69d2981c02b9f882c471"
+    }
+  ]
+}

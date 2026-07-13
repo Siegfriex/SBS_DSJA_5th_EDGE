@@ -1,0 +1,144 @@
+﻿outcome_row_id,major_group_7,major7_mapping_method,major7_mapping_confidence,major7_candidate_count,major7_review_needed,major7_evidence,major7_sample_exclusion_rule
+OC2024_00626,,unknown,unknown,0,True,"no inherited, dictionary, or strict keyword evidence",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_00903,,ambiguous,low,2,True,"hits=ART,SOC; evidence=ART:스포츠 | SOC:마케팅; ambiguous_token=False",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_01403,,ambiguous,low,2,True,"hits=ENG,SOC; evidence=ENG:it | SOC:경영; ambiguous_token=False",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_01420,,unknown,unknown,0,True,"no inherited, dictionary, or strict keyword evidence",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_01451,,ambiguous,low,2,True,"hits=ENG,NAT; evidence=ENG:신소재/공학 | NAT:환경; ambiguous_token=False",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_01502,,ambiguous,low,2,True,"hits=NAT,ART; evidence=NAT:환경 | ART:디자인; ambiguous_token=False",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_01671,,unknown,unknown,0,True,"no inherited, dictionary, or strict keyword evidence",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_01676,,ambiguous,low,2,True,"hits=ART,SOC; evidence=ART:스포츠 | SOC:국제; ambiguous_token=False",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_01679,,ambiguous,low,2,True,"hits=ENG,NAT; evidence=ENG:데이터 | NAT:과학; ambiguous_token=False",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_01681,,unknown,unknown,0,True,"no inherited, dictionary, or strict keyword evidence",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_01682,,ambiguous,low,2,True,"hits=ENG,NAT; evidence=ENG:반도체 | NAT:물리; ambiguous_token=False",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_01683,,unknown,unknown,0,True,"no inherited, dictionary, or strict keyword evidence",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_01685,,ambiguous,low,1,True,hits=ENG; evidence=ENG:ict; ambiguous_token=True,exclude from samples requiring major/context/GOMS until manual approved
+OC2024_01686,,unknown,unknown,0,True,"no inherited, dictionary, or strict keyword evidence",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_01692,,unknown,unknown,0,True,"no inherited, dictionary, or strict keyword evidence",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_01699,,unknown,unknown,0,True,"no inherited, dictionary, or strict keyword evidence",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_01705,,unknown,unknown,0,True,"no inherited, dictionary, or strict keyword evidence",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_01711,,ambiguous,low,1,True,hits=ENG; evidence=ENG:기계/전자/공학; ambiguous_token=True,exclude from samples requiring major/context/GOMS until manual approved
+OC2024_01718,,ambiguous,low,1,True,hits=ENG; evidence=ENG:컴퓨터/소프트웨어; ambiguous_token=True,exclude from samples requiring major/context/GOMS until manual approved
+OC2024_01720,,unknown,unknown,0,True,"no inherited, dictionary, or strict keyword evidence",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_01721,,unknown,unknown,0,True,"no inherited, dictionary, or strict keyword evidence",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_01818,,unknown,unknown,0,True,"no inherited, dictionary, or strict keyword evidence",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_01820,,unknown,unknown,0,True,"no inherited, dictionary, or strict keyword evidence",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_01918,,ambiguous,low,4,True,"hits=MED,ART,SOC,HUM; evidence=MED:재활 | ART:뷰티 | SOC:사회복지/심리/상담 | HUM:언어; ambiguous_token=True",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_01962,,ambiguous,low,2,True,"hits=ENG,NAT; evidence=ENG:에너지 | NAT:수학/물리; ambiguous_token=False",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_02013,,ambiguous,low,2,True,"hits=ENG,EDU; evidence=ENG:기계 | EDU:교육; ambiguous_token=False",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_02023,,unknown,unknown,0,True,"no inherited, dictionary, or strict keyword evidence",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_02026,,unknown,unknown,0,True,"no inherited, dictionary, or strict keyword evidence",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_02033,,unknown,unknown,0,True,"no inherited, dictionary, or strict keyword evidence",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_02045,,ambiguous,low,1,True,hits=NAT; evidence=NAT:원예; ambiguous_token=True,exclude from samples requiring major/context/GOMS until manual approved
+OC2024_02056,,ambiguous,low,2,True,"hits=ENG,EDU; evidence=ENG:전자/전기 | EDU:교육; ambiguous_token=False",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_02058,,ambiguous,low,2,True,"hits=ENG,EDU; evidence=ENG:전자/공학 | EDU:교육; ambiguous_token=False",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_02064,,ambiguous,low,2,True,"hits=SOC,HUM; evidence=SOC:회계 | HUM:인문; ambiguous_token=True",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_02072,,ambiguous,low,2,True,"hits=ART,HUM; evidence=ART:콘텐츠 | HUM:문화콘텐츠; ambiguous_token=False",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_02248,,ambiguous,low,2,True,"hits=ENG,NAT; evidence=ENG:반도체 | NAT:물리/화학/과학; ambiguous_token=False",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_02408,,ambiguous,low,2,True,"hits=ENG,SOC; evidence=ENG:데이터 | SOC:비즈니스; ambiguous_token=True",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_02500,,ambiguous,low,2,True,"hits=ENG,NAT; evidence=ENG:화학공학/공학 | NAT:화학; ambiguous_token=False",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_02543,,ambiguous,low,2,True,"hits=ENG,ART; evidence=ENG:정보통신/공학 | ART:미디어; ambiguous_token=False",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_02706,,ambiguous,low,1,True,hits=ENG; evidence=ENG:데이터사이언스/데이터/전자/전기/정보통신; ambiguous_token=True,exclude from samples requiring major/context/GOMS until manual approved
+OC2024_02717,,ambiguous,low,2,True,"hits=ENG,NAT; evidence=ENG:공학 | NAT:생물/환경/수산/바이오/과학; ambiguous_token=True",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_02925,,ambiguous,low,2,True,"hits=ENG,SOC; evidence=ENG:항공 | SOC:호텔; ambiguous_token=False",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_02928,,ambiguous,low,2,True,"hits=ENG,ART; evidence=ENG:인공지능/데이터/정보통신/it/보안 | ART:콘텐츠/미디어; ambiguous_token=False",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_03090,,ambiguous,low,2,True,"hits=ART,SOC; evidence=ART:스포츠 | SOC:국제; ambiguous_token=False",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_03296,,ambiguous,low,2,True,"hits=NAT,HUM; evidence=NAT:화학 | HUM:영문/언어/문학; ambiguous_token=False",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_03298,,ambiguous,low,1,True,hits=EDU; evidence=EDU:교육; ambiguous_token=True,exclude from samples requiring major/context/GOMS until manual approved
+OC2024_03310,,ambiguous,low,2,True,"hits=ART,SOC; evidence=ART:영상/콘텐츠/미디어 | SOC:광고; ambiguous_token=False",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_03325,,ambiguous,low,2,True,"hits=ART,SOC; evidence=ART:디자인 | SOC:마케팅; ambiguous_token=True",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_03373,,ambiguous,low,2,True,"hits=MED,SOC; evidence=MED:의학 | SOC:상담; ambiguous_token=False",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_03396,,ambiguous,low,2,True,"hits=ART,SOC; evidence=ART:뷰티 | SOC:비즈니스; ambiguous_token=False",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_03415,,ambiguous,low,2,True,"hits=ART,SOC; evidence=ART:미술 | SOC:심리; ambiguous_token=False",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_03535,,ambiguous,low,2,True,"hits=ART,SOC; evidence=ART:예술 | SOC:방송; ambiguous_token=False",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_03982,,ambiguous,low,2,True,"hits=NAT,ART; evidence=NAT:동물 | ART:디자인/산업디자인; ambiguous_token=False",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_04010,,unknown,unknown,0,True,"no inherited, dictionary, or strict keyword evidence",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_04023,,unknown,unknown,0,True,"no inherited, dictionary, or strict keyword evidence",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_04464,,unknown,unknown,0,True,"no inherited, dictionary, or strict keyword evidence",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_04474,,unknown,unknown,0,True,"no inherited, dictionary, or strict keyword evidence",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_04511,,ambiguous,low,1,True,hits=SOC; evidence=SOC:경영; ambiguous_token=True,exclude from samples requiring major/context/GOMS until manual approved
+OC2024_04522,,ambiguous,low,2,True,"hits=ART,SOC; evidence=ART:스포츠 | SOC:경영; ambiguous_token=False",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_04527,,unknown,unknown,0,True,"no inherited, dictionary, or strict keyword evidence",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_04533,,ambiguous,low,1,True,hits=ART; evidence=ART:음악/실용음악/예술; ambiguous_token=True,exclude from samples requiring major/context/GOMS until manual approved
+OC2024_04538,,unknown,unknown,0,True,"no inherited, dictionary, or strict keyword evidence",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_04669,,ambiguous,low,3,True,"hits=MED,SOC,HUM; evidence=MED:보건/의료 | SOC:회계 | HUM:인문; ambiguous_token=False",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_04894,,unknown,unknown,0,True,"no inherited, dictionary, or strict keyword evidence",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_04934,,unknown,unknown,0,True,"no inherited, dictionary, or strict keyword evidence",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_04935,,unknown,unknown,0,True,"no inherited, dictionary, or strict keyword evidence",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_04936,,ambiguous,low,1,True,hits=ART; evidence=ART:영상/콘텐츠; ambiguous_token=True,exclude from samples requiring major/context/GOMS until manual approved
+OC2024_04939,,unknown,unknown,0,True,"no inherited, dictionary, or strict keyword evidence",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_04941,,unknown,unknown,0,True,"no inherited, dictionary, or strict keyword evidence",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_04946,,unknown,unknown,0,True,"no inherited, dictionary, or strict keyword evidence",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_04948,,ambiguous,low,4,True,"hits=ENG,ART,SOC,HUM; evidence=ENG:it | ART:콘텐츠 | SOC:비즈니스 | HUM:일문/문화콘텐츠; ambiguous_token=True",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_04950,,ambiguous,low,1,True,hits=ENG; evidence=ENG:전자/로봇/보안; ambiguous_token=True,exclude from samples requiring major/context/GOMS until manual approved
+OC2024_04953,,unknown,unknown,0,True,"no inherited, dictionary, or strict keyword evidence",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_04967,,ambiguous,low,3,True,"hits=NAT,EDU,HUM; evidence=NAT:화학 | EDU:교육/국어교육 | HUM:언어; ambiguous_token=False",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_05498,,unknown,unknown,0,True,"no inherited, dictionary, or strict keyword evidence",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_05724,,ambiguous,low,2,True,"hits=ART,SOC; evidence=ART:미디어 | SOC:경영; ambiguous_token=False",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_05753,,unknown,unknown,0,True,"no inherited, dictionary, or strict keyword evidence",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_05841,,ambiguous,low,2,True,"hits=ENG,NAT; evidence=ENG:공학 | NAT:바이오; ambiguous_token=False",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_05851,,ambiguous,low,2,True,"hits=ENG,ART; evidence=ENG:공학 | ART:디자인; ambiguous_token=False",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_05854,,unknown,unknown,0,True,"no inherited, dictionary, or strict keyword evidence",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_05856,,ambiguous,low,2,True,"hits=ENG,NAT; evidence=ENG:데이터사이언스/데이터 | NAT:통계; ambiguous_token=False",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_05865,,ambiguous,low,1,True,hits=ENG; evidence=ENG:공학/보안; ambiguous_token=True,exclude from samples requiring major/context/GOMS until manual approved
+OC2024_05875,,ambiguous,low,1,True,hits=ENG; evidence=ENG:에너지/공학; ambiguous_token=True,exclude from samples requiring major/context/GOMS until manual approved
+OC2024_05882,,ambiguous,low,2,True,"hits=ENG,NAT; evidence=ENG:에너지 | NAT:화학; ambiguous_token=True",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_06004,,ambiguous,low,1,True,hits=ENG; evidence=ENG:항공/공학; ambiguous_token=True,exclude from samples requiring major/context/GOMS until manual approved
+OC2024_06371,,unknown,unknown,0,True,"no inherited, dictionary, or strict keyword evidence",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_06754,,unknown,unknown,0,True,"no inherited, dictionary, or strict keyword evidence",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_06797,,unknown,unknown,0,True,"no inherited, dictionary, or strict keyword evidence",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_06807,,unknown,unknown,0,True,"no inherited, dictionary, or strict keyword evidence",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_06812,,unknown,unknown,0,True,"no inherited, dictionary, or strict keyword evidence",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_06813,,unknown,unknown,0,True,"no inherited, dictionary, or strict keyword evidence",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_06815,,ambiguous,low,2,True,"hits=ENG,NAT; evidence=ENG:공학 | NAT:물리; ambiguous_token=False",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_06819,,ambiguous,low,2,True,"hits=ENG,NAT; evidence=ENG:공학 | NAT:바이오; ambiguous_token=True",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_06820,,ambiguous,low,1,True,hits=ENG; evidence=ENG:반도체/공학; ambiguous_token=True,exclude from samples requiring major/context/GOMS until manual approved
+OC2024_06821,,ambiguous,low,2,True,"hits=ENG,NAT; evidence=ENG:반도체/공학 | NAT:환경; ambiguous_token=True",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_06836,,ambiguous,low,1,True,hits=ENG; evidence=ENG:전자/전기/공학; ambiguous_token=True,exclude from samples requiring major/context/GOMS until manual approved
+OC2024_06840,,ambiguous,low,2,True,"hits=MED,ENG; evidence=MED:의료 | ENG:공학; ambiguous_token=False",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_06848,,ambiguous,low,2,True,"hits=ENG,NAT; evidence=ENG:에너지/공학 | NAT:환경; ambiguous_token=False",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_06851,,unknown,unknown,0,True,"no inherited, dictionary, or strict keyword evidence",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_06852,,unknown,unknown,0,True,"no inherited, dictionary, or strict keyword evidence",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_06853,,unknown,unknown,0,True,"no inherited, dictionary, or strict keyword evidence",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_06854,,ambiguous,low,2,True,"hits=SOC,HUM; evidence=SOC:경영 | HUM:국문; ambiguous_token=False",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_06985,,unknown,unknown,0,True,"no inherited, dictionary, or strict keyword evidence",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_06986,,unknown,unknown,0,True,"no inherited, dictionary, or strict keyword evidence",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_06992,,unknown,unknown,0,True,"no inherited, dictionary, or strict keyword evidence",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_06998,,ambiguous,low,2,True,"hits=ART,SOC; evidence=ART:사진/예술 | SOC:방송; ambiguous_token=False",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_07002,,unknown,unknown,0,True,"no inherited, dictionary, or strict keyword evidence",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_07013,,ambiguous,low,2,True,"hits=NAT,ART; evidence=NAT:화학 | ART:영화; ambiguous_token=False",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_07019,,unknown,unknown,0,True,"no inherited, dictionary, or strict keyword evidence",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_07020,,unknown,unknown,0,True,"no inherited, dictionary, or strict keyword evidence",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_07024,,unknown,unknown,0,True,"no inherited, dictionary, or strict keyword evidence",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_07421,,unknown,unknown,0,True,"no inherited, dictionary, or strict keyword evidence",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_07437,,unknown,unknown,0,True,"no inherited, dictionary, or strict keyword evidence",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_07584,,ambiguous,low,2,True,"hits=ENG,NAT; evidence=ENG:기계/공학 | NAT:바이오; ambiguous_token=False",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_07879,,ambiguous,low,1,True,hits=ENG; evidence=ENG:공학; ambiguous_token=True,exclude from samples requiring major/context/GOMS until manual approved
+OC2024_07993,,ambiguous,low,2,True,"hits=ENG,NAT; evidence=ENG:공학 | NAT:환경; ambiguous_token=False",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_08024,,ambiguous,low,1,True,hits=ENG; evidence=ENG:자동차/공학/it; ambiguous_token=True,exclude from samples requiring major/context/GOMS until manual approved
+OC2024_08051,,ambiguous,low,2,True,"hits=ENG,NAT; evidence=ENG:토목/에너지/공학 | NAT:환경; ambiguous_token=False",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_08186,,ambiguous,low,2,True,"hits=SOC,HUM; evidence=SOC:상담 | HUM:언어; ambiguous_token=False",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_08340,,ambiguous,low,1,True,hits=ENG; evidence=ENG:자동차/공학; ambiguous_token=True,exclude from samples requiring major/context/GOMS until manual approved
+OC2024_08348,,ambiguous,low,2,True,"hits=NAT,HUM; evidence=NAT:화학 | HUM:철학/언어; ambiguous_token=False",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_08389,,ambiguous,low,1,True,hits=SOC; evidence=SOC:부동산/비즈니스; ambiguous_token=True,exclude from samples requiring major/context/GOMS until manual approved
+OC2024_08480,,ambiguous,low,2,True,"hits=NAT,HUM; evidence=NAT:화학 | HUM:문학; ambiguous_token=False",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_08486,,ambiguous,low,2,True,"hits=NAT,HUM; evidence=NAT:화학 | HUM:문학/러시아; ambiguous_token=False",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_08503,,ambiguous,low,2,True,"hits=ART,SOC; evidence=ART:음악/애니메이션/실용음악/예술/콘텐츠 | SOC:방송; ambiguous_token=False",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_08509,,ambiguous,low,2,True,"hits=ENG,NAT; evidence=ENG:공학 | NAT:동물/과학; ambiguous_token=False",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_08589,,ambiguous,low,2,True,"hits=NAT,HUM; evidence=NAT:과학 | HUM:인문; ambiguous_token=True",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_08699,,ambiguous,low,1,True,hits=ENG; evidence=ENG:에너지/공학; ambiguous_token=True,exclude from samples requiring major/context/GOMS until manual approved
+OC2024_09009,,ambiguous,low,2,True,"hits=ENG,NAT; evidence=ENG:ict | NAT:환경; ambiguous_token=True",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_09273,,unknown,unknown,0,True,"no inherited, dictionary, or strict keyword evidence",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_09274,,unknown,unknown,0,True,"no inherited, dictionary, or strict keyword evidence",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_09335,,unknown,unknown,0,True,"no inherited, dictionary, or strict keyword evidence",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_09351,,unknown,unknown,0,True,"no inherited, dictionary, or strict keyword evidence",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_09380,,unknown,unknown,0,True,"no inherited, dictionary, or strict keyword evidence",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_09508,,ambiguous,low,3,True,"hits=ENG,EDU,HUM; evidence=ENG:공학 | EDU:교육 | HUM:인문; ambiguous_token=True",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_09755,,ambiguous,low,1,True,hits=ENG; evidence=ENG:소프트웨어; ambiguous_token=True,exclude from samples requiring major/context/GOMS until manual approved
+OC2024_09780,,unknown,unknown,0,True,"no inherited, dictionary, or strict keyword evidence",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_10173,,ambiguous,low,2,True,"hits=ART,SOC; evidence=ART:디자인/예술 | SOC:경영; ambiguous_token=False",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_10199,,ambiguous,low,2,True,"hits=ENG,ART; evidence=ENG:건축공학/공학 | ART:디자인; ambiguous_token=False",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_10208,,ambiguous,low,2,True,"hits=ENG,NAT; evidence=ENG:화학공학/공학 | NAT:화학/바이오; ambiguous_token=False",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_10210,,unknown,unknown,0,True,"no inherited, dictionary, or strict keyword evidence",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_10211,,ambiguous,low,2,True,"hits=ART,SOC; evidence=ART:영상 | SOC:경영; ambiguous_token=False",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_10216,,unknown,unknown,0,True,"no inherited, dictionary, or strict keyword evidence",exclude from samples requiring major/context/GOMS until manual approved
+OC2024_10219,,ambiguous,low,1,True,hits=ENG; evidence=ENG:전자/전기/공학; ambiguous_token=True,exclude from samples requiring major/context/GOMS until manual approved

@@ -1,0 +1,624 @@
+{
+  "audit_dir": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/audit",
+  "bridge": {
+    "exact_normalized_bad_rows": 0,
+    "candidate_ge2_auto_confirmed": 0,
+    "campus_scope_auto_mismatch": 0,
+    "manual_review_rows": 327,
+    "manual_review_approval_columns_present": []
+  },
+  "major": {
+    "method_counts": {
+      "inherited_headcount": 4711,
+      "exact_dictionary": 3481,
+      "keyword_rule": 1169,
+      "ambiguous": 472,
+      "unknown": 409
+    },
+    "auto_rows": 9361,
+    "auto_keyword_contradiction_rows": 541,
+    "auto_ambiguous_token_rows": 246,
+    "wrong_auto_rate_rule_based": 0.0577929708364491
+  },
+  "d06_compare": [
+    {
+      "column": "employment_rate_pct",
+      "rows_compared": 91,
+      "max_abs_diff": 3.8035253311363704e-06,
+      "mismatch_rows_gt_1e_4": 0
+    },
+    {
+      "column": "unemployment_rate_pct",
+      "rows_compared": 91,
+      "max_abs_diff": 4.7020445315126835e-07,
+      "mismatch_rows_gt_1e_4": 0
+    },
+    {
+      "column": "inactivity_rate_pct",
+      "rows_compared": 91,
+      "max_abs_diff": 9.431400762593967e-07,
+      "mismatch_rows_gt_1e_4": 0
+    },
+    {
+      "column": "industry_top1_pct",
+      "rows_compared": 91,
+      "max_abs_diff": 3.051757815342171e-06,
+      "mismatch_rows_gt_1e_4": 0
+    },
+    {
+      "column": "industry_top3_pct",
+      "rows_compared": 91,
+      "max_abs_diff": 3.051757815342171e-06,
+      "mismatch_rows_gt_1e_4": 0
+    },
+    {
+      "column": "industry_hhi",
+      "rows_compared": 91,
+      "max_abs_diff": 2.898859197131287e-08,
+      "mismatch_rows_gt_1e_4": 0
+    },
+    {
+      "column": "industry_entropy",
+      "rows_compared": 91,
+      "max_abs_diff": 1.1710204628201382e-07,
+      "mismatch_rows_gt_1e_4": 0
+    },
+    {
+      "column": "firm_size_hhi",
+      "rows_compared": 91,
+      "max_abs_diff": 1.474710487059383e-08,
+      "mismatch_rows_gt_1e_4": 0
+    },
+    {
+      "column": "public_nonprofit_pct",
+      "rows_compared": 91,
+      "max_abs_diff": 1.5258789076710855e-06,
+      "mismatch_rows_gt_1e_4": 0
+    },
+    {
+      "column": "unstable_pct",
+      "rows_compared": 91,
+      "max_abs_diff": 7.629394538355427e-07,
+      "mismatch_rows_gt_1e_4": 0
+    },
+    {
+      "column": "occupation_hhi",
+      "rows_compared": 91,
+      "max_abs_diff": 2.814389676863982e-08,
+      "mismatch_rows_gt_1e_4": 0
+    },
+    {
+      "column": "hourly_income_proxy",
+      "rows_compared": 91,
+      "max_abs_diff": 5.922503731881079e-08,
+      "mismatch_rows_gt_1e_4": 0
+    }
+  ],
+  "d07_compare_max_mismatch_rows": 0,
+  "d07_compare": [
+    {
+      "column": "profile_start_year",
+      "rows_compared": 7,
+      "max_abs_diff": 0.0,
+      "mismatch_rows": 0
+    },
+    {
+      "column": "profile_end_year",
+      "rows_compared": 7,
+      "max_abs_diff": 0.0,
+      "mismatch_rows": 0
+    },
+    {
+      "column": "profile_years_n",
+      "rows_compared": 7,
+      "max_abs_diff": 0.0,
+      "mismatch_rows": 0
+    },
+    {
+      "column": "aggregation_method",
+      "rows_compared": 7,
+      "max_abs_diff": NaN,
+      "mismatch_rows": 0
+    },
+    {
+      "column": "recent_employment_rate_pct",
+      "rows_compared": 7,
+      "max_abs_diff": 2.1496389450703646e-06,
+      "mismatch_rows": 0
+    },
+    {
+      "column": "recent_firm_300plus_pct",
+      "rows_compared": 7,
+      "max_abs_diff": 6.746871648033448e-07,
+      "mismatch_rows": 0
+    },
+    {
+      "column": "recent_public_nonprofit_pct",
+      "rows_compared": 7,
+      "max_abs_diff": 1.7313223210635442e-06,
+      "mismatch_rows": 0
+    },
+    {
+      "column": "recent_permanent_pct",
+      "rows_compared": 7,
+      "max_abs_diff": 2.8727966991937137e-06,
+      "mismatch_rows": 0
+    },
+    {
+      "column": "recent_unstable_pct",
+      "rows_compared": 7,
+      "max_abs_diff": 9.495187605068622e-07,
+      "mismatch_rows": 0
+    },
+    {
+      "column": "recent_self_employed_pct",
+      "rows_compared": 7,
+      "max_abs_diff": 2.3648751668048362e-07,
+      "mismatch_rows": 0
+    },
+    {
+      "column": "recent_industry_hhi",
+      "rows_compared": 7,
+      "max_abs_diff": 1.3108110263893025e-08,
+      "mismatch_rows": 0
+    },
+    {
+      "column": "recent_industry_top3_pct",
+      "rows_compared": 7,
+      "max_abs_diff": 1.7894065678092375e-06,
+      "mismatch_rows": 0
+    },
+    {
+      "column": "recent_professional_highskill_pct",
+      "rows_compared": 7,
+      "max_abs_diff": 3.4485093891589713e-06,
+      "mismatch_rows": 0
+    },
+    {
+      "column": "recent_mean_income_10kkrw",
+      "rows_compared": 7,
+      "max_abs_diff": 1.3272882767978444e-05,
+      "mismatch_rows": 0
+    },
+    {
+      "column": "recent_weekly_work_hours",
+      "rows_compared": 7,
+      "max_abs_diff": 1.2515421730086018e-06,
+      "mismatch_rows": 0
+    },
+    {
+      "column": "recent_hourly_income_proxy",
+      "rows_compared": 7,
+      "max_abs_diff": 4.9045645544865124e-08,
+      "mismatch_rows": 0
+    },
+    {
+      "column": "income_trend_per_year",
+      "rows_compared": 7,
+      "max_abs_diff": 1.5719933710300893e-07,
+      "mismatch_rows": 0
+    },
+    {
+      "column": "hours_trend_per_year",
+      "rows_compared": 7,
+      "max_abs_diff": 2.8819808095548183e-08,
+      "mismatch_rows": 0
+    },
+    {
+      "column": "firm_300plus_trend_per_year",
+      "rows_compared": 7,
+      "max_abs_diff": 6.0587200534367724e-09,
+      "mismatch_rows": 0
+    },
+    {
+      "column": "permanent_trend_per_year",
+      "rows_compared": 7,
+      "max_abs_diff": 1.4409921755831334e-08,
+      "mismatch_rows": 0
+    },
+    {
+      "column": "latest_2019_mean_income_10kkrw",
+      "rows_compared": 7,
+      "max_abs_diff": 0.0,
+      "mismatch_rows": 0
+    },
+    {
+      "column": "latest_2019_weekly_work_hours",
+      "rows_compared": 7,
+      "max_abs_diff": 0.0,
+      "mismatch_rows": 0
+    },
+    {
+      "column": "latest_2019_firm_300plus_pct",
+      "rows_compared": 7,
+      "max_abs_diff": 0.0,
+      "mismatch_rows": 0
+    },
+    {
+      "column": "latest_2019_permanent_pct",
+      "rows_compared": 7,
+      "max_abs_diff": 0.0,
+      "mismatch_rows": 0
+    },
+    {
+      "column": "source_years_observed",
+      "rows_compared": 7,
+      "max_abs_diff": 0.0,
+      "mismatch_rows": 0
+    },
+    {
+      "column": "year_over_year_review_flag",
+      "rows_compared": 7,
+      "max_abs_diff": NaN,
+      "mismatch_rows": 0
+    },
+    {
+      "column": "mapping_confidence",
+      "rows_compared": 7,
+      "max_abs_diff": NaN,
+      "mismatch_rows": 0
+    },
+    {
+      "column": "row_qa_status",
+      "rows_compared": 7,
+      "max_abs_diff": NaN,
+      "mismatch_rows": 0
+    }
+  ],
+  "goms_extra": {
+    "frequency_identity_max_abs_gap": 2.0,
+    "frequency_identity_nonzero_rows": 84,
+    "distribution_reclass_counts": {
+      "PASS": 498,
+      "WARN": 74
+    },
+    "distribution_max_abs_error": 1.7000000000000028,
+    "distribution_warn_or_worse": 74,
+    "occupation_review_rows": 8,
+    "occupation_review_other_rows": 0,
+    "occupation_arbitrary_rows": 0,
+    "occupation_schema_boundary_bad_rows": 0
+  },
+  "split_samples": [
+    {
+      "type": "split",
+      "id": "test",
+      "rows": 1199,
+      "schools": 30,
+      "major_counts": {
+        "ENG": 260,
+        "SOC": 254,
+        "ART": 204,
+        "<NA>": 129,
+        "NAT": 102,
+        "HUM": 85,
+        "EDU": 83,
+        "MED": 82
+      },
+      "outcome_observed_a_rate": 1199.0,
+      "headcount_match_rate": 0.31526271893244373,
+      "split_counts": NaN
+    },
+    {
+      "type": "split",
+      "id": "train",
+      "rows": 7529,
+      "schools": 140,
+      "major_counts": {
+        "ENG": 1758,
+        "SOC": 1466,
+        "NAT": 969,
+        "ART": 914,
+        "HUM": 862,
+        "<NA>": 640,
+        "EDU": 541,
+        "MED": 379
+      },
+      "outcome_observed_a_rate": 7529.0,
+      "headcount_match_rate": 0.49634745650152745,
+      "split_counts": NaN
+    },
+    {
+      "type": "split",
+      "id": "val",
+      "rows": 1514,
+      "schools": 30,
+      "major_counts": {
+        "ENG": 354,
+        "SOC": 284,
+        "ART": 219,
+        "NAT": 181,
+        "HUM": 155,
+        "<NA>": 112,
+        "EDU": 106,
+        "MED": 103
+      },
+      "outcome_observed_a_rate": 1514.0,
+      "headcount_match_rate": 0.39365918097754293,
+      "split_counts": NaN
+    },
+    {
+      "type": "sample",
+      "id": "GRADE_ALL",
+      "rows": 10242,
+      "schools": 200,
+      "major_counts": {
+        "ENG": 2372,
+        "SOC": 2004,
+        "ART": 1337,
+        "NAT": 1252,
+        "HUM": 1102,
+        "<NA>": 881,
+        "EDU": 730,
+        "MED": 564
+      },
+      "outcome_observed_a_rate": NaN,
+      "headcount_match_rate": NaN,
+      "split_counts": {
+        "train": 7529,
+        "val": 1514,
+        "test": 1199
+      }
+    },
+    {
+      "type": "sample",
+      "id": "GRADE_SELECTIVITY",
+      "rows": 3737,
+      "schools": 151,
+      "major_counts": {
+        "ENG": 929,
+        "SOC": 685,
+        "NAT": 552,
+        "HUM": 427,
+        "EDU": 383,
+        "MED": 289,
+        "ART": 272,
+        "<NA>": 200
+      },
+      "outcome_observed_a_rate": NaN,
+      "headcount_match_rate": NaN,
+      "split_counts": {
+        "train": 2787,
+        "val": 586,
+        "test": 364
+      }
+    },
+    {
+      "type": "sample",
+      "id": "EMPLOYMENT_HEALTH",
+      "rows": 7477,
+      "schools": 188,
+      "major_counts": {
+        "ENG": 1610,
+        "SOC": 1458,
+        "ART": 966,
+        "NAT": 944,
+        "HUM": 864,
+        "EDU": 673,
+        "<NA>": 515,
+        "MED": 447
+      },
+      "outcome_observed_a_rate": NaN,
+      "headcount_match_rate": NaN,
+      "split_counts": {
+        "train": 5494,
+        "val": 1127,
+        "test": 856
+      }
+    },
+    {
+      "type": "sample",
+      "id": "PROGRESSION_GRADSCHOOL",
+      "rows": 7587,
+      "schools": 197,
+      "major_counts": {
+        "ENG": 1614,
+        "SOC": 1472,
+        "ART": 972,
+        "NAT": 947,
+        "HUM": 921,
+        "EDU": 684,
+        "<NA>": 530,
+        "MED": 447
+      },
+      "outcome_observed_a_rate": NaN,
+      "headcount_match_rate": NaN,
+      "split_counts": {
+        "train": 5566,
+        "val": 1147,
+        "test": 874
+      }
+    },
+    {
+      "type": "sample",
+      "id": "JOINT_EMP_PROG",
+      "rows": 7477,
+      "schools": 188,
+      "major_counts": {
+        "ENG": 1610,
+        "SOC": 1458,
+        "ART": 966,
+        "NAT": 944,
+        "HUM": 864,
+        "EDU": 673,
+        "<NA>": 515,
+        "MED": 447
+      },
+      "outcome_observed_a_rate": NaN,
+      "headcount_match_rate": NaN,
+      "split_counts": {
+        "train": 5494,
+        "val": 1127,
+        "test": 856
+      }
+    }
+  ],
+  "logs": [
+    {
+      "path": "logs/decision_log.jsonl",
+      "sha256": "96d4e74ac368256fa78743e2853a957154e33dda076a7c3d267c8ba835b90911",
+      "size_bytes": 1371,
+      "jsonl_records": 4.0,
+      "agents": "",
+      "datasets": "",
+      "first_timestamp": "2026-07-12T20:42:31",
+      "last_timestamp": "2026-07-12T20:42:37",
+      "json_top_keys": NaN,
+      "notebook": NaN,
+      "run_started_at": NaN,
+      "run_finished_at": NaN,
+      "created_at": NaN,
+      "completed_at": NaN,
+      "agent": NaN
+    },
+    {
+      "path": "logs/merge_audit.csv",
+      "sha256": "57f1e4a2f41351b1af882f14a396390c44a337cc5411e90ded8c0bd01031b01e",
+      "size_bytes": 1268,
+      "jsonl_records": NaN,
+      "agents": NaN,
+      "datasets": NaN,
+      "first_timestamp": NaN,
+      "last_timestamp": NaN,
+      "json_top_keys": NaN,
+      "notebook": NaN,
+      "run_started_at": NaN,
+      "run_finished_at": NaN,
+      "created_at": NaN,
+      "completed_at": NaN,
+      "agent": NaN
+    },
+    {
+      "path": "logs/p3_1_run_manifest.json",
+      "sha256": "5cb269728509a54ed82c39f160e2160f9a0ebbf5c49f74a4b063c2d3b37aaca1",
+      "size_bytes": 9528,
+      "jsonl_records": NaN,
+      "agents": NaN,
+      "datasets": NaN,
+      "first_timestamp": NaN,
+      "last_timestamp": NaN,
+      "json_top_keys": "run_started_at|run_finished_at|notebook|d08_status|source_manifest|outputs|match_method_distribution|headcount_high_confidence_match_rate|major7_mapping_distribution|outcome_non_null_counts|split_summary|failed_checks",
+      "notebook": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/p3_1.ipynb",
+      "run_started_at": "2026-07-12T20:42:30",
+      "run_finished_at": "2026-07-12T20:42:38",
+      "created_at": NaN,
+      "completed_at": NaN,
+      "agent": NaN
+    },
+    {
+      "path": "logs/p3_1_run_manifest_initial.json",
+      "sha256": "981c7e322fb85d8bd08bdb2d21f76bcbcac0dbbe5595ee6b8af539ee57773a8c",
+      "size_bytes": 3232,
+      "jsonl_records": NaN,
+      "agents": NaN,
+      "datasets": NaN,
+      "first_timestamp": NaN,
+      "last_timestamp": NaN,
+      "json_top_keys": "run_started_at|notebook|python|platform|pandas|numpy|pyarrow|source_manifest",
+      "notebook": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/p3_1.ipynb",
+      "run_started_at": "2026-07-12T20:42:30",
+      "run_finished_at": NaN,
+      "created_at": NaN,
+      "completed_at": NaN,
+      "agent": NaN
+    },
+    {
+      "path": "logs/run_manifest.json",
+      "sha256": "5cb269728509a54ed82c39f160e2160f9a0ebbf5c49f74a4b063c2d3b37aaca1",
+      "size_bytes": 9528,
+      "jsonl_records": NaN,
+      "agents": NaN,
+      "datasets": NaN,
+      "first_timestamp": NaN,
+      "last_timestamp": NaN,
+      "json_top_keys": "run_started_at|run_finished_at|notebook|d08_status|source_manifest|outputs|match_method_distribution|headcount_high_confidence_match_rate|major7_mapping_distribution|outcome_non_null_counts|split_summary|failed_checks",
+      "notebook": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/p3_1.ipynb",
+      "run_started_at": "2026-07-12T20:42:30",
+      "run_finished_at": "2026-07-12T20:42:38",
+      "created_at": NaN,
+      "completed_at": NaN,
+      "agent": NaN
+    },
+    {
+      "path": "logs/run_manifest_initial.json",
+      "sha256": "981c7e322fb85d8bd08bdb2d21f76bcbcac0dbbe5595ee6b8af539ee57773a8c",
+      "size_bytes": 3232,
+      "jsonl_records": NaN,
+      "agents": NaN,
+      "datasets": NaN,
+      "first_timestamp": NaN,
+      "last_timestamp": NaN,
+      "json_top_keys": "run_started_at|notebook|python|platform|pandas|numpy|pyarrow|source_manifest",
+      "notebook": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/p3_1.ipynb",
+      "run_started_at": "2026-07-12T20:42:30",
+      "run_finished_at": NaN,
+      "created_at": NaN,
+      "completed_at": NaN,
+      "agent": NaN
+    },
+    {
+      "path": "logs/schema_deviation_report.csv",
+      "sha256": "0e00b31b467ffcd91541a0dacb251f1f910832e379e11f28c9829c7411d50632",
+      "size_bytes": 258,
+      "jsonl_records": NaN,
+      "agents": NaN,
+      "datasets": NaN,
+      "first_timestamp": NaN,
+      "last_timestamp": NaN,
+      "json_top_keys": NaN,
+      "notebook": NaN,
+      "run_started_at": NaN,
+      "run_finished_at": NaN,
+      "created_at": NaN,
+      "completed_at": NaN,
+      "agent": NaN
+    },
+    {
+      "path": "logs/transformation_log.jsonl",
+      "sha256": "0d76c6adefd14bf2c5cfed1beabadf57523ab88eb4da3af28200d585bfd51180",
+      "size_bytes": 1832,
+      "jsonl_records": 6.0,
+      "agents": "",
+      "datasets": "D01|D02|D03|D04|D05|D08",
+      "first_timestamp": "2026-07-12T20:42:31",
+      "last_timestamp": "2026-07-12T20:42:37",
+      "json_top_keys": NaN,
+      "notebook": NaN,
+      "run_started_at": NaN,
+      "run_finished_at": NaN,
+      "created_at": NaN,
+      "completed_at": NaN,
+      "agent": NaN
+    },
+    {
+      "path": "shared_handoff/goms_run_manifest.json",
+      "sha256": "a48daa356de504d5c0eadd6fd7ad5512de88b64e0daa60e55fd262b883ef6c0f",
+      "size_bytes": 7223,
+      "jsonl_records": NaN,
+      "agents": NaN,
+      "datasets": NaN,
+      "first_timestamp": NaN,
+      "last_timestamp": NaN,
+      "json_top_keys": "created_at|project_dir|python|platform|pandas|numpy|pyarrow|inputs|long_schema_checks|completed_at|outputs|qa|logs",
+      "notebook": NaN,
+      "run_started_at": NaN,
+      "run_finished_at": NaN,
+      "created_at": "2026-07-12T20:40:42+09:00",
+      "completed_at": "2026-07-12T20:40:43+09:00",
+      "agent": NaN
+    }
+  ],
+  "created_files": [
+    "audit/bridge_full_joined_audit.csv",
+    "audit/bridge_stratified_sample_seed3085.csv",
+    "audit/goms_d06_requested_recalc_rowdiff.csv",
+    "audit/goms_d07_recent_profile_recalc_rowdiff.csv",
+    "audit/goms_distribution_sum_reclassified.csv",
+    "audit/goms_frequency_identity_nonzero_gaps.csv",
+    "audit/goms_occupation_crosswalk_review_audit.csv",
+    "audit/major_full_joined_audit.csv",
+    "audit/major_mapping_stratified_sample_seed3085.csv",
+    "audit/major_special_terms_audit.csv",
+    "audit/split_sample_summary.csv"
+  ]
+}

@@ -1,0 +1,562 @@
+﻿sample_group,outcome_row_id,school_name_raw,campus_name_raw,dept_field_raw,dept_name_raw,match_method,major_group_7,major7_mapping_method,major7_mapping_confidence,major7_evidence,audit_keyword_hits,audit_ambiguous_token,audit_keyword_evidence,audit_auto_major_contradiction,audit_auto_ambiguous_token
+inherited_headcount,OC2024_09247,한국예술종합학교,,성악과,성악과,exact_normalized,,inherited_headcount,high,matched headcount 대계열=예체능,,False,,False,False
+inherited_headcount,OC2024_07045,예원예술대학교_제2캠퍼스,제2캠퍼스,만화게임영상,만화게임영상전공,exact_normalized,,inherited_headcount,high,matched headcount 대계열=예체능,ART,False,ART:영상/만화,False,False
+inherited_headcount,OC2024_04603,목원대학교,,애니메이션,애니메이션학과,exact_normalized,,inherited_headcount,high,matched headcount 대계열=예체능,ART,False,ART:애니메이션,False,False
+inherited_headcount,OC2024_02877,극동대학교,,연극연기,연극연기학과,exact_normalized,,inherited_headcount,high,matched headcount 대계열=예체능,ART,False,ART:연극,False,False
+inherited_headcount,OC2024_07654,인천가톨릭대학교_제2캠퍼스,제2캠퍼스,환경디자인,환경디자인학과,exact_normalized,,inherited_headcount,high,matched headcount 대계열=예체능,"NAT,ART",False,NAT:환경 | ART:디자인,False,False
+inherited_headcount,OC2024_07828,전남대학교,,디자인,디자인학과,exact_normalized,,inherited_headcount,high,matched headcount 대계열=예체능,ART,False,ART:디자인,False,False
+inherited_headcount,OC2024_00801,경남대학교,,경호보안,경호보안학과,exact_normalized,,inherited_headcount,high,matched headcount 대계열=예체능,ENG,False,ENG:보안,True,False
+inherited_headcount,OC2024_07456,을지대학교_제2캠퍼스,제2캠퍼스,미용화장품과,미용화장품과학과,exact_normalized,,inherited_headcount,high,matched headcount 대계열=예체능,NAT,False,NAT:과학,True,False
+inherited_headcount,OC2024_04571,목원대학교,,만화・애니메이션과,만화・애니메이션과,exact_normalized,,inherited_headcount,high,matched headcount 대계열=예체능,ART,False,ART:애니메이션/만화,False,False
+inherited_headcount,OC2024_01258,경성대학교,,스포츠건강,스포츠건강학과,exact_normalized,,inherited_headcount,high,matched headcount 대계열=예체능,ART,False,ART:스포츠,False,False
+inherited_headcount,OC2024_01356,경인교육대학교_제2캠퍼스,제2캠퍼스,초등윤리교육과,초등윤리교육과(심화과정),exact_normalized,,inherited_headcount,high,matched headcount 대계열=교육,EDU,False,EDU:교육,False,False
+inherited_headcount,OC2024_01163,경상국립대학교,,일어교육과,일어교육과,exact_normalized,,inherited_headcount,high,matched headcount 대계열=교육,EDU,False,EDU:교육,False,False
+inherited_headcount,OC2024_04460,루터대학교,,언어치료,언어치료학과,exact_normalized,,inherited_headcount,high,matched headcount 대계열=교육,HUM,False,HUM:언어,True,False
+inherited_headcount,OC2024_04751,백석대학교,,특수교육과,특수교육과,exact_normalized,,inherited_headcount,high,matched headcount 대계열=교육,EDU,False,EDU:교육/특수교육,False,False
+inherited_headcount,OC2024_09375,한국외국어대학교,,한국어교육과,한국어교육과,exact_normalized,,inherited_headcount,high,matched headcount 대계열=교육,EDU,False,EDU:교육/국어교육,False,False
+inherited_headcount,OC2024_07761,인하대학교,,사회교육과,사회교육과,exact_normalized,,inherited_headcount,high,matched headcount 대계열=교육,EDU,False,EDU:교육/사회교육,False,False
+inherited_headcount,OC2024_02989,남부대학교,,유아특수교육과,유아특수교육과,exact_normalized,,inherited_headcount,high,matched headcount 대계열=교육,EDU,False,EDU:교육/특수교육,False,False
+inherited_headcount,OC2024_08809,충남대학교,,기계공학교육과,기계공학교육과,exact_normalized,,inherited_headcount,high,matched headcount 대계열=교육,"ENG,EDU",False,ENG:기계/공학 | EDU:교육,False,False
+inherited_headcount,OC2024_08996,충북대학교,,화학교육과,화학교육과,exact_normalized,,inherited_headcount,high,matched headcount 대계열=교육,"NAT,EDU",False,NAT:화학 | EDU:교육,False,False
+inherited_headcount,OC2024_02333,국립목포대학교,,윤리교육과,윤리교육과,exact_normalized,,inherited_headcount,high,matched headcount 대계열=교육,EDU,False,EDU:교육,False,False
+inherited_headcount,OC2024_04797,부산대학교,,광메카트로닉스공,광메카트로닉스공학과,exact_normalized,,inherited_headcount,high,matched headcount 대계열=공학,ENG,False,ENG:공학,False,False
+inherited_headcount,OC2024_08542,중원대학교,,소방안전,소방안전학과,exact_normalized,,inherited_headcount,high,matched headcount 대계열=공학,SOC,False,SOC:소방,True,False
+inherited_headcount,OC2024_07861,전남대학교,,에너지자원공,에너지자원공학과,exact_normalized,,inherited_headcount,high,matched headcount 대계열=공학,ENG,False,ENG:에너지/공학,False,False
+inherited_headcount,OC2024_01028,경북대학교,,응용화학공화학공학,응용화학공학부 화학공학전공,exact_normalized,,inherited_headcount,high,matched headcount 대계열=공학,"ENG,NAT",False,ENG:화학공학/공학 | NAT:화학,False,False
+inherited_headcount,OC2024_07816,전남대학교,,고분자융합소재공,고분자융합소재공학부,exact_normalized,,inherited_headcount,high,matched headcount 대계열=공학,ENG,True,ENG:공학,False,True
+inherited_headcount,OC2024_00616,건국대학교(글로컬)_분교,분교|글로컬,의용전자공학트랙,의용전자공학전공 트랙,exact_normalized,,inherited_headcount,high,matched headcount 대계열=공학,ENG,False,ENG:전자/공학,False,False
+inherited_headcount,OC2024_07180,우송대학교,,철도건설시스템건축공학,철도건설시스템학부 건축공학전공,exact_normalized,,inherited_headcount,high,matched headcount 대계열=공학,ENG,False,ENG:건축공학/공학/철도,False,False
+inherited_headcount,OC2024_04544,목원대학교,,게임콘텐츠,게임콘텐츠학과,exact_normalized,,inherited_headcount,high,matched headcount 대계열=공학,,False,,False,False
+inherited_headcount,OC2024_05240,서경대학교,,나노융합공,나노융합공학과,exact_normalized,,inherited_headcount,high,matched headcount 대계열=공학,ENG,True,ENG:공학,False,True
+inherited_headcount,OC2024_01002,경북대학교,,에너지공,에너지공학부,exact_normalized,,inherited_headcount,high,matched headcount 대계열=공학,ENG,False,ENG:에너지/공학,False,False
+inherited_headcount,OC2024_01928,광주여자대학교,,어린이영어교육,어린이영어교육학과,exact_normalized,,inherited_headcount,high,matched headcount 대계열=인문,EDU,False,EDU:교육/영어교육,True,False
+inherited_headcount,OC2024_01113,경상국립대학교,,불어불문,불어불문학과,exact_normalized,,inherited_headcount,high,matched headcount 대계열=인문,HUM,False,HUM:문학/불문,False,False
+inherited_headcount,OC2024_04815,부산대학교,,문헌정보,문헌정보학과,exact_normalized,,inherited_headcount,high,matched headcount 대계열=인문,HUM,False,HUM:문헌정보,False,False
+inherited_headcount,OC2024_01272,경성대학교,,영어영문,영어영문학과,exact_normalized,,inherited_headcount,high,matched headcount 대계열=인문,HUM,False,HUM:영문/문학,False,False
+inherited_headcount,OC2024_07794,인하대학교,,철,철학과,exact_normalized,,inherited_headcount,high,matched headcount 대계열=인문,HUM,False,HUM:철학,False,False
+inherited_headcount,OC2024_00861,경남대학교,,한국어문,한국어문학과,exact_normalized,,inherited_headcount,high,matched headcount 대계열=인문,HUM,False,HUM:문학,False,False
+inherited_headcount,OC2024_08847,충남대학교,,심리,심리학과,exact_normalized,,inherited_headcount,high,matched headcount 대계열=인문,SOC,False,SOC:심리,True,False
+inherited_headcount,OC2024_10169,홍익대학교,,독어독문,독어독문학과,exact_normalized,,inherited_headcount,high,matched headcount 대계열=인문,HUM,False,HUM:문학/독문,False,False
+inherited_headcount,OC2024_04608,목원대학교,,영어영문,영어영문학과,exact_normalized,,inherited_headcount,high,matched headcount 대계열=인문,HUM,False,HUM:영문/문학,False,False
+inherited_headcount,OC2024_06764,연세대학교,,융합인문사회과,융합인문사회과학부,exact_normalized,,inherited_headcount,high,matched headcount 대계열=인문,"NAT,HUM",True,NAT:과학 | HUM:인문,False,True
+inherited_headcount,OC2024_04006,동명대학교,,의료기기,의료기기학과,exact_normalized,,inherited_headcount,high,matched headcount 대계열=의약,MED,False,MED:의료,False,False
+inherited_headcount,OC2024_02982,남부대학교,,물리치료,물리치료학과,exact_normalized,,inherited_headcount,high,matched headcount 대계열=의약,"MED,NAT",False,MED:물리치료 | NAT:물리,False,False
+inherited_headcount,OC2024_01917,광주여자대학교,,물리치료,물리치료학과,exact_normalized,,inherited_headcount,high,matched headcount 대계열=의약,"MED,NAT",False,MED:물리치료 | NAT:물리,False,False
+inherited_headcount,OC2024_03997,동명대학교,,언어치료청각재활,언어치료청각재활학과,exact_normalized,,inherited_headcount,high,matched headcount 대계열=의약,"MED,HUM",False,MED:재활 | HUM:언어,False,False
+inherited_headcount,OC2024_01980,국립강릉원주대학교(폐교),,치의,치의학과,exact_normalized,,inherited_headcount,high,matched headcount 대계열=의약,MED,False,MED:의학/치의,False,False
+inherited_headcount,OC2024_00175,가톨릭꽃동네대학교,,간호,간호학과,exact_normalized,,inherited_headcount,high,matched headcount 대계열=의약,MED,False,MED:간호,False,False
+inherited_headcount,OC2024_03198,대구가톨릭대학교,,산업보건학,산업보건학전공,exact_normalized,,inherited_headcount,high,matched headcount 대계열=의약,MED,False,MED:보건,False,False
+inherited_headcount,OC2024_08549,중원대학교,,의료공,의료공학과,exact_normalized,,inherited_headcount,high,matched headcount 대계열=의약,"MED,ENG",False,MED:의료 | ENG:공학,False,False
+inherited_headcount,OC2024_03186,대구가톨릭대학교,,방사선,방사선학과,exact_normalized,,inherited_headcount,high,matched headcount 대계열=의약,MED,False,MED:방사선,False,False
+inherited_headcount,OC2024_08047,전북대학교,,치의,치의학과,exact_normalized,,inherited_headcount,high,matched headcount 대계열=의약,MED,False,MED:의학/치의,False,False
+inherited_headcount,OC2024_07831,전남대학교,,물리,물리학과,exact_normalized,,inherited_headcount,high,matched headcount 대계열=자연,NAT,False,NAT:물리,False,False
+inherited_headcount,OC2024_08039,전북대학교,,주거환경,주거환경학과,exact_normalized,,inherited_headcount,high,matched headcount 대계열=자연,NAT,False,NAT:환경,False,False
+inherited_headcount,OC2024_03200,대구가톨릭대학교,,생명공,생명공학과,exact_normalized,,inherited_headcount,high,matched headcount 대계열=자연,ENG,False,ENG:공학,True,False
+inherited_headcount,OC2024_08951,충북대학교,,식품영양,식품영양학과,exact_normalized,,inherited_headcount,high,matched headcount 대계열=자연,NAT,False,NAT:식품영양,False,False
+inherited_headcount,OC2024_05374,서울대학교,,생명과,생명과학부,exact_normalized,,inherited_headcount,high,matched headcount 대계열=자연,NAT,False,NAT:생명과학/과학,False,False
+inherited_headcount,OC2024_09463,한남대학교,,수,수학과,exact_normalized,,inherited_headcount,high,matched headcount 대계열=자연,NAT,False,NAT:수학,False,False
+inherited_headcount,OC2024_08939,충북대학교,,수의,수의학과,exact_normalized,,inherited_headcount,high,matched headcount 대계열=자연,MED,False,MED:의학/수의,True,False
+inherited_headcount,OC2024_00418,강원대학교,,환경,환경학과,exact_normalized,,inherited_headcount,high,matched headcount 대계열=자연,NAT,False,NAT:환경,False,False
+inherited_headcount,OC2024_06723,연세대학교,,물리,물리학과,exact_normalized,,inherited_headcount,high,matched headcount 대계열=자연,NAT,False,NAT:물리,False,False
+inherited_headcount,OC2024_01960,국립강릉원주대학교(폐교),,수,수학과,exact_normalized,,inherited_headcount,high,matched headcount 대계열=자연,NAT,False,NAT:수학,False,False
+inherited_headcount,OC2024_00806,경남대학교,,군사,군사학과,exact_normalized,,inherited_headcount,high,matched headcount 대계열=사회,,False,,False,False
+inherited_headcount,OC2024_09524,한라대학교,,무역물류,무역물류학과,exact_normalized,,inherited_headcount,high,matched headcount 대계열=사회,SOC,False,SOC:무역,False,False
+inherited_headcount,OC2024_07192,울산과학기술원,,경영,경영학부,exact_normalized,,inherited_headcount,high,matched headcount 대계열=사회,SOC,False,SOC:경영,False,False
+inherited_headcount,OC2024_00953,경북대학교,,미디어커뮤니케이션,미디어커뮤니케이션학과,exact_normalized,,inherited_headcount,high,matched headcount 대계열=사회,,False,,False,False
+inherited_headcount,OC2024_00924,경북대학교,,경영,경영학부,exact_normalized,,inherited_headcount,high,matched headcount 대계열=사회,SOC,False,SOC:경영,False,False
+inherited_headcount,OC2024_09433,한남대학교,,경찰학,경찰학전공,exact_normalized,,inherited_headcount,high,matched headcount 대계열=사회,SOC,False,SOC:경찰,False,False
+inherited_headcount,OC2024_04082,동서대학교,,실용콘텐츠창작,실용콘텐츠창작학과,exact_normalized,,inherited_headcount,high,matched headcount 대계열=사회,,False,,False,False
+inherited_headcount,OC2024_03522,대전대학교,,경제학,경제학전공,exact_normalized,,inherited_headcount,high,matched headcount 대계열=사회,SOC,False,SOC:경제,False,False
+inherited_headcount,OC2024_09429,한남대학교,,경영,경영학과,exact_normalized,,inherited_headcount,high,matched headcount 대계열=사회,SOC,False,SOC:경영,False,False
+inherited_headcount,OC2024_01858,광주대학교,,경찰,경찰학과,exact_normalized,,inherited_headcount,high,matched headcount 대계열=사회,SOC,False,SOC:경찰,False,False
+exact_dictionary,OC2024_03818,동국대학교(WISE)_분교,분교|WISE,스포츠과,스포츠과학과,unmatched,,exact_dictionary,medium,unique dictionary key=스포츠과,"NAT,ART",False,NAT:과학 | ART:스포츠,False,False
+exact_dictionary,OC2024_07262,울산대학교,,음악,음악학부,unmatched,,exact_dictionary,medium,unique dictionary key=음악,ART,False,ART:음악,False,False
+exact_dictionary,OC2024_02644,국립한국교통대학교,,산업디자인,산업디자인전공 | 산업디자인학과,unmatched,,exact_dictionary,medium,unique dictionary key=산업디자인,ART,False,ART:디자인,False,False
+exact_dictionary,OC2024_01448,경희대학교,,스포츠의,스포츠의학과,unmatched,,exact_dictionary,medium,unique dictionary key=스포츠의,"MED,ART",False,MED:의학 | ART:스포츠,False,False
+exact_dictionary,OC2024_04158,동신대학교,,태권도,태권도학과,unmatched,,exact_dictionary,medium,unique dictionary key=태권도,,False,,False,False
+exact_dictionary,OC2024_06142,수원대학교,,운동건강관리,운동건강관리,unmatched,,exact_dictionary,medium,unique dictionary key=운동건강관리,,False,,False,False
+exact_dictionary,OC2024_05125,상지대학교,,뷰티디자인,뷰티디자인학과,unmatched,,exact_dictionary,medium,unique dictionary key=뷰티디자인,ART,False,ART:디자인/뷰티,False,False
+exact_dictionary,OC2024_00903,경동대학교_제4캠퍼스,제4캠퍼스,스포츠마케팅,스포츠마케팅학과 | 스포츠마케팅학과(예체능),manual_review,,exact_dictionary,medium,unique dictionary key=스포츠마케팅,"ART,SOC",False,ART:스포츠 | SOC:마케팅,False,False
+exact_dictionary,OC2024_05490,서울신학대학교,,실용음악과,실용음악과,unmatched,,exact_dictionary,medium,unique dictionary key=실용음악과,ART,False,ART:음악/실용음악,False,False
+exact_dictionary,OC2024_06328,숭실대학교,,스포츠,스포츠학부,unmatched,,exact_dictionary,medium,unique dictionary key=스포츠,ART,False,ART:스포츠,False,False
+exact_dictionary,OC2024_03057,단국대학교,,무용과,무용과,unmatched,,exact_dictionary,medium,unique dictionary key=무용과,ART,False,ART:무용,False,False
+exact_dictionary,OC2024_06035,세종대학교,,회화과,회화과,unmatched,,exact_dictionary,medium,unique dictionary key=회화과,,False,,False,False
+exact_dictionary,OC2024_04441,동의대학교,,패션디자인,패션디자인학과,unmatched,,exact_dictionary,medium,unique dictionary key=패션디자인,ART,False,ART:디자인/패션,False,False
+exact_dictionary,OC2024_06049,세한대학교,,실용음악,실용음악학과,unmatched,,exact_dictionary,medium,unique dictionary key=실용음악,ART,False,ART:음악/실용음악,False,False
+exact_dictionary,OC2024_05134,상지대학교,,산업디자인,산업디자인학과,unmatched,,exact_dictionary,medium,unique dictionary key=산업디자인,ART,False,ART:디자인,False,False
+exact_dictionary,OC2024_09005,칼빈대학교,,실용음악과,실용음악과,unmatched,,exact_dictionary,medium,unique dictionary key=실용음악과,ART,False,ART:음악/실용음악,False,False
+exact_dictionary,OC2024_08604,창신대학교,,음악,음악학과,unmatched,,exact_dictionary,medium,unique dictionary key=음악,ART,False,ART:음악,False,False
+exact_dictionary,OC2024_02743,국립한밭대학교,,시각디자인,시각디자인학과,unmatched,,exact_dictionary,medium,unique dictionary key=시각디자인,ART,False,ART:디자인,False,False
+exact_dictionary,OC2024_01533,계명대학교,,무용,무용학과,unmatched,,exact_dictionary,medium,unique dictionary key=무용,ART,False,ART:무용,False,False
+exact_dictionary,OC2024_06920,영남대학교,,음악,음악학부,unmatched,,exact_dictionary,medium,unique dictionary key=음악,ART,False,ART:음악,False,False
+exact_dictionary,OC2024_02048,국립경국대학교,,윤리교육과,윤리교육과,unmatched,,exact_dictionary,medium,unique dictionary key=윤리교육과,EDU,False,EDU:교육,False,False
+exact_dictionary,OC2024_09007,칼빈대학교,,아동보육,아동보육학과,unmatched,,exact_dictionary,medium,unique dictionary key=아동보육,,False,,False,False
+exact_dictionary,OC2024_08160,전주대학교,,중등특수교육과,중등특수교육과,unmatched,,exact_dictionary,medium,unique dictionary key=중등특수교육과,EDU,False,EDU:교육/특수교육,False,False
+exact_dictionary,OC2024_05594,서원대학교,,영어교육과,영어교육과,unmatched,,exact_dictionary,medium,unique dictionary key=영어교육과,EDU,False,EDU:교육/영어교육,False,False
+exact_dictionary,OC2024_00652,건양대학교,,유아교육과,유아교육과,unmatched,,exact_dictionary,medium,unique dictionary key=유아교육과,EDU,False,EDU:교육/유아교육,False,False
+exact_dictionary,OC2024_07339,원광대학교,,유아교육과,유아교육과,unmatched,,exact_dictionary,medium,unique dictionary key=유아교육과,EDU,False,EDU:교육/유아교육,False,False
+exact_dictionary,OC2024_07706,인천대학교,,영어교육과,영어교육과,unmatched,,exact_dictionary,medium,unique dictionary key=영어교육과,EDU,False,EDU:교육/영어교육,False,False
+exact_dictionary,OC2024_07325,원광대학교,,수학교육과,수학교육과,unmatched,,exact_dictionary,medium,unique dictionary key=수학교육과,"NAT,EDU",False,NAT:수학 | EDU:교육/수학교육,False,False
+exact_dictionary,OC2024_01345,경인교육대학교,,초등컴퓨터교육과,초등컴퓨터교육과(심화과정),manual_review,,exact_dictionary,medium,unique dictionary key=초등컴퓨터교육과,"ENG,EDU",False,ENG:컴퓨터 | EDU:교육,False,False
+exact_dictionary,OC2024_03340,대구대학교,,유아특수교육과,유아특수교육과,unmatched,,exact_dictionary,medium,unique dictionary key=유아특수교육과,EDU,False,EDU:교육/특수교육,False,False
+exact_dictionary,OC2024_08781,춘천교육대학교,,초등교육,초등교육학과(심화과정),manual_review,,exact_dictionary,medium,unique dictionary key=초등교육,EDU,False,EDU:교육/초등교육,False,False
+exact_dictionary,OC2024_03753,동국대학교,,수학교육과,수학교육과,unmatched,,exact_dictionary,medium,unique dictionary key=수학교육과,"NAT,EDU",False,NAT:수학 | EDU:교육/수학교육,False,False
+exact_dictionary,OC2024_08353,조선대학교,,영어교육과,영어교육과,unmatched,,exact_dictionary,medium,unique dictionary key=영어교육과,EDU,False,EDU:교육/영어교육,False,False
+exact_dictionary,OC2024_03045,단국대학교,,과학교육과,과학교육과,unmatched,,exact_dictionary,medium,unique dictionary key=과학교육과,"NAT,EDU",False,NAT:과학 | EDU:교육/과학교육,False,False
+exact_dictionary,OC2024_03777,동국대학교,,지리교육과,지리교육과,unmatched,,exact_dictionary,medium,unique dictionary key=지리교육과,EDU,False,EDU:교육,False,False
+exact_dictionary,OC2024_01338,경인교육대학교,,초등생활과학교육과,초등생활과학교육과(심화과정),manual_review,,exact_dictionary,medium,unique dictionary key=초등생활과학교육과,"NAT,EDU",False,NAT:과학 | EDU:교육/과학교육,False,False
+exact_dictionary,OC2024_08762,총신대학교,,기독교교육과,기독교교육과,unmatched,,exact_dictionary,medium,unique dictionary key=기독교교육과,EDU,False,EDU:교육,False,False
+exact_dictionary,OC2024_05493,서울신학대학교,,유아교육과,유아교육과,unmatched,,exact_dictionary,medium,unique dictionary key=유아교육과,EDU,False,EDU:교육/유아교육,False,False
+exact_dictionary,OC2024_02600,국립창원대학교,,유아교육과,유아교육과,unmatched,,exact_dictionary,medium,unique dictionary key=유아교육과,EDU,False,EDU:교육/유아교육,False,False
+exact_dictionary,OC2024_03308,대구대학교,,물리교육과,물리교육과,unmatched,,exact_dictionary,medium,unique dictionary key=물리교육과,"NAT,EDU",False,NAT:물리 | EDU:교육,False,False
+exact_dictionary,OC2024_03827,동국대학교(WISE)_분교,분교|WISE,에너지・전기공,에너지・전기공학과,unmatched,,exact_dictionary,medium,unique dictionary key=에너지전기공,ENG,False,ENG:전기/에너지/공학,False,False
+exact_dictionary,OC2024_08158,전주대학교,,정보통신공,정보통신공학과,unmatched,,exact_dictionary,medium,unique dictionary key=정보통신공,ENG,False,ENG:정보통신/공학,False,False
+exact_dictionary,OC2024_04490,명지대학교,,컴퓨터공,컴퓨터공학과,unmatched,,exact_dictionary,medium,unique dictionary key=컴퓨터공,ENG,False,ENG:컴퓨터/공학,False,False
+exact_dictionary,OC2024_09645,한서대학교,,항공정비,항공정비전공 | 항공정비학과,manual_review,,exact_dictionary,medium,unique dictionary key=항공정비,ENG,False,ENG:항공,False,False
+exact_dictionary,OC2024_08368,조선대학교,,정보통신공,정보통신공학과 | 정보통신공학부(정보보안전공) | 정보통신공학부(정보통신공학전공),unmatched,,exact_dictionary,medium,unique dictionary key=정보통신공,ENG,False,ENG:정보통신/공학/보안,False,False
+exact_dictionary,OC2024_09847,한양대학교,,에너지공,에너지공학과,unmatched,,exact_dictionary,medium,unique dictionary key=에너지공,ENG,False,ENG:에너지/공학,False,False
+exact_dictionary,OC2024_05505,서울여자대학교,,데이터사이언스,데이터사이언스학과,unmatched,,exact_dictionary,medium,unique dictionary key=데이터사이언스,ENG,False,ENG:데이터,False,False
+exact_dictionary,OC2024_06900,영남대학교,,소프트웨어융합,소프트웨어융합전공,unmatched,,exact_dictionary,medium,unique dictionary key=소프트웨어융합,ENG,True,ENG:소프트웨어,False,True
+exact_dictionary,OC2024_00134,가톨릭관동대학교,,안경광,안경광학과,unmatched,,exact_dictionary,medium,unique dictionary key=안경광,MED,False,MED:안경광,True,False
+exact_dictionary,OC2024_02726,국립한밭대학교,,건축,건축학과(5년제),unmatched,,exact_dictionary,medium,unique dictionary key=건축,,False,,False,False
+exact_dictionary,OC2024_03114,단국대학교_제2캠퍼스,제2캠퍼스,신소재공,신소재공학과,unmatched,,exact_dictionary,medium,unique dictionary key=신소재공,ENG,False,ENG:신소재/공학,False,False
+exact_dictionary,OC2024_01747,고신대학교,,자율,자율전공학부,unmatched,,exact_dictionary,medium,unique dictionary key=자율전공학부,ENG,True,ENG:공학,False,True
+exact_dictionary,OC2024_00667,건양대학교_제2캠퍼스,제2캠퍼스,안경광,안경광학과,unmatched,,exact_dictionary,medium,unique dictionary key=안경광,MED,False,MED:안경광,True,False
+exact_dictionary,OC2024_05972,세종대학교,,데이터사이언스,데이터사이언스학과,unmatched,,exact_dictionary,medium,unique dictionary key=데이터사이언스,ENG,False,ENG:데이터,False,False
+exact_dictionary,OC2024_04764,부산가톨릭대학교,,안전보건,안전보건학과,unmatched,,exact_dictionary,medium,unique dictionary key=안전보건,MED,False,MED:보건,True,False
+exact_dictionary,OC2024_01807,광운대학교,,전기공,전기공학과,unmatched,,exact_dictionary,medium,unique dictionary key=전기공,ENG,False,ENG:전기/공학,False,False
+exact_dictionary,OC2024_06352,숭실대학교,,화학공,화학공학과,unmatched,,exact_dictionary,medium,unique dictionary key=화학공,"ENG,NAT",False,ENG:화학공학/공학 | NAT:화학,False,False
+exact_dictionary,OC2024_09026,평택대학교,,스마트자동차,스마트자동차학과,unmatched,,exact_dictionary,medium,unique dictionary key=스마트자동차,ENG,False,ENG:자동차,False,False
+exact_dictionary,OC2024_05680,선문대학교,,전자공,전자공학과,unmatched,,exact_dictionary,medium,unique dictionary key=전자공,ENG,False,ENG:전자/공학,False,False
+exact_dictionary,OC2024_03816,동국대학교(WISE)_분교,분교|WISE,소방방재,소방방재전공,unmatched,,exact_dictionary,medium,unique dictionary key=소방방재,SOC,False,SOC:소방,True,False
+exact_dictionary,OC2024_02071,국립경국대학교,,한문,한문학과,unmatched,,exact_dictionary,medium,unique dictionary key=한문,HUM,False,HUM:문학,False,False
+exact_dictionary,OC2024_09226,한국방송통신대학교,,중어중문,중어중문학과,unmatched,,exact_dictionary,medium,unique dictionary key=중어중문,HUM,False,HUM:문학/중문,False,False
+exact_dictionary,OC2024_05159,상지대학교,,자유,자유전공학부,unmatched,,exact_dictionary,medium,unique dictionary key=자유,ENG,True,ENG:공학,True,True
+exact_dictionary,OC2024_10036,호남신학대학교,,신,신학과,unmatched,,exact_dictionary,medium,unique dictionary key=신,,False,,False,False
+exact_dictionary,OC2024_07081,용인대학교,,중국,중국학과,unmatched,,exact_dictionary,medium,unique dictionary key=중국,,False,,False,False
+exact_dictionary,OC2024_08223,제주대학교,,독일,독일학과,unmatched,,exact_dictionary,medium,unique dictionary key=독일,,False,,False,False
+exact_dictionary,OC2024_05751,성공회대학교,,중어중국학,중어중국학전공,unmatched,,exact_dictionary,medium,unique dictionary key=중어중국학,,False,,False,False
+exact_dictionary,OC2024_04242,동아대학교,,일본,일본학과,unmatched,,exact_dictionary,medium,unique dictionary key=일본,,False,,False,False
+exact_dictionary,OC2024_02820,국민대학교,,영어영문,영어영문학부,unmatched,,exact_dictionary,medium,unique dictionary key=영어영문,HUM,False,HUM:영문/문학,False,False
+exact_dictionary,OC2024_03927,동덕여자대학교,,일본어과,일본어과,unmatched,,exact_dictionary,medium,unique dictionary key=일본어과,,False,,False,False
+exact_dictionary,OC2024_05697,성결대학교,,기독교교육상담,기독교교육상담학과,unmatched,,exact_dictionary,medium,unique dictionary key=기독교교육상담,"EDU,SOC",False,EDU:교육 | SOC:상담,False,False
+exact_dictionary,OC2024_07714,인천대학교,,일어일문,일어일문학과,unmatched,,exact_dictionary,medium,unique dictionary key=일어일문,HUM,False,HUM:문학/일문,False,False
+exact_dictionary,OC2024_05621,선문대학교,,국어국문,국어국문학과,unmatched,,exact_dictionary,medium,unique dictionary key=국어국문,HUM,False,HUM:국문/문학,False,False
+exact_dictionary,OC2024_09674,한성대학교,,역사문화,역사문화학부,unmatched,,exact_dictionary,medium,unique dictionary key=역사문화,"NAT,HUM",False,NAT:화학 | HUM:역사,False,False
+exact_dictionary,OC2024_03851,동국대학교(WISE)_분교,분교|WISE,중어중문,중어중문학과,unmatched,,exact_dictionary,medium,unique dictionary key=중어중문,HUM,False,HUM:문학/중문,False,False
+exact_dictionary,OC2024_04520,명지대학교_제2캠퍼스,제2캠퍼스,사,사학과,unmatched,,exact_dictionary,medium,unique dictionary key=사,,False,,False,False
+exact_dictionary,OC2024_02064,국립경국대학교,,창의융합,창의융합학부(이공계열) | 창의융합학부(인문사회계열),unmatched,,exact_dictionary,medium,unique dictionary key=창의융합,"SOC,HUM",True,SOC:회계 | HUM:인문,False,True
+exact_dictionary,OC2024_06147,수원대학교,,자유,자유전공학부,unmatched,,exact_dictionary,medium,unique dictionary key=자유,ENG,True,ENG:공학,True,True
+exact_dictionary,OC2024_05290,서울과학기술대학교,,문예창작,문예창작학과,unmatched,,exact_dictionary,medium,unique dictionary key=문예창작,,False,,False,False
+exact_dictionary,OC2024_04964,부산외국어대학교,,프랑스어,프랑스어전공,unmatched,,exact_dictionary,medium,unique dictionary key=프랑스어,,False,,False,False
+exact_dictionary,OC2024_04445,동의대학교,,한의예과,한의예과,unmatched,,exact_dictionary,medium,unique dictionary key=한의예과,MED,False,MED:의예/한의,False,False
+exact_dictionary,OC2024_07290,원광대학교,,간호,간호학과,unmatched,,exact_dictionary,medium,unique dictionary key=간호,MED,False,MED:간호,False,False
+exact_dictionary,OC2024_08264,제주대학교,,의,의학과,unmatched,,exact_dictionary,medium,unique dictionary key=의,MED,False,MED:의학,False,False
+exact_dictionary,OC2024_01507,계명대학교,,간호,간호학과,unmatched,,exact_dictionary,medium,unique dictionary key=간호,MED,False,MED:간호,False,False
+exact_dictionary,OC2024_09010,평택대학교,,간호,간호학과,unmatched,,exact_dictionary,medium,unique dictionary key=간호,MED,False,MED:간호,False,False
+exact_dictionary,OC2024_00142,가톨릭관동대학교,,의료IT,의료IT학과,unmatched,,exact_dictionary,medium,unique dictionary key=의료it,"MED,ENG",False,MED:의료 | ENG:it,False,False
+exact_dictionary,OC2024_03131,단국대학교_제2캠퍼스,제2캠퍼스,치위생,치위생학과,unmatched,,exact_dictionary,medium,unique dictionary key=치위생,MED,False,MED:치위생,False,False
+exact_dictionary,OC2024_03836,동국대학교(WISE)_분교,분교|WISE,의,의학과,unmatched,,exact_dictionary,medium,unique dictionary key=의,MED,False,MED:의학,False,False
+exact_dictionary,OC2024_03493,대구한의대학교,,한의예과,한의예과,unmatched,,exact_dictionary,medium,unique dictionary key=한의예과,MED,False,MED:의예/한의,False,False
+exact_dictionary,OC2024_00270,강원대학교,,간호,간호학과,manual_review,,exact_dictionary,medium,unique dictionary key=간호,MED,False,MED:간호,False,False
+exact_dictionary,OC2024_03127,단국대학교_제2캠퍼스,제2캠퍼스,의예과,의예과,unmatched,,exact_dictionary,medium,unique dictionary key=의예과,MED,False,MED:의예,False,False
+exact_dictionary,OC2024_05158,상지대학교,,임상병리,임상병리학과,unmatched,,exact_dictionary,medium,unique dictionary key=임상병리,MED,False,MED:임상병리,False,False
+exact_dictionary,OC2024_04757,부산가톨릭대학교,,물리치료,물리치료학과,unmatched,,exact_dictionary,medium,unique dictionary key=물리치료,"MED,NAT",False,MED:물리치료 | NAT:물리,False,False
+exact_dictionary,OC2024_01455,경희대학교,,약,약학과(2+4년제) | 약학과(6년제),unmatched,,exact_dictionary,medium,unique dictionary key=약,MED,False,MED:약학,False,False
+exact_dictionary,OC2024_08457,중앙대학교,,간호,간호학과,unmatched,,exact_dictionary,medium,unique dictionary key=간호,MED,False,MED:간호,False,False
+exact_dictionary,OC2024_09970,호남대학교,,간호,간호학과,unmatched,,exact_dictionary,medium,unique dictionary key=간호,MED,False,MED:간호,False,False
+exact_dictionary,OC2024_05160,상지대학교,,작업치료,작업치료학과,unmatched,,exact_dictionary,medium,unique dictionary key=작업치료,MED,False,MED:작업치료,False,False
+exact_dictionary,OC2024_08155,전주대학교,,작업치료,작업치료학과,unmatched,,exact_dictionary,medium,unique dictionary key=작업치료,MED,False,MED:작업치료,False,False
+exact_dictionary,OC2024_01570,계명대학교,,의용공,의용공학과,unmatched,,exact_dictionary,medium,unique dictionary key=의용공,ENG,False,ENG:공학,True,False
+exact_dictionary,OC2024_03916,동덕여자대학교,,약,약학과,unmatched,,exact_dictionary,medium,unique dictionary key=약,MED,False,MED:약학,False,False
+exact_dictionary,OC2024_05297,서울과학기술대학교,,식품생명공,식품생명공학과,unmatched,,exact_dictionary,medium,unique dictionary key=식품생명공,ENG,False,ENG:공학,True,False
+exact_dictionary,OC2024_07315,원광대학교,,반려동물산업,반려동물산업학과,unmatched,,exact_dictionary,medium,unique dictionary key=반려동물산업,NAT,False,NAT:동물,False,False
+exact_dictionary,OC2024_06844,연세대학교(미래)_분교,분교|미래,정보통계학,정보통계학전공,unmatched,,exact_dictionary,medium,unique dictionary key=정보통계학,NAT,False,NAT:통계,False,False
+exact_dictionary,OC2024_02041,국립경국대학교,,식품영양,식품영양학과,unmatched,,exact_dictionary,medium,unique dictionary key=식품영양,NAT,False,NAT:식품영양,False,False
+exact_dictionary,OC2024_01702,고려대학교(세종)_분교,분교|세종,식품생명공,식품생명공학과,unmatched,,exact_dictionary,medium,unique dictionary key=식품생명공,ENG,False,ENG:공학,True,False
+exact_dictionary,OC2024_03137,단국대학교_제2캠퍼스,제2캠퍼스,환경원예,환경원예학과,unmatched,,exact_dictionary,medium,unique dictionary key=환경원예,NAT,False,NAT:환경/원예,False,False
+exact_dictionary,OC2024_07074,용인대학교,,식품조리,식품조리학부,unmatched,,exact_dictionary,medium,unique dictionary key=식품조리,,False,,False,False
+exact_dictionary,OC2024_07669,인천대학교,,데이터과,데이터과학과,unmatched,,exact_dictionary,medium,unique dictionary key=데이터과,"ENG,NAT",False,ENG:데이터 | NAT:과학,False,False
+exact_dictionary,OC2024_05544,서울여자대학교,,화학,화학전공,unmatched,,exact_dictionary,medium,unique dictionary key=화학,NAT,False,NAT:화학,False,False
+exact_dictionary,OC2024_09101,한경국립대학교,,원예생명과,원예생명과학과,unmatched,,exact_dictionary,medium,unique dictionary key=원예생명과,NAT,False,NAT:생명과학/원예/과학,False,False
+exact_dictionary,OC2024_04272,동아대학교,,화,화학과,unmatched,,exact_dictionary,medium,unique dictionary key=화,NAT,False,NAT:화학,False,False
+exact_dictionary,OC2024_03935,동덕여자대학교,,정보통계,정보통계학과,unmatched,,exact_dictionary,medium,unique dictionary key=정보통계,NAT,False,NAT:통계,False,False
+exact_dictionary,OC2024_05866,성신여자대학교,,의류산업,의류산업학과,manual_review,,exact_dictionary,medium,unique dictionary key=의류산업,,False,,False,False
+exact_dictionary,OC2024_05981,세종대학교,,바이오융합공,바이오융합공학과,unmatched,,exact_dictionary,medium,unique dictionary key=바이오융합공,ENG,True,ENG:공학,True,True
+exact_dictionary,OC2024_06895,영남대학교,,생명공,생명공학과,unmatched,,exact_dictionary,medium,unique dictionary key=생명공,ENG,False,ENG:공학,True,False
+exact_dictionary,OC2024_06662,안양대학교,,식품영양,식품영양학과,unmatched,,exact_dictionary,medium,unique dictionary key=식품영양,NAT,False,NAT:식품영양,False,False
+exact_dictionary,OC2024_01585,계명대학교,,통계,통계학과,unmatched,,exact_dictionary,medium,unique dictionary key=통계,NAT,False,NAT:통계,False,False
+exact_dictionary,OC2024_04410,동의대학교,,의생명공학,의생명공학전공,unmatched,,exact_dictionary,medium,unique dictionary key=의생명공학,ENG,False,ENG:공학,True,False
+exact_dictionary,OC2024_06896,영남대학교,,생명과,생명과학과,unmatched,,exact_dictionary,medium,unique dictionary key=생명과,NAT,False,NAT:생명과학/과학,False,False
+exact_dictionary,OC2024_03123,단국대학교_제2캠퍼스,제2캠퍼스,의생명과,의생명과학부,unmatched,,exact_dictionary,medium,unique dictionary key=의생명과,NAT,False,NAT:생명과학/과학,False,False
+exact_dictionary,OC2024_02615,국립창원대학교,,회계,회계학과,unmatched,,exact_dictionary,medium,unique dictionary key=회계,SOC,False,SOC:회계,False,False
+exact_dictionary,OC2024_03720,동국대학교,,경제,경제학과,unmatched,,exact_dictionary,medium,unique dictionary key=경제,SOC,False,SOC:경제,False,False
+exact_dictionary,OC2024_07591,인제대학교,,공공인재,공공인재학부,unmatched,,exact_dictionary,medium,unique dictionary key=공공인재,,False,,False,False
+exact_dictionary,OC2024_06236,순천향대학교,,경영,경영학과,unmatched,,exact_dictionary,medium,unique dictionary key=경영,SOC,False,SOC:경영,False,False
+exact_dictionary,OC2024_06649,안양대학교,,관광경영,관광경영학과,unmatched,,exact_dictionary,medium,unique dictionary key=관광경영,SOC,False,SOC:경영/관광,False,False
+exact_dictionary,OC2024_08596,창신대학교,,부동산경영,부동산경영학과,unmatched,,exact_dictionary,medium,unique dictionary key=부동산경영,SOC,False,SOC:경영/부동산,False,False
+exact_dictionary,OC2024_08466,중앙대학교,,국제물류,국제물류학과,unmatched,,exact_dictionary,medium,unique dictionary key=국제물류,SOC,False,SOC:국제,False,False
+exact_dictionary,OC2024_04118,동신대학교,,관광경영,관광경영학과,unmatched,,exact_dictionary,medium,unique dictionary key=관광경영,SOC,False,SOC:경영/관광,False,False
+exact_dictionary,OC2024_03289,대구대학교,,경영,경영학부 | 경영학부(경영학전공) | 경영학부(회계학전공),unmatched,,exact_dictionary,medium,unique dictionary key=경영,SOC,False,SOC:경영/회계,False,False
+exact_dictionary,OC2024_08625,청운대학교,,사회복지,사회복지학과,unmatched,,exact_dictionary,medium,unique dictionary key=사회복지,SOC,False,SOC:사회복지,False,False
+exact_dictionary,OC2024_04184,동아대학교,,관광경영,관광경영학과,unmatched,,exact_dictionary,medium,unique dictionary key=관광경영,SOC,False,SOC:경영/관광,False,False
+exact_dictionary,OC2024_06307,숭실대학교,,국제무역,국제무역학과,unmatched,,exact_dictionary,medium,unique dictionary key=국제무역,SOC,False,SOC:무역/국제,False,False
+exact_dictionary,OC2024_08657,청주대학교,,경찰행정,경찰행정학과,unmatched,,exact_dictionary,medium,unique dictionary key=경찰행정,SOC,False,SOC:행정/경찰,False,False
+exact_dictionary,OC2024_01481,경희대학교,,정치외교,정치외교학과,unmatched,,exact_dictionary,medium,unique dictionary key=정치외교,SOC,False,SOC:정치,False,False
+exact_dictionary,OC2024_09826,한양대학교,,미디어커뮤니케이션,미디어커뮤니케이션학과,unmatched,,exact_dictionary,medium,unique dictionary key=미디어커뮤니케이션,,False,,False,False
+exact_dictionary,OC2024_03600,대진대학교,,사회복지,사회복지학과,unmatched,,exact_dictionary,medium,unique dictionary key=사회복지,SOC,False,SOC:사회복지,False,False
+exact_dictionary,OC2024_07324,원광대학교,,소방행정,소방행정학과,unmatched,,exact_dictionary,medium,unique dictionary key=소방행정,SOC,False,SOC:행정/소방,False,False
+exact_dictionary,OC2024_07295,원광대학교,,경영,경영학과 | 경영학부,unmatched,,exact_dictionary,medium,unique dictionary key=경영,SOC,False,SOC:경영,False,False
+exact_dictionary,OC2024_02395,국립부경대학교,,국제학,국제학전공,unmatched,,exact_dictionary,medium,unique dictionary key=국제학,SOC,False,SOC:국제,False,False
+exact_dictionary,OC2024_02269,국립금오공과대학교,,경영,경영학과,unmatched,,exact_dictionary,medium,unique dictionary key=경영,SOC,False,SOC:경영,False,False
+keyword_rule,OC2024_02765,국민대학교,,AI디자인,AI디자인학과,unmatched,,keyword_rule,medium,ART:디자인,ART,False,ART:디자인,False,False
+keyword_rule,OC2024_07085,용인대학교,,태권도경기지도,태권도경기지도학과,unmatched,,keyword_rule,medium,ART:경기지도,ART,False,ART:경기지도,False,False
+keyword_rule,OC2024_09115,한경국립대학교,,제품공간디자인,제품공간디자인전공,unmatched,,keyword_rule,medium,ART:디자인,ART,False,ART:디자인,False,False
+keyword_rule,OC2024_08202,제주국제대학교,,체육레저스포츠학,체육학부 레저스포츠학전공,unmatched,,keyword_rule,medium,ART:체육/스포츠,ART,False,ART:체육/스포츠,False,False
+keyword_rule,OC2024_03417,대구한의대학교,,미술치료학,미술치료학전공,unmatched,,keyword_rule,medium,ART:미술,ART,False,ART:미술,False,False
+keyword_rule,OC2024_06239,순천향대학교,,공연영상,공연영상학과,unmatched,,keyword_rule,medium,ART:영상,ART,False,ART:영상,False,False
+keyword_rule,OC2024_04463,명지대학교,,건축공간디자인,건축학부 공간디자인전공(5년제),unmatched,,keyword_rule,medium,ART:디자인,ART,False,ART:디자인,False,False
+keyword_rule,OC2024_04127,동신대학교,,뮤지컬ㆍ실용음악,뮤지컬ㆍ실용음악학과,unmatched,,keyword_rule,medium,ART:음악/실용음악,ART,False,ART:음악/실용음악,False,False
+keyword_rule,OC2024_05054,상명대학교_제2캠퍼스,제2캠퍼스,디자인AR・VR미디어디자인,디자인학부 AR・VR미디어디자인전공,unmatched,,keyword_rule,medium,ART:디자인,ART,False,ART:디자인,False,False
+keyword_rule,OC2024_05666,선문대학교,,영상예술,영상예술학과,unmatched,,keyword_rule,medium,ART:영상/예술,ART,False,ART:영상/예술,False,False
+keyword_rule,OC2024_00680,경기대학교,,FineArts,FineArts학부,unmatched,,keyword_rule,medium,ART:finearts,ART,False,ART:finearts,False,False
+keyword_rule,OC2024_03873,동덕여자대학교,,공연예술무용,공연예술학부 무용전공,unmatched,,keyword_rule,medium,ART:무용/예술,ART,False,ART:무용/예술,False,False
+keyword_rule,OC2024_05288,서울과학기술대학교,,도예,도예학과,unmatched,,keyword_rule,medium,ART:도예,ART,False,ART:도예,False,False
+keyword_rule,OC2024_01378,경일대학교,,뷰티,뷰티학과,unmatched,,keyword_rule,medium,ART:뷰티,ART,False,ART:뷰티,False,False
+keyword_rule,OC2024_07623,인제대학교,,음악공연예술,음악공연예술학과,unmatched,,keyword_rule,medium,ART:음악/예술,ART,False,ART:음악/예술,False,False
+keyword_rule,OC2024_05081,상명대학교_제2캠퍼스,제2캠퍼스,인더스트리얼디자인,인더스트리얼디자인전공,unmatched,,keyword_rule,medium,ART:디자인,ART,False,ART:디자인,False,False
+keyword_rule,OC2024_00696,경기대학교,,디자인비즈,디자인비즈학부,unmatched,,keyword_rule,medium,ART:디자인,ART,False,ART:디자인,False,False
+keyword_rule,OC2024_04504,명지대학교_제2캠퍼스,제2캠퍼스,디지털콘텐츠디자인,디지털콘텐츠디자인학과,unmatched,,keyword_rule,medium,ART:디자인,ART,False,ART:디자인,False,False
+keyword_rule,OC2024_09916,한양대학교(ERICA)_분교,분교|ERICA,주얼리ㆍ패션디자인,주얼리ㆍ패션디자인학과,unmatched,,keyword_rule,medium,ART:디자인/패션/주얼리,ART,False,ART:디자인/패션/주얼리,False,False
+keyword_rule,OC2024_01562,계명대학교,,연극뮤지컬과,연극뮤지컬과,unmatched,,keyword_rule,medium,ART:연극,ART,False,ART:연극,False,False
+keyword_rule,OC2024_05020,상명대학교,,미술조형예술,미술학부 조형예술전공,unmatched,,keyword_rule,medium,ART:미술/예술,ART,False,ART:미술/예술,False,False
+keyword_rule,OC2024_06897,영남대학교,,생활제품디자인,생활제품디자인학과,unmatched,,keyword_rule,medium,ART:디자인,ART,False,ART:디자인,False,False
+keyword_rule,OC2024_03598,대진대학교,,미술만화게임,미술만화게임학부,unmatched,,keyword_rule,medium,ART:미술/만화,ART,False,ART:미술/만화,False,False
+keyword_rule,OC2024_03002,남서울대학교,,공간조형디자인,공간조형디자인학과,unmatched,,keyword_rule,medium,ART:디자인,ART,False,ART:디자인,False,False
+keyword_rule,OC2024_06359,신경주대학교,,K-뷰티・음악,K-뷰티・음악학과,unmatched,,keyword_rule,medium,ART:음악/뷰티,ART,False,ART:음악/뷰티,False,False
+keyword_rule,OC2024_00453,강원대학교_제2캠퍼스,제2캠퍼스,스포츠미디어,스포츠미디어전공,unmatched,,keyword_rule,medium,ART:스포츠,ART,False,ART:스포츠,False,False
+keyword_rule,OC2024_06139,수원대학교,,영화예술,영화예술,unmatched,,keyword_rule,medium,ART:영화/예술,ART,False,ART:영화/예술,False,False
+keyword_rule,OC2024_03107,단국대학교_제2캠퍼스,제2캠퍼스,생활음악과,생활음악과,unmatched,,keyword_rule,medium,ART:음악,ART,False,ART:음악,False,False
+keyword_rule,OC2024_03902,동덕여자대학교,,미술디지털공예,미술학부 디지털공예전공,unmatched,,keyword_rule,medium,ART:미술/공예,ART,False,ART:미술/공예,False,False
+keyword_rule,OC2024_06073,송원대학교,,뷰티예술,뷰티예술학과,unmatched,,keyword_rule,medium,ART:뷰티/예술,ART,False,ART:뷰티/예술,False,False
+keyword_rule,OC2024_06587,신한대학교_제2캠퍼스,제2캠퍼스,유아통합교육,유아통합교육학과,unmatched,,keyword_rule,medium,EDU:교육,EDU,False,EDU:교육,False,False
+keyword_rule,OC2024_03823,동국대학교(WISE)_분교,분교|WISE,아동청소년교육,아동청소년교육학과,unmatched,,keyword_rule,medium,EDU:교육,EDU,False,EDU:교육,False,False
+keyword_rule,OC2024_04142,동신대학교,,아동영어교육,아동영어교육학과,unmatched,,keyword_rule,medium,EDU:교육/영어교육,EDU,False,EDU:교육/영어교육,False,False
+keyword_rule,OC2024_06597,아신대학교,,교육미디어커뮤니케이션,교육미디어커뮤니케이션학부,unmatched,,keyword_rule,medium,EDU:교육,EDU,False,EDU:교육,False,False
+keyword_rule,OC2024_09227,한국방송통신대학교,,청소년교육과,청소년교육과,unmatched,,keyword_rule,medium,EDU:교육,EDU,False,EDU:교육,False,False
+keyword_rule,OC2024_08170,전주대학교,,평생교육계열,평생교육계열,unmatched,,keyword_rule,medium,EDU:교육,EDU,False,EDU:교육,False,False
+keyword_rule,OC2024_05632,선문대학교,,글로벌한국어교육,글로벌한국어교육학과,unmatched,,keyword_rule,medium,EDU:교육/국어교육,EDU,False,EDU:교육/국어교육,False,False
+keyword_rule,OC2024_08617,청운대학교,,글로벌한국어교육,글로벌한국어교육학과,unmatched,,keyword_rule,medium,EDU:교육/국어교육,EDU,False,EDU:교육/국어교육,False,False
+keyword_rule,OC2024_08278,제주대학교,,지리교육,지리교육전공,unmatched,,keyword_rule,medium,EDU:교육,EDU,False,EDU:교육,False,False
+keyword_rule,OC2024_06271,순천향대학교,,외국어로서의한국어교육학,외국어로서의 한국어교육학전공,unmatched,,keyword_rule,medium,EDU:교육/국어교육,EDU,False,EDU:교육/국어교육,False,False
+keyword_rule,OC2024_09978,호남대학교,,글로벌한국어교육,글로벌한국어교육학과,unmatched,,keyword_rule,medium,EDU:교육/국어교육,EDU,False,EDU:교육/국어교육,False,False
+keyword_rule,OC2024_03484,대구한의대학교,,평생교육복지,평생교육복지전공,unmatched,,keyword_rule,medium,EDU:교육,EDU,False,EDU:교육,False,False
+keyword_rule,OC2024_06599,아신대학교,,기독교교육과미디어,기독교교육과 미디어학과,unmatched,,keyword_rule,medium,EDU:교육,EDU,False,EDU:교육,False,False
+keyword_rule,OC2024_02507,국립순천대학교,,농업교육과,농업교육과,unmatched,,keyword_rule,medium,EDU:교육,EDU,False,EDU:교육,False,False
+keyword_rule,OC2024_08266,제주대학교,,일반사회교육,일반사회교육전공,unmatched,,keyword_rule,medium,EDU:교육/사회교육,EDU,False,EDU:교육/사회교육,False,False
+keyword_rule,OC2024_00650,건양대학교,,아동교육,아동교육학과,unmatched,,keyword_rule,medium,EDU:교육,EDU,False,EDU:교육,False,False
+keyword_rule,OC2024_09125,한경국립대학교,,한국수어교육,한국수어교육전공,unmatched,,keyword_rule,medium,EDU:교육,EDU,False,EDU:교육,False,False
+keyword_rule,OC2024_02426,국립부경대학교,,수해양산업교육과,수해양산업교육과,unmatched,,keyword_rule,medium,EDU:교육,EDU,False,EDU:교육,False,False
+keyword_rule,OC2024_02660,국립한국교통대학교,,유아특수교육,유아특수교육학과,unmatched,,keyword_rule,medium,EDU:교육/특수교육,EDU,False,EDU:교육/특수교육,False,False
+keyword_rule,OC2024_04933,부산외국어대학교,,시민영어교육,시민영어교육학과,unmatched,,keyword_rule,medium,EDU:교육/영어교육,EDU,False,EDU:교육/영어교육,False,False
+keyword_rule,OC2024_06348,숭실대학교,,평생교육,평생교육학과,unmatched,,keyword_rule,medium,EDU:교육,EDU,False,EDU:교육,False,False
+keyword_rule,OC2024_05725,성공회대학교,,글로컬IT,글로컬IT학과,unmatched,,keyword_rule,medium,ENG:it,ENG,False,ENG:it,False,False
+keyword_rule,OC2024_06967,영산대학교(양산)_제2캠퍼스,제2캠퍼스|양산,기계설계,기계설계학과 | 기계설계전공,manual_review,,keyword_rule,medium,ENG:기계,ENG,False,ENG:기계,False,False
+keyword_rule,OC2024_05948,세종대학교,,AI로봇,AI로봇학과,unmatched,,keyword_rule,medium,ENG:로봇,ENG,False,ENG:로봇,False,False
+keyword_rule,OC2024_01813,광운대학교,,정보공학,정보공학전공,unmatched,,keyword_rule,medium,ENG:공학,ENG,False,ENG:공학,False,False
+keyword_rule,OC2024_01574,계명대학교,,전기에너지공,전기에너지공학과,unmatched,,keyword_rule,medium,ENG:전기/에너지/공학,ENG,False,ENG:전기/에너지/공학,False,False
+keyword_rule,OC2024_07685,인천대학교,,바이오-로봇시스템공,바이오-로봇시스템공학과,unmatched,,keyword_rule,medium,ENG:로봇/공학,ENG,False,ENG:로봇/공학,False,False
+keyword_rule,OC2024_06010,세종대학교,,인공지능데이터사이언스,인공지능데이터사이언스학과,unmatched,,keyword_rule,medium,ENG:인공지능/데이터,ENG,False,ENG:인공지능/데이터,False,False
+keyword_rule,OC2024_06247,순천향대학교,,디스플레이신소재공,디스플레이신소재공학과,unmatched,,keyword_rule,medium,ENG:신소재/공학,ENG,False,ENG:신소재/공학,False,False
+keyword_rule,OC2024_04436,동의대학교,,컴퓨터소프트웨어공학,컴퓨터소프트웨어공학전공,unmatched,,keyword_rule,medium,ENG:컴퓨터/소프트웨어/공학,ENG,False,ENG:컴퓨터/소프트웨어/공학,False,False
+keyword_rule,OC2024_08755,초당대학교,,항공드론,항공드론학과,unmatched,,keyword_rule,medium,ENG:항공,ENG,False,ENG:항공,False,False
+keyword_rule,OC2024_03808,동국대학교(WISE)_분교,분교|WISE,바이오제약공학,바이오제약공학전공,unmatched,,keyword_rule,medium,ENG:공학,ENG,False,ENG:공학,False,False
+keyword_rule,OC2024_03504,대구한의대학교,,화장품소재공학,화장품소재공학전공,unmatched,,keyword_rule,medium,ENG:공학,ENG,False,ENG:공학,False,False
+keyword_rule,OC2024_04366,동의대학교,,미래형자동차,미래형자동차학과,unmatched,,keyword_rule,medium,ENG:자동차,ENG,False,ENG:자동차,False,False
+keyword_rule,OC2024_05655,선문대학교,,스마트정보통신공,스마트정보통신공학과,unmatched,,keyword_rule,medium,ENG:정보통신/공학,ENG,False,ENG:정보통신/공학,False,False
+keyword_rule,OC2024_08715,청주대학교,,제약바이오메디컬공학,제약바이오메디컬공학전공,unmatched,,keyword_rule,medium,ENG:공학,ENG,False,ENG:공학,False,False
+keyword_rule,OC2024_10109,호서대학교,,컴퓨터소프트웨어학,컴퓨터소프트웨어학전공,unmatched,,keyword_rule,medium,ENG:컴퓨터/소프트웨어,ENG,False,ENG:컴퓨터/소프트웨어,False,False
+keyword_rule,OC2024_01480,경희대학교,,정보전자신소재공,정보전자신소재공학과,unmatched,,keyword_rule,medium,ENG:전자/신소재/공학,ENG,False,ENG:전자/신소재/공학,False,False
+keyword_rule,OC2024_03782,동국대학교,,컴퓨터정보통신공컴퓨터공학,컴퓨터정보통신공학부 컴퓨터공학전공,unmatched,,keyword_rule,medium,ENG:컴퓨터/정보통신/공학,ENG,False,ENG:컴퓨터/정보통신/공학,False,False
+keyword_rule,OC2024_09861,한양대학교,,정보공학,정보공학전공,unmatched,,keyword_rule,medium,ENG:공학,ENG,False,ENG:공학,False,False
+keyword_rule,OC2024_08288,제주대학교,,통신공학,통신공학전공,unmatched,,keyword_rule,medium,ENG:공학,ENG,False,ENG:공학,False,False
+keyword_rule,OC2024_03581,대진대학교,,IT기계공,IT기계공학과,unmatched,,keyword_rule,medium,ENG:기계/공학/it,ENG,False,ENG:기계/공학/it,False,False
+keyword_rule,OC2024_06279,순천향대학교,,의약공,의약공학과,unmatched,,keyword_rule,medium,ENG:공학,ENG,False,ENG:공학,False,False
+keyword_rule,OC2024_06683,안양대학교_제2캠퍼스,제2캠퍼스,스마트시티공학,스마트시티공학전공,unmatched,,keyword_rule,medium,ENG:공학,ENG,False,ENG:공학,False,False
+keyword_rule,OC2024_08258,제주대학교,,에너지공학,에너지공학전공,unmatched,,keyword_rule,medium,ENG:에너지/공학,ENG,False,ENG:에너지/공학,False,False
+keyword_rule,OC2024_02055,국립경국대학교,,전기에너지공학,전기에너지공학전공,unmatched,,keyword_rule,medium,ENG:전기/에너지/공학,ENG,False,ENG:전기/에너지/공학,False,False
+keyword_rule,OC2024_02277,국립금오공과대학교,,반도체시스템,반도체시스템전공,unmatched,,keyword_rule,medium,ENG:반도체,ENG,False,ENG:반도체,False,False
+keyword_rule,OC2024_04380,동의대학교,,산업ICT기술공학,산업ICT기술공학전공,unmatched,,keyword_rule,medium,ENG:공학/ict,ENG,False,ENG:공학/ict,False,False
+keyword_rule,OC2024_06339,숭실대학교,,전자정보공전자공학,전자정보공학부 전자공학전공,unmatched,,keyword_rule,medium,ENG:전자/공학,ENG,False,ENG:전자/공학,False,False
+keyword_rule,OC2024_02638,국립한국교통대학교,,반도체신소재공,반도체신소재공학과,unmatched,,keyword_rule,medium,ENG:신소재/반도체/공학,ENG,False,ENG:신소재/반도체/공학,False,False
+keyword_rule,OC2024_09023,평택대학교,,반도체디스플레이장비운영,반도체디스플레이장비운영학과,unmatched,,keyword_rule,medium,ENG:반도체,ENG,False,ENG:반도체,False,False
+keyword_rule,OC2024_01426,경희대학교,,러시아어,러시아어학과,unmatched,,keyword_rule,medium,HUM:러시아,HUM,False,HUM:러시아,False,False
+keyword_rule,OC2024_00256,강남대학교,,한영문화콘텐츠,한영문화콘텐츠학과,unmatched,,keyword_rule,medium,HUM:영문/문화콘텐츠,HUM,False,HUM:영문/문화콘텐츠,False,False
+keyword_rule,OC2024_06115,수원대학교,,러시아어문학,러시아어문학,unmatched,,keyword_rule,medium,HUM:문학/러시아,HUM,False,HUM:문학/러시아,False,False
+keyword_rule,OC2024_02698,국립한국해양대학교,,글로벌해양인문,글로벌해양인문학부(동아시아문화전공) | 글로벌해양인문학부(해양영어영문학전공),manual_review,,keyword_rule,medium,HUM:영문/문학/인문,HUM,False,HUM:영문/문학/인문,False,False
+keyword_rule,OC2024_05497,서울신학대학교,,중국언어문화콘텐츠,중국언어문화콘텐츠학과,unmatched,,keyword_rule,medium,HUM:언어/문화콘텐츠,HUM,False,HUM:언어/문화콘텐츠,False,False
+keyword_rule,OC2024_05032,상명대학교,,인문콘텐츠문헌정보학,인문콘텐츠학부 문헌정보학전공,unmatched,,keyword_rule,medium,HUM:문헌정보/인문,HUM,False,HUM:문헌정보/인문,False,False
+keyword_rule,OC2024_06876,영남대학교,,글로벌통번역,글로벌통번역학부,unmatched,,keyword_rule,medium,HUM:통번역,HUM,False,HUM:통번역,False,False
+keyword_rule,OC2024_08667,청주대학교,,동양어문학,동양어문학전공,unmatched,,keyword_rule,medium,HUM:문학,HUM,False,HUM:문학,False,False
+keyword_rule,OC2024_05540,서울여자대학교,,프랑스문화콘텐츠,프랑스문화콘텐츠전공,unmatched,,keyword_rule,medium,HUM:문화콘텐츠,HUM,False,HUM:문화콘텐츠,False,False
+keyword_rule,OC2024_02849,국민대학교,,한국역사,한국역사학과,unmatched,,keyword_rule,medium,HUM:역사,HUM,False,HUM:역사,False,False
+keyword_rule,OC2024_05668,선문대학교,,외국어러시아어,외국어학부 러시아어전공,unmatched,,keyword_rule,medium,HUM:러시아,HUM,False,HUM:러시아,False,False
+keyword_rule,OC2024_06025,세종대학교,,한국언어문화,한국언어문화전공,unmatched,,keyword_rule,medium,HUM:언어,HUM,False,HUM:언어,False,False
+keyword_rule,OC2024_05669,선문대학교,,외국어스페인어중남미,외국어학부 스페인어중남미전공,unmatched,,keyword_rule,medium,HUM:스페인,HUM,False,HUM:스페인,False,False
+keyword_rule,OC2024_03926,동덕여자대학교,,인문한국어문화,인문학부 한국어문화전공,unmatched,,keyword_rule,medium,HUM:문학/인문,HUM,False,HUM:문학/인문,False,False
+keyword_rule,OC2024_05817,성균관대학교,,프랑스어문,프랑스어문학과,unmatched,,keyword_rule,medium,HUM:문학,HUM,False,HUM:문학,False,False
+keyword_rule,OC2024_07390,위덕대학교,,역사문화콘텐츠,역사문화콘텐츠학과,unmatched,,keyword_rule,medium,HUM:역사/문화콘텐츠,HUM,False,HUM:역사/문화콘텐츠,False,False
+keyword_rule,OC2024_05033,상명대학교,,인문콘텐츠역사콘텐츠,인문콘텐츠학부 역사콘텐츠전공,unmatched,,keyword_rule,medium,HUM:역사/인문,HUM,False,HUM:역사/인문,False,False
+keyword_rule,OC2024_08172,전주대학교,,한국어문학창작,한국어문학창작학부,unmatched,,keyword_rule,medium,HUM:문학,HUM,False,HUM:문학,False,False
+keyword_rule,OC2024_02456,국립부경대학교,,일본어문학,일본어문학전공,unmatched,,keyword_rule,medium,HUM:문학,HUM,False,HUM:문학,False,False
+keyword_rule,OC2024_04915,부산외국어대학교,,러시아어,러시아어전공,unmatched,,keyword_rule,medium,HUM:러시아,HUM,False,HUM:러시아,False,False
+keyword_rule,OC2024_03726,동국대학교,,국어국문문예창작,국어국문문예창작학부,unmatched,,keyword_rule,medium,HUM:국문,HUM,False,HUM:국문,False,False
+keyword_rule,OC2024_05210,서강대학교,,영문,영문학부(미국문화전공) | 영문학부(영미어문전공),manual_review,,keyword_rule,medium,HUM:국문/영문/문학,HUM,False,HUM:국문/영문/문학,False,False
+keyword_rule,OC2024_05055,상명대학교_제2캠퍼스,제2캠퍼스,러시아어권지역학,러시아어권지역학전공,unmatched,,keyword_rule,medium,HUM:러시아,HUM,False,HUM:러시아,False,False
+keyword_rule,OC2024_01680,고려대학교(세종)_분교,분교|세종,독일문화정보,독일문화정보학과,unmatched,,keyword_rule,medium,HUM:일문,HUM,False,HUM:일문,False,False
+keyword_rule,OC2024_02018,국립경국대학교,,동양철,동양철학과,unmatched,,keyword_rule,medium,HUM:철학,HUM,False,HUM:철학,False,False
+keyword_rule,OC2024_09922,한양대학교(ERICA)_분교,분교|ERICA,한국언어문,한국언어문학과,unmatched,,keyword_rule,medium,HUM:언어/문학,HUM,False,HUM:언어/문학,False,False
+keyword_rule,OC2024_09679,한성대학교,,크리에이티브인문,크리에이티브인문학부,unmatched,,keyword_rule,medium,HUM:문학/인문,HUM,False,HUM:문학/인문,False,False
+keyword_rule,OC2024_03462,대구한의대학교,,인문계열통합모집단위,인문계열통합모집단위,unmatched,,keyword_rule,medium,HUM:인문,HUM,False,HUM:인문,False,False
+keyword_rule,OC2024_05050,상명대학교_제2캠퍼스,제2캠퍼스,글로벌지역러시아・중앙아시아지역학,글로벌지역학부 러시아・중앙아시아지역학전공,unmatched,,keyword_rule,medium,HUM:러시아,HUM,False,HUM:러시아,False,False
+keyword_rule,OC2024_03067,단국대학교,,영미인문,영미인문학과,unmatched,,keyword_rule,medium,HUM:문학/인문,HUM,False,HUM:문학/인문,False,False
+keyword_rule,OC2024_03473,대구한의대학교,,재활치료학,재활치료학전공,unmatched,,keyword_rule,medium,MED:재활,MED,False,MED:재활,False,False
+keyword_rule,OC2024_06933,영남대학교,,제약학,제약학전공,unmatched,,keyword_rule,medium,MED:약학,MED,False,MED:약학,False,False
+keyword_rule,OC2024_00063,가천대학교,,운동재활,운동재활학과,manual_review,,keyword_rule,medium,MED:재활,MED,False,MED:재활,False,False
+keyword_rule,OC2024_01687,고려대학교(세종)_분교,분교|세종,문화창의,문화창의학부,unmatched,,keyword_rule,medium,MED:의학,MED,False,MED:의학,False,False
+keyword_rule,OC2024_03246,대구가톨릭대학교,,제약학,제약학전공 | 제약학전공(6년제),manual_review,,keyword_rule,medium,MED:약학,MED,False,MED:약학,False,False
+keyword_rule,OC2024_00659,건양대학교,,재활퍼스널트레이닝,재활퍼스널트레이닝학과,unmatched,,keyword_rule,medium,MED:재활,MED,False,MED:재활,False,False
+keyword_rule,OC2024_02588,국립창원대학교,,생명보건,생명보건학부,unmatched,,keyword_rule,medium,MED:보건,MED,False,MED:보건,False,False
+keyword_rule,OC2024_01517,계명대학교,,공중보건,공중보건학과,unmatched,,keyword_rule,medium,MED:보건,MED,False,MED:보건,False,False
+keyword_rule,OC2024_03347,대구대학교,,재활건강증진,재활건강증진학과,unmatched,,keyword_rule,medium,MED:재활,MED,False,MED:재활,False,False
+keyword_rule,OC2024_07146,우석대학교,,한약,한약학과,unmatched,,keyword_rule,medium,MED:약학,MED,False,MED:약학,False,False
+keyword_rule,OC2024_00157,가톨릭관동대학교,,치매전문재활,치매전문재활학과,unmatched,,keyword_rule,medium,MED:재활,MED,False,MED:재활,False,False
+keyword_rule,OC2024_01395,경일대학교,,조기취업형계약스마트전력인프라,조기취업형계약학부 스마트전력인프라학과,unmatched,,keyword_rule,medium,MED:약학,MED,False,MED:약학,False,False
+keyword_rule,OC2024_01397,경일대학교,,조기취업형계약스마트푸드테크,조기취업형계약학부 스마트푸드테크학과,unmatched,,keyword_rule,medium,MED:약학,MED,False,MED:약학,False,False
+keyword_rule,OC2024_09930,한일장신대학교,,운동처방재활,운동처방재활학과,unmatched,,keyword_rule,medium,MED:재활,MED,False,MED:재활,False,False
+keyword_rule,OC2024_03408,대구한의대학교,,노인재활치료,노인재활치료학과,unmatched,,keyword_rule,medium,MED:재활,MED,False,MED:재활,False,False
+keyword_rule,OC2024_04756,부산가톨릭대학교,,노인복지보건,노인복지보건학과,unmatched,,keyword_rule,medium,MED:보건,MED,False,MED:보건,False,False
+keyword_rule,OC2024_05556,서울한영대학교,,유아특수재활,유아특수재활학과,unmatched,,keyword_rule,medium,MED:재활,MED,False,MED:재활,False,False
+keyword_rule,OC2024_07267,울산대학교,,의학,의학전공,unmatched,,keyword_rule,medium,MED:의학,MED,False,MED:의학,False,False
+keyword_rule,OC2024_06552,신한대학교_제2캠퍼스,제2캠퍼스,간호헬스케어,간호헬스케어학과,unmatched,,keyword_rule,medium,MED:간호,MED,False,MED:간호,False,False
+keyword_rule,OC2024_05559,서울한영대학교,,재활복지,재활복지학과,unmatched,,keyword_rule,medium,MED:재활,MED,False,MED:재활,False,False
+keyword_rule,OC2024_04169,동아대학교,,간호간호,간호학부 간호학과,unmatched,,keyword_rule,medium,MED:간호,MED,False,MED:간호,False,False
+keyword_rule,OC2024_07316,원광대학교,,복지・보건,복지・보건학부,unmatched,,keyword_rule,medium,MED:보건,MED,False,MED:보건,False,False
+keyword_rule,OC2024_04873,부산대학교,,제약학,제약학전공 | 제약학전공(통합6년제),manual_review,,keyword_rule,medium,MED:약학,MED,False,MED:약학,False,False
+keyword_rule,OC2024_00152,가톨릭관동대학교,,중독재활,중독재활학과,unmatched,,keyword_rule,medium,MED:재활,MED,False,MED:재활,False,False
+keyword_rule,OC2024_00657,건양대학교,,임상의약,임상의약학과,unmatched,,keyword_rule,medium,MED:약학,MED,False,MED:약학,False,False
+keyword_rule,OC2024_06081,송원대학교,,재활보건,재활보건학과,unmatched,,keyword_rule,medium,MED:보건/재활,MED,False,MED:보건/재활,False,False
+keyword_rule,OC2024_01496,경희대학교,,한약,한약학과,unmatched,,keyword_rule,medium,MED:약학,MED,False,MED:약학,False,False
+keyword_rule,OC2024_06796,연세대학교(미래)_분교,분교|미래,AI보건정보관리,AI보건정보관리학과,unmatched,,keyword_rule,medium,MED:보건,MED,False,MED:보건,False,False
+keyword_rule,OC2024_06823,연세대학교(미래)_분교,분교|미래,보건의료정보관리학,보건의료정보관리학전공,unmatched,,keyword_rule,medium,MED:보건/의료,MED,False,MED:보건/의료,False,False
+keyword_rule,OC2024_01730,고신대학교,,보건의료정보관리,보건의료정보관리전공,unmatched,,keyword_rule,medium,MED:보건/의료,MED,False,MED:보건/의료,False,False
+keyword_rule,OC2024_03126,단국대학교_제2캠퍼스,제2캠퍼스,의생명과의생명시스템학,의생명과학부 의생명시스템학전공,unmatched,,keyword_rule,medium,NAT:생명과학/과학,NAT,False,NAT:생명과학/과학,False,False
+keyword_rule,OC2024_02438,국립부경대학교,,식품과,식품과학부,unmatched,,keyword_rule,medium,NAT:식품과학/과학,NAT,False,NAT:식품과학/과학,False,False
+keyword_rule,OC2024_06829,연세대학교(미래)_분교,분교|미래,생명과학기술학,생명과학기술학전공,unmatched,,keyword_rule,medium,NAT:생명과학/과학,NAT,False,NAT:생명과학/과학,False,False
+keyword_rule,OC2024_01022,경북대학교,,응용생명과,"응용생명과학부(식물생명과학전공, 환경생명화학전공)",manual_review,,keyword_rule,medium,NAT:화학/생명과학/환경/과학,NAT,False,NAT:화학/생명과학/환경/과학,False,False
+keyword_rule,OC2024_06043,세한대학교,,반려동물관리,반려동물관리학과,unmatched,,keyword_rule,medium,NAT:동물,NAT,False,NAT:동물,False,False
+keyword_rule,OC2024_05132,상지대학교,,산림조경산림과학,산림조경학부 산림과학전공,unmatched,,keyword_rule,medium,NAT:산림/과학,NAT,False,NAT:산림/과학,False,False
+keyword_rule,OC2024_02505,국립순천대학교,,농생명과,농생명과학과,unmatched,,keyword_rule,medium,NAT:생명과학/과학,NAT,False,NAT:생명과학/과학,False,False
+keyword_rule,OC2024_02545,국립순천대학교,,조리과,조리과학과,unmatched,,keyword_rule,medium,NAT:과학,NAT,False,NAT:과학,False,False
+keyword_rule,OC2024_01708,고려대학교(세종)_분교,분교|세종,응용수리과,응용수리과학부,unmatched,,keyword_rule,medium,NAT:과학,NAT,False,NAT:과학,False,False
+keyword_rule,OC2024_10112,호서대학교,,화장품과,화장품과학과,unmatched,,keyword_rule,medium,NAT:과학,NAT,False,NAT:과학,False,False
+keyword_rule,OC2024_05532,서울여자대학교,,원예생명조경,원예생명조경학과,unmatched,,keyword_rule,medium,NAT:원예,NAT,False,NAT:원예,False,False
+keyword_rule,OC2024_03930,동덕여자대학교,,자연과응용화학,자연과학부 응용화학전공,unmatched,,keyword_rule,medium,NAT:화학/과학,NAT,False,NAT:화학/과학,False,False
+keyword_rule,OC2024_02038,국립경국대학교,,스마트원예과,스마트원예과학과,unmatched,,keyword_rule,medium,NAT:원예/과학,NAT,False,NAT:원예/과학,False,False
+keyword_rule,OC2024_05028,상명대학교,,외식의류식품영양학,외식의류학부 식품영양학전공,unmatched,,keyword_rule,medium,NAT:식품영양,NAT,False,NAT:식품영양,False,False
+keyword_rule,OC2024_08822,충남대학교,,미생물・분자생명과,미생물・분자생명과학과,manual_review,,keyword_rule,medium,NAT:생명과학/생물/과학,NAT,False,NAT:생명과학/생물/과학,False,False
+keyword_rule,OC2024_03617,대진대학교,,에코응용화학,에코응용화학전공,unmatched,,keyword_rule,medium,NAT:화학,NAT,False,NAT:화학,False,False
+keyword_rule,OC2024_09008,칼빈대학교,,애완동물,애완동물학과,unmatched,,keyword_rule,medium,NAT:동물,NAT,False,NAT:동물,False,False
+keyword_rule,OC2024_03909,동덕여자대학교,,사회과아동학,사회과학부 아동학전공,unmatched,,keyword_rule,medium,NAT:과학,NAT,False,NAT:과학,False,False
+keyword_rule,OC2024_01674,고려대학교(세종)_분교,분교|세종,국가통계,국가통계전공,unmatched,,keyword_rule,medium,NAT:통계,NAT,False,NAT:통계,False,False
+keyword_rule,OC2024_07066,용인대학교,,물류통계정보,물류통계정보학과,unmatched,,keyword_rule,medium,NAT:통계,NAT,False,NAT:통계,False,False
+keyword_rule,OC2024_01446,경희대학교,,스마트팜과,스마트팜과학과,unmatched,,keyword_rule,medium,NAT:스마트팜/과학,NAT,False,NAT:스마트팜/과학,False,False
+keyword_rule,OC2024_07383,위덕대학교,,불교문화,불교문화학과,unmatched,,keyword_rule,medium,NAT:화학,NAT,False,NAT:화학,False,False
+keyword_rule,OC2024_05990,세종대학교,,수학통계,수학통계학과,unmatched,,keyword_rule,medium,NAT:수학/통계,NAT,False,NAT:수학/통계,False,False
+keyword_rule,OC2024_02061,국립경국대학교,,중국어문・문화,중국어문・문화학과,unmatched,,keyword_rule,medium,NAT:화학,NAT,False,NAT:화학,False,False
+keyword_rule,OC2024_00116,가톨릭관동대학교,,반려동물학,반려동물학전공,unmatched,,keyword_rule,medium,NAT:동물,NAT,False,NAT:동물,False,False
+keyword_rule,OC2024_10125,호원대학교,,군사과학기술,군사과학기술학과,unmatched,,keyword_rule,medium,NAT:과학,NAT,False,NAT:과학,False,False
+keyword_rule,OC2024_09669,한성대학교,,사회과,사회과학부,unmatched,,keyword_rule,medium,NAT:과학,NAT,False,NAT:과학,False,False
+keyword_rule,OC2024_04304,동양대학교,,의무군사,의무군사학과 | 의무군사학과(자연과학),manual_review,,keyword_rule,medium,NAT:과학,NAT,False,NAT:과학,False,False
+keyword_rule,OC2024_03007,남서울대학교,,글로벌한국어문화,글로벌한국어문화학과,unmatched,,keyword_rule,medium,NAT:화학,NAT,False,NAT:화학,False,False
+keyword_rule,OC2024_02459,국립부경대학교,,자원생물학,자원생물학전공,unmatched,,keyword_rule,medium,NAT:생물,NAT,False,NAT:생물,False,False
+keyword_rule,OC2024_02835,국민대학교,,재무금융,재무금융전공,unmatched,,keyword_rule,medium,SOC:금융,SOC,False,SOC:금융,False,False
+keyword_rule,OC2024_07000,영산대학교(해운대),해운대,비즈니스법,비즈니스법전공,manual_review,,keyword_rule,medium,SOC:법/비즈니스,SOC,False,SOC:법/비즈니스,False,False
+keyword_rule,OC2024_04403,동의대학교,,유통물류학,유통물류학전공,unmatched,,keyword_rule,medium,SOC:유통,SOC,False,SOC:유통,False,False
+keyword_rule,OC2024_05331,서울기독대학교,,글로벌휴먼경영,글로벌휴먼경영전공,unmatched,,keyword_rule,medium,SOC:경영,SOC,False,SOC:경영,False,False
+keyword_rule,OC2024_05186,상지대학교,,호텔컨벤션경영,호텔컨벤션경영학과,unmatched,,keyword_rule,medium,SOC:경영/호텔,SOC,False,SOC:경영/호텔,False,False
+keyword_rule,OC2024_06029,세종대학교,,호텔관광경영학/호텔관광외식경영,호텔관광경영학전공/호텔관광외식경영학부,unmatched,,keyword_rule,medium,SOC:경영/관광/호텔,SOC,False,SOC:경영/관광/호텔,False,False
+keyword_rule,OC2024_00624,건국대학교(글로컬)_분교,분교|글로컬,행정복지,행정복지학부(사회복지학전공) | 행정복지학부(행정학전공) | 행정복지학부(사회복지학전공),manual_review,,keyword_rule,medium,SOC:행정/사회복지,SOC,False,SOC:행정/사회복지,False,False
+keyword_rule,OC2024_00692,경기대학교,,국제산업정보,국제산업정보학과,unmatched,,keyword_rule,medium,SOC:국제/산업정보,SOC,False,SOC:국제/산업정보,False,False
+keyword_rule,OC2024_09000,칼빈대학교,,글로벌문화산업경영,글로벌문화산업경영학과,unmatched,,keyword_rule,medium,SOC:경영,SOC,False,SOC:경영,False,False
+keyword_rule,OC2024_04920,부산외국어대학교,,사이버경찰,사이버경찰학과 | 사이버경찰전공 | 사이버경찰학과,unmatched,,keyword_rule,medium,SOC:경찰,SOC,False,SOC:경찰,False,False
+keyword_rule,OC2024_00257,강서대학교,,AI기반경영,AI기반경영학과,unmatched,,keyword_rule,medium,SOC:경영,SOC,False,SOC:경영,False,False
+keyword_rule,OC2024_06810,연세대학교(미래)_분교,분교|미래,동아시아국제,동아시아국제학부,unmatched,,keyword_rule,medium,SOC:국제,SOC,False,SOC:국제,False,False
+keyword_rule,OC2024_10091,호서대학교,,안전소방,안전소방학부,unmatched,,keyword_rule,medium,SOC:소방,SOC,False,SOC:소방,False,False
+keyword_rule,OC2024_06608,아주대학교,,e-비즈니스,e-비즈니스학과,unmatched,,keyword_rule,medium,SOC:비즈니스,SOC,False,SOC:비즈니스,False,False
+keyword_rule,OC2024_03498,대구한의대학교,,호텔관광학,호텔관광학전공,unmatched,,keyword_rule,medium,SOC:관광/호텔,SOC,False,SOC:관광/호텔,False,False
+keyword_rule,OC2024_03405,대구한의대학교,,글로벌푸드비즈니스,글로벌푸드비즈니스전공,unmatched,,keyword_rule,medium,SOC:비즈니스,SOC,False,SOC:비즈니스,False,False
+keyword_rule,OC2024_09002,칼빈대학교,,복지상담,복지상담학과,unmatched,,keyword_rule,medium,SOC:상담,SOC,False,SOC:상담,False,False
+keyword_rule,OC2024_01713,고려대학교(세종)_분교,분교|세종,정부행정,정부행정학부,unmatched,,keyword_rule,medium,SOC:행정,SOC,False,SOC:행정,False,False
+keyword_rule,OC2024_06559,신한대학교_제2캠퍼스,제2캠퍼스,글로벌무역,글로벌무역학과,unmatched,,keyword_rule,medium,SOC:무역,SOC,False,SOC:무역,False,False
+keyword_rule,OC2024_08124,전주대학교,,부동산국토정보,부동산국토정보학과,unmatched,,keyword_rule,medium,SOC:부동산,SOC,False,SOC:부동산,False,False
+keyword_rule,OC2024_04449,동의대학교,,호텔ㆍ컨벤션경영학,호텔ㆍ컨벤션경영학전공,unmatched,,keyword_rule,medium,SOC:경영/호텔,SOC,False,SOC:경영/호텔,False,False
+keyword_rule,OC2024_02477,국립부경대학교,,해양경찰학,해양경찰학전공,unmatched,,keyword_rule,medium,SOC:경찰,SOC,False,SOC:경찰,False,False
+keyword_rule,OC2024_05330,서울기독대학교,,국제경영정보,국제경영정보학과,unmatched,,keyword_rule,medium,SOC:경영/국제,SOC,False,SOC:경영/국제,False,False
+keyword_rule,OC2024_06341,숭실대학교,,정보사회,정보사회학과,unmatched,,keyword_rule,medium,SOC:사회학,SOC,False,SOC:사회학,False,False
+keyword_rule,OC2024_03868,동덕여자대학교,,경영경제경영학,경영경제학부 경영학전공,unmatched,,keyword_rule,medium,SOC:경영/경제,SOC,False,SOC:경영/경제,False,False
+keyword_rule,OC2024_06308,숭실대학교,,국제법무,국제법무학과,unmatched,,keyword_rule,medium,SOC:법/국제,SOC,False,SOC:법/국제,False,False
+keyword_rule,OC2024_03435,대구한의대학교,,상담심리학,상담심리학전공,unmatched,,keyword_rule,medium,SOC:심리/상담,SOC,False,SOC:심리/상담,False,False
+keyword_rule,OC2024_07385,위덕대학교,,사회복지서비스상담,사회복지서비스상담학과,unmatched,,keyword_rule,medium,SOC:사회복지/상담,SOC,False,SOC:사회복지/상담,False,False
+keyword_rule,OC2024_07410,유원대학교,,경찰·소방행정,경찰·소방행정학부,manual_review,,keyword_rule,medium,SOC:행정/경찰/소방,SOC,False,SOC:행정/경찰/소방,False,False
+keyword_rule,OC2024_05624,선문대학교,,국제관계・행정,국제관계・행정학부,unmatched,,keyword_rule,medium,SOC:행정/국제,SOC,False,SOC:행정/국제,False,False
+ambiguous,OC2024_02430,국립부경대학교,,수해양산업교육과양식공학,수해양산업교육과 양식공학전공,unmatched,,ambiguous,low,"hits=ENG,EDU evidence=ENG:공학 | EDU:교육 ambiguous_token=False","ENG,EDU",False,ENG:공학 | EDU:교육,False,False
+ambiguous,OC2024_02058,국립경국대학교,,전자공학교육과,전자공학교육과,unmatched,,ambiguous,low,"hits=ENG,EDU evidence=ENG:전자/공학 | EDU:교육 ambiguous_token=False","ENG,EDU",False,ENG:전자/공학 | EDU:교육,False,False
+ambiguous,OC2024_04226,동아대학교,,역사문화사학,역사문화학부 사학전공,unmatched,,ambiguous,low,"hits=NAT,HUM evidence=NAT:화학 | HUM:역사 ambiguous_token=False","NAT,HUM",False,NAT:화학 | HUM:역사,False,False
+ambiguous,OC2024_04382,동의대학교,,산업경영빅데이터공,산업경영빅데이터공학과,unmatched,,ambiguous,low,"hits=ENG,SOC evidence=ENG:데이터/공학 | SOC:경영 ambiguous_token=False","ENG,SOC",False,ENG:데이터/공학 | SOC:경영,False,False
+ambiguous,OC2024_09219,한국방송통신대학교,,생활과가정복지상담학,생활과학부 가정복지상담학전공,unmatched,,ambiguous,low,"hits=NAT,SOC evidence=NAT:과학 | SOC:상담 ambiguous_token=False","NAT,SOC",False,NAT:과학 | SOC:상담,False,False
+ambiguous,OC2024_06011,세종대학교,,인문사회계열,인문사회계열,unmatched,,ambiguous,low,"hits=SOC,HUM evidence=SOC:회계 | HUM:인문 ambiguous_token=False","SOC,HUM",False,SOC:회계 | HUM:인문,False,False
+ambiguous,OC2024_03740,동국대학교,,반도체과학,반도체과학전공,unmatched,,ambiguous,low,"hits=ENG,NAT evidence=ENG:반도체 | NAT:과학 ambiguous_token=False","ENG,NAT",False,ENG:반도체 | NAT:과학,False,False
+ambiguous,OC2024_08355,조선대학교,,용접.접합과학공,용접.접합과학공학과,unmatched,,ambiguous,low,"hits=ENG,NAT evidence=ENG:공학 | NAT:과학 ambiguous_token=False","ENG,NAT",False,ENG:공학 | NAT:과학,False,False
+ambiguous,OC2024_06840,연세대학교(미래)_분교,분교|미래,의료시스템공학,의료시스템공학전공,unmatched,,ambiguous,low,"hits=MED,ENG evidence=MED:의료 | ENG:공학 ambiguous_token=False","MED,ENG",False,MED:의료 | ENG:공학,False,False
+ambiguous,OC2024_03487,대구한의대학교,,한방스포츠의,한방스포츠의학과,unmatched,,ambiguous,low,"hits=MED,ART evidence=MED:의학 | ART:스포츠 ambiguous_token=False","MED,ART",False,MED:의학 | ART:스포츠,False,False
+ambiguous,OC2024_04511,명지대학교_제2캠퍼스,제2캠퍼스,미래융합경영,미래융합경영학과,unmatched,,ambiguous,low,hits=SOC evidence=SOC:경영 ambiguous_token=True,SOC,True,SOC:경영,False,False
+ambiguous,OC2024_06143,수원대학교,,융합화학산업,융합화학산업,unmatched,,ambiguous,low,hits=NAT evidence=NAT:화학 ambiguous_token=True,NAT,True,NAT:화학,False,False
+ambiguous,OC2024_10150,호원대학교,,컴퓨터게임애니메이션,컴퓨터게임애니메이션학과,unmatched,,ambiguous,low,"hits=ENG,ART evidence=ENG:컴퓨터 | ART:애니메이션 ambiguous_token=False","ENG,ART",False,ENG:컴퓨터 | ART:애니메이션,False,False
+ambiguous,OC2024_01962,국립강릉원주대학교(폐교),,수학물리,수학물리학부 | 수학물리학부(물리・에너지전공) | 수학물리학부(수학전공),manual_review,,ambiguous,low,"hits=ENG,NAT evidence=ENG:에너지 | NAT:수학/물리 ambiguous_token=False","ENG,NAT",False,ENG:에너지 | NAT:수학/물리,False,False
+ambiguous,OC2024_07278,울산대학교,,철학・상담,철학・상담전공,unmatched,,ambiguous,low,"hits=SOC,HUM evidence=SOC:상담 | HUM:철학 ambiguous_token=False","SOC,HUM",False,SOC:상담 | HUM:철학,False,False
+ambiguous,OC2024_04442,동의대학교,,평생교육·청소년상담,평생교육·청소년상담학과,unmatched,,ambiguous,low,"hits=EDU,SOC evidence=EDU:교육 | SOC:상담 ambiguous_token=False","EDU,SOC",False,EDU:교육 | SOC:상담,False,False
+ambiguous,OC2024_01711,고려대학교(세종)_분교,분교|세종,전자·기계융합공,전자·기계융합공학과,unmatched,,ambiguous,low,hits=ENG evidence=ENG:기계/전자/공학 ambiguous_token=True,ENG,True,ENG:기계/전자/공학,False,False
+ambiguous,OC2024_09100,한경국립대학교,,원예생명공학,원예생명공학전공,unmatched,,ambiguous,low,"hits=ENG,NAT evidence=ENG:공학 | NAT:원예 ambiguous_token=False","ENG,NAT",False,ENG:공학 | NAT:원예,False,False
+ambiguous,OC2024_03110,단국대학교_제2캠퍼스,제2캠퍼스,스포츠경영,스포츠경영학과,unmatched,,ambiguous,low,"hits=ART,SOC evidence=ART:스포츠 | SOC:경영 ambiguous_token=False","ART,SOC",False,ART:스포츠 | SOC:경영,False,False
+ambiguous,OC2024_06170,수원대학교,,화학공학·신소재공,화학공학·신소재공학부,unmatched,,ambiguous,low,"hits=ENG,NAT evidence=ENG:화학공학/신소재/공학 | NAT:화학 ambiguous_token=False","ENG,NAT",False,ENG:화학공학/신소재/공학 | NAT:화학,False,False
+ambiguous,OC2024_02670,국립한국교통대학교,,철도경영・물류,철도경영・물류학과,unmatched,,ambiguous,low,"hits=ENG,SOC evidence=ENG:철도 | SOC:경영 ambiguous_token=False","ENG,SOC",False,ENG:철도 | SOC:경영,False,False
+ambiguous,OC2024_02661,국립한국교통대학교,,융합경영,융합경영학과 | 융합경영전공,unmatched,,ambiguous,low,hits=SOC evidence=SOC:경영 ambiguous_token=True,SOC,True,SOC:경영,False,False
+ambiguous,OC2024_02409,국립부경대학교,,데이터정보과,데이터정보과학부,unmatched,,ambiguous,low,"hits=ENG,NAT evidence=ENG:데이터 | NAT:과학 ambiguous_token=False","ENG,NAT",False,ENG:데이터 | NAT:과학,False,False
+ambiguous,OC2024_05560,서울한영대학교,,재활상담심리,재활상담심리학과,unmatched,,ambiguous,low,"hits=MED,SOC evidence=MED:재활 | SOC:심리/상담 ambiguous_token=False","MED,SOC",False,MED:재활 | SOC:심리/상담,False,False
+ambiguous,OC2024_07644,인제대학교,,토목도시환경공,토목도시환경공학부,unmatched,,ambiguous,low,"hits=ENG,NAT evidence=ENG:토목/공학 | NAT:환경 ambiguous_token=False","ENG,NAT",False,ENG:토목/공학 | NAT:환경,False,False
+ambiguous,OC2024_01371,경일대학교,,기계자동화융합,기계자동화융합학과,unmatched,,ambiguous,low,hits=ENG evidence=ENG:기계/자동화 ambiguous_token=True,ENG,True,ENG:기계/자동화,False,False
+ambiguous,OC2024_01502,경희대학교,,환경조경디자인,환경조경디자인학과,unmatched,,ambiguous,low,"hits=NAT,ART evidence=NAT:환경 | ART:디자인 ambiguous_token=False","NAT,ART",False,NAT:환경 | ART:디자인,False,False
+ambiguous,OC2024_05077,상명대학교_제2캠퍼스,제2캠퍼스,예술문화예술경영,예술학부 문화예술경영전공,unmatched,,ambiguous,low,"hits=ART,SOC evidence=ART:예술 | SOC:경영 ambiguous_token=False","ART,SOC",False,ART:예술 | SOC:경영,False,False
+ambiguous,OC2024_04967,부산외국어대학교,,한국어문화,한국어문화학부 | 한국어문화학부(한국어교육전공) | 한국어문화학부(한국언어문화전공) | 한국어문화학부(한국어교육전공) | 한국어문화학부(한국언어문화전공),unmatched,,ambiguous,low,"hits=NAT,EDU,HUM evidence=NAT:화학 | EDU:교육/국어교육 | HUM:언어 ambiguous_token=False","NAT,EDU,HUM",False,NAT:화학 | EDU:교육/국어교육 | HUM:언어,False,False
+ambiguous,OC2024_03931,동덕여자대학교,,자연과체육학,자연과학부 체육학전공,unmatched,,ambiguous,low,"hits=NAT,ART evidence=NAT:과학 | ART:체육 ambiguous_token=False","NAT,ART",False,NAT:과학 | ART:체육,False,False
+ambiguous,OC2024_02802,국민대학교,,빅데이터경영통계,빅데이터경영통계전공,unmatched,,ambiguous,low,"hits=ENG,NAT,SOC evidence=ENG:데이터 | NAT:통계 | SOC:경영 ambiguous_token=False","ENG,NAT,SOC",False,ENG:데이터 | NAT:통계 | SOC:경영,False,False
+ambiguous,OC2024_08319,조선대학교,,디자인공,디자인공학과,unmatched,,ambiguous,low,"hits=ENG,ART evidence=ENG:공학 | ART:디자인 ambiguous_token=False","ENG,ART",False,ENG:공학 | ART:디자인,False,False
+ambiguous,OC2024_04950,부산외국어대학교,,전자로봇・보안,전자로봇・보안학부(스마트융합보안전공) | 전자로봇・보안학부(전자로봇전공),unmatched,,ambiguous,low,hits=ENG evidence=ENG:전자/로봇/보안 ambiguous_token=True,ENG,True,ENG:전자/로봇/보안,False,False
+ambiguous,OC2024_03431,대구한의대학교,,산업디자인공학,산업디자인공학전공,unmatched,,ambiguous,low,"hits=ENG,ART evidence=ENG:공학 | ART:디자인 ambiguous_token=False","ENG,ART",False,ENG:공학 | ART:디자인,False,False
+ambiguous,OC2024_09675,한성대학교,,융합보안,융합보안학과,unmatched,,ambiguous,low,hits=ENG evidence=ENG:보안 ambiguous_token=True,ENG,True,ENG:보안,False,False
+ambiguous,OC2024_05865,성신여자대학교,,융합보안공,융합보안공학과,manual_review,,ambiguous,low,hits=ENG evidence=ENG:공학/보안 ambiguous_token=True,ENG,True,ENG:공학/보안,False,False
+ambiguous,OC2024_01312,경운대학교,,소프트웨어융합계열,소프트웨어융합계열,unmatched,,ambiguous,low,hits=ENG evidence=ENG:소프트웨어 ambiguous_token=True,ENG,True,ENG:소프트웨어,False,False
+ambiguous,OC2024_08166,전주대학교,,탄소융합공,탄소융합공학과,unmatched,,ambiguous,low,hits=ENG evidence=ENG:공학 ambiguous_token=True,ENG,True,ENG:공학,False,False
+ambiguous,OC2024_08600,창신대학교,,스마트융합공소방방재,스마트융합공학부 소방방재전공,unmatched,,ambiguous,low,"hits=ENG,SOC evidence=ENG:공학 | SOC:소방 ambiguous_token=True","ENG,SOC",True,ENG:공학 | SOC:소방,False,False
+ambiguous,OC2024_02406,국립부경대학교,,나노융합반도체공,나노융합반도체공학부,unmatched,,ambiguous,low,hits=ENG evidence=ENG:반도체/공학 ambiguous_token=True,ENG,True,ENG:반도체/공학,False,False
+ambiguous,OC2024_03014,남서울대학교,,뷰티보건,뷰티보건학과,unmatched,,ambiguous,low,"hits=MED,ART evidence=MED:보건 | ART:뷰티 ambiguous_token=False","MED,ART",False,MED:보건 | ART:뷰티,False,False
+ambiguous,OC2024_04239,동아대학교,,인간환경융합공건축공,인간환경융합공학부 건축공학과,unmatched,,ambiguous,low,"hits=ENG,NAT evidence=ENG:건축공학/공학 | NAT:환경 ambiguous_token=True","ENG,NAT",True,ENG:건축공학/공학 | NAT:환경,False,False
+ambiguous,OC2024_03471,대구한의대학교,,재활의료공학,재활의료공학전공,unmatched,,ambiguous,low,"hits=MED,ENG evidence=MED:재활/의료 | ENG:공학 ambiguous_token=False","MED,ENG",False,MED:재활/의료 | ENG:공학,False,False
+ambiguous,OC2024_05064,상명대학교_제2캠퍼스,제2캠퍼스,스포츠경영,스포츠경영전공,unmatched,,ambiguous,low,"hits=ART,SOC evidence=ART:스포츠 | SOC:경영 ambiguous_token=False","ART,SOC",False,ART:스포츠 | SOC:경영,False,False
+ambiguous,OC2024_08145,전주대학교,,영화방송제작,영화방송제작학과,unmatched,,ambiguous,low,"hits=ART,SOC evidence=ART:영화 | SOC:방송 ambiguous_token=False","ART,SOC",False,ART:영화 | SOC:방송,False,False
+ambiguous,OC2024_02845,국민대학교,,지능형반도체융합전자,지능형반도체융합전자전공,unmatched,,ambiguous,low,hits=ENG evidence=ENG:전자/반도체 ambiguous_token=True,ENG,True,ENG:전자/반도체,False,False
+ambiguous,OC2024_01670,고려대학교(세종)_분교,분교|세종,고고미술사학,고고미술사학전공,unmatched,,ambiguous,low,"hits=ART,HUM evidence=ART:미술 | HUM:고고 ambiguous_token=False","ART,HUM",False,ART:미술 | HUM:고고,False,False
+ambiguous,OC2024_05126,상지대학교,,비즈니스융합기업회계,비즈니스융합학부 기업회계전공,unmatched,,ambiguous,low,hits=SOC evidence=SOC:회계/비즈니스 ambiguous_token=True,SOC,True,SOC:회계/비즈니스,False,False
+ambiguous,OC2024_03796,동국대학교(WISE)_분교,분교|WISE,고고미술사학,고고미술사학전공,unmatched,,ambiguous,low,"hits=ART,HUM evidence=ART:미술 | HUM:고고 ambiguous_token=False","ART,HUM",False,ART:미술 | HUM:고고,False,False
+ambiguous,OC2024_08163,전주대학교,,친환경자동차,친환경자동차학과,unmatched,,ambiguous,low,"hits=ENG,NAT evidence=ENG:자동차 | NAT:환경 ambiguous_token=False","ENG,NAT",False,ENG:자동차 | NAT:환경,False,False
+ambiguous,OC2024_04275,동아대학교,,환경・에너지공환경안전,환경・에너지공학부 환경안전전공,unmatched,,ambiguous,low,"hits=ENG,NAT evidence=ENG:에너지/공학 | NAT:환경 ambiguous_token=False","ENG,NAT",False,ENG:에너지/공학 | NAT:환경,False,False
+ambiguous,OC2024_03605,대진대학교,,스마트건설・환경공,스마트건설・환경공학부,unmatched,,ambiguous,low,"hits=ENG,NAT evidence=ENG:공학 | NAT:환경 ambiguous_token=False","ENG,NAT",False,ENG:공학 | NAT:환경,False,False
+ambiguous,OC2024_06278,순천향대학교,,의료생명공,의료생명공학과,unmatched,,ambiguous,low,"hits=MED,ENG evidence=MED:의료 | ENG:공학 ambiguous_token=False","MED,ENG",False,MED:의료 | ENG:공학,False,False
+ambiguous,OC2024_06819,연세대학교(미래)_분교,분교|미래,바이오융합공학,바이오융합공학전공,unmatched,,ambiguous,low,hits=ENG evidence=ENG:공학 ambiguous_token=True,ENG,True,ENG:공학,False,False
+ambiguous,OC2024_01718,고려대학교(세종)_분교,분교|세종,컴퓨터융합소프트웨어,컴퓨터융합소프트웨어학과,unmatched,,ambiguous,low,hits=ENG evidence=ENG:컴퓨터/소프트웨어 ambiguous_token=True,ENG,True,ENG:컴퓨터/소프트웨어,False,False
+ambiguous,OC2024_05007,상명대학교,,SW융합컴퓨터과학,SW융합학부 컴퓨터과학전공,unmatched,,ambiguous,low,"hits=ENG,NAT evidence=ENG:컴퓨터/sw | NAT:과학 ambiguous_token=True","ENG,NAT",True,ENG:컴퓨터/sw | NAT:과학,False,False
+ambiguous,OC2024_05647,선문대학교,,산업안전경영공,산업안전경영공학과,unmatched,,ambiguous,low,"hits=ENG,SOC evidence=ENG:공학 | SOC:경영 ambiguous_token=False","ENG,SOC",False,ENG:공학 | SOC:경영,False,False
+ambiguous,OC2024_02747,국립한밭대학교,,융합경영,융합경영학과,unmatched,,ambiguous,low,hits=SOC evidence=SOC:경영 ambiguous_token=True,SOC,True,SOC:경영,False,False
+ambiguous,OC2024_06244,순천향대학교,,글로벌자유,글로벌자유전공학과,unmatched,,ambiguous,low,hits=ENG evidence=ENG:공학 ambiguous_token=True,ENG,True,ENG:공학,False,False
+ambiguous,OC2024_05363,서울대학교,,물리·천문,물리·천문학부(물리학전공) | 물리·천문학부(천문학전공),manual_review,,ambiguous,low,"hits=NAT,HUM evidence=NAT:물리 | HUM:문학 ambiguous_token=False","NAT,HUM",False,NAT:물리 | HUM:문학,False,False
+ambiguous,OC2024_02469,국립부경대학교,,지능형로봇융합,지능형로봇융합전공,unmatched,,ambiguous,low,hits=ENG evidence=ENG:로봇 ambiguous_token=True,ENG,True,ENG:로봇,False,False
+ambiguous,OC2024_09654,한성대학교,,ICT디자인,ICT디자인학부,unmatched,,ambiguous,low,"hits=ENG,ART evidence=ENG:ict | ART:디자인 ambiguous_token=False","ENG,ART",False,ENG:ict | ART:디자인,False,False
+ambiguous,OC2024_03593,대진대학교,,도시부동산공,도시부동산공학과,unmatched,,ambiguous,low,"hits=ENG,SOC evidence=ENG:공학 | SOC:부동산 ambiguous_token=False","ENG,SOC",False,ENG:공학 | SOC:부동산,False,False
+ambiguous,OC2024_02832,국민대학교,,자동차•운송디자인,자동차•운송디자인학과,unmatched,,ambiguous,low,"hits=ENG,ART evidence=ENG:자동차 | ART:디자인 ambiguous_token=False","ENG,ART",False,ENG:자동차 | ART:디자인,False,False
+ambiguous,OC2024_02593,국립창원대학교,,스마트그린공화학공학,스마트그린공학부 화학공학전공,unmatched,,ambiguous,low,"hits=ENG,NAT evidence=ENG:화학공학/공학 | NAT:화학 ambiguous_token=False","ENG,NAT",False,ENG:화학공학/공학 | NAT:화학,False,False
+ambiguous,OC2024_08196,제주국제대학교,,융합경영,융합경영학부,unmatched,,ambiguous,low,hits=SOC evidence=SOC:경영 ambiguous_token=True,SOC,True,SOC:경영,False,False
+ambiguous,OC2024_05022,상명대학교,,생명화학공화공신소재,생명화학공학부 화공신소재전공,unmatched,,ambiguous,low,"hits=ENG,NAT evidence=ENG:화공/화학공학/신소재/공학 | NAT:화학 ambiguous_token=False","ENG,NAT",False,ENG:화공/화학공학/신소재/공학 | NAT:화학,False,False
+ambiguous,OC2024_02432,국립부경대학교,,수해양산업교육과항해공학,수해양산업교육과 항해공학전공,unmatched,,ambiguous,low,"hits=ENG,EDU evidence=ENG:공학 | EDU:교육 ambiguous_token=False","ENG,EDU",False,ENG:공학 | EDU:교육,False,False
+ambiguous,OC2024_08684,청주대학교,,보건행정학,보건행정학전공,unmatched,,ambiguous,low,"hits=MED,SOC evidence=MED:보건 | SOC:행정 ambiguous_token=False","MED,SOC",False,MED:보건 | SOC:행정,False,False
+ambiguous,OC2024_05520,서울여자대학교,,생명환경공학,생명환경공학전공,unmatched,,ambiguous,low,"hits=ENG,NAT evidence=ENG:공학 | NAT:환경 ambiguous_token=False","ENG,NAT",False,ENG:공학 | NAT:환경,False,False
+ambiguous,OC2024_09229,한국방송통신대학교,,통계・데이터과,통계・데이터과학과,unmatched,,ambiguous,low,"hits=ENG,NAT evidence=ENG:데이터 | NAT:통계/과학 ambiguous_token=False","ENG,NAT",False,ENG:데이터 | NAT:통계/과학,False,False
+ambiguous,OC2024_01503,경희대학교,,환경학및환경공,환경학및환경공학과,unmatched,,ambiguous,low,"hits=ENG,NAT evidence=ENG:공학 | NAT:환경 ambiguous_token=False","ENG,NAT",False,ENG:공학 | NAT:환경,False,False
+ambiguous,OC2024_00706,경기대학교,,산업경영정보공,산업경영정보공학과,unmatched,,ambiguous,low,"hits=ENG,SOC evidence=ENG:공학 | SOC:경영 ambiguous_token=False","ENG,SOC",False,ENG:공학 | SOC:경영,False,False
+ambiguous,OC2024_02279,국립금오공과대학교,,소재디자인공,소재디자인공학과,unmatched,,ambiguous,low,"hits=ENG,ART evidence=ENG:공학 | ART:디자인 ambiguous_token=False","ENG,ART",False,ENG:공학 | ART:디자인,False,False
+ambiguous,OC2024_08666,청주대학교,,동물보건복지,동물보건복지학과,unmatched,,ambiguous,low,"hits=MED,NAT evidence=MED:보건 | NAT:동물 ambiguous_token=False","MED,NAT",False,MED:보건 | NAT:동물,False,False
+ambiguous,OC2024_08105,전주대학교,,기술경영공,기술경영공학과,unmatched,,ambiguous,low,"hits=ENG,SOC evidence=ENG:공학 | SOC:경영 ambiguous_token=False","ENG,SOC",False,ENG:공학 | SOC:경영,False,False
+ambiguous,OC2024_00250,강남대학교,,융합자율,융합자율전공학부,unmatched,,ambiguous,low,hits=ENG evidence=ENG:공학 ambiguous_token=True,ENG,True,ENG:공학,False,False
+ambiguous,OC2024_06821,연세대학교(미래)_분교,분교|미래,반도체인프라및환경융합공학,반도체인프라및환경융합공학전공,unmatched,,ambiguous,low,"hits=ENG,NAT evidence=ENG:반도체/공학 | NAT:환경 ambiguous_token=True","ENG,NAT",True,ENG:반도체/공학 | NAT:환경,False,False
+ambiguous,OC2024_09508,한동대학교,,창의융합교육원,창의융합교육원(공학) | 창의융합교육원(인문사회),manual_review,,ambiguous,low,"hits=ENG,EDU,HUM evidence=ENG:공학 | EDU:교육 | HUM:인문 ambiguous_token=True","ENG,EDU,HUM",True,ENG:공학 | EDU:교육 | HUM:인문,False,False
+ambiguous,OC2024_02474,국립부경대학교,,통계・데이터사이언스,통계・데이터사이언스전공,unmatched,,ambiguous,low,"hits=ENG,NAT evidence=ENG:데이터 | NAT:통계 ambiguous_token=False","ENG,NAT",False,ENG:데이터 | NAT:통계,False,False
+ambiguous,OC2024_03736,동국대학교,,물리반도체과,물리반도체과학부,unmatched,,ambiguous,low,"hits=ENG,NAT evidence=ENG:반도체 | NAT:물리/과학 ambiguous_token=False","ENG,NAT",False,ENG:반도체 | NAT:물리/과학,False,False
+ambiguous,OC2024_01679,고려대학교(세종)_분교,분교|세종,데이터계산과학,데이터계산과학전공,unmatched,,ambiguous,low,"hits=ENG,NAT evidence=ENG:데이터 | NAT:과학 ambiguous_token=False","ENG,NAT",False,ENG:데이터 | NAT:과학,False,False
+ambiguous,OC2024_05069,상명대학교_제2캠퍼스,제2캠퍼스,식물식품공,식물식품공학과,unmatched,,ambiguous,low,"hits=ENG,NAT evidence=ENG:공학 | NAT:식품공학 ambiguous_token=False","ENG,NAT",False,ENG:공학 | NAT:식품공학,False,False
+ambiguous,OC2024_03394,대구한의대학교,,IT의료데이터과학,IT의료데이터과학전공,unmatched,,ambiguous,low,"hits=MED,ENG,NAT evidence=MED:의료 | ENG:데이터/it | NAT:과학 ambiguous_token=False","MED,ENG,NAT",False,MED:의료 | ENG:데이터/it | NAT:과학,False,False
+ambiguous,OC2024_03928,동덕여자대학교,,자연과보건관리학,자연과학부 보건관리학전공,unmatched,,ambiguous,low,"hits=MED,NAT evidence=MED:보건 | NAT:과학 ambiguous_token=False","MED,NAT",False,MED:보건 | NAT:과학,False,False
+ambiguous,OC2024_10134,호원대학교,,소방.전기융합,소방.전기융합학과,unmatched,,ambiguous,low,"hits=ENG,SOC evidence=ENG:전기 | SOC:소방 ambiguous_token=True","ENG,SOC",True,ENG:전기 | SOC:소방,False,False
+ambiguous,OC2024_03372,대구대학교,,환경기술공,환경기술공학과,unmatched,,ambiguous,low,"hits=ENG,NAT evidence=ENG:공학 | NAT:환경 ambiguous_token=False","ENG,NAT",False,ENG:공학 | NAT:환경,False,False
+ambiguous,OC2024_02671,국립한국교통대학교,,철도경영・물류학,철도경영・물류학전공,unmatched,,ambiguous,low,"hits=ENG,SOC evidence=ENG:철도 | SOC:경영 ambiguous_token=False","ENG,SOC",False,ENG:철도 | SOC:경영,False,False
+ambiguous,OC2024_02925,김천대학교,,항공호텔조리,항공호텔조리학부(항공호텔전공) | 항공호텔조리학부(호텔조리전공),manual_review,,ambiguous,low,"hits=ENG,SOC evidence=ENG:항공 | SOC:호텔 ambiguous_token=False","ENG,SOC",False,ENG:항공 | SOC:호텔,False,False
+ambiguous,OC2024_10149,호원대학교,,컴퓨터.게임융합,컴퓨터.게임융합학과,unmatched,,ambiguous,low,hits=ENG evidence=ENG:컴퓨터 ambiguous_token=True,ENG,True,ENG:컴퓨터,False,False
+ambiguous,OC2024_05039,상명대학교,,지능・데이터융합스마트생산,지능・데이터융합학부 스마트생산전공,unmatched,,ambiguous,low,hits=ENG evidence=ENG:데이터 ambiguous_token=True,ENG,True,ENG:데이터,False,False
+ambiguous,OC2024_03754,동국대학교,,스포츠문화,스포츠문화학과,unmatched,,ambiguous,low,"hits=NAT,ART evidence=NAT:화학 | ART:스포츠 ambiguous_token=False","NAT,ART",False,NAT:화학 | ART:스포츠,False,False
+ambiguous,OC2024_06253,순천향대학교,,보건행정경영,보건행정경영학과,unmatched,,ambiguous,low,"hits=MED,SOC evidence=MED:보건 | SOC:경영/행정 ambiguous_token=False","MED,SOC",False,MED:보건 | SOC:경영/행정,False,False
+ambiguous,OC2024_06873,영남대학교,,국제한국어교육,국제한국어교육전공,unmatched,,ambiguous,low,"hits=EDU,SOC evidence=EDU:교육/국어교육 | SOC:국제 ambiguous_token=False","EDU,SOC",False,EDU:교육/국어교육 | SOC:국제,False,False
+ambiguous,OC2024_04669,배재대학교,,보건의료복지,보건의료복지학과 | 보건의료복지학과(인문사회계열),manual_review,,ambiguous,low,"hits=MED,SOC,HUM evidence=MED:보건/의료 | SOC:회계 | HUM:인문 ambiguous_token=False","MED,SOC,HUM",False,MED:보건/의료 | SOC:회계 | HUM:인문,False,False
+ambiguous,OC2024_02476,국립부경대학교,,평생교육・상담학,평생교육・상담학전공,unmatched,,ambiguous,low,"hits=EDU,SOC evidence=EDU:교육 | SOC:상담 ambiguous_token=False","EDU,SOC",False,EDU:교육 | SOC:상담,False,False
+ambiguous,OC2024_05021,상명대학교,,생명화학공생명공학,생명화학공학부 생명공학전공,unmatched,,ambiguous,low,"hits=ENG,NAT evidence=ENG:화학공학/공학 | NAT:화학 ambiguous_token=False","ENG,NAT",False,ENG:화학공학/공학 | NAT:화학,False,False
+ambiguous,OC2024_10199,홍익대학교_제2캠퍼스,제2캠퍼스,건축공건축디자인,건축공학부 건축디자인전공(5년제),unmatched,,ambiguous,low,"hits=ENG,ART evidence=ENG:건축공학/공학 | ART:디자인 ambiguous_token=False","ENG,ART",False,ENG:건축공학/공학 | ART:디자인,False,False
+ambiguous,OC2024_00740,경기대학교_제2캠퍼스,제2캠퍼스,관광문화콘텐츠,관광문화콘텐츠학과,unmatched,,ambiguous,low,"hits=SOC,HUM evidence=SOC:관광 | HUM:문화콘텐츠 ambiguous_token=False","SOC,HUM",False,SOC:관광 | HUM:문화콘텐츠,False,False
+ambiguous,OC2024_05523,서울여자대학교,,스포츠운동과,스포츠운동과학과,unmatched,,ambiguous,low,"hits=NAT,ART evidence=NAT:과학 | ART:스포츠 ambiguous_token=False","NAT,ART",False,NAT:과학 | ART:스포츠,False,False
+unknown,OC2024_08254,제주대학교,,실버케어복지,실버케어복지학과,unmatched,,unknown,unknown,"no inherited, dictionary, or keyword evidence",,False,,False,False
+unknown,OC2024_05487,서울신학대학교,,보육,보육학과,unmatched,,unknown,unknown,"no inherited, dictionary, or keyword evidence",,False,,False,False
+unknown,OC2024_03011,남서울대학교,,바이오헬스컨디셔닝,바이오헬스컨디셔닝학과,unmatched,,unknown,unknown,"no inherited, dictionary, or keyword evidence",,False,,False,False
+unknown,OC2024_07677,인천대학교,,동북아통상,동북아통상전공,unmatched,,unknown,unknown,"no inherited, dictionary, or keyword evidence",,False,,False,False
+unknown,OC2024_03755,동국대학교,,식품산업관리,식품산업관리학과,unmatched,,unknown,unknown,"no inherited, dictionary, or keyword evidence",,False,,False,False
+unknown,OC2024_05608,서원대학교,,헬스케어운동,헬스케어운동학과,unmatched,,unknown,unknown,"no inherited, dictionary, or keyword evidence",,False,,False,False
+unknown,OC2024_03009,남서울대학교,,멀티미디어,멀티미디어학과,unmatched,,unknown,unknown,"no inherited, dictionary, or keyword evidence",,False,,False,False
+unknown,OC2024_05570,서원대학교,,라이프설계,라이프설계전공,unmatched,,unknown,unknown,"no inherited, dictionary, or keyword evidence",,False,,False,False
+unknown,OC2024_05575,서원대학교,,범죄수사,범죄수사전공,unmatched,,unknown,unknown,"no inherited, dictionary, or keyword evidence",,False,,False,False
+unknown,OC2024_08741,초당대학교,,글로벌실버케어,글로벌실버케어학과,unmatched,,unknown,unknown,"no inherited, dictionary, or keyword evidence",,False,,False,False
+unknown,OC2024_02534,국립순천대학교,,웰빙자원,웰빙자원학과,unmatched,,unknown,unknown,"no inherited, dictionary, or keyword evidence",,False,,False,False
+unknown,OC2024_03866,동덕여자대학교,,HCI사이언스,HCI사이언스전공,unmatched,,unknown,unknown,"no inherited, dictionary, or keyword evidence",,False,,False,False
+unknown,OC2024_03938,동덕여자대학교,,커뮤니케이션콘텐츠,커뮤니케이션콘텐츠전공,unmatched,,unknown,unknown,"no inherited, dictionary, or keyword evidence",,False,,False,False
+unknown,OC2024_03362,대구대학교,,특수창의융합,특수창의융합학과,unmatched,,unknown,unknown,"no inherited, dictionary, or keyword evidence",,True,,False,False
+unknown,OC2024_09102,한경국립대학교,,웰니스산업융합,웰니스산업융합학부,unmatched,,unknown,unknown,"no inherited, dictionary, or keyword evidence",,True,,False,False
+unknown,OC2024_05778,성균관대학교,,바이오메카트로닉스,바이오메카트로닉스학과,unmatched,,unknown,unknown,"no inherited, dictionary, or keyword evidence",,False,,False,False
+unknown,OC2024_05813,성균관대학교,,컬처앤테크놀로지융합,컬처앤테크놀로지융합전공,unmatched,,unknown,unknown,"no inherited, dictionary, or keyword evidence",,True,,False,False
+unknown,OC2024_03799,동국대학교(WISE)_분교,분교|WISE,국사학,국사학전공,unmatched,,unknown,unknown,"no inherited, dictionary, or keyword evidence",,False,,False,False
+unknown,OC2024_07667,인천대학교,,나노바이오,나노바이오전공,unmatched,,unknown,unknown,"no inherited, dictionary, or keyword evidence",,False,,False,False
+unknown,OC2024_05679,선문대학교,,일어일본,일어일본학과,unmatched,,unknown,unknown,"no inherited, dictionary, or keyword evidence",,False,,False,False
+unknown,OC2024_09833,한양대학교,,산업융합,산업융합학부,unmatched,,unknown,unknown,"no inherited, dictionary, or keyword evidence",,True,,False,False
+unknown,OC2024_02771,국민대학교,,건축시스템,건축시스템전공,unmatched,,unknown,unknown,"no inherited, dictionary, or keyword evidence",,False,,False,False
+unknown,OC2024_09095,한경국립대학교,,아동가족복지학,아동가족복지학전공,unmatched,,unknown,unknown,"no inherited, dictionary, or keyword evidence",,False,,False,False
+unknown,OC2024_06944,영남대학교,,트랜스아트과,트랜스아트과,unmatched,,unknown,unknown,"no inherited, dictionary, or keyword evidence",,False,,False,False
+unknown,OC2024_05496,서울신학대학교,,중국어과,중국어과,unmatched,,unknown,unknown,"no inherited, dictionary, or keyword evidence",,False,,False,False
+unknown,OC2024_05142,상지대학교,,식음료외식산업,식음료외식산업학과,unmatched,,unknown,unknown,"no inherited, dictionary, or keyword evidence",,False,,False,False
+unknown,OC2024_06309,숭실대학교,,글로벌미디어,글로벌미디어학부,unmatched,,unknown,unknown,"no inherited, dictionary, or keyword evidence",,False,,False,False
+unknown,OC2024_07317,원광대학교,,봉황인재,봉황인재학과,unmatched,,unknown,unknown,"no inherited, dictionary, or keyword evidence",,False,,False,False
+unknown,OC2024_09020,평택대학교,,미국,미국학과,unmatched,,unknown,unknown,"no inherited, dictionary, or keyword evidence",,False,,False,False
+unknown,OC2024_01536,계명대학교,,미국학,미국학전공,unmatched,,unknown,unknown,"no inherited, dictionary, or keyword evidence",,False,,False,False
+unknown,OC2024_05764,성균관대학교,,글로벌리더,글로벌리더학부,unmatched,,unknown,unknown,"no inherited, dictionary, or keyword evidence",,False,,False,False
+unknown,OC2024_02843,국민대학교,,중국정경,중국정경전공,unmatched,,unknown,unknown,"no inherited, dictionary, or keyword evidence",,False,,False,False
+unknown,OC2024_01823,광운대학교,,콘텐츠테크놀로지,콘텐츠테크놀로지전공,unmatched,,unknown,unknown,"no inherited, dictionary, or keyword evidence",,False,,False,False
+unknown,OC2024_03297,대구대학교,,글로컬라이프대학,글로컬라이프대학,unmatched,,unknown,unknown,"no inherited, dictionary, or keyword evidence",,False,,False,False
+unknown,OC2024_04917,부산외국어대학교,,베트남어,베트남어전공,unmatched,,unknown,unknown,"no inherited, dictionary, or keyword evidence",,False,,False,False
+unknown,OC2024_03884,동덕여자대학교,,글로벌지역중어중국학,글로벌지역학부 중어중국학전공,unmatched,,unknown,unknown,"no inherited, dictionary, or keyword evidence",,False,,False,False
+unknown,OC2024_03116,단국대학교_제2캠퍼스,제2캠퍼스,아시아중동,아시아중동학부,unmatched,,unknown,unknown,"no inherited, dictionary, or keyword evidence",,False,,False,False
+unknown,OC2024_05699,성결대학교,,동아시아물류,동아시아물류학부,unmatched,,unknown,unknown,"no inherited, dictionary, or keyword evidence",,False,,False,False
+unknown,OC2024_02515,국립순천대학교,,바이오한약자원,바이오한약자원학과,unmatched,,unknown,unknown,"no inherited, dictionary, or keyword evidence",,False,,False,False
+unknown,OC2024_03502,대구한의대학교,,화장품·제약자율,화장품·제약자율전공,unmatched,,unknown,unknown,"no inherited, dictionary, or keyword evidence",,True,,False,False
+unknown,OC2024_02756,국립한밭대학교,,중국어과,중국어과,unmatched,,unknown,unknown,"no inherited, dictionary, or keyword evidence",,False,,False,False
+unknown,OC2024_03282,대구대학교,,6차산업,6차산업학과,unmatched,,unknown,unknown,"no inherited, dictionary, or keyword evidence",,False,,False,False
+unknown,OC2024_04502,명지대학교_제2캠퍼스,제2캠퍼스,글로벌한국어,글로벌한국어학과,unmatched,,unknown,unknown,"no inherited, dictionary, or keyword evidence",,False,,False,False
+unknown,OC2024_06250,순천향대학교,,메타버스&게임,메타버스&게임학과,unmatched,,unknown,unknown,"no inherited, dictionary, or keyword evidence",,False,,False,False
+unknown,OC2024_06366,신경주대학교,,글로벌K-Culture,글로벌 K-Culture 학부,unmatched,,unknown,unknown,"no inherited, dictionary, or keyword evidence",,False,,False,False
+unknown,OC2024_05113,상지대학교,,레저레크레이션,레저레크레이션학과,unmatched,,unknown,unknown,"no inherited, dictionary, or keyword evidence",,False,,False,False
+unknown,OC2024_03480,대구한의대학교,,치유산업,치유산업학과,unmatched,,unknown,unknown,"no inherited, dictionary, or keyword evidence",,False,,False,False
+unknown,OC2024_06389,신경주대학교,,전통연희,전통연희전공,unmatched,,unknown,unknown,"no inherited, dictionary, or keyword evidence",,False,,False,False
+unknown,OC2024_01820,광운대학교,,지능컴퓨팅시스템,지능컴퓨팅시스템전공,unmatched,,unknown,unknown,"no inherited, dictionary, or keyword evidence",,False,,False,False
+unknown,OC2024_05510,서울여자대학교,,메타버스융합콘텐츠,메타버스융합콘텐츠전공,unmatched,,unknown,unknown,"no inherited, dictionary, or keyword evidence",,True,,False,False

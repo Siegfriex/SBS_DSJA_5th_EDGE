@@ -1,0 +1,4 @@
+﻿dataset,column,status,details
+D04,ctx24_industry_top3_pct,WARN,원 wage_reference 66열에 산업 분포 컬럼이 없어 NA로 둠.
+D04,ctx24_industry_hhi,WARN,원 wage_reference 66열에 산업 분포 컬럼이 없어 NA로 둠.
+D08,all,PASS,D08 built.

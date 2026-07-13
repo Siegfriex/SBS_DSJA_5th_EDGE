@@ -1,0 +1,328 @@
+﻿outcome_row_id,headcount_row_id,match_method,match_score,candidate_count,review_needed,match_evidence,candidate_preview,headcount_match_flag
+OC2024_00015,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,AI?소프트웨어학부(인공지능전공) | AI?소프트웨어학부(소프트웨어전공),False
+OC2024_00021,,manual_review,1.0,3,True,multiple exact normalized candidates; campus not sufficiently decisive,경영학부 | 경영학부(글로벌경영학) | 경영학부(경영학),False
+OC2024_00030,,manual_review,1.0,3,True,multiple exact normalized candidates; campus not sufficiently decisive,기계?스마트?산업공학부(기계공학전공) | 기계?스마트?산업공학부(산업공학전공) | 기계?스마트?산업공학부(스마트팩토리전공),False
+OC2024_00039,,manual_review,1.0,3,True,multiple exact normalized candidates; campus not sufficiently decisive,미술·디자인학부(디자인) | 미술·디자인학부(패션디자인) | 미술·디자인학부(회화·조소),False
+OC2024_00044,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,반도체공학부(반도체설계전공) | 반도체공학부(반도체?디스플레이전공),False
+OC2024_00060,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,약학과 | 약학과(2+4학제),False
+OC2024_00063,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,운동재활학과 | 운동재활학과,False
+OC2024_00067,,manual_review,1.0,3,True,multiple exact normalized candidates; campus not sufficiently decisive,음악학부(기악) | 음악학부(성악) | 음악학부(작곡),False
+OC2024_00077,,manual_review,1.0,4,True,multiple exact normalized candidates; campus not sufficiently decisive,전자공학과 | 전자공학부(전자공학전공) | 전자공학부(차세대반도체전공) | 전자공학부(시스템반도체전공),False
+OC2024_00080,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,체육학부(태권도) | 체육학부(체육),False
+OC2024_00082,,manual_review,1.0,3,True,multiple exact normalized candidates; campus not sufficiently decisive,컴퓨터공학과 | 컴퓨터공학부(컴퓨터공학전공) | 컴퓨터공학부(스마트보안전공),False
+OC2024_00092,,manual_review,1.0,3,True,multiple exact normalized candidates; campus not sufficiently decisive,화공생명공학부(배터리공학전공) | 화공생명공학과 | 화공생명공학부(화공생명공학전공),False
+OC2024_00093,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,화공생명배터리공학부(배터리공학전공) | 화공생명배터리공학부,False
+OC2024_00176,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,사회복지학과 | 사회복지학부,False
+OC2024_00270,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,간호학과 | 간호학과,False
+OC2024_00271,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,건축학과(5) | 건축학과(5),False
+OC2024_00273,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,건축공학전공 | 건축공학전공,False
+OC2024_00274,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,건축학전공(5년제) | 건축학전공(5년제),False
+OC2024_00287,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,글로벌비즈니스전공 | 글로벌비즈니스학과,False
+OC2024_00290,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,기계의용?메카트로닉스공학부 | 기계의용?메카트로닉스공학과,False
+OC2024_00362,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,에너지자원공학전공 | 에너지?자원공학전공,False
+OC2024_00380,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,자유전공학부(학생설계전공 인문사회계열) | 자유전공학부(학생설계전공 자연과학계열),False
+OC2024_00385,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,전자공학전공 | 전자공학전공,False
+OC2024_00404,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,컴퓨터공학과 | 컴퓨터공학과,False
+OC2024_00407,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,토목공학과 | 토목공학과,False
+OC2024_00408,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,토목공학전공 | 토목공학전공,False
+OC2024_00410,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,행정학과 | 행정학과,False
+OC2024_00415,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,화학공학과 | 화학공학과,False
+OC2024_00416,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,화학공학전공 | 화학공학전공,False
+OC2024_00419,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,환경공학과 | 환경공학과,False
+OC2024_00433,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,공공행정학과 | 공공행정전공,False
+OC2024_00434,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,관광학과 | 관광전공,False
+OC2024_00479,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,지역경제학과 | 지역경제전공,False
+OC2024_00486,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,건축학과 | 건축학부,False
+OC2024_00489,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,경영학과 | 경영학과,False
+OC2024_00512,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,산업디자인학과 | 산업디자인학과,False
+OC2024_00545,,manual_review,1.0,3,True,multiple exact normalized candidates; campus not sufficiently decisive,컴퓨터공학과 | 컴퓨터공학부 | 컴퓨터공학과,False
+OC2024_00562,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,골프산업학과 | 골프산업전공,False
+OC2024_00577,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,미디어콘텐츠전공 | 미디어콘텐츠학과,False
+OC2024_00582,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,뷰티화장품학과 | 뷰티화장품전공,False
+OC2024_00584,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,산업디자인전공 | 산업디자인학과,False
+OC2024_00591,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,스포츠과학부(생활체육학전공) | 스포츠과학부(골프지도전공),False
+OC2024_00593,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,시각영상디자인전공 | 시각영상디자인학과,False
+OC2024_00601,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,실내디자인전공 | 실내디자인학과,False
+OC2024_00622,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,패션디자인전공 | 패션디자인학과,False
+OC2024_00624,,manual_review,1.0,3,True,multiple exact normalized candidates; campus not sufficiently decisive,행정복지학부(사회복지학전공) | 행정복지학부 | 행정복지학부(행정학전공),False
+OC2024_00797,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,경영학과 | 경영학부,False
+OC2024_00884,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,보건관리학과 | 보건관리학과(자연과학),False
+OC2024_00903,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,스포츠마케팅학과 | 스포츠마케팅학과(예체능),False
+OC2024_00919,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,건설방재공학과 | 건설방재공학부,False
+OC2024_00922,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,건축학부(건축공학전공) | 건축학부(건축학전공),False
+OC2024_01005,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,에너지 신소재?화학공학부(신소재공학전공) | 에너지 신소재?화학공학부(에너지화학공학전공),False
+OC2024_01022,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,"응용생명과학부 | 응용생명과학부(식물생명과학전공, 환경생명화학전공)",False
+OC2024_01039,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,전자공학부 | 전자공학부(인공지능전공),False
+OC2024_01060,,manual_review,1.0,3,True,multiple exact normalized candidates; campus not sufficiently decisive,"컴퓨터학부 | 컴퓨터학부(플랫폼소프트웨어전공, 데이터과학전공) | 컴퓨터학부(글로벌소프트웨어융합전공)",False
+OC2024_01063,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,토목공학과 | 토목공학과,False
+OC2024_01083,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,경영학과 | 경영학부,False
+OC2024_01085,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,경제학과 | 경제학부,False
+OC2024_01089,,manual_review,1.0,3,True,multiple exact normalized candidates; campus not sufficiently decisive,국제통상전공 | 국제통상학과 | 국제통상학부,False
+OC2024_01093,,manual_review,1.0,4,True,multiple exact normalized candidates; campus not sufficiently decisive,나노?신소재공학부(세라믹공학전공) | 나노신소재공학부 | 나노?신소재공학부(금속재료공학전공) | 나노?신소재공학부(고분자공학전공),False
+OC2024_01116,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,사회복지학과 | 사회복지학부,False
+OC2024_01138,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,식품공학과 | 식품공학부,False
+OC2024_01143,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,약학과(6년제) | 약학과(2+4년제),False
+OC2024_01176,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,지능형통신공학과 | 지능형통신공학과,False
+OC2024_01216,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,건축학과 | 건축학과(5년제),False
+OC2024_01333,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,초등과학교육과(심화과정) | 초등과학교육과(심화과정),False
+OC2024_01334,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,초등교육학과(심화과정) | 초등교육학과(심화과정),False
+OC2024_01335,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,초등국어교육과(심화과정) | 초등국어교육과(심화과정),False
+OC2024_01336,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,초등미술교육과(심화과정) | 초등미술교육과(심화과정),False
+OC2024_01337,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,초등사회과교육과(심화과정) | 초등사회과교육과(심화과정),False
+OC2024_01338,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,초등생활과학교육과(심화과정) | 초등생활과학교육과(심화과정),False
+OC2024_01339,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,초등수학교육과(심화과정) | 초등수학교육과(심화과정),False
+OC2024_01340,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,초등영어교육과(심화과정) | 초등영어교육과(심화과정),False
+OC2024_01341,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,초등유아교육과(심화과정) | 초등유아교육과(심화과정),False
+OC2024_01342,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,초등윤리교육과(심화과정) | 초등윤리교육과(심화과정),False
+OC2024_01343,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,초등음악교육과(심화과정) | 초등음악교육과(심화과정),False
+OC2024_01344,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,초등체육교육과(심화과정) | 초등체육교육과(심화과정),False
+OC2024_01345,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,초등컴퓨터교육과(심화과정) | 초등컴퓨터교육과(심화과정),False
+OC2024_01346,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,특수(통합)교육과(심화과정) | 특수(통합)교육과(심화과정),False
+OC2024_01864,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,기계자동차공학부 | 기계자동차공학부(계약),False
+OC2024_01918,,manual_review,1.0,7,True,multiple exact normalized candidates; campus not sufficiently decisive,미래융합학부 | 미래융합학부(사회복지상담전공) | 미래융합학부(사회복지상담학과) | 미래융합학부(영양식품학과) | 미래융합학부(언어재활전공),False
+OC2024_01919,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,미용과학과 | 미용과학부,False
+OC2024_01936,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,특수교육과(초등특수교육전공) | 특수교육과(중등특수교육전공),False
+OC2024_01939,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,항공서비스학과 | 항공서비스학부,False
+OC2024_01962,,manual_review,1.0,3,True,multiple exact normalized candidates; campus not sufficiently decisive,수학물리학부 | 수학물리학부(수학전공) | 수학물리학부(물리?에너지전공),False
+OC2024_01972,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,전자?반도체공학부 | 전자?반도체공학부(전자공학전공),False
+OC2024_02138,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,소프트웨어전공 | 소프트웨어학과,False
+OC2024_02213,,manual_review,1.0,4,True,multiple exact normalized candidates; campus not sufficiently decisive,기계공학부 | 기계공학부(기계설계공학전공) | 기계공학부(기계공학전공) | 기계공학부(자동차공학전공),False
+OC2024_02222,,manual_review,1.0,3,True,multiple exact normalized candidates; campus not sufficiently decisive,사회복지학부 | 사회복지학부(사회복지정책전공) | 사회복지학부(사회복지서비스전공),False
+OC2024_02230,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,식품생명과학부 | 식품생명과학부(식품영양학전공),False
+OC2024_02248,,manual_review,1.0,3,True,multiple exact normalized candidates; campus not sufficiently decisive,첨단과학기술학부(소재화학전공) | 첨단과학기술학부(반도체물리전공) | 첨단과학기술학부,False
+OC2024_02249,,manual_review,1.0,3,True,multiple exact normalized candidates; campus not sufficiently decisive,체육학부 | 체육학부(체육학전공) | 체육학부(스포츠과학전공),False
+OC2024_02250,,manual_review,1.0,5,True,multiple exact normalized candidates; campus not sufficiently decisive,컴퓨터소프트웨어학부 | 컴퓨터소프트웨어학부(컴퓨터정보공학전공) | 컴퓨터소프트웨어학부(임베디드소프트웨어전공) | 컴퓨터소프트웨어학부(소프트웨어학전공) | 컴퓨터소프트웨어학부(인공지능융합전공),False
+OC2024_02261,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,행정경제학부 | 행정경제학부(행정학전공),False
+OC2024_02265,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,회계학부 | 회계학부(회계학전공),False
+OC2024_02298,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,건축?토목공학과(건축공학심화트랙) | 건축?토목공학과(토목공학트랙),False
+OC2024_02307,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,기계?신소재공학과(기계공학심화트랙) | 기계?신소재공학과(신소재공학트랙),False
+OC2024_02328,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,약학과(6년제) | 약학과(2+4학제),False
+OC2024_02347,,manual_review,1.0,3,True,multiple exact normalized candidates; campus not sufficiently decisive,조선해양공학과 | 조선해양공학과(조선해양생산트랙) | 조선해양공학과(조선해양설계트랙),False
+OC2024_02698,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,글로벌해양인문학부(해양영어영문학전공) | 글로벌해양인문학부(동아시아문화전공),False
+OC2024_02699,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,기계공학부(냉동공조공학전공) | 기계공학부(기계시스템공학전공),False
+OC2024_02705,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,인공지능공학부(지능제어시스템공학전공) | 인공지능공학부(컴퓨터공학전공),False
+OC2024_02706,,manual_review,1.0,6,True,multiple exact normalized candidates; campus not sufficiently decisive,전자전기정보공학부(전자통신공학전공) | 전자전기정보공학부(전기전자공학전공) | 전자전기정보공학부(전자정보통신공학전공) | 전자전기정보공학부(나노반도체공학전공) | 전자전기정보공학부(전파융합공학전공),False
+OC2024_02713,,manual_review,1.0,4,True,multiple exact normalized candidates; campus not sufficiently decisive,해양경영경제학부(해운경영전공) | 해양경영경제학부(해양정보?금융전공) | 해양경영경제학부(경제전공) | 해양경영경제학부(국제무역전공),False
+OC2024_02714,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,해양경찰학부(항해전공) | 해양경찰학부(기관전공),False
+OC2024_02717,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,"해양과학융합학부(해양생물공학전공, 수산바이오공학전공) | 해양과학융합학부(해양환경학전공)",False
+OC2024_02902,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,ICT군사학부 | ICT군사학부(드론봇전공),False
+OC2024_02906,,manual_review,1.0,3,True,multiple exact normalized candidates; campus not sufficiently decisive,경찰소방학부(경찰행정전공) | 경찰소방학과 | 경찰소방학부(소방학전공),False
+OC2024_02907,,manual_review,1.0,4,True,multiple exact normalized candidates; campus not sufficiently decisive,공연예술학부 | 공연예술학과 | 공연예술학부(뷰티케어전공) | 공연예술학부(공연예술전공),False
+OC2024_02910,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,사회복지상담학부(상담심리전공) | 사회복지상담학부(사회복지전공),False
+OC2024_02911,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,산업안전경영학부(산업경영전공) | 산업안전경영학부(산업안전전공),False
+OC2024_02925,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,항공호텔조리학부(항공호텔전공) | 항공호텔조리학부(호텔조리전공),False
+OC2024_02928,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,IT인공지능학부 | IT인공지능학부(인공지능빅데이터트랙/정보통신보안트랙/멀티미디어콘텐츠트랙),False
+OC2024_02931,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,경찰행정학과 | 경찰행정학부,False
+OC2024_03219,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,약학부 | 약학부(통합6년제),False
+OC2024_03220,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,약학전공 | 약학전공(6년제),False
+OC2024_03246,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,제약학전공 | 제약학전공(6년제),False
+OC2024_03266,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,회계세무전공 | 회계세무학과,False
+OC2024_03519,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,건축학과(5) | 건축학과(4),False
+OC2024_03679,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,시각디자인전공 | 시각디자인학과,False
+OC2024_03682,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,실내디자인전공 | 실내디자인학과,False
+OC2024_03687,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,약학과(6년제) | 약학과(2+4학제),False
+OC2024_03691,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,의상디자인전공 | 의상디자인학과,False
+OC2024_03704,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,텍스타일디자인전공 | 텍스타일디자인학과,False
+OC2024_03953,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,건축학과 | 건축학과(5년제),False
+OC2024_03975,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,디지털콘텐츠학과 | 디지털콘텐츠전공,False
+OC2024_04016,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,정보보호학과 | 정보보호학과,False
+OC2024_04037,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,ICT융합공학과 | ICT융합공학부,False
+OC2024_04067,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,방송영상학과 | 방송영상전공,False
+OC2024_04086,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,영화과 | 영화과(인문사회계열),False
+OC2024_04102,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,컴퓨터공학과 | 컴퓨터공학부,False
+OC2024_04282,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,게임학부 | 게임학부,False
+OC2024_04286,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,공연영상학부 | 공연영상학부,False
+OC2024_04291,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,디자인학부 | 디자인학부,False
+OC2024_04301,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,안전공학부 | 안전공학부,False
+OC2024_04304,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,의무군사학과 | 의무군사학과(자연과학),False
+OC2024_04311,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,철도운전관제학부 | 철도운전관제학과,False
+OC2024_04312,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,철도운전제어학부 | 철도운전제어학과,False
+OC2024_04556,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,광고홍보언론학과 | 광고홍보언론학부,False
+OC2024_04587,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,서비스경영학부 | 서비스경영전공,False
+OC2024_04662,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,드론로봇공학과 | 드론?로봇공학과,False
+OC2024_04669,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,보건의료복지학과 | 보건의료복지학과(인문사회계열),False
+OC2024_04789,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,건축학과 | 건축학과(5년제),False
+OC2024_04845,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,약학부 | 약학부(통합6년제),False
+OC2024_04846,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,약학전공 | 약학전공(통합6년제),False
+OC2024_04873,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,제약학전공 | 제약학전공(통합6년제),False
+OC2024_04974,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,간호학과 | 간호학과(특별과정),False
+OC2024_04975,,manual_review,1.0,3,True,multiple exact normalized candidates; campus not sufficiently decisive,건축학과 | 건축학과(5년제) | 건축학과(4년제),False
+OC2024_04991,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,영어영문학과 | 영어영문학부,False
+OC2024_05210,,manual_review,1.0,3,True,multiple exact normalized candidates; campus not sufficiently decisive,영문학부 | 영문학부(영미어문전공) | 영문학부(미국문화전공),False
+OC2024_05229,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,공공인적자원학부(사회과학대학) | 공공인적자원학과(사회과학대학),False
+OC2024_05251,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,뮤지컬학과 | 뮤지컬전공,False
+OC2024_05260,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,실용음악학과 | 실용음악학부,False
+OC2024_05319,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,초등교육학과 | 초등교육학과(심화과정),False
+OC2024_05339,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,간호학과 | 간호학과,False
+OC2024_05341,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,건축학과 | 건축학과(건축공학전공),False
+OC2024_05342,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,건축학과 | 건축학과(건축학전공(5년)),False
+OC2024_05354,,manual_review,1.0,3,True,multiple exact normalized candidates; campus not sufficiently decisive,기계항공공학부 | 기계항공공학부(기계공학전공) | 기계항공공학부(우주항공공학전공),False
+OC2024_05355,,manual_review,1.0,4,True,multiple exact normalized candidates; campus not sufficiently decisive,기악과 | 기악과(현악전공) | 기악과(관악전공) | 기악과(피아노전공),False
+OC2024_05363,,manual_review,1.0,3,True,multiple exact normalized candidates; campus not sufficiently decisive,물리·천문학부(물리학전공) | 물리?천문학부 | 물리·천문학부(천문학전공),False
+OC2024_05380,,manual_review,1.0,3,True,multiple exact normalized candidates; campus not sufficiently decisive,소비자아동학부 | 소비자아동학부(소비자학전공) | 소비자아동학부(아동가족학전공),False
+OC2024_05390,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,약학과 | 약학과(2+4년제),False
+OC2024_05409,,manual_review,1.0,3,True,multiple exact normalized candidates; campus not sufficiently decisive,작곡과 | 작곡과(이론전공) | 작곡과(작곡전공),False
+OC2024_05412,,manual_review,1.0,3,True,multiple exact normalized candidates; campus not sufficiently decisive,정치외교학부 | 정치외교학부(정치학전공) | 정치외교학부(외교학전공),False
+OC2024_05413,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,제약학과 | 제약학과(2+4학제),False
+OC2024_05546,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,사회복지학과 | 사회복지학부,False
+OC2024_05824,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,AI융합학부 | AI융합학부,False
+OC2024_05826,,manual_review,1.0,3,True,multiple exact normalized candidates; campus not sufficiently decisive,경영학과 | 경영학부 | 경영학부,False
+OC2024_05827,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,경제학과 | 경제학과,False
+OC2024_05828,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,공예과 | 공예과,False
+OC2024_05837,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,무용예술학과 | 무용예술학과,False
+OC2024_05838,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,문화예술경영학과 | 문화예술경영학과,False
+OC2024_05841,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,바이오생명공학과 | 바이오생명공학과,False
+OC2024_05843,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,바이오신약의과학부 | 바이오신약의과학부,False
+OC2024_05844,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,바이오헬스융합학부 | 바이오헬스융합학부,False
+OC2024_05845,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,법학과 | 법학부,False
+OC2024_05846,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,뷰티산업학과 | 뷰티산업학과,False
+OC2024_05847,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,사학과 | 사학과,False
+OC2024_05849,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,사회복지학과 | 사회복지학과,False
+OC2024_05851,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,서비스?디자인공학과 | 서비스?디자인공학과,False
+OC2024_05852,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,서양화과 | 서양화과,False
+OC2024_05853,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,성악과 | 성악과,False
+OC2024_05854,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,소비자생활문화산업학과 | 소비자생활문화산업학과,False
+OC2024_05856,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,수리통계데이터사이언스학부 | 수리통계데이터사이언스학부,False
+OC2024_05857,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,스포츠과학부 | 스포츠과학부,False
+OC2024_05865,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,융합보안공학과 | 융합보안공학과,False
+OC2024_05866,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,의류산업학과 | 의류산업학과,False
+OC2024_05867,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,일본어문·문화학과 | 일본어문·문화학과,False
+OC2024_05873,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,중국어문·문화학과 | 중국어문·문화학과,False
+OC2024_05874,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,지리학과 | 지리학과,False
+OC2024_05875,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,청정융합에너지공학과 | 청정융합에너지공학과,False
+OC2024_05878,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,프랑스어문·문화학과 | 프랑스어문·문화학과,False
+OC2024_05879,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,한문교육과 | 한문교육과,False
+OC2024_05880,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,현대실용음악학과 | 현대실용음악학과,False
+OC2024_05881,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,화학과 | 화학과,False
+OC2024_05882,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,화학?에너지융합학부 | 화학?에너지융합학부,False
+OC2024_05890,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,공연영상학과 | 공연영상학부,False
+OC2024_05945,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,화장품뷰티학부(화장품학) | 화장품뷰티학부(뷰티케어학),False
+OC2024_06403,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,건축학과 | 건축학부,False
+OC2024_06405,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,건축학전공 | 건축학전공(5년제),False
+OC2024_06406,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,경영학과 | 경영학부,False
+OC2024_06412,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,관광경영학과 | 관광경영전공,False
+OC2024_06419,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,국제관광학부 | 국제관광전공,False
+OC2024_06451,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,산업디자인전공 | 산업디자인학과,False
+OC2024_06462,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,시각디자인전공 | 시각디자인학과,False
+OC2024_06469,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,신소재공학과 | 신소재공학부,False
+OC2024_06471,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,실내건축디자인전공 | 실내건축디자인학과,False
+OC2024_06493,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,자동차기계공학과 | 자동차?기계공학과,False
+OC2024_06502,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,주얼리디자인전공 | 주얼리디자인학과,False
+OC2024_06519,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,패션디자인전공 | 패션디자인학과,False
+OC2024_06695,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,간호학과 | 간호전공,False
+OC2024_06719,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,문화?미디어전공 | 문화미디어전공,False
+OC2024_06721,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,문화?미디어전공 | 문화미디어전공,False
+OC2024_06752,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,약학과 | 약학과(2+4학제),False
+OC2024_06754,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,언더우드학부 | 언더우드학부,False
+OC2024_06967,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,기계설계전공 | 기계설계학과,False
+OC2024_06985,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,Bakery&Beverage전공 | Bakery&Beverage전공,False
+OC2024_06986,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,K-Food조리전공 | K-Food조리전공,False
+OC2024_06987,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,K-비즈니스전공 | K-비즈니스전공,False
+OC2024_06989,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,경찰행정학부(해양경찰전공) | 경찰행정학부(해양경찰전공),False
+OC2024_06990,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,관광컨벤션학과 | 관광컨벤션학과,False
+OC2024_06991,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,글로벌학부 | 글로벌학부,False
+OC2024_06992,,manual_review,1.0,4,True,multiple exact normalized candidates; campus not sufficiently decisive,동양조리전공 | 동양조리학과 | 동양조리전공 | 동양조리학과,False
+OC2024_06993,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,디자인학부 | 디자인학부,False
+OC2024_06995,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,만화애니메이션전공 | 만화애니메이션전공,False
+OC2024_06997,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,미용예술학과 | 미용예술학과,False
+OC2024_06998,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,방송사진예술학과 | 방송사진예술학과,False
+OC2024_06999,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,부동산학과 | 부동산학과,False
+OC2024_07000,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,비즈니스법전공 | 비즈니스법전공,False
+OC2024_07001,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,사회복지학과 | 사회복지학과,False
+OC2024_07002,,manual_review,1.0,4,True,multiple exact normalized candidates; campus not sufficiently decisive,서양조리전공 | 서양조리학과 | 서양조리전공 | 서양조리학과,False
+OC2024_07004,,manual_review,1.0,4,True,multiple exact normalized candidates; campus not sufficiently decisive,시각영상디자인전공 | 시각영상디자인학과 | 시각영상디자인전공 | 시각영상디자인학과,False
+OC2024_07005,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,실내환경디자인전공 | 실내환경디자인전공,False
+OC2024_07007,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,아동?가족상담학과 | 아동?가족상담학과,False
+OC2024_07008,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,연기공연예술학과 | 연기공연예술학과,False
+OC2024_07009,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,영어전공 | 영어전공,False
+OC2024_07010,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,외식경영학과 | 외식경영학과,False
+OC2024_07012,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,웹툰학과 | 웹툰학과,False
+OC2024_07013,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,웹툰영화학과 | 웹툰영화학과,False
+OC2024_07014,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,일본비즈니스학과 | 일본비즈니스학과,False
+OC2024_07015,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,일어전공 | 일어전공,False
+OC2024_07016,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,조리예술학부 | 조리예술학부,False
+OC2024_07017,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,중국어전공 | 중국어전공,False
+OC2024_07018,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,패션디자인학과 | 패션디자인학과,False
+OC2024_07019,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,한?베트남통역전공 | 한?베트남통역전공,False
+OC2024_07020,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,한국식품조리학과 | 한국식품조리학과,False
+OC2024_07021,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,항공관광학과 | 항공관광학과,False
+OC2024_07022,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,해운항공?드론물류학과 | 해운항공?드론물류학과,False
+OC2024_07023,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,해운항만경영학과 | 해운항만경영학과,False
+OC2024_07024,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,헬스케어학과 | 헬스케어학과,False
+OC2024_07025,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,호텔경영학과 | 호텔경영학과,False
+OC2024_07039,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,애니메이션전공 | 애니메이션학과,False
+OC2024_07166,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,소방안전학부 | 소방?안전학부,False
+OC2024_07203,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,새내기학부(경영계열) | 새내기학부(이공계열),False
+OC2024_07204,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,생명과학과 | 생명과학부,False
+OC2024_07206,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,신소재공학과 | 신소재공학부,False
+OC2024_07410,,manual_review,1.0,3,True,multiple exact normalized candidates; campus not sufficiently decisive,경찰·소방행정학부 | 경찰소방행정학부 | 경찰소방행정학부,False
+OC2024_07419,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,미디어콘텐츠학과 | 미디어콘텐츠학과,False
+OC2024_07440,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,유아교육과 | 유아교육과,False
+OC2024_07450,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,호텔외식조리학과 | 호텔외식조리학과,False
+OC2024_07522,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,사이버보안학과 | 사이버보안전공,False
+OC2024_07584,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,휴먼기계바이오공학과 | 휴먼기계바이오공학부,False
+OC2024_07879,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,자율전공학부(4년) | 자율전공학부,False
+OC2024_07908,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,기계설계공학과 | 기계설계공학부,False
+OC2024_07951,,manual_review,1.0,3,True,multiple exact normalized candidates; campus not sufficiently decisive,고분자섬유나노공학부(유기소재섬유공학전공) | 고분자섬유나노공학부(고분자?나노공학전공) | 고분자섬유나노공학부,False
+OC2024_07965,,manual_review,1.0,3,True,multiple exact normalized candidates; campus not sufficiently decisive,기계설계공학부 | 기계설계공학부(기계설계공학전공) | 기계설계공학부(나노바이오기계시스템공학전공),False
+OC2024_07966,,manual_review,1.0,3,True,multiple exact normalized candidates; campus not sufficiently decisive,기계시스템공학부 | 기계시스템공학부(정밀기계공학전공) | 기계시스템공학부(응용기계공학전공),False
+OC2024_07967,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,농경제유통학부(농업경제학) | 농경제유통학부(식품유통학),False
+OC2024_07982,,manual_review,1.0,3,True,multiple exact normalized candidates; campus not sufficiently decisive,바이오메디컬공학부 | 바이오메디컬공학부(헬스케어기기공학전공) | 바이오메디컬공학부(헬스케어정보공학전공),False
+OC2024_07993,,manual_review,1.0,3,True,multiple exact normalized candidates; campus not sufficiently decisive,생명공학부(생명자원소재공학전공) | 생명공학부 | 생명공학부(환경생명공학전공),False
+OC2024_07994,,manual_review,1.0,4,True,multiple exact normalized candidates; campus not sufficiently decisive,생명과학과 | 생명과학부 | 생명과학부(생명과학전공) | 생명과학부(분자생물학전공),False
+OC2024_08014,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,아동학과 | 아동학과(인문사회),False
+OC2024_08015,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,약학과 | 약학과(2+4년제),False
+OC2024_08024,,manual_review,1.0,4,True,multiple exact normalized candidates; campus not sufficiently decisive,융합기술공학부(IT융합자동차공학전공) | 융합기술공학부(IT융합기전공학전공) | 융합기술공학부(IT응용시스템공학전공) | 융합기술공학부,False
+OC2024_08035,,manual_review,1.0,5,True,multiple exact normalized candidates; campus not sufficiently decisive,전자공학부 | 전자공학부(나노전자공학전공) | 전자공학부(융합IT공학전공) | 전자공학부(정보통신공학전공) | 전자공학부(제어로봇공학전공),False
+OC2024_08051,,manual_review,1.0,4,True,multiple exact normalized candidates; campus not sufficiently decisive,토목/환경/자원?에너지공학부(토목공학전공) | 토목/환경/자원.에너지공학부 | 토목/환경/자원?에너지공학부(자원?에너지공학전공) | 토목/환경/자원?에너지공학부(환경공학전공),False
+OC2024_08062,,manual_review,1.0,4,True,multiple exact normalized candidates; campus not sufficiently decisive,화학공학부 | 화학공학부(나노화학공학전공) | 화학공학부(생명화학공학전공) | 화학공학부(에너지화학공학전공),False
+OC2024_08393,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,게임소프트웨어전공 | 게임소프트웨어학과,False
+OC2024_08589,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,헬스케어융합학부(인문사회) | 헬스케어융합학부(자연과학),False
+OC2024_08641,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,초등교육학과 | 초등교육학과(심화과정),False
+OC2024_08781,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,초등교육학과 | 초등교육학과(심화과정),False
+OC2024_08822,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,미생물분자생명과학과 | 미생물?분자생명과학과,False
+OC2024_08823,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,미생물분자생명과학과 | 미생물?분자생명과학과,False
+OC2024_08925,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,생명과학과 | 생명과학부,False
+OC2024_08935,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,소프트웨어학과 | 소프트웨어학부,False
+OC2024_08970,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,전자공학과 | 전자공학부,False
+OC2024_09134,,manual_review,1.0,4,True,multiple exact normalized candidates; campus not sufficiently decisive,경영학부 | 경영학부(경영학전공) | 경영학부 (IT경영전공) | 경영학부(데이터사이언스경영전공),False
+OC2024_09137,,manual_review,1.0,3,True,multiple exact normalized candidates; campus not sufficiently decisive,기계설계공학부 | 기계설계공학부(기계설계전공) | 기계설계공학부(지능형모빌리티전공),False
+OC2024_09139,,manual_review,1.0,3,True,multiple exact normalized candidates; campus not sufficiently decisive,디자인공학부 | 디자인공학부(산업디자인공학전공) | 디자인공학부(미디어디자인공학전공),False
+OC2024_09140,,manual_review,1.0,3,True,multiple exact normalized candidates; campus not sufficiently decisive,메카트로닉스공학부(메카트로닉스전공) | 메카트로닉스공학부(AI로봇전공) | 메카트로닉스공학부,False
+OC2024_09147,,manual_review,1.0,3,True,multiple exact normalized candidates; campus not sufficiently decisive,전자공학부 | 전자공학부(전자공학전공) | 전자공학부(임베디드시스템전공),False
+OC2024_09148,,manual_review,1.0,3,True,multiple exact normalized candidates; campus not sufficiently decisive,컴퓨터공학부 | 컴퓨터공학부(컴퓨터공학전공) | 컴퓨터공학부(소프트웨어전공),False
+OC2024_09158,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,새내기과정학부(공학계열) | 새내기과정학부(자연계열),False
+OC2024_09273,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,Language & Diplomacy학부 | Language & Diplomacy전공,False
+OC2024_09274,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,Language & Trade학부 | Language & Trade전공,False
+OC2024_09307,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,반도체전자공학부(전자공학전공) | 반도체전자공학부(반도체공학전공),False
+OC2024_09329,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,영어통번역학과 | 영어통번역학부,False
+OC2024_09335,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,융합일본지역학부 | 융합일본지역전공,False
+OC2024_09342,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,일본언어문화전공 | 일본언어문화학부,False
+OC2024_09350,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,중국언어문화전공 | 중국언어문화학부,False
+OC2024_09351,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,중국외교통상학부 | 중국외교통상전공,False
+OC2024_09411,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,경영학과 | 경영학부,False
+OC2024_09428,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,건축공학전공 | 건축공학전공,False
+OC2024_09447,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,미디어영상전공 | 미디어영상학과,False
+OC2024_09449,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,바이오제약공학과 | 바이오제약공학과,False
+OC2024_09452,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,법학전공 | 법학전공,False
+OC2024_09461,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,생명시스템과학과 | 생명시스템과학과,False
+OC2024_09466,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,식품영양학과 | 식품영양학과,False
+OC2024_09467,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,신소재공학과 | 신소재공학과,False
+OC2024_09472,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,융합디자인학과 | 융합디자인전공,False
+OC2024_09475,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,전기전자공학과 | 전기전자공학과,False
+OC2024_09477,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,정보통신공학과 | 정보통신공학과,False
+OC2024_09480,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,중국경제통상학과 | 중국경제통상학과,False
+OC2024_09486,,manual_review,1.0,3,True,multiple exact normalized candidates; campus not sufficiently decisive,토목환경공학전공 | 토목?환경공학전공 | 토목환경공학전공,False
+OC2024_09487,,manual_review,1.0,3,True,multiple exact normalized candidates; campus not sufficiently decisive,토목환경공학전공 | 토목?환경공학전공 | 토목환경공학전공,False
+OC2024_09492,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,행정학전공 | 행정학전공,False
+OC2024_09494,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,화학과 | 화학과,False
+OC2024_09496,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,화학공학과 | 화학공학과,False
+OC2024_09497,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,회계학과 | 회계학과,False
+OC2024_09508,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,창의융합교육원(인문사회) | 창의융합교육원(공학),False
+OC2024_09533,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,스마트모빌리티공학부 | 스마트모빌리티(기계자동차)공학부,False
+OC2024_09645,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,항공정비전공 | 항공정비학과,False
+OC2024_09751,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,사회복지학전공 | 사회복지학,False
+OC2024_09759,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,신학전공 | 신학,False
+OC2024_09783,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,종교문화학전공 | 종교문화학,False
+OC2024_09791,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,철학전공 | 철학,False
+OC2024_10161,,manual_review,1.0,2,True,multiple exact normalized candidates; campus not sufficiently decisive,공연예술학부(뮤지컬전공) | 공연예술학부(실용음악전공),False

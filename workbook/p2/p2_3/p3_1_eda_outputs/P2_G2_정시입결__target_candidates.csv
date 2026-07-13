@@ -1,0 +1,13 @@
+﻿raw_dtype,est_type,non_null,null_count,null_pct,unique_count,zero_count_if_numeric,min_if_numeric,max_if_numeric,column,role_guess,reason
+float64,text_or_high_cardinality_category,3737,6505,63.513,1671,0,0.1,100.0,입결_프록시,primary_target,정시 입결 proxy. 입시 난이도/선발 결과를 나타내는 핵심 후보 y
+float64,numeric_rate_or_ratio,10242,0,0.0,9236,319,0.0,100.0,A비율,target_or_feature,학점 A 비율. 학업성과/평가 분포 후보 y 또는 설명 변수
+float64,numeric_rate_or_ratio,10242,0,0.0,9006,475,0.0,100.0,CD비율,target_or_feature,학점 C/D 비율. 낮은 성취 분포 후보 y 또는 설명 변수
+float64,numeric_rate_or_ratio,10242,0,0.0,7459,1808,0.0,100.0,F비율,target_or_feature,학점 F 비율. 학업 위험도 후보 y 또는 설명 변수
+float64,text_or_high_cardinality_category,7477,2765,26.9967,1135,78,0.0,100.0,전체취업률,target,취업 성과 후보 y / 취업률 계열 후보
+float64,text_or_high_cardinality_category,7477,2765,26.9967,1196,136,0.0,100.0,건보가입취업률,target,건강보험 가입 기준 취업 성과 후보 y / 취업률 계열 후보
+float64,text_or_high_cardinality_category,7587,2655,25.9227,971,3098,0.0,100.0,전체진학률,target,진학 성과 후보 y / 진학률 계열 후보
+float64,categorical_low_cardinality,7587,2655,25.9227,120,7339,0.0,50.0,전문대학진학률,target,진학률 계열 후보
+float64,categorical_low_cardinality,7587,2655,25.9227,182,7077,0.0,25.0,대학진학률,target,진학률 계열 후보
+float64,text_or_high_cardinality_category,7587,2655,25.9227,946,3343,0.0,100.0,대학원진학률,target,대학원 진학 성과 후보 y / 진학률 계열 후보
+float64,text_or_high_cardinality_category,7587,2655,25.9227,965,3119,0.0,100.0,국내진학률,target,진학률 계열 후보
+float64,categorical_low_cardinality,7587,2655,25.9227,107,7406,0.0,18.181818181818183,국외진학률,target,진학률 계열 후보

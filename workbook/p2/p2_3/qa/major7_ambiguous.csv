@@ -1,0 +1,882 @@
+﻿outcome_row_id,major_group_7,major7_mapping_method,major7_mapping_confidence,major7_evidence,major7_candidate_count,major7_review_needed
+OC2024_00009,,ambiguous,low,"hits=MED,ART evidence=MED:재활 | ART:스포츠 ambiguous_token=False",2,True
+OC2024_00125,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_00135,,ambiguous,low,"hits=MED,HUM evidence=MED:재활 | HUM:언어 ambiguous_token=False",2,True
+OC2024_00144,,ambiguous,low,"hits=MED,SOC evidence=MED:의료 | SOC:경영 ambiguous_token=False",2,True
+OC2024_00153,,ambiguous,low,"hits=MED,SOC evidence=MED:재활 | SOC:상담 ambiguous_token=False",2,True
+OC2024_00160,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_00163,,ambiguous,low,"hits=ENG,SOC evidence=ENG:항공 | SOC:경영 ambiguous_token=False",2,True
+OC2024_00170,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_00232,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_00236,,ambiguous,low,hits=ART evidence=ART:미술 ambiguous_token=True,1,True
+OC2024_00237,,ambiguous,low,hits=ART evidence=ART:스포츠 ambiguous_token=True,1,True
+OC2024_00238,,ambiguous,low,hits=ART evidence=ART:디자인 ambiguous_token=True,1,True
+OC2024_00250,,ambiguous,low,hits=ENG evidence=ENG:공학 ambiguous_token=True,1,True
+OC2024_00252,,ambiguous,low,hits=ENG evidence=ENG:인공지능/공학 ambiguous_token=True,1,True
+OC2024_00253,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_00258,,ambiguous,low,"hits=ENG,SOC evidence=ENG:데이터 | SOC:경영 ambiguous_token=False",2,True
+OC2024_00261,,ambiguous,low,"hits=ENG,SOC evidence=ENG:데이터 | SOC:경영 ambiguous_token=False",2,True
+OC2024_00626,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_00631,,ambiguous,low,"hits=MED,ART evidence=MED:의료 | ART:뷰티 ambiguous_token=False",2,True
+OC2024_00632,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_00653,,ambiguous,low,hits=ENG evidence=ENG:it ambiguous_token=True,1,True
+OC2024_00671,,ambiguous,low,"hits=MED,ENG evidence=MED:의료 | ENG:공학/it ambiguous_token=False",2,True
+OC2024_00672,,ambiguous,low,"hits=MED,ART evidence=MED:의료 | ART:디자인 ambiguous_token=False",2,True
+OC2024_00673,,ambiguous,low,"hits=MED,ENG evidence=MED:의료 | ENG:신소재 ambiguous_token=False",2,True
+OC2024_00674,,ambiguous,low,"hits=MED,ENG evidence=MED:의료 | ENG:인공지능 ambiguous_token=False",2,True
+OC2024_00706,,ambiguous,low,"hits=ENG,SOC evidence=ENG:공학 | SOC:경영 ambiguous_token=False",2,True
+OC2024_00708,,ambiguous,low,"hits=ART,SOC evidence=ART:미술/서양화 | SOC:경영 ambiguous_token=False",2,True
+OC2024_00717,,ambiguous,low,hits=ENG evidence=ENG:보안 ambiguous_token=True,1,True
+OC2024_00718,,ambiguous,low,hits=ENG evidence=ENG:에너지/공학 ambiguous_token=True,1,True
+OC2024_00740,,ambiguous,low,"hits=SOC,HUM evidence=SOC:관광 | HUM:문화콘텐츠 ambiguous_token=False",2,True
+OC2024_00751,,ambiguous,low,hits=ENG evidence=ENG:iot ambiguous_token=True,1,True
+OC2024_00761,,ambiguous,low,"hits=ENG,NAT evidence=ENG:공학 | NAT:동물 ambiguous_token=False",2,True
+OC2024_00769,,ambiguous,low,"hits=ENG,NAT evidence=ENG:공학 | NAT:식품과학/과학 ambiguous_token=False",2,True
+OC2024_01005,,ambiguous,low,"hits=ENG,NAT evidence=ENG:화학공학/신소재/에너지/공학 | NAT:화학 ambiguous_token=False",2,True
+OC2024_01303,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_01309,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_01312,,ambiguous,low,hits=ENG evidence=ENG:소프트웨어 ambiguous_token=True,1,True
+OC2024_01317,,ambiguous,low,"hits=MED,SOC evidence=MED:의료 | SOC:경영 ambiguous_token=False",2,True
+OC2024_01322,,ambiguous,low,"hits=ENG,SOC evidence=ENG:항공 | SOC:관광 ambiguous_token=False",2,True
+OC2024_01369,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_01371,,ambiguous,low,hits=ENG evidence=ENG:기계/자동화 ambiguous_token=True,1,True
+OC2024_01376,,ambiguous,low,"hits=MED,SOC evidence=MED:보건/의료 | SOC:사회복지 ambiguous_token=False",2,True
+OC2024_01387,,ambiguous,low,hits=ART evidence=ART:스포츠 ambiguous_token=True,1,True
+OC2024_01388,,ambiguous,low,"hits=MED,ART evidence=MED:의학/재활 | ART:스포츠 ambiguous_token=False",2,True
+OC2024_01390,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_01393,,ambiguous,low,hits=ENG evidence=ENG:전자/전기 ambiguous_token=True,1,True
+OC2024_01394,,ambiguous,low,"hits=MED,ENG,SOC evidence=MED:약학 | ENG:공학 | SOC:경영 ambiguous_token=False",3,True
+OC2024_01396,,ambiguous,low,hits=MED evidence=MED:약학 ambiguous_token=True,1,True
+OC2024_01403,,ambiguous,low,"hits=ENG,SOC evidence=ENG:it | SOC:경영 ambiguous_token=False",2,True
+OC2024_01413,,ambiguous,low,"hits=ART,SOC evidence=ART:엔터테인먼트 | SOC:관광 ambiguous_token=False",2,True
+OC2024_01418,,ambiguous,low,"hits=ENG,SOC evidence=ENG:it | SOC:관광 ambiguous_token=False",2,True
+OC2024_01419,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_01420,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_01451,,ambiguous,low,"hits=ENG,NAT evidence=ENG:신소재/공학 | NAT:환경 ambiguous_token=False",2,True
+OC2024_01479,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_01483,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_01502,,ambiguous,low,"hits=NAT,ART evidence=NAT:환경 | ART:디자인 ambiguous_token=False",2,True
+OC2024_01503,,ambiguous,low,"hits=ENG,NAT evidence=ENG:공학 | NAT:환경 ambiguous_token=False",2,True
+OC2024_01505,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_01506,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_01512,,ambiguous,low,"hits=ENG,SOC evidence=ENG:데이터 | SOC:경영 ambiguous_token=False",2,True
+OC2024_01529,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_01536,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_01546,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_01670,,ambiguous,low,"hits=ART,HUM evidence=ART:미술 | HUM:고고 ambiguous_token=False",2,True
+OC2024_01671,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_01676,,ambiguous,low,"hits=ART,SOC evidence=ART:스포츠 | SOC:국제 ambiguous_token=False",2,True
+OC2024_01677,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_01679,,ambiguous,low,"hits=ENG,NAT evidence=ENG:데이터 | NAT:과학 ambiguous_token=False",2,True
+OC2024_01681,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_01682,,ambiguous,low,"hits=ENG,NAT evidence=ENG:반도체 | NAT:물리 ambiguous_token=False",2,True
+OC2024_01683,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_01685,,ambiguous,low,hits=ENG evidence=ENG:ict ambiguous_token=True,1,True
+OC2024_01686,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_01692,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_01699,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_01701,,ambiguous,low,"hits=ART,SOC evidence=ART:스포츠 | SOC:비즈니스 ambiguous_token=False",2,True
+OC2024_01703,,ambiguous,low,"hits=ENG,NAT evidence=ENG:신소재 | NAT:화학 ambiguous_token=False",2,True
+OC2024_01705,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_01707,,ambiguous,low,hits=SOC evidence=SOC:경영 ambiguous_token=True,1,True
+OC2024_01711,,ambiguous,low,hits=ENG evidence=ENG:기계/전자/공학 ambiguous_token=True,1,True
+OC2024_01718,,ambiguous,low,hits=ENG evidence=ENG:컴퓨터/소프트웨어 ambiguous_token=True,1,True
+OC2024_01720,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_01721,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_01729,,ambiguous,low,"hits=ART,SOC evidence=ART:영상 | SOC:마케팅 ambiguous_token=False",2,True
+OC2024_01731,,ambiguous,low,"hits=MED,NAT evidence=MED:보건 | NAT:환경 ambiguous_token=False",2,True
+OC2024_01751,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_01754,,ambiguous,low,"hits=MED,NAT evidence=MED:보건 | NAT:환경 ambiguous_token=False",2,True
+OC2024_01778,,ambiguous,low,"hits=NAT,SOC evidence=NAT:과학 | SOC:법 ambiguous_token=False",2,True
+OC2024_01786,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_01789,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_01794,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_01799,,ambiguous,low,"hits=MED,ART,SOC evidence=MED:재활 | ART:스포츠 | SOC:상담 ambiguous_token=False",3,True
+OC2024_01800,,ambiguous,low,"hits=NAT,ART evidence=NAT:과학 | ART:스포츠 ambiguous_token=True",2,True
+OC2024_01802,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_01806,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_01809,,ambiguous,low,"hits=ENG,NAT evidence=ENG:전자 | NAT:물리 ambiguous_token=False",2,True
+OC2024_01810,,ambiguous,low,hits=ENG evidence=ENG:전자/공학 ambiguous_token=True,1,True
+OC2024_01814,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_01815,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_01816,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_01817,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_01818,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_01820,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_01823,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_01962,,ambiguous,low,"hits=ENG,NAT evidence=ENG:에너지 | NAT:수학/물리 ambiguous_token=False",2,True
+OC2024_02013,,ambiguous,low,"hits=ENG,EDU evidence=ENG:기계 | EDU:교육 ambiguous_token=False",2,True
+OC2024_02023,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_02026,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_02033,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_02045,,ambiguous,low,hits=NAT evidence=NAT:원예 ambiguous_token=True,1,True
+OC2024_02056,,ambiguous,low,"hits=ENG,EDU evidence=ENG:전자/전기 | EDU:교육 ambiguous_token=False",2,True
+OC2024_02058,,ambiguous,low,"hits=ENG,EDU evidence=ENG:전자/공학 | EDU:교육 ambiguous_token=False",2,True
+OC2024_02248,,ambiguous,low,"hits=ENG,NAT evidence=ENG:반도체 | NAT:물리/화학/과학 ambiguous_token=False",2,True
+OC2024_02276,,ambiguous,low,hits=ENG evidence=ENG:공학/it ambiguous_token=True,1,True
+OC2024_02279,,ambiguous,low,"hits=ENG,ART evidence=ENG:공학 | ART:디자인 ambiguous_token=False",2,True
+OC2024_02283,,ambiguous,low,hits=ENG evidence=ENG:전자/it ambiguous_token=True,1,True
+OC2024_02399,,ambiguous,low,hits=ENG evidence=ENG:기계/공학/it ambiguous_token=True,1,True
+OC2024_02405,,ambiguous,low,hits=ENG evidence=ENG:공학 ambiguous_token=True,1,True
+OC2024_02406,,ambiguous,low,hits=ENG evidence=ENG:반도체/공학 ambiguous_token=True,1,True
+OC2024_02408,,ambiguous,low,"hits=ENG,SOC evidence=ENG:데이터 | SOC:비즈니스 ambiguous_token=True",2,True
+OC2024_02409,,ambiguous,low,"hits=ENG,NAT evidence=ENG:데이터 | NAT:과학 ambiguous_token=False",2,True
+OC2024_02418,,ambiguous,low,hits=SOC evidence=SOC:사회복지 ambiguous_token=True,1,True
+OC2024_02423,,ambiguous,low,"hits=ENG,SOC evidence=ENG:공학 | SOC:소방 ambiguous_token=False",2,True
+OC2024_02427,,ambiguous,low,"hits=ENG,EDU evidence=ENG:공학 | EDU:교육 ambiguous_token=False",2,True
+OC2024_02428,,ambiguous,low,"hits=ENG,EDU evidence=ENG:공학 | EDU:교육 ambiguous_token=False",2,True
+OC2024_02429,,ambiguous,low,"hits=ENG,NAT,EDU evidence=ENG:공학 | NAT:식품공학 | EDU:교육 ambiguous_token=False",3,True
+OC2024_02430,,ambiguous,low,"hits=ENG,EDU evidence=ENG:공학 | EDU:교육 ambiguous_token=False",2,True
+OC2024_02431,,ambiguous,low,"hits=ENG,EDU evidence=ENG:공학 | EDU:교육 ambiguous_token=False",2,True
+OC2024_02432,,ambiguous,low,"hits=ENG,EDU evidence=ENG:공학 | EDU:교육 ambiguous_token=False",2,True
+OC2024_02448,,ambiguous,low,hits=ENG evidence=ENG:공학 ambiguous_token=True,1,True
+OC2024_02450,,ambiguous,low,hits=ENG evidence=ENG:공학 ambiguous_token=True,1,True
+OC2024_02451,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_02454,,ambiguous,low,hits=ENG evidence=ENG:공학/it ambiguous_token=True,1,True
+OC2024_02460,,ambiguous,low,"hits=NAT,SOC evidence=NAT:환경 | SOC:경제 ambiguous_token=False",2,True
+OC2024_02469,,ambiguous,low,hits=ENG evidence=ENG:로봇 ambiguous_token=True,1,True
+OC2024_02474,,ambiguous,low,"hits=ENG,NAT evidence=ENG:데이터 | NAT:통계 ambiguous_token=False",2,True
+OC2024_02476,,ambiguous,low,"hits=EDU,SOC evidence=EDU:교육 | SOC:상담 ambiguous_token=False",2,True
+OC2024_02479,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_02480,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_02481,,ambiguous,low,"hits=NAT,SOC evidence=NAT:수산 | SOC:경영/경제 ambiguous_token=False",2,True
+OC2024_02482,,ambiguous,low,"hits=NAT,SOC evidence=NAT:수산 | SOC:경영 ambiguous_token=False",2,True
+OC2024_02484,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_02493,,ambiguous,low,hits=ENG evidence=ENG:ict ambiguous_token=True,1,True
+OC2024_02494,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_02500,,ambiguous,low,"hits=ENG,NAT evidence=ENG:화학공학/공학 | NAT:화학 ambiguous_token=False",2,True
+OC2024_02502,,ambiguous,low,"hits=EDU,SOC evidence=EDU:교육/국어교육 | SOC:국제 ambiguous_token=False",2,True
+OC2024_02512,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_02515,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_02534,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_02536,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_02544,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_02572,,ambiguous,low,hits=ENG evidence=ENG:기계/공학 ambiguous_token=True,1,True
+OC2024_02575,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_02582,,ambiguous,low,"hits=ENG,SOC evidence=ENG:데이터 | SOC:비즈니스/창업 ambiguous_token=False",2,True
+OC2024_02589,,ambiguous,low,hits=NAT evidence=NAT:화학/생물 ambiguous_token=True,1,True
+OC2024_02593,,ambiguous,low,"hits=ENG,NAT evidence=ENG:화학공학/공학 | NAT:화학 ambiguous_token=False",2,True
+OC2024_02594,,ambiguous,low,"hits=ENG,NAT evidence=ENG:에너지/공학 | NAT:환경 ambiguous_token=False",2,True
+OC2024_02596,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_02617,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_02620,,ambiguous,low,"hits=ENG,NAT evidence=ENG:공학 | NAT:환경 ambiguous_token=False",2,True
+OC2024_02631,,ambiguous,low,"hits=ENG,NAT evidence=ENG:공학 | NAT:화학 ambiguous_token=False",2,True
+OC2024_02632,,ambiguous,low,"hits=ENG,NAT evidence=ENG:공학 | NAT:화학 ambiguous_token=False",2,True
+OC2024_02637,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_02650,,ambiguous,low,"hits=MED,ART evidence=MED:의학 | ART:스포츠 ambiguous_token=False",2,True
+OC2024_02652,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_02661,,ambiguous,low,hits=SOC evidence=SOC:경영 ambiguous_token=True,1,True
+OC2024_02670,,ambiguous,low,"hits=ENG,SOC evidence=ENG:철도 | SOC:경영 ambiguous_token=False",2,True
+OC2024_02671,,ambiguous,low,"hits=ENG,SOC evidence=ENG:철도 | SOC:경영 ambiguous_token=False",2,True
+OC2024_02690,,ambiguous,low,hits=SOC evidence=SOC:행정 ambiguous_token=True,1,True
+OC2024_02693,,ambiguous,low,"hits=ENG,NAT evidence=ENG:화공/공학 | NAT:생물 ambiguous_token=False",2,True
+OC2024_02694,,ambiguous,low,"hits=ENG,NAT evidence=ENG:화공/공학 | NAT:생물 ambiguous_token=False",2,True
+OC2024_02706,,ambiguous,low,hits=ENG evidence=ENG:데이터/전자/전기/정보통신/반도체 ambiguous_token=True,1,True
+OC2024_02717,,ambiguous,low,"hits=ENG,NAT evidence=ENG:공학 | NAT:생물/환경/수산/과학 ambiguous_token=True",2,True
+OC2024_02732,,ambiguous,low,hits=ENG evidence=ENG:기계/공학 ambiguous_token=True,1,True
+OC2024_02734,,ambiguous,low,hits=ENG evidence=ENG:공학 ambiguous_token=True,1,True
+OC2024_02741,,ambiguous,low,"hits=NAT,ART evidence=NAT:과학 | ART:스포츠 ambiguous_token=False",2,True
+OC2024_02746,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_02747,,ambiguous,low,hits=SOC evidence=SOC:경영 ambiguous_token=True,1,True
+OC2024_02756,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_02766,,ambiguous,low,"hits=ENG,SOC evidence=ENG:데이터 | SOC:경영 ambiguous_token=True",2,True
+OC2024_02767,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_02768,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_02770,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_02771,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_02785,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_02786,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_02792,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_02793,,ambiguous,low,"hits=ENG,NAT evidence=ENG:전자 | NAT:물리 ambiguous_token=False",2,True
+OC2024_02799,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_02802,,ambiguous,low,"hits=ENG,NAT,SOC evidence=ENG:데이터 | NAT:통계 | SOC:경영 ambiguous_token=False",3,True
+OC2024_02810,,ambiguous,low,"hits=EDU,ART evidence=EDU:교육 | ART:스포츠 ambiguous_token=False",2,True
+OC2024_02822,,ambiguous,low,hits=ENG evidence=ENG:기계/공학 ambiguous_token=True,1,True
+OC2024_02832,,ambiguous,low,"hits=ENG,ART evidence=ENG:자동차 | ART:디자인 ambiguous_token=False",2,True
+OC2024_02838,,ambiguous,low,"hits=ENG,NAT evidence=ENG:전자 | NAT:화학 ambiguous_token=False",2,True
+OC2024_02839,,ambiguous,low,"hits=ENG,NAT evidence=ENG:보안 | NAT:수학 ambiguous_token=False",2,True
+OC2024_02842,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_02843,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_02845,,ambiguous,low,hits=ENG evidence=ENG:전자/반도체 ambiguous_token=True,1,True
+OC2024_02925,,ambiguous,low,"hits=ENG,SOC evidence=ENG:항공 | SOC:호텔 ambiguous_token=False",2,True
+OC2024_02997,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_03009,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_03011,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_03014,,ambiguous,low,"hits=MED,ART evidence=MED:보건 | ART:뷰티 ambiguous_token=False",2,True
+OC2024_03016,,ambiguous,low,"hits=ENG,SOC evidence=ENG:데이터/공학 | SOC:경영 ambiguous_token=False",2,True
+OC2024_03021,,ambiguous,low,"hits=ART,SOC evidence=ART:스포츠 | SOC:비즈니스 ambiguous_token=False",2,True
+OC2024_03037,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_03038,,ambiguous,low,hits=ENG evidence=ENG:sw ambiguous_token=True,1,True
+OC2024_03044,,ambiguous,low,"hits=ENG,NAT,ART evidence=ENG:화공 | NAT:화학 | ART:영화 ambiguous_token=False",3,True
+OC2024_03048,,ambiguous,low,"hits=ENG,ART,SOC evidence=ENG:공학 | ART:영상 | SOC:국제 ambiguous_token=True",3,True
+OC2024_03068,,ambiguous,low,hits=ENG evidence=ENG:반도체/공학 ambiguous_token=True,1,True
+OC2024_03080,,ambiguous,low,"hits=ENG,NAT evidence=ENG:데이터 | NAT:통계 ambiguous_token=False",2,True
+OC2024_03088,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_03090,,ambiguous,low,"hits=ART,SOC evidence=ART:스포츠 | SOC:국제 ambiguous_token=False",2,True
+OC2024_03091,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_03092,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_03093,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_03094,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_03106,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_03110,,ambiguous,low,"hits=ART,SOC evidence=ART:스포츠 | SOC:경영 ambiguous_token=False",2,True
+OC2024_03116,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_03120,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_03130,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_03134,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_03135,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_03139,,ambiguous,low,"hits=NAT,SOC evidence=NAT:환경 | SOC:경제 ambiguous_token=False",2,True
+OC2024_03282,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_03296,,ambiguous,low,"hits=NAT,HUM evidence=NAT:화학 | HUM:영문/언어/문학 ambiguous_token=False",2,True
+OC2024_03297,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_03298,,ambiguous,low,hits=EDU evidence=EDU:교육 ambiguous_token=True,1,True
+OC2024_03302,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_03325,,ambiguous,low,"hits=ART,SOC evidence=ART:디자인 | SOC:마케팅 ambiguous_token=True",2,True
+OC2024_03331,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_03349,,ambiguous,low,"hits=MED,SOC evidence=MED:재활 | SOC:심리 ambiguous_token=False",2,True
+OC2024_03362,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_03368,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_03372,,ambiguous,low,"hits=ENG,NAT evidence=ENG:공학 | NAT:환경 ambiguous_token=False",2,True
+OC2024_03373,,ambiguous,low,"hits=MED,SOC evidence=MED:의학 | SOC:상담 ambiguous_token=False",2,True
+OC2024_03394,,ambiguous,low,"hits=MED,ENG,NAT evidence=MED:의료 | ENG:데이터/it | NAT:과학 ambiguous_token=False",3,True
+OC2024_03396,,ambiguous,low,"hits=ART,SOC evidence=ART:뷰티 | SOC:비즈니스 ambiguous_token=False",2,True
+OC2024_03409,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_03410,,ambiguous,low,"hits=MED,ENG evidence=MED:재활/의료 | ENG:공학 ambiguous_token=False",2,True
+OC2024_03411,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_03415,,ambiguous,low,"hits=ART,SOC evidence=ART:미술 | SOC:심리 ambiguous_token=False",2,True
+OC2024_03418,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_03420,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_03428,,ambiguous,low,"hits=NAT,SOC evidence=NAT:산림 | SOC:비즈니스 ambiguous_token=False",2,True
+OC2024_03430,,ambiguous,low,"hits=ENG,ART evidence=ENG:공학 | ART:디자인 ambiguous_token=False",2,True
+OC2024_03431,,ambiguous,low,"hits=ENG,ART evidence=ENG:공학 | ART:디자인 ambiguous_token=False",2,True
+OC2024_03437,,ambiguous,low,"hits=NAT,SOC evidence=NAT:환경 | SOC:소방 ambiguous_token=False",2,True
+OC2024_03438,,ambiguous,low,"hits=NAT,SOC evidence=NAT:환경 | SOC:소방 ambiguous_token=False",2,True
+OC2024_03442,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_03444,,ambiguous,low,"hits=ART,SOC evidence=ART:스포츠 | SOC:경영 ambiguous_token=False",2,True
+OC2024_03456,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_03457,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_03459,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_03461,,ambiguous,low,"hits=MED,SOC evidence=MED:의료 | SOC:경영 ambiguous_token=False",2,True
+OC2024_03466,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_03467,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_03468,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_03471,,ambiguous,low,"hits=MED,ENG evidence=MED:재활/의료 | ENG:공학 ambiguous_token=False",2,True
+OC2024_03476,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_03477,,ambiguous,low,"hits=EDU,SOC evidence=EDU:교육 | SOC:상담 ambiguous_token=False",2,True
+OC2024_03478,,ambiguous,low,"hits=EDU,SOC evidence=EDU:교육 | SOC:상담 ambiguous_token=False",2,True
+OC2024_03480,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_03483,,ambiguous,low,"hits=EDU,SOC evidence=EDU:교육 | SOC:경영 ambiguous_token=False",2,True
+OC2024_03485,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_03487,,ambiguous,low,"hits=MED,ART evidence=MED:의학 | ART:스포츠 ambiguous_token=False",2,True
+OC2024_03488,,ambiguous,low,"hits=MED,ART evidence=MED:의학 | ART:스포츠 ambiguous_token=False",2,True
+OC2024_03490,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_03491,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_03495,,ambiguous,low,"hits=ENG,SOC evidence=ENG:항공 | SOC:관광 ambiguous_token=False",2,True
+OC2024_03497,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_03502,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_03505,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_03510,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_03535,,ambiguous,low,"hits=ART,SOC evidence=ART:예술 | SOC:방송 ambiguous_token=False",2,True
+OC2024_03590,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_03592,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_03593,,ambiguous,low,"hits=ENG,SOC evidence=ENG:공학 | SOC:부동산 ambiguous_token=False",2,True
+OC2024_03594,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_03596,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_03599,,ambiguous,low,"hits=MED,SOC evidence=MED:보건 | SOC:경영 ambiguous_token=False",2,True
+OC2024_03605,,ambiguous,low,"hits=ENG,NAT evidence=ENG:공학 | NAT:환경 ambiguous_token=False",2,True
+OC2024_03608,,ambiguous,low,hits=ENG evidence=ENG:보안 ambiguous_token=True,1,True
+OC2024_03609,,ambiguous,low,"hits=NAT,ART evidence=NAT:과학 | ART:스포츠 ambiguous_token=False",2,True
+OC2024_03622,,ambiguous,low,"hits=MED,ENG evidence=MED:의료 | ENG:it ambiguous_token=True",2,True
+OC2024_03632,,ambiguous,low,hits=ENG evidence=ENG:로봇 ambiguous_token=True,1,True
+OC2024_03709,,ambiguous,low,hits=ENG evidence=ENG:소프트웨어 ambiguous_token=True,1,True
+OC2024_03722,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_03735,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_03736,,ambiguous,low,"hits=ENG,NAT evidence=ENG:반도체 | NAT:물리/과학 ambiguous_token=False",2,True
+OC2024_03740,,ambiguous,low,"hits=ENG,NAT evidence=ENG:반도체 | NAT:과학 ambiguous_token=False",2,True
+OC2024_03742,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_03754,,ambiguous,low,"hits=NAT,ART evidence=NAT:화학 | ART:스포츠 ambiguous_token=False",2,True
+OC2024_03755,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_03765,,ambiguous,low,hits=ENG evidence=ENG:신소재/에너지/공학 ambiguous_token=True,1,True
+OC2024_03787,,ambiguous,low,"hits=ENG,NAT evidence=ENG:화공/공학 | NAT:생물 ambiguous_token=False",2,True
+OC2024_03796,,ambiguous,low,"hits=ART,HUM evidence=ART:미술 | HUM:고고 ambiguous_token=False",2,True
+OC2024_03799,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_03810,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_03814,,ambiguous,low,"hits=ENG,NAT evidence=ENG:데이터 | NAT:통계 ambiguous_token=False",2,True
+OC2024_03820,,ambiguous,low,"hits=MED,ART evidence=MED:의학 | ART:스포츠 ambiguous_token=False",2,True
+OC2024_03821,,ambiguous,low,"hits=ENG,NAT evidence=ENG:신소재 | NAT:화학 ambiguous_token=False",2,True
+OC2024_03822,,ambiguous,low,"hits=ENG,NAT evidence=ENG:신소재 | NAT:화학 ambiguous_token=False",2,True
+OC2024_03834,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_03858,,ambiguous,low,"hits=ENG,SOC evidence=ENG:항공 | SOC:무역 ambiguous_token=False",2,True
+OC2024_03859,,ambiguous,low,"hits=ENG,SOC evidence=ENG:공학 | SOC:행정/경찰 ambiguous_token=False",2,True
+OC2024_03860,,ambiguous,low,"hits=ENG,SOC evidence=ENG:공학 | SOC:행정/경찰 ambiguous_token=False",2,True
+OC2024_03866,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_03874,,ambiguous,low,"hits=ART,SOC evidence=ART:예술 | SOC:방송 ambiguous_token=False",2,True
+OC2024_03880,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_03881,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_03882,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_03883,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_03884,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_03891,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_03895,,ambiguous,low,"hits=ART,SOC,HUM evidence=ART:예술 | SOC:경영 | HUM:영문 ambiguous_token=False",3,True
+OC2024_03896,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_03897,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_03898,,ambiguous,low,hits=ENG evidence=ENG:데이터 ambiguous_token=True,1,True
+OC2024_03899,,ambiguous,low,"hits=ART,SOC,HUM evidence=ART:예술 | SOC:경영 | HUM:영문 ambiguous_token=True",3,True
+OC2024_03900,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_03907,,ambiguous,low,"hits=NAT,HUM evidence=NAT:과학 | HUM:문헌정보 ambiguous_token=False",2,True
+OC2024_03908,,ambiguous,low,"hits=NAT,SOC evidence=NAT:과학 | SOC:사회복지 ambiguous_token=False",2,True
+OC2024_03918,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_03928,,ambiguous,low,"hits=MED,NAT evidence=MED:보건 | NAT:과학 ambiguous_token=False",2,True
+OC2024_03931,,ambiguous,low,"hits=NAT,ART evidence=NAT:과학 | ART:체육 ambiguous_token=False",2,True
+OC2024_03938,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_03940,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_03982,,ambiguous,low,"hits=NAT,ART evidence=NAT:동물 | ART:디자인 ambiguous_token=False",2,True
+OC2024_04010,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_04023,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_04067,,ambiguous,low,"hits=ART,SOC evidence=ART:영상 | SOC:방송 ambiguous_token=False",2,True
+OC2024_04128,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_04134,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_04145,,ambiguous,low,"hits=ENG,SOC evidence=ENG:에너지 | SOC:경영 ambiguous_token=False",2,True
+OC2024_04160,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_04161,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_04165,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_04170,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_04191,,ambiguous,low,"hits=ENG,SOC evidence=ENG:기계/공학 | SOC:경영 ambiguous_token=False",2,True
+OC2024_04192,,ambiguous,low,"hits=ENG,SOC evidence=ENG:기계/공학 | SOC:경영 ambiguous_token=False",2,True
+OC2024_04193,,ambiguous,low,"hits=ENG,SOC evidence=ENG:기계/조선/공학 | SOC:경영 ambiguous_token=False",2,True
+OC2024_04206,,ambiguous,low,hits=ENG evidence=ENG:공학 ambiguous_token=True,1,True
+OC2024_04214,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_04215,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_04221,,ambiguous,low,"hits=ENG,NAT evidence=ENG:화학공학/신소재/공학 | NAT:화학 ambiguous_token=False",2,True
+OC2024_04222,,ambiguous,low,"hits=ENG,NAT evidence=ENG:화학공학/신소재/공학 | NAT:화학 ambiguous_token=False",2,True
+OC2024_04225,,ambiguous,low,"hits=NAT,ART,HUM evidence=NAT:화학 | ART:미술 | HUM:역사/고고 ambiguous_token=False",3,True
+OC2024_04226,,ambiguous,low,"hits=NAT,HUM evidence=NAT:화학 | HUM:역사 ambiguous_token=False",2,True
+OC2024_04227,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_04229,,ambiguous,low,hits=SOC evidence=SOC:경영 ambiguous_token=True,1,True
+OC2024_04235,,ambiguous,low,"hits=ENG,NAT evidence=ENG:공학 | NAT:생물 ambiguous_token=False",2,True
+OC2024_04239,,ambiguous,low,"hits=ENG,NAT evidence=ENG:건축공학/공학 | NAT:환경 ambiguous_token=True",2,True
+OC2024_04240,,ambiguous,low,"hits=ENG,NAT evidence=ENG:토목/공학 | NAT:환경 ambiguous_token=True",2,True
+OC2024_04241,,ambiguous,low,"hits=ENG,NAT evidence=ENG:공학 | NAT:환경 ambiguous_token=True",2,True
+OC2024_04256,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_04257,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_04260,,ambiguous,low,"hits=MED,HUM evidence=MED:의료 | HUM:철학 ambiguous_token=False",2,True
+OC2024_04266,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_04274,,ambiguous,low,"hits=ENG,NAT evidence=ENG:에너지/공학 | NAT:환경 ambiguous_token=False",2,True
+OC2024_04275,,ambiguous,low,"hits=ENG,NAT evidence=ENG:에너지/공학 | NAT:환경 ambiguous_token=False",2,True
+OC2024_04327,,ambiguous,low,"hits=ENG,ART evidence=ENG:공학 | ART:애니메이션 ambiguous_token=False",2,True
+OC2024_04354,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_04356,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_04377,,ambiguous,low,"hits=ART,SOC evidence=ART:뷰티 | SOC:비즈니스 ambiguous_token=False",2,True
+OC2024_04381,,ambiguous,low,"hits=ENG,SOC evidence=ENG:데이터/공학 | SOC:경영 ambiguous_token=False",2,True
+OC2024_04382,,ambiguous,low,"hits=ENG,SOC evidence=ENG:데이터/공학 | SOC:경영 ambiguous_token=False",2,True
+OC2024_04387,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_04388,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_04411,,ambiguous,low,"hits=ENG,ART evidence=ENG:공학 | ART:디자인 ambiguous_token=False",2,True
+OC2024_04427,,ambiguous,low,"hits=ENG,ART evidence=ENG:공학 | ART:디자인 ambiguous_token=False",2,True
+OC2024_04428,,ambiguous,low,"hits=ENG,ART evidence=ENG:공학 | ART:디자인 ambiguous_token=False",2,True
+OC2024_04438,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_04442,,ambiguous,low,"hits=EDU,SOC evidence=EDU:교육 | SOC:상담 ambiguous_token=False",2,True
+OC2024_04464,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_04474,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_04502,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_04503,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_04510,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_04511,,ambiguous,low,hits=SOC evidence=SOC:경영 ambiguous_token=True,1,True
+OC2024_04522,,ambiguous,low,"hits=ART,SOC evidence=ART:스포츠 | SOC:경영 ambiguous_token=False",2,True
+OC2024_04527,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_04529,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_04533,,ambiguous,low,hits=ART evidence=ART:음악/실용음악/예술 ambiguous_token=True,1,True
+OC2024_04538,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_04669,,ambiguous,low,"hits=MED,SOC,HUM evidence=MED:보건/의료 | SOC:회계 | HUM:인문 ambiguous_token=False",3,True
+OC2024_04773,,ambiguous,low,"hits=NAT,SOC evidence=NAT:환경 | SOC:행정 ambiguous_token=False",2,True
+OC2024_04894,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_04898,,ambiguous,low,hits=SOC evidence=SOC:국제 ambiguous_token=True,1,True
+OC2024_04906,,ambiguous,low,"hits=SOC,HUM evidence=SOC:비즈니스/국제 | HUM:중문 ambiguous_token=False",2,True
+OC2024_04909,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_04910,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_04911,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_04913,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_04916,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_04917,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_04927,,ambiguous,low,hits=ENG evidence=ENG:보안 ambiguous_token=True,1,True
+OC2024_04934,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_04935,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_04936,,ambiguous,low,hits=ART evidence=ART:영상 ambiguous_token=True,1,True
+OC2024_04939,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_04940,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_04941,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_04942,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_04946,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_04947,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_04948,,ambiguous,low,"hits=ENG,SOC,HUM evidence=ENG:it | SOC:비즈니스 | HUM:일문/문화콘텐츠 ambiguous_token=True",3,True
+OC2024_04949,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_04950,,ambiguous,low,hits=ENG evidence=ENG:전자/로봇/보안 ambiguous_token=True,1,True
+OC2024_04953,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_04957,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_04959,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_04960,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_04961,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_04962,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_04967,,ambiguous,low,"hits=NAT,EDU,HUM evidence=NAT:화학 | EDU:교육/국어교육 | HUM:언어 ambiguous_token=False",3,True
+OC2024_05003,,ambiguous,low,hits=ENG evidence=ENG:sw ambiguous_token=True,1,True
+OC2024_05004,,ambiguous,low,"hits=ENG,ART evidence=ENG:sw | ART:애니메이션 ambiguous_token=True",2,True
+OC2024_05005,,ambiguous,low,hits=ENG evidence=ENG:전기/공학/sw ambiguous_token=True,1,True
+OC2024_05006,,ambiguous,low,hits=ENG evidence=ENG:iot/sw ambiguous_token=True,1,True
+OC2024_05007,,ambiguous,low,"hits=ENG,NAT evidence=ENG:컴퓨터/sw | NAT:과학 ambiguous_token=True",2,True
+OC2024_05008,,ambiguous,low,"hits=ENG,HUM evidence=ENG:sw | HUM:일문/문화콘텐츠 ambiguous_token=True",2,True
+OC2024_05009,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_05010,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_05018,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_05021,,ambiguous,low,"hits=ENG,NAT evidence=ENG:화학공학/공학 | NAT:화학 ambiguous_token=False",2,True
+OC2024_05022,,ambiguous,low,"hits=ENG,NAT evidence=ENG:화공/화학공학/신소재/공학 | NAT:화학 ambiguous_token=False",2,True
+OC2024_05023,,ambiguous,low,"hits=ENG,NAT evidence=ENG:화학공학/에너지/공학 | NAT:화학 ambiguous_token=False",2,True
+OC2024_05029,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_05030,,ambiguous,low,hits=SOC evidence=SOC:경영 ambiguous_token=True,1,True
+OC2024_05036,,ambiguous,low,hits=ENG evidence=ENG:전자/전기/공학 ambiguous_token=True,1,True
+OC2024_05037,,ambiguous,low,hits=ENG evidence=ENG:데이터 ambiguous_token=True,1,True
+OC2024_05038,,ambiguous,low,hits=ENG evidence=ENG:데이터 ambiguous_token=True,1,True
+OC2024_05039,,ambiguous,low,hits=ENG evidence=ENG:데이터 ambiguous_token=True,1,True
+OC2024_05040,,ambiguous,low,hits=ENG evidence=ENG:데이터 ambiguous_token=True,1,True
+OC2024_05041,,ambiguous,low,hits=ENG evidence=ENG:데이터/공학 ambiguous_token=True,1,True
+OC2024_05046,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_05047,,ambiguous,low,"hits=ENG,NAT evidence=ENG:화학공학/공학 | NAT:화학 ambiguous_token=False",2,True
+OC2024_05049,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_05052,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_05064,,ambiguous,low,"hits=ART,SOC evidence=ART:스포츠 | SOC:경영 ambiguous_token=False",2,True
+OC2024_05066,,ambiguous,low,hits=ART evidence=ART:스포츠 ambiguous_token=True,1,True
+OC2024_05069,,ambiguous,low,"hits=ENG,NAT evidence=ENG:공학 | NAT:식품공학 ambiguous_token=False",2,True
+OC2024_05072,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_05077,,ambiguous,low,"hits=ART,SOC evidence=ART:예술 | SOC:경영 ambiguous_token=False",2,True
+OC2024_05082,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_05085,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_05089,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_05096,,ambiguous,low,"hits=ENG,SOC evidence=ENG:데이터/it | SOC:경영/경제 ambiguous_token=False",2,True
+OC2024_05097,,ambiguous,low,"hits=ENG,SOC evidence=ENG:데이터 | SOC:경영/경제/금융 ambiguous_token=False",2,True
+OC2024_05110,,ambiguous,low,"hits=ENG,NAT evidence=ENG:공학 | NAT:동물 ambiguous_token=False",2,True
+OC2024_05113,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_05122,,ambiguous,low,"hits=ENG,NAT evidence=ENG:전자/반도체 | NAT:물리 ambiguous_token=False",2,True
+OC2024_05126,,ambiguous,low,hits=SOC evidence=SOC:회계/비즈니스 ambiguous_token=True,1,True
+OC2024_05127,,ambiguous,low,hits=SOC evidence=SOC:무역/비즈니스 ambiguous_token=True,1,True
+OC2024_05137,,ambiguous,low,"hits=ENG,SOC evidence=ENG:공학 | SOC:소방 ambiguous_token=False",2,True
+OC2024_05142,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_05146,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_05152,,ambiguous,low,hits=SOC evidence=SOC:관광 ambiguous_token=True,1,True
+OC2024_05154,,ambiguous,low,hits=ENG evidence=ENG:인공지능/자동차/공학 ambiguous_token=True,1,True
+OC2024_05155,,ambiguous,low,hits=ENG evidence=ENG:인공지능/공학 ambiguous_token=True,1,True
+OC2024_05156,,ambiguous,low,hits=ENG evidence=ENG:소프트웨어/인공지능/정보통신/공학 ambiguous_token=True,1,True
+OC2024_05157,,ambiguous,low,hits=ENG evidence=ENG:인공지능/로봇/공학 ambiguous_token=True,1,True
+OC2024_05166,,ambiguous,low,"hits=ENG,NAT evidence=ENG:신소재 | NAT:화학 ambiguous_token=False",2,True
+OC2024_05170,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_05181,,ambiguous,low,"hits=EDU,SOC evidence=EDU:교육 | SOC:상담 ambiguous_token=False",2,True
+OC2024_05187,,ambiguous,low,"hits=ENG,SOC evidence=ENG:항공 | SOC:경영/관광/호텔 ambiguous_token=False",2,True
+OC2024_05278,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_05280,,ambiguous,low,"hits=ENG,NAT evidence=ENG:공학 | NAT:환경 ambiguous_token=True",2,True
+OC2024_05287,,ambiguous,low,"hits=ENG,ART evidence=ENG:기계/공학 | ART:디자인 ambiguous_token=False",2,True
+OC2024_05292,,ambiguous,low,hits=ENG evidence=ENG:에너지 ambiguous_token=True,1,True
+OC2024_05314,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_05332,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_05363,,ambiguous,low,"hits=NAT,HUM evidence=NAT:물리 | HUM:문학 ambiguous_token=False",2,True
+OC2024_05380,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_05482,,ambiguous,low,hits=ENG evidence=ENG:소프트웨어/it ambiguous_token=True,1,True
+OC2024_05487,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_05496,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_05498,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_05502,,ambiguous,low,"hits=EDU,SOC evidence=EDU:교육 | SOC:심리 ambiguous_token=False",2,True
+OC2024_05508,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_05510,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_05512,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_05519,,ambiguous,low,"hits=ENG,NAT evidence=ENG:공학 | NAT:환경 ambiguous_token=False",2,True
+OC2024_05520,,ambiguous,low,"hits=ENG,NAT evidence=ENG:공학 | NAT:환경 ambiguous_token=False",2,True
+OC2024_05523,,ambiguous,low,"hits=NAT,ART evidence=NAT:과학 | ART:스포츠 ambiguous_token=False",2,True
+OC2024_05534,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_05551,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_05560,,ambiguous,low,"hits=MED,SOC evidence=MED:재활 | SOC:심리/상담 ambiguous_token=False",2,True
+OC2024_05570,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_05571,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_05573,,ambiguous,low,"hits=ART,SOC,HUM evidence=ART:예술 | SOC:경영 | HUM:영문 ambiguous_token=False",3,True
+OC2024_05575,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_05595,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_05608,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_05633,,ambiguous,low,hits=ENG evidence=ENG:기계/공학/ict ambiguous_token=True,1,True
+OC2024_05647,,ambiguous,low,"hits=ENG,SOC evidence=ENG:공학 | SOC:경영 ambiguous_token=False",2,True
+OC2024_05662,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_05664,,ambiguous,low,"hits=ART,HUM evidence=ART:영상 | HUM:역사 ambiguous_token=False",2,True
+OC2024_05670,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_05671,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_05672,,ambiguous,low,"hits=ENG,HUM evidence=ENG:공학 | HUM:러시아 ambiguous_token=True",2,True
+OC2024_05673,,ambiguous,low,"hits=ENG,HUM evidence=ENG:공학 | HUM:스페인 ambiguous_token=True",2,True
+OC2024_05674,,ambiguous,low,hits=ENG evidence=ENG:공학 ambiguous_token=True,1,True
+OC2024_05675,,ambiguous,low,hits=ENG evidence=ENG:공학 ambiguous_token=True,1,True
+OC2024_05676,,ambiguous,low,hits=ENG evidence=ENG:공학 ambiguous_token=True,1,True
+OC2024_05677,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_05679,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_05690,,ambiguous,low,"hits=ENG,NAT evidence=ENG:화학공학/공학 | NAT:화학/환경 ambiguous_token=False",2,True
+OC2024_05696,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_05698,,ambiguous,low,"hits=ENG,ART evidence=ENG:공학 | ART:디자인 ambiguous_token=False",2,True
+OC2024_05699,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_05700,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_05718,,ambiguous,low,hits=ENG evidence=ENG:it ambiguous_token=True,1,True
+OC2024_05726,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_05727,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_05729,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_05730,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_05734,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_05735,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_05742,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_05744,,ambiguous,low,hits=HUM evidence=HUM:인문 ambiguous_token=True,1,True
+OC2024_05745,,ambiguous,low,hits=HUM evidence=HUM:인문 ambiguous_token=True,1,True
+OC2024_05746,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_05753,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_05764,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_05769,,ambiguous,low,hits=ENG evidence=ENG:데이터 ambiguous_token=True,1,True
+OC2024_05778,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_05780,,ambiguous,low,hits=ENG evidence=ENG:반도체/공학 ambiguous_token=True,1,True
+OC2024_05787,,ambiguous,low,hits=ENG evidence=ENG:공학 ambiguous_token=True,1,True
+OC2024_05802,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_05804,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_05813,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_05823,,ambiguous,low,"hits=ENG,NAT evidence=ENG:화학공학/공학 | NAT:화학 ambiguous_token=False",2,True
+OC2024_05838,,ambiguous,low,"hits=ART,SOC,HUM evidence=ART:예술 | SOC:경영 | HUM:영문 ambiguous_token=False",3,True
+OC2024_05844,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_05851,,ambiguous,low,"hits=ENG,ART evidence=ENG:공학 | ART:디자인 ambiguous_token=False",2,True
+OC2024_05854,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_05856,,ambiguous,low,"hits=ENG,NAT evidence=ENG:데이터 | NAT:통계 ambiguous_token=False",2,True
+OC2024_05865,,ambiguous,low,hits=ENG evidence=ENG:공학/보안 ambiguous_token=True,1,True
+OC2024_05875,,ambiguous,low,hits=ENG evidence=ENG:에너지/공학 ambiguous_token=True,1,True
+OC2024_05882,,ambiguous,low,"hits=ENG,NAT evidence=ENG:에너지 | NAT:화학 ambiguous_token=True",2,True
+OC2024_05954,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_05960,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_05968,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_05977,,ambiguous,low,hits=SOC evidence=SOC:경영 ambiguous_token=True,1,True
+OC2024_05978,,ambiguous,low,"hits=NAT,HUM evidence=NAT:물리 | HUM:문학 ambiguous_token=False",2,True
+OC2024_05982,,ambiguous,low,hits=ENG evidence=ENG:공학 ambiguous_token=True,1,True
+OC2024_05992,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_05993,,ambiguous,low,"hits=ENG,NAT evidence=ENG:공학 | NAT:식품공학 ambiguous_token=False",2,True
+OC2024_05999,,ambiguous,low,hits=ART evidence=ART:디자인/영상 ambiguous_token=True,1,True
+OC2024_06001,,ambiguous,low,"hits=SOC,HUM evidence=SOC:국제 | HUM:영문/문학 ambiguous_token=False",2,True
+OC2024_06004,,ambiguous,low,hits=ENG evidence=ENG:항공/공학 ambiguous_token=True,1,True
+OC2024_06011,,ambiguous,low,"hits=SOC,HUM evidence=SOC:회계 | HUM:인문 ambiguous_token=False",2,True
+OC2024_06012,,ambiguous,low,"hits=SOC,HUM evidence=SOC:국제 | HUM:문학/일문 ambiguous_token=False",2,True
+OC2024_06013,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_06034,,ambiguous,low,"hits=ENG,NAT evidence=ENG:에너지 | NAT:환경 ambiguous_token=True",2,True
+OC2024_06039,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_06044,,ambiguous,low,"hits=ENG,SOC evidence=ENG:데이터 | SOC:사회복지 ambiguous_token=False",2,True
+OC2024_06054,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_06055,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_06064,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_06075,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_06083,,ambiguous,low,"hits=ENG,NAT evidence=ENG:철도 | NAT:환경 ambiguous_token=False",2,True
+OC2024_06086,,ambiguous,low,"hits=ENG,SOC evidence=ENG:철도 | SOC:경영 ambiguous_token=False",2,True
+OC2024_06097,,ambiguous,low,"hits=ENG,NAT evidence=ENG:에너지/공학 | NAT:환경 ambiguous_token=False",2,True
+OC2024_06121,,ambiguous,low,"hits=ENG,SOC evidence=ENG:공학 | SOC:마케팅 ambiguous_token=False",2,True
+OC2024_06133,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_06134,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_06143,,ambiguous,low,hits=NAT evidence=NAT:화학 ambiguous_token=True,1,True
+OC2024_06170,,ambiguous,low,"hits=ENG,NAT evidence=ENG:화학공학/신소재/공학 | NAT:화학 ambiguous_token=False",2,True
+OC2024_06171,,ambiguous,low,"hits=ENG,NAT evidence=ENG:에너지/공학 | NAT:환경 ambiguous_token=False",2,True
+OC2024_06230,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_06233,,ambiguous,low,"hits=ENG,SOC evidence=ENG:it | SOC:경영/금융 ambiguous_token=False",2,True
+OC2024_06243,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_06244,,ambiguous,low,hits=ENG evidence=ENG:공학 ambiguous_token=True,1,True
+OC2024_06246,,ambiguous,low,"hits=ENG,NAT evidence=ENG:화학공학/공학 | NAT:화학 ambiguous_token=False",2,True
+OC2024_06250,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_06253,,ambiguous,low,"hits=MED,SOC evidence=MED:보건 | SOC:경영/행정 ambiguous_token=False",2,True
+OC2024_06254,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_06270,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_06273,,ambiguous,low,hits=ENG evidence=ENG:기계 ambiguous_token=True,1,True
+OC2024_06274,,ambiguous,low,"hits=ENG,NAT evidence=ENG:화학공학/공학 | NAT:화학 ambiguous_token=True",2,True
+OC2024_06277,,ambiguous,low,"hits=MED,ENG evidence=MED:의료 | ENG:공학/it ambiguous_token=False",2,True
+OC2024_06278,,ambiguous,low,"hits=MED,ENG evidence=MED:의료 | ENG:공학 ambiguous_token=False",2,True
+OC2024_06290,,ambiguous,low,"hits=EDU,SOC evidence=EDU:교육 | SOC:상담 ambiguous_token=False",2,True
+OC2024_06297,,ambiguous,low,"hits=MED,NAT evidence=MED:보건 | NAT:환경 ambiguous_token=False",2,True
+OC2024_06303,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_06309,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_06310,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_06320,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_06334,,ambiguous,low,hits=ENG evidence=ENG:공학 ambiguous_token=True,1,True
+OC2024_06335,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_06338,,ambiguous,low,hits=ENG evidence=ENG:전자/공학/it ambiguous_token=True,1,True
+OC2024_06347,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_06355,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_06357,,ambiguous,low,hits=SOC evidence=SOC:창업 ambiguous_token=True,1,True
+OC2024_06366,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_06371,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_06372,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_06380,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_06384,,ambiguous,low,hits=ENG evidence=ENG:소프트웨어/공학 ambiguous_token=True,1,True
+OC2024_06386,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_06389,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_06393,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_06394,,ambiguous,low,"hits=EDU,ART evidence=EDU:교육/체육교육 | ART:체육 ambiguous_token=False",2,True
+OC2024_06395,,ambiguous,low,"hits=ENG,SOC evidence=ENG:항공 | SOC:경영/관광 ambiguous_token=False",2,True
+OC2024_06544,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_06549,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_06553,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_06563,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_06566,,ambiguous,low,hits=ART evidence=ART:스포츠 ambiguous_token=True,1,True
+OC2024_06569,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_06572,,ambiguous,low,"hits=ENG,SOC evidence=ENG:데이터 | SOC:경영 ambiguous_token=False",2,True
+OC2024_06580,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_06595,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_06604,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_06605,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_06606,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_06616,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_06619,,ambiguous,low,"hits=ENG,SOC evidence=ENG:공학 | SOC:금융 ambiguous_token=False",2,True
+OC2024_06621,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_06636,,ambiguous,low,hits=ENG evidence=ENG:공학 ambiguous_token=True,1,True
+OC2024_06637,,ambiguous,low,"hits=ENG,NAT evidence=ENG:공학 | NAT:화학 ambiguous_token=False",2,True
+OC2024_06673,,ambiguous,low,"hits=ENG,NAT evidence=ENG:데이터 | NAT:통계/과학 ambiguous_token=False",2,True
+OC2024_06674,,ambiguous,low,"hits=ENG,NAT evidence=ENG:데이터 | NAT:통계 ambiguous_token=False",2,True
+OC2024_06678,,ambiguous,low,"hits=ENG,NAT evidence=ENG:에너지/공학 | NAT:환경 ambiguous_token=False",2,True
+OC2024_06754,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_06797,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_06807,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_06812,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_06813,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_06815,,ambiguous,low,"hits=ENG,NAT evidence=ENG:공학 | NAT:물리 ambiguous_token=False",2,True
+OC2024_06819,,ambiguous,low,hits=ENG evidence=ENG:공학 ambiguous_token=True,1,True
+OC2024_06820,,ambiguous,low,hits=ENG evidence=ENG:반도체/공학 ambiguous_token=True,1,True
+OC2024_06821,,ambiguous,low,"hits=ENG,NAT evidence=ENG:반도체/공학 | NAT:환경 ambiguous_token=True",2,True
+OC2024_06825,,ambiguous,low,"hits=MED,SOC evidence=MED:보건 | SOC:행정 ambiguous_token=False",2,True
+OC2024_06836,,ambiguous,low,hits=ENG evidence=ENG:전자/전기/공학 ambiguous_token=True,1,True
+OC2024_06840,,ambiguous,low,"hits=MED,ENG evidence=MED:의료 | ENG:공학 ambiguous_token=False",2,True
+OC2024_06848,,ambiguous,low,"hits=ENG,NAT evidence=ENG:에너지/공학 | NAT:환경 ambiguous_token=False",2,True
+OC2024_06851,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_06852,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_06853,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_06854,,ambiguous,low,"hits=SOC,HUM evidence=SOC:경영 | HUM:국문 ambiguous_token=False",2,True
+OC2024_06858,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_06867,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_06870,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_06873,,ambiguous,low,"hits=EDU,SOC evidence=EDU:교육/국어교육 | SOC:국제 ambiguous_token=False",2,True
+OC2024_06917,,ambiguous,low,"hits=NAT,HUM evidence=NAT:화학 | HUM:언어 ambiguous_token=False",2,True
+OC2024_06919,,ambiguous,low,"hits=ENG,NAT evidence=ENG:화학공학/공학 | NAT:화학 ambiguous_token=True",2,True
+OC2024_06944,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_06947,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_06985,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_06986,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_06991,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_06992,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_06998,,ambiguous,low,"hits=ART,SOC evidence=ART:사진/예술 | SOC:방송 ambiguous_token=False",2,True
+OC2024_07002,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_07013,,ambiguous,low,"hits=NAT,ART evidence=NAT:화학 | ART:영화 ambiguous_token=False",2,True
+OC2024_07015,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_07019,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_07020,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_07024,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_07049,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_07064,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_07070,,ambiguous,low,"hits=MED,NAT evidence=MED:보건 | NAT:환경 ambiguous_token=False",2,True
+OC2024_07079,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_07089,,ambiguous,low,hits=ENG evidence=ENG:전자/공학/it ambiguous_token=True,1,True
+OC2024_07104,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_07121,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_07235,,ambiguous,low,"hits=ENG,NAT evidence=ENG:에너지 | NAT:화학 ambiguous_token=False",2,True
+OC2024_07236,,ambiguous,low,"hits=ENG,NAT evidence=ENG:데이터 | NAT:수학 ambiguous_token=False",2,True
+OC2024_07243,,ambiguous,low,"hits=ENG,SOC evidence=ENG:공학 | SOC:경영 ambiguous_token=False",2,True
+OC2024_07258,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_07264,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_07268,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_07276,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_07278,,ambiguous,low,"hits=SOC,HUM evidence=SOC:상담 | HUM:철학 ambiguous_token=False",2,True
+OC2024_07279,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_07287,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_07289,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_07317,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_07319,,ambiguous,low,"hits=ENG,NAT,SOC evidence=ENG:데이터 | NAT:통계 | SOC:금융 ambiguous_token=False",3,True
+OC2024_07344,,ambiguous,low,"hits=MED,SOC evidence=MED:의료 | SOC:상담 ambiguous_token=False",2,True
+OC2024_07352,,ambiguous,low,hits=ENG evidence=ENG:전자/공학 ambiguous_token=True,1,True
+OC2024_07362,,ambiguous,low,hits=ENG evidence=ENG:공학 ambiguous_token=True,1,True
+OC2024_07371,,ambiguous,low,"hits=ENG,NAT evidence=ENG:공학 | NAT:화학 ambiguous_token=True",2,True
+OC2024_07377,,ambiguous,low,"hits=ENG,SOC evidence=ENG:보안 | SOC:경찰 ambiguous_token=False",2,True
+OC2024_07404,,ambiguous,low,"hits=ENG,SOC evidence=ENG:항공 | SOC:호텔 ambiguous_token=False",2,True
+OC2024_07421,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_07437,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_07448,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_07449,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_07594,,ambiguous,low,hits=ENG evidence=ENG:공학 ambiguous_token=True,1,True
+OC2024_07597,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_07602,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_07605,,ambiguous,low,"hits=MED,NAT evidence=MED:방사선 | NAT:화학 ambiguous_token=False",2,True
+OC2024_07614,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_07616,,ambiguous,low,"hits=ENG,NAT evidence=ENG:공학 | NAT:식품영양/식품공학 ambiguous_token=False",2,True
+OC2024_07641,,ambiguous,low,"hits=ENG,ART evidence=ENG:컴퓨터 | ART:디자인 ambiguous_token=False",2,True
+OC2024_07644,,ambiguous,low,"hits=ENG,NAT evidence=ENG:토목/공학 | NAT:환경 ambiguous_token=False",2,True
+OC2024_07657,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_07667,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_07670,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_07671,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_07677,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_07687,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_07696,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_07708,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_07712,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_07722,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_07727,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_07879,,ambiguous,low,hits=ENG evidence=ENG:공학 ambiguous_token=True,1,True
+OC2024_08024,,ambiguous,low,hits=ENG evidence=ENG:자동차/공학/it ambiguous_token=True,1,True
+OC2024_08051,,ambiguous,low,"hits=ENG,NAT evidence=ENG:토목/에너지/공학 | NAT:환경 ambiguous_token=False",2,True
+OC2024_08077,,ambiguous,low,"hits=ENG,SOC evidence=ENG:it | SOC:금융 ambiguous_token=False",2,True
+OC2024_08078,,ambiguous,low,"hits=ENG,SOC evidence=ENG:it | SOC:금융/부동산 ambiguous_token=False",2,True
+OC2024_08085,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_08104,,ambiguous,low,hits=ENG evidence=ENG:기계/자동차/공학 ambiguous_token=True,1,True
+OC2024_08105,,ambiguous,low,"hits=ENG,SOC evidence=ENG:공학 | SOC:경영 ambiguous_token=False",2,True
+OC2024_08106,,ambiguous,low,"hits=ENG,ART evidence=ENG:공학 | ART:디자인 ambiguous_token=True",2,True
+OC2024_08112,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_08117,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_08118,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_08119,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_08131,,ambiguous,low,"hits=ENG,SOC evidence=ENG:공학 | SOC:소방 ambiguous_token=False",2,True
+OC2024_08134,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_08137,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_08144,,ambiguous,low,"hits=ART,SOC evidence=ART:영화 | SOC:방송 ambiguous_token=False",2,True
+OC2024_08145,,ambiguous,low,"hits=ART,SOC evidence=ART:영화 | SOC:방송 ambiguous_token=False",2,True
+OC2024_08146,,ambiguous,low,"hits=ART,SOC evidence=ART:예술 | SOC:심리 ambiguous_token=False",2,True
+OC2024_08148,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_08163,,ambiguous,low,"hits=ENG,NAT evidence=ENG:자동차 | NAT:환경 ambiguous_token=False",2,True
+OC2024_08166,,ambiguous,low,hits=ENG evidence=ENG:공학 ambiguous_token=True,1,True
+OC2024_08174,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_08177,,ambiguous,low,"hits=MED,NAT evidence=MED:보건 | NAT:환경 ambiguous_token=False",2,True
+OC2024_08186,,ambiguous,low,"hits=SOC,HUM evidence=SOC:상담 | HUM:언어 ambiguous_token=False",2,True
+OC2024_08190,,ambiguous,low,"hits=ENG,SOC evidence=ENG:공학 | SOC:소방 ambiguous_token=False",2,True
+OC2024_08196,,ambiguous,low,hits=SOC evidence=SOC:경영 ambiguous_token=True,1,True
+OC2024_08197,,ambiguous,low,"hits=ENG,SOC evidence=ENG:항공 | SOC:경영 ambiguous_token=True",2,True
+OC2024_08204,,ambiguous,low,"hits=ENG,SOC evidence=ENG:항공 | SOC:경영 ambiguous_token=False",2,True
+OC2024_08228,,ambiguous,low,"hits=ART,HUM evidence=ART:디자인 | HUM:인문 ambiguous_token=False",2,True
+OC2024_08232,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_08233,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_08246,,ambiguous,low,"hits=MED,NAT evidence=MED:의학 | NAT:수산 ambiguous_token=False",2,True
+OC2024_08254,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_08255,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_08275,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_08301,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_08319,,ambiguous,low,"hits=ENG,ART evidence=ENG:공학 | ART:디자인 ambiguous_token=False",2,True
+OC2024_08340,,ambiguous,low,hits=ENG evidence=ENG:자동차/공학 ambiguous_token=True,1,True
+OC2024_08348,,ambiguous,low,"hits=NAT,HUM evidence=NAT:화학 | HUM:철학/언어 ambiguous_token=False",2,True
+OC2024_08355,,ambiguous,low,"hits=ENG,NAT evidence=ENG:공학 | NAT:과학 ambiguous_token=False",2,True
+OC2024_08357,,ambiguous,low,"hits=NAT,HUM evidence=NAT:화학 | HUM:언어/스페인/러시아 ambiguous_token=False",2,True
+OC2024_08358,,ambiguous,low,hits=NAT evidence=NAT:과학 ambiguous_token=True,1,True
+OC2024_08378,,ambiguous,low,"hits=ENG,NAT evidence=ENG:컴퓨터 | NAT:통계 ambiguous_token=False",2,True
+OC2024_08389,,ambiguous,low,hits=SOC evidence=SOC:부동산/비즈니스 ambiguous_token=True,1,True
+OC2024_08480,,ambiguous,low,"hits=NAT,HUM evidence=NAT:화학 | HUM:문학 ambiguous_token=False",2,True
+OC2024_08488,,ambiguous,low,hits=ENG evidence=ENG:공학 ambiguous_token=True,1,True
+OC2024_08499,,ambiguous,low,"hits=ENG,NAT evidence=ENG:신소재/공학 | NAT:화학 ambiguous_token=False",2,True
+OC2024_08503,,ambiguous,low,"hits=ART,SOC evidence=ART:음악/애니메이션/실용음악/예술 | SOC:방송 ambiguous_token=False",2,True
+OC2024_08504,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_08509,,ambiguous,low,"hits=ENG,NAT evidence=ENG:공학 | NAT:동물/과학 ambiguous_token=False",2,True
+OC2024_08513,,ambiguous,low,"hits=ENG,ART evidence=ENG:공학 | ART:공예/예술 ambiguous_token=False",2,True
+OC2024_08516,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_08519,,ambiguous,low,"hits=ENG,ART evidence=ENG:컴퓨터 | ART:예술 ambiguous_token=False",2,True
+OC2024_08589,,ambiguous,low,"hits=NAT,HUM evidence=NAT:과학 | HUM:인문 ambiguous_token=True",2,True
+OC2024_08592,,ambiguous,low,"hits=ENG,SOC evidence=ENG:항공 | SOC:경영/관광 ambiguous_token=False",2,True
+OC2024_08593,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_08600,,ambiguous,low,"hits=ENG,SOC evidence=ENG:공학 | SOC:소방 ambiguous_token=True",2,True
+OC2024_08601,,ambiguous,low,hits=ENG evidence=ENG:컴퓨터/공학 ambiguous_token=True,1,True
+OC2024_08618,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_08622,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_08624,,ambiguous,low,"hits=ART,SOC evidence=ART:영화/영상 | SOC:방송 ambiguous_token=False",2,True
+OC2024_08635,,ambiguous,low,"hits=ENG,SOC evidence=ENG:항공 | SOC:경영 ambiguous_token=False",2,True
+OC2024_08661,,ambiguous,low,hits=ENG evidence=ENG:에너지 ambiguous_token=True,1,True
+OC2024_08666,,ambiguous,low,"hits=MED,NAT evidence=MED:보건 | NAT:동물 ambiguous_token=False",2,True
+OC2024_08683,,ambiguous,low,"hits=NAT,SOC evidence=NAT:과학 | SOC:법 ambiguous_token=False",2,True
+OC2024_08684,,ambiguous,low,"hits=MED,SOC evidence=MED:보건 | SOC:행정 ambiguous_token=False",2,True
+OC2024_08685,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_08699,,ambiguous,low,hits=ENG evidence=ENG:에너지/공학 ambiguous_token=True,1,True
+OC2024_08716,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_08741,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_08742,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_08743,,ambiguous,low,"hits=ENG,NAT evidence=ENG:기계/공학 | NAT:화학 ambiguous_token=False",2,True
+OC2024_08750,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_08751,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_08770,,ambiguous,low,"hits=MED,SOC evidence=MED:재활 | SOC:상담 ambiguous_token=False",2,True
+OC2024_09001,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_09009,,ambiguous,low,"hits=ENG,NAT evidence=ENG:ict | NAT:환경 ambiguous_token=True",2,True
+OC2024_09020,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_09021,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_09027,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_09030,,ambiguous,low,"hits=EDU,SOC evidence=EDU:교육 | SOC:상담 ambiguous_token=False",2,True
+OC2024_09031,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_09056,,ambiguous,low,hits=ENG evidence=ENG:반도체 ambiguous_token=True,1,True
+OC2024_09065,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_09072,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_09089,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_09094,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_09095,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_09100,,ambiguous,low,"hits=ENG,NAT evidence=ENG:공학 | NAT:원예 ambiguous_token=False",2,True
+OC2024_09102,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_09103,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_09107,,ambiguous,low,"hits=MED,ENG evidence=MED:재활/의료 | ENG:공학 ambiguous_token=False",2,True
+OC2024_09109,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_09121,,ambiguous,low,"hits=ENG,NAT evidence=ENG:컴퓨터 | NAT:수학 ambiguous_token=False",2,True
+OC2024_09123,,ambiguous,low,"hits=ENG,NAT evidence=ENG:토목/공학 | NAT:환경 ambiguous_token=False",2,True
+OC2024_09139,,ambiguous,low,"hits=ENG,ART evidence=ENG:공학 | ART:디자인 ambiguous_token=False",2,True
+OC2024_09195,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_09198,,ambiguous,low,hits=ENG evidence=ENG:공학 ambiguous_token=True,1,True
+OC2024_09199,,ambiguous,low,"hits=ENG,ART evidence=ENG:건축공학/공학 | ART:디자인 ambiguous_token=False",2,True
+OC2024_09202,,ambiguous,low,"hits=ENG,NAT evidence=ENG:화학공학/신소재/에너지/공학 | NAT:화학 ambiguous_token=False",2,True
+OC2024_09213,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_09216,,ambiguous,low,"hits=MED,NAT evidence=MED:보건 | NAT:환경 ambiguous_token=False",2,True
+OC2024_09219,,ambiguous,low,"hits=NAT,SOC evidence=NAT:과학 | SOC:상담 ambiguous_token=False",2,True
+OC2024_09221,,ambiguous,low,"hits=NAT,ART evidence=NAT:과학 | ART:패션 ambiguous_token=False",2,True
+OC2024_09229,,ambiguous,low,"hits=ENG,NAT evidence=ENG:데이터 | NAT:통계/과학 ambiguous_token=False",2,True
+OC2024_09273,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_09274,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_09335,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_09351,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_09380,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_09508,,ambiguous,low,"hits=ENG,EDU,HUM evidence=ENG:공학 | EDU:교육 | HUM:인문 ambiguous_token=True",3,True
+OC2024_09653,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_09654,,ambiguous,low,"hits=ENG,ART evidence=ENG:ict | ART:디자인 ambiguous_token=False",2,True
+OC2024_09665,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_09673,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_09675,,ambiguous,low,hits=ENG evidence=ENG:보안 ambiguous_token=True,1,True
+OC2024_09755,,ambiguous,low,hits=ENG evidence=ENG:소프트웨어 ambiguous_token=True,1,True
+OC2024_09780,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_09808,,ambiguous,low,"hits=ENG,SOC evidence=ENG:공학 | SOC:경영 ambiguous_token=False",2,True
+OC2024_09833,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_09846,,ambiguous,low,"hits=NAT,SOC evidence=NAT:과학 | SOC:심리 ambiguous_token=False",2,True
+OC2024_09853,,ambiguous,low,hits=ENG evidence=ENG:전자/공학 ambiguous_token=True,1,True
+OC2024_09854,,ambiguous,low,"hits=EDU,ART evidence=EDU:교육/미술교육 | ART:미술 ambiguous_token=False",2,True
+OC2024_09858,,ambiguous,low,"hits=ENG,NAT evidence=ENG:공학 | NAT:환경 ambiguous_token=False",2,True
+OC2024_09862,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_09863,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_09890,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_09891,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_09896,,ambiguous,low,hits=ENG evidence=ENG:공학/it ambiguous_token=True,1,True
+OC2024_09897,,ambiguous,low,hits=ENG evidence=ENG:로봇/공학 ambiguous_token=True,1,True
+OC2024_09898,,ambiguous,low,hits=ENG evidence=ENG:공학 ambiguous_token=True,1,True
+OC2024_09899,,ambiguous,low,hits=ENG evidence=ENG:공학/ict ambiguous_token=True,1,True
+OC2024_09900,,ambiguous,low,hits=ENG evidence=ENG:공학 ambiguous_token=True,1,True
+OC2024_09913,,ambiguous,low,"hits=ENG,NAT evidence=ENG:화학공학/공학 | NAT:화학 ambiguous_token=False",2,True
+OC2024_09915,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_09919,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_09923,,ambiguous,low,hits=ENG evidence=ENG:공학 ambiguous_token=True,1,True
+OC2024_09924,,ambiguous,low,"hits=ENG,NAT evidence=ENG:공학 | NAT:화학 ambiguous_token=False",2,True
+OC2024_09979,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_09983,,ambiguous,low,"hits=SOC,HUM evidence=SOC:경영 | HUM:영문 ambiguous_token=False",2,True
+OC2024_10000,,ambiguous,low,hits=ART evidence=ART:디자인 ambiguous_token=True,1,True
+OC2024_10012,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_10024,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_10027,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_10028,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_10048,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_10053,,ambiguous,low,"hits=MED,NAT evidence=MED:보건 | NAT:동물 ambiguous_token=False",2,True
+OC2024_10067,,ambiguous,low,"hits=ENG,SOC evidence=ENG:데이터/공학 | SOC:경영 ambiguous_token=False",2,True
+OC2024_10099,,ambiguous,low,hits=ENG evidence=ENG:전자/공학 ambiguous_token=True,1,True
+OC2024_10110,,ambiguous,low,"hits=NAT,HUM evidence=NAT:화학 | HUM:언어 ambiguous_token=False",2,True
+OC2024_10117,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_10120,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_10122,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_10124,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_10130,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_10134,,ambiguous,low,"hits=ENG,SOC evidence=ENG:전기 | SOC:소방 ambiguous_token=True",2,True
+OC2024_10145,,ambiguous,low,"hits=ENG,SOC evidence=ENG:전기 | SOC:소방 ambiguous_token=False",2,True
+OC2024_10149,,ambiguous,low,hits=ENG evidence=ENG:컴퓨터 ambiguous_token=True,1,True
+OC2024_10150,,ambiguous,low,"hits=ENG,ART evidence=ENG:컴퓨터 | ART:애니메이션 ambiguous_token=False",2,True
+OC2024_10173,,ambiguous,low,"hits=ART,SOC evidence=ART:디자인/예술 | SOC:경영 ambiguous_token=False",2,True
+OC2024_10199,,ambiguous,low,"hits=ENG,ART evidence=ENG:건축공학/공학 | ART:디자인 ambiguous_token=False",2,True
+OC2024_10208,,ambiguous,low,"hits=ENG,NAT evidence=ENG:화학공학/공학 | NAT:화학 ambiguous_token=False",2,True
+OC2024_10210,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_10211,,ambiguous,low,"hits=ART,SOC evidence=ART:영상 | SOC:경영 ambiguous_token=False",2,True
+OC2024_10216,,unknown,unknown,"no inherited, dictionary, or keyword evidence",0,True
+OC2024_10219,,ambiguous,low,hits=ENG evidence=ENG:전자/전기/공학 ambiguous_token=True,1,True

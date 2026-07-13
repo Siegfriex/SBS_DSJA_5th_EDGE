@@ -1,0 +1,9 @@
+﻿classification_version,raw_category,headline_group,broad_occupation_group,mapping_confidence,initial_review_required,review_required,review_pending,review_status
+post_2017,교육·법률·사회복지·경찰·소방직 및 군인,professional_highskill,education_law_welfare_safety_military,medium,True,False,False,accepted_policy_review_20260712
+post_2017,농림어업직,production_transport,agriculture_fishery,medium,True,False,False,accepted_policy_review_20260712
+post_2017,미용·여행·숙박·음식·경비·청소직,service_sales,personal_food_guard_cleaning,medium,True,False,False,accepted_policy_review_20260712
+post_2017,영업·판매·운전·운송직,service_sales,sales_transport_mixed,medium,True,False,False,accepted_policy_review_20260712
+post_2017,예술·디자인·방송·스포츠직,professional_highskill,arts_design_media_sports,medium,True,False,False,accepted_policy_review_20260712
+pre_2017,군인,professional_highskill,military_public_safety,medium,True,False,False,accepted_policy_review_20260712
+pre_2017,농림어업 관련직,production_transport,agriculture_fishery,medium,True,False,False,accepted_policy_review_20260712
+pre_2017,정보통신 관련직,professional_highskill,ict_professional,medium,True,False,False,accepted_policy_review_20260712

@@ -1,0 +1,11 @@
+﻿merge_id,agent,left_file,right_file,left_shape,right_shape,join_type,keys,validate_mode,left_key_duplicates,right_key_duplicates,row_count_before,row_count_after,matched_n,left_only_n,right_only_n,match_rate,status
+L1_M01_D02_bridge,local1,workbook/p2/p2_3/p3_1/dept_outcomes_2024.parquet,workbook/p2/p2_3/shared/bridge_outcome_headcount.csv,"(10242, 32)","(10242, 9)",left,outcome_row_id,one_to_one,0,0,10242,10242,4711,5531,0,0.45996875610232374,PASS_WITH_LOW_MATCH_RATE
+L1_M02_D08_wage,local1,workbook/p2/p2_3/p3_1/dept_master_2024_core.parquet,workbook/p2/p2_3/p3_1/wage_reference_by_major.parquet,"(10242, 88)","(0, 87)",left,major_group_7,many_to_one,0,0,10242,10242,9361,881,0,0.9139816442101152,PASS
+L1_M03_D08_goms,local1,workbook/p2/p2_3/p3_1/dept_master_2024_core.parquet,workbook/p2/p2_3/shared_handoff/goms_major_profile_recent.parquet,"(10242, 88)","(7, 29)",left,major_group_7,many_to_one,0,0,10242,10242,9361,881,0,0.9139816442101152,PASS
+L2_M01_economic_activity,local2,in_memory_baseline_spine,GOMS_block_1_economic_activity,"(104, variable)","(104, variable)",left,year|major_group_7,one_to_one,0,0,104,104,104,0,0,1.0,PASS
+L2_M02_industry,local2,in_memory_baseline_spine,GOMS_block_2_industry,"(104, variable)","(104, variable)",left,year|major_group_7,one_to_one,0,0,104,104,104,0,0,1.0,PASS
+L2_M03_occupation,local2,in_memory_baseline_spine,GOMS_block_3_occupation,"(104, variable)","(104, variable)",left,year|major_group_7,one_to_one,0,0,104,104,104,0,0,1.0,PASS
+L2_M04_firm_size,local2,in_memory_baseline_spine,GOMS_block_4_firm_size,"(104, variable)","(104, variable)",left,year|major_group_7,one_to_one,0,0,104,104,104,0,0,1.0,PASS
+L2_M05_firm_type,local2,in_memory_baseline_spine,GOMS_block_5_firm_type,"(104, variable)","(104, variable)",left,year|major_group_7,one_to_one,0,0,104,104,104,0,0,1.0,PASS
+L2_M06_employment_status,local2,in_memory_baseline_spine,GOMS_block_6_employment_status,"(104, variable)","(104, variable)",left,year|major_group_7,one_to_one,0,0,104,104,104,0,0,1.0,PASS
+L2_M07_continuous,local2,in_memory_baseline_spine,GOMS_block_7_continuous,"(104, variable)","(104, variable)",left,year|major_group_7,one_to_one,0,0,104,104,104,0,0,1.0,PASS

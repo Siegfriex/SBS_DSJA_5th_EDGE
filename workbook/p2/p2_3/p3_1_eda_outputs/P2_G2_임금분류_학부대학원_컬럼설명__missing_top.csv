@@ -1,0 +1,11 @@
+﻿column,raw_dtype,est_type,non_null,null_count,null_pct,unique_count,zero_count_if_numeric,min_if_numeric,max_if_numeric
+quartile_column,str,ordered_quartile_label,23,43,65.1515,23,,,
+column,str,identifier_or_key,66,0,0.0,66,,,
+role,str,categorical_low_cardinality,66,0,0.0,9,,,
+semantic_type,str,categorical_low_cardinality,66,0,0.0,5,,,
+source_file,str,identifier_or_key,66,0,0.0,5,,,
+source_raw_column,str,identifier_or_key,66,0,0.0,65,,,
+unit,str,categorical_low_cardinality,66,0,0.0,10,,,
+meaning,str,text_or_high_cardinality_category,66,0,0.0,50,,,
+zero_policy,str,categorical_low_cardinality,66,0,0.0,3,,,
+null_policy,str,categorical_binary,66,0,0.0,2,,,

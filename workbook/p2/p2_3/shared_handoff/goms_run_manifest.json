@@ -1,0 +1,255 @@
+{
+  "created_at": "2026-07-12T21:38:42+09:00",
+  "project_dir": "/home/sieg/projects-wsl/SBS_dataScience",
+  "python": "3.12.3",
+  "platform": "Linux-6.18.33.2-microsoft-standard-WSL2-x86_64-with-glibc2.39",
+  "pandas": "3.0.3",
+  "numpy": "2.5.0",
+  "pyarrow": "24.0.0",
+  "inputs": {
+    "goms_distribution_long.csv": {
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_2/data/goms_subject_crawl/normalized/goms_distribution_long.csv",
+      "shape": [
+        29160,
+        9
+      ],
+      "columns": [
+        "topic_id",
+        "topic_group",
+        "topic_name",
+        "classification_version",
+        "dimension_value",
+        "year",
+        "subgroup",
+        "measure_type",
+        "value"
+      ],
+      "sha256": "5da4c46cf438bea5f7cac5c3f1f489ae297b838ff38d14b4d335a700f9ddaf6b"
+    },
+    "goms_continuous_long.csv": {
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_2/data/goms_subject_crawl/normalized/goms_continuous_long.csv",
+      "shape": [
+        2230,
+        8
+      ],
+      "columns": [
+        "topic_id",
+        "topic_group",
+        "topic_name",
+        "classification_version",
+        "dimension_value",
+        "year",
+        "measure_type",
+        "value"
+      ],
+      "sha256": "8d304f82656915d08ea88e8aa0435c6044a0375995f01bc6a4851d0fd292575c"
+    },
+    "00_topic_registry.csv": {
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_2/data/goms_subject_crawl/00_topic_registry.csv",
+      "shape": [
+        39,
+        6
+      ],
+      "columns": [
+        "group",
+        "group_name",
+        "topic",
+        "kind",
+        "topic_id",
+        "classification_version"
+      ],
+      "sha256": "7cf9368b079760952c2caded8a39f8ccfc098de2ffae11dc9252687c3be19cb7"
+    }
+  },
+  "long_schema_checks": {
+    "distribution_required_columns_present": true,
+    "continuous_required_columns_present": true,
+    "distribution_duplicate_rows": 0,
+    "continuous_duplicate_rows": 0,
+    "distribution_years": [
+      2007,
+      2008,
+      2009,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019
+    ],
+    "continuous_years": [
+      2007,
+      2008,
+      2009,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019
+    ],
+    "distribution_topic_count": 21,
+    "continuous_topic_count": 18
+  },
+  "completed_at": "2026-07-12T21:38:43+09:00",
+  "outputs": {
+    "D06": {
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/p3_2/goms_major_year_labor_baseline.parquet",
+      "sha256": "75d8bc34a0bf092c3e2c4332fd213d4a01f5a86252b6f6b4ac6f29709b3202c3",
+      "size_bytes": 44315,
+      "shape": [
+        91,
+        45
+      ]
+    },
+    "D07": {
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/p3_2/goms_major_profile_recent.parquet",
+      "sha256": "f44c6f9e7a7539361dce301686144780e0ce588deb929b625ebe811674bb621f",
+      "size_bytes": 20580,
+      "shape": [
+        7,
+        29
+      ]
+    },
+    "national": {
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/p3_2/goms_national_year_benchmark.parquet",
+      "sha256": "2bb79134d30ab77e33bd65b854deed2ca077a51e81eaa9b1cbef2a975b1f05d0",
+      "size_bytes": 30585,
+      "shape": [
+        13,
+        45
+      ]
+    },
+    "handoff_D07": {
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/shared_handoff/goms_major_profile_recent.parquet",
+      "sha256": "f44c6f9e7a7539361dce301686144780e0ce588deb929b625ebe811674bb621f",
+      "size_bytes": 20580
+    },
+    "column_registry": {
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/shared_handoff/goms_column_registry.csv",
+      "sha256": "c81793185fa785f8991f80e3cfcce510facf77ca47a7b1a1a151f6ec9468fe56",
+      "size_bytes": 14133
+    },
+    "topic_axis_registry": {
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/shared_handoff/goms_topic_axis_registry.csv",
+      "sha256": "1d60b4f5a324179ff17c5c070e6155d3cb0cf59199c8b4efee38cf4039f57d0d",
+      "size_bytes": 11935
+    },
+    "distribution_sum_check": {
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/qa/goms_distribution_sum_check.csv",
+      "sha256": "d4a54eb25f682571b95357fc67ffe89d7a53d170c37d9687b97049d1aeedff22",
+      "size_bytes": 42645
+    },
+    "key_duplicate_check": {
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/qa/goms_key_duplicate_check.csv",
+      "sha256": "faa0fd5fdcb20165fe6b5912fc29b6750813b68d33ab36f0e54731880da70242",
+      "size_bytes": 145
+    },
+    "occupation_crosswalk_review": {
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/qa/goms_occupation_crosswalk_review.csv",
+      "sha256": "1ca8fb9f705d77313a864c175465cda7da96bea20dacf41e065f7f3a21c60693",
+      "size_bytes": 1298
+    },
+    "category_mapping_inventory": {
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/qa/goms_category_mapping_inventory.csv",
+      "sha256": "576ff96c9511aca87968d55686ffbd6e8727d0926a28c7a1a8908caf06859826",
+      "size_bytes": 3654
+    },
+    "final_qa_summary": {
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/qa/goms_final_qa_summary.csv",
+      "sha256": "c8e5e1f5c9e2256a20449f90940476236b879d435df6a0b620f56dcfeffe421e",
+      "size_bytes": 4712
+    },
+    "failed_checks": {
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/qa/goms_failed_checks.csv",
+      "sha256": "a04b6bf5b92365eb95f5b463bef24f16ccffc17b0011d709454737eaaa33505a",
+      "size_bytes": 52
+    },
+    "merge_audit": {
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/logs/merge_audit.csv",
+      "sha256": "57f1e4a2f41351b1af882f14a396390c44a337cc5411e90ded8c0bd01031b01e",
+      "size_bytes": 1268
+    },
+    "schema_deviation_report": {
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/logs/schema_deviation_report.csv",
+      "sha256": "fb8c89306095994f90c5f41fbdd5722cfaba8b8b83897912905b5edf00589715",
+      "size_bytes": 3394
+    }
+  },
+  "qa": {
+    "qa_summary_shape": [
+      57,
+      6
+    ],
+    "failed_check_count": 0,
+    "warn_check_count": 0,
+    "occupation_crosswalk_review_count": 8,
+    "d06_shape": [
+      91,
+      45
+    ],
+    "d07_shape": [
+      7,
+      29
+    ],
+    "major_groups": [
+      "인문",
+      "사회",
+      "교육",
+      "공학",
+      "자연",
+      "의약",
+      "예체능"
+    ],
+    "years": [
+      2007,
+      2008,
+      2009,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019
+    ],
+    "occupation_crosswalk_review_pending_count": 0,
+    "distribution_sum_strict_status_counts": {
+      "PASS": 572
+    },
+    "distribution_sum_strict_max_abs_error_from_100": 1.7000000000000028
+  },
+  "logs": {
+    "decision_log": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/logs/decision_log.jsonl",
+    "transformation_log": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/logs/transformation_log.jsonl",
+    "merge_audit": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/logs/merge_audit.csv",
+    "schema_deviation_report": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/logs/schema_deviation_report.csv",
+    "namespaced_log_dir": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/logs/local2"
+  },
+  "ready_for_local1": true,
+  "immutable_handoff": true,
+  "handoff_manifest_path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/shared_handoff/LOCAL2_HANDOFF_MANIFEST.json",
+  "logs_sha256": {
+    "decision_log": "89ac68eb64aed016d8a8b8117229182b0721943c109670747f7d048e441c9412",
+    "transformation_log": "5b22435231e6c4163e08dbd267558c57aafce73a07836e7bb35cfcca263ddc91",
+    "merge_audit": "57f1e4a2f41351b1af882f14a396390c44a337cc5411e90ded8c0bd01031b01e",
+    "schema_deviation_report": "fb8c89306095994f90c5f41fbdd5722cfaba8b8b83897912905b5edf00589715"
+  },
+  "namespaced_logs_sha256": {
+    "decision_log": "89ac68eb64aed016d8a8b8117229182b0721943c109670747f7d048e441c9412",
+    "transformation_log": "5b22435231e6c4163e08dbd267558c57aafce73a07836e7bb35cfcca263ddc91",
+    "merge_audit": "57f1e4a2f41351b1af882f14a396390c44a337cc5411e90ded8c0bd01031b01e",
+    "schema_deviation_report": "fb8c89306095994f90c5f41fbdd5722cfaba8b8b83897912905b5edf00589715"
+  }
+}

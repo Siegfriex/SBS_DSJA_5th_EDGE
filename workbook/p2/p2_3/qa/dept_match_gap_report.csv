@@ -1,0 +1,5 @@
+﻿match_method,rows,mean_score,review_rows
+unmatched,5204,,5204
+exact_normalized,4710,1.0,0
+manual_review,327,1.0,327
+fuzzy_unique,1,0.9333,0

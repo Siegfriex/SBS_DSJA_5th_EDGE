@@ -1,0 +1,43 @@
+﻿raw_dtype,est_type,non_null,null_count,null_pct,unique_count,zero_count_if_numeric,min_if_numeric,max_if_numeric,column,role_guess,reason
+float64,numeric_continuous,14,0,0.0,14,0.0,234.7,648.5,평균소득만원,primary_target,월 평균 초임소득. 임금분류 테이블의 핵심 후보 y
+str,ordered_quartile_label,14,0,0.0,4,,,,평균소득만원_사분위,primary_target | derived_ordered_category,월 평균 초임소득. 임금분류 테이블의 핵심 후보 y / 사분위 라벨. 원 수치 타겟/피처의 구간화 결과이며 순서형 범주로 사용 가능
+float64,numeric_continuous,14,0,0.0,14,0.0,217.5,500.0,중위소득만원,primary_target,월 중위 초임소득. 왜도에 덜 민감한 후보 y
+str,ordered_quartile_label,14,0,0.0,4,,,,중위소득만원_사분위,primary_target | derived_ordered_category,월 중위 초임소득. 왜도에 덜 민감한 후보 y / 사분위 라벨. 원 수치 타겟/피처의 구간화 결과이며 순서형 범주로 사용 가능
+float64,numeric_continuous,14,0,0.0,14,0.0,13.099999999999966,198.5,평균소득_중위소득_차이만원,target_diagnostic,평균과 중위의 차이. 소득 분포 왜도 진단
+str,ordered_quartile_label,14,0,0.0,4,,,,평균소득_중위소득_차이만원_사분위,target_diagnostic | derived_ordered_category,평균과 중위의 차이. 소득 분포 왜도 진단 / 사분위 라벨. 원 수치 타겟/피처의 구간화 결과이며 순서형 범주로 사용 가능
+float64,numeric_rate_or_ratio,14,0,0.0,14,0.0,1.0309473186865106,1.441111111111111,평균소득_중위소득_비율,target_diagnostic,평균/중위 비율. 상위 소득 영향 진단
+str,ordered_quartile_label,14,0,0.0,4,,,,평균소득_중위소득_비율_사분위,target_diagnostic | derived_ordered_category,평균/중위 비율. 상위 소득 영향 진단 / 사분위 라벨. 원 수치 타겟/피처의 구간화 결과이며 순서형 범주로 사용 가능
+int64,numeric_count,14,0,0.0,14,0.0,70.0,1490.0,초임급여_100만원미만_명,target_distribution,초임급여 구간별 규모/비율. target 분포 진단
+str,ordered_quartile_label,14,0,0.0,4,,,,초임급여_100만원미만_명_사분위,target_distribution | derived_ordered_category,초임급여 구간별 규모/비율. target 분포 진단 / 사분위 라벨. 원 수치 타겟/피처의 구간화 결과이며 순서형 범주로 사용 가능
+int64,numeric_count,14,0,0.0,14,0.0,199.0,7584.0,초임급여_100~200만원미만_명,target_distribution,초임급여 구간별 규모/비율. target 분포 진단
+str,ordered_quartile_label,14,0,0.0,4,,,,초임급여_100~200만원미만_명_사분위,target_distribution | derived_ordered_category,초임급여 구간별 규모/비율. target 분포 진단 / 사분위 라벨. 원 수치 타겟/피처의 구간화 결과이며 순서형 범주로 사용 가능
+int64,numeric_count,14,0,0.0,13,0.0,800.0,35224.0,초임급여_200~300만원미만_명,target_distribution,초임급여 구간별 규모/비율. target 분포 진단
+str,ordered_quartile_label,14,0,0.0,4,,,,초임급여_200~300만원미만_명_사분위,target_distribution | derived_ordered_category,초임급여 구간별 규모/비율. target 분포 진단 / 사분위 라벨. 원 수치 타겟/피처의 구간화 결과이며 순서형 범주로 사용 가능
+int64,numeric_count,14,0,0.0,14,0.0,396.0,16828.0,초임급여_300~400만원미만_명,target_distribution,초임급여 구간별 규모/비율. target 분포 진단
+str,ordered_quartile_label,14,0,0.0,4,,,,초임급여_300~400만원미만_명_사분위,target_distribution | derived_ordered_category,초임급여 구간별 규모/비율. target 분포 진단 / 사분위 라벨. 원 수치 타겟/피처의 구간화 결과이며 순서형 범주로 사용 가능
+int64,numeric_count,14,0,0.0,14,0.0,664.0,17155.0,초임급여_400만원이상_명,target_distribution,초임급여 구간별 규모/비율. target 분포 진단
+str,ordered_quartile_label,14,0,0.0,4,,,,초임급여_400만원이상_명_사분위,target_distribution | derived_ordered_category,초임급여 구간별 규모/비율. target 분포 진단 / 사분위 라벨. 원 수치 타겟/피처의 구간화 결과이며 순서형 범주로 사용 가능
+float64,numeric_rate_or_ratio,14,0,0.0,14,0.0,0.5271138710376201,5.989583333333334,초임급여_100만원미만_비율,target_distribution,초임급여 구간별 규모/비율. target 분포 진단
+str,ordered_quartile_label,14,0,0.0,4,,,,초임급여_100만원미만_비율_사분위,target_distribution | derived_ordered_category,초임급여 구간별 규모/비율. target 분포 진단 / 사분위 라벨. 원 수치 타겟/피처의 구간화 결과이며 순서형 범주로 사용 가능
+float64,numeric_rate_or_ratio,14,0,0.0,14,0.0,1.884612607408477,23.043878490334457,초임급여_100~200만원미만_비율,target_distribution,초임급여 구간별 규모/비율. target 분포 진단
+str,ordered_quartile_label,14,0,0.0,4,,,,초임급여_100~200만원미만_비율_사분위,target_distribution | derived_ordered_category,초임급여 구간별 규모/비율. target 분포 진단 / 사분위 라벨. 원 수치 타겟/피처의 구간화 결과이며 순서형 범주로 사용 가능
+float64,numeric_rate_or_ratio,14,0,0.0,14,0.0,11.89255541916384,59.146100907377374,초임급여_200~300만원미만_비율,target_distribution,초임급여 구간별 규모/비율. target 분포 진단
+str,ordered_quartile_label,14,0,0.0,4,,,,초임급여_200~300만원미만_비율_사분위,target_distribution | derived_ordered_category,초임급여 구간별 규모/비율. target 분포 진단 / 사분위 라벨. 원 수치 타겟/피처의 구간화 결과이며 순서형 범주로 사용 가능
+float64,numeric_rate_or_ratio,14,0,0.0,14,0.0,8.534607460658398,30.12848591035188,초임급여_300~400만원미만_비율,target_distribution,초임급여 구간별 규모/비율. target 분포 진단
+str,ordered_quartile_label,14,0,0.0,4,,,,초임급여_300~400만원미만_비율_사분위,target_distribution | derived_ordered_category,초임급여 구간별 규모/비율. target 분포 진단 / 사분위 라벨. 원 수치 타겟/피처의 구간화 결과이며 순서형 범주로 사용 가능
+float64,numeric_rate_or_ratio,14,0,0.0,14,0.0,4.891947573751809,67.34060220954582,초임급여_400만원이상_비율,target_distribution,초임급여 구간별 규모/비율. target 분포 진단
+str,ordered_quartile_label,14,0,0.0,4,,,,초임급여_400만원이상_비율_사분위,target_distribution | derived_ordered_category,초임급여 구간별 규모/비율. target 분포 진단 / 사분위 라벨. 원 수치 타겟/피처의 구간화 결과이며 순서형 범주로 사용 가능
+float64,numeric_rate_or_ratio,14,0,0.0,14,0.0,13.426555034410203,85.69571810239006,초임급여_300만원이상_비율,target_distribution,초임급여 구간별 규모/비율. target 분포 진단
+str,ordered_quartile_label,14,0,0.0,4,,,,초임급여_300만원이상_비율_사분위,target_distribution | derived_ordered_category,초임급여 구간별 규모/비율. target 분포 진단 / 사분위 라벨. 원 수치 타겟/피처의 구간화 결과이며 순서형 범주로 사용 가능
+float64,numeric_rate_or_ratio,14,0,0.0,14,0.0,2.411726478446097,27.427344058212423,초임급여_200만원미만_비율,target_distribution,초임급여 구간별 규모/비율. target 분포 진단
+str,ordered_quartile_label,14,0,0.0,4,,,,초임급여_200만원미만_비율_사분위,target_distribution | derived_ordered_category,초임급여 구간별 규모/비율. target 분포 진단 / 사분위 라벨. 원 수치 타겟/피처의 구간화 결과이며 순서형 범주로 사용 가능
+str,ordered_quartile_label,14,0,0.0,4,,,,cert_자격증취득자_명_사분위,derived_ordered_category,사분위 라벨. 원 수치 타겟/피처의 구간화 결과이며 순서형 범주로 사용 가능
+str,ordered_quartile_label,14,0,0.0,4,,,,cert_자격증미취득자_명_사분위,derived_ordered_category,사분위 라벨. 원 수치 타겟/피처의 구간화 결과이며 순서형 범주로 사용 가능
+float64,numeric_rate_or_ratio,14,0,0.0,14,0.0,25.1,61.6,cert_자격증취득률_pct,feature_or_target,자격증 취득률. 자격증 강도 후보 변수
+str,ordered_quartile_label,14,0,0.0,4,,,,cert_자격증취득률_pct_사분위,feature_or_target | derived_ordered_category,자격증 취득률. 자격증 강도 후보 변수 / 사분위 라벨. 원 수치 타겟/피처의 구간화 결과이며 순서형 범주로 사용 가능
+str,ordered_quartile_label,14,0,0.0,4,,,,cert_자격증미취득률_pct_사분위,derived_ordered_category,사분위 라벨. 원 수치 타겟/피처의 구간화 결과이며 순서형 범주로 사용 가능
+int64,numeric_count,14,0,0.0,14,0.0,1752.0,103757.0,cert_자격증취득수_건,feature_or_target,자격증 취득 건수. 자격증 강도 후보 변수
+str,ordered_quartile_label,14,0,0.0,4,,,,cert_자격증취득수_건_사분위,feature_or_target | derived_ordered_category,자격증 취득 건수. 자격증 강도 후보 변수 / 사분위 라벨. 원 수치 타겟/피처의 구간화 결과이며 순서형 범주로 사용 가능
+str,ordered_quartile_label,14,0,0.0,4,,,,cert_취득자당자격증취득수_사분위,derived_ordered_category,사분위 라벨. 원 수치 타겟/피처의 구간화 결과이며 순서형 범주로 사용 가능
+float64,numeric_count,14,0,0.0,14,0.0,0.413953375188592,1.5164271788576793,cert_분석대상자당자격증취득수,feature_or_target,전체 분석대상자 기준 자격증 강도
+str,ordered_quartile_label,14,0,0.0,4,,,,cert_분석대상자당자격증취득수_사분위,feature_or_target | derived_ordered_category,전체 분석대상자 기준 자격증 강도 / 사분위 라벨. 원 수치 타겟/피처의 구간화 결과이며 순서형 범주로 사용 가능

@@ -1,0 +1,4 @@
+﻿raw_dtype,est_type,non_null,null_count,null_pct,unique_count,zero_count_if_numeric,min_if_numeric,max_if_numeric,column,role_guess,reason
+str,categorical_low_cardinality,66,0,0.0,9,,,,role,metadata_key,컬럼 계약/정의 테이블의 핵심 설명 컬럼. 모델 y가 아니라 메타데이터 확인 대상
+str,text_or_high_cardinality_category,66,0,0.0,50,,,,meaning,metadata_key,컬럼 계약/정의 테이블의 핵심 설명 컬럼. 모델 y가 아니라 메타데이터 확인 대상
+str,ordered_quartile_label,23,43,65.1515,23,,,,quartile_column,metadata_key,컬럼 계약/정의 테이블의 핵심 설명 컬럼. 모델 y가 아니라 메타데이터 확인 대상

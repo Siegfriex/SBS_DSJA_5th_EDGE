@@ -1,0 +1,59 @@
+﻿axis,raw_category,canonical_column
+firm_size,1. 1～4명,firm_1_9_pct
+firm_size,2. 5～9명,firm_1_9_pct
+firm_size,3. 10～29명,firm_10_49_pct
+firm_size,4. 30～49명,firm_10_49_pct
+firm_size,5. 50～99명,firm_50_299_pct
+firm_size,6. 100～299명,firm_50_299_pct
+firm_size,7. 300～499명,firm_300plus_pct
+firm_size,8. 500～999명,firm_300plus_pct
+firm_size,"9. 1,000명 이상",firm_300plus_pct
+firm_type,1. 내국인이 운영하는 국내외의 민간회사 또는개인사업체,private_domestic_pct
+firm_type,2. 외국인이 운영하는 국내외에 위치하는 외국인 회사,foreign_private_pct
+firm_type,3. 정부투자기관/정부출연기관/공사합동기업,public_enterprise_pct|public_nonprofit_pct
+firm_type,"4. (재단, 사단) 법인단체",nonprofit_pct|public_nonprofit_pct
+firm_type,"5. 정부기관(공무원, 군인 등)",government_pct|public_nonprofit_pct
+firm_type,"6. 교육기관(대학, 초/중/고 등)",nonprofit_pct|public_nonprofit_pct
+firm_type,7. 연구기관(국립/사립),nonprofit_pct|public_nonprofit_pct
+firm_type,8. 특정한 회사나 사업체에 소속되어 있지 않다,not_exported_specific_category
+firm_type,9. 기타,not_exported_specific_category
+employment_status,1. 상용근로자,permanent_pct
+employment_status,2. 임시근로자,unstable_pct
+employment_status,3. 일용근로자,unstable_pct
+employment_status,4. 고용원이 있는 자영업자,self_employed_pct
+employment_status,5. 고용원이 없는 자영업자,self_employed_pct
+employment_status,6. 무급가족종사자,self_employed_pct
+occupation,관리직,professional_highskill
+occupation,경영·회계·사무 관련직,business_office_finance
+occupation,금융·보험 관련직,business_office_finance
+occupation,교육 및 자연과학·사회과학 연구관련직,professional_highskill
+occupation,법률·경찰·소방·교도 관련직,professional_highskill
+occupation,보건·의료 관련직,professional_highskill
+occupation,사회복지 및 종교 관련직,professional_highskill
+occupation,문화·예술·디자인·방송 관련직,professional_highskill
+occupation,운전 및 운송 관련직,production_transport
+occupation,영업 및 판매 관련직,service_sales
+occupation,경비 및 청소 관련직,service_sales
+occupation,미용·숙박·여행·오락 스포츠 관련직,service_sales
+occupation,음식서비스 관련직,service_sales
+occupation,건설 관련직,production_transport
+occupation,기계 관련직,production_transport
+occupation,재료관련직,production_transport
+occupation,화학 관련직,production_transport
+occupation,섬유 및 의복 관련직,production_transport
+occupation,전기·전자 관련직,production_transport
+occupation,정보통신 관련직,professional_highskill
+occupation,식품가공 관련직,production_transport
+occupation,환경·인쇄·목재·가구·공예 및 생산단순직,production_transport
+occupation,농림어업 관련직,production_transport
+occupation,군인,professional_highskill
+occupation,경영·사무·금융·보험직,business_office_finance
+occupation,연구직 및 공학 기술직,professional_highskill
+occupation,교육·법률·사회복지·경찰·소방직 및 군인,professional_highskill
+occupation,보건·의료직,professional_highskill
+occupation,예술·디자인·방송·스포츠직,professional_highskill
+occupation,미용·여행·숙박·음식·경비·청소직,service_sales
+occupation,영업·판매·운전·운송직,service_sales
+occupation,건설·채굴직,production_transport
+occupation,설치·정비·생산직,production_transport
+occupation,농림어업직,production_transport

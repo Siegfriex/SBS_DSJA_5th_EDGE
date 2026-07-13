@@ -1,0 +1,8 @@
+﻿check_name,status,detail
+D02 canonical spine row count,PASS,"10,242 rows"
+D03 row count after left join,PASS,"10,242 rows"
+D04 row count,PASS,14 rows
+D05 join policy,PASS,join_now all False
+D08 build,PASS,BUILT
+split leakage,PASS,max split per school=1
+D04 industry context,WARN,industry_top3_pct and industry_hhi source columns unavailable in current D04 source
