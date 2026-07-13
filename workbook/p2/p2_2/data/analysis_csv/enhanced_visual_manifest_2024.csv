@@ -1,0 +1,8 @@
+﻿visual_id,article_question,artifact,data_artifact,reading,avoid
+V1,어떤 변수는 수치형이고 어떤 변수는 범주형인가,figures/enhanced_missing_feature_matrix_2024.png,data/analysis_csv/enhanced_feature_dictionary_2024.csv,피처 측정수준과 결측 구조를 먼저 확인한다.,순위 변수를 실제 입결점수처럼 해석하지 않는다.
+V2,A비율과 성과 지표의 기본 분포는 어떤가,figures/enhanced_numeric_distribution_grid_2024.png,data/analysis_csv/enhanced_descriptive_metrics_2024.csv,평균·중앙값·IQR·왜도를 함께 본다.,평균 하나만으로 대학 간 차이를 단정하지 않는다.
+V3,핵심 변수들은 서로 어떤 방향으로 움직이는가,figures/enhanced_spearman_correlation_heatmap_2024.png,data/analysis_csv/enhanced_correlation_long_matrix_2024.csv,서열형 변수는 Spearman을 우선한다.,상관을 인과로 쓰지 않는다.
+V4,변수와 타겟의 추세선은 기사 가설과 맞는가,figures/enhanced_target_trendline_panel_2024.png,data/analysis_csv/enhanced_trendline_metrics_2024.csv,추세선 기울기와 점들의 산포를 같이 본다.,한 개 산점도에서 정책효과를 단정하지 않는다.
+V5,A비율 차이는 전체 성적구성에서 어떻게 나타나는가,figures/enhanced_grade_100pct_stacked_bars_2024.png,data/analysis_csv/enhanced_grade_composition_100pct_by_group_2024.csv,A/B/C/D/F 구성비가 100% 안에서 어떻게 이동하는지 본다.,막대 폭을 대학 수로 오해하지 않는다.
+V6,범주형 그룹은 타겟을 얼마나 가르는가,figures/enhanced_categorical_target_effect_heatmap_2024.png,data/analysis_csv/enhanced_categorical_target_effect_matrix_2024.csv,p값보다 eta² 효과크기도 함께 본다.,효과크기를 원인 효과로 쓰지 않는다.
+V7,여러 변수를 함께 보면 대학들은 어떤 공간에 놓이는가,figures/enhanced_pca_3d_university_feature_space_2024.png,data/analysis_csv/enhanced_pca_scores_2024.csv,PCA score는 loading 표와 함께 해석한다.,가까운 점들을 같은 원인으로 묶지 않는다.

@@ -1,0 +1,8 @@
+﻿block,artifact,path,purpose
+V17-A,overall_bubble_map,figures/deep_contrast_2024/deep_v17a_readable_overall_bubble_map_2024.png,전체 분포. 벡터와 학과 라벨 제거.
+V17-B,short_vector_glyph_map,figures/deep_contrast_2024/deep_v17b_short_vector_glyph_map_2024.png,짧은 벡터와 상위 학과 라벨만 표시.
+V17-C,university_small_multiples,figures/deep_contrast_2024/deep_v17c_university_small_multiples_2024.png,대학 내부 구조를 패널별로 분리.
+V17-D,clean_3d_overview,figures/deep_contrast_2024/deep_v17d_clean_3d_overview_2024.png,z축 성과 위치만 보조 확인.
+V17-data,plot_dataset,data/deep_contrast_2024/v17_readable_bubble_plot_dataset_2024.csv,V17 plot coordinates and label flags.
+V17-data,vector_glyph_dataset,data/deep_contrast_2024/v17_short_vector_glyph_dataset_2024.csv,short vector glyph selected rows.
+V17-data,university_label_index,data/deep_contrast_2024/v17_university_color_label_index_2024.csv,numbered university color index.

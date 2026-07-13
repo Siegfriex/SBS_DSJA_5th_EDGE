@@ -1,0 +1,7 @@
+﻿metric,value
+raw_rows,3096
+raw_percentile_70cut_notna,2553
+raw_percentile_70cut_numeric,2487
+valid_percentile_0_100,2301
+percentile_gt_100_excluded,179
+percentile_le_0_excluded,7

@@ -1,0 +1,6 @@
+﻿validation_run_id,sample_name,analysis_status,rows,universities,departments,preconditions,spearman_rho,spearman_p,kendall_tau,kendall_p,analysis_n
+VAL_20260712_151256,A_existing_tier_ab_unverified,baseline_reference_only,1186,35,528,"{""gate1_metric_ready"": false, ""gate2_mapping_ready"": false, ""gate3_coverage_ready"": false, ""gate4_official_ready"": false}",,,,,1186
+VAL_20260712_151256,B_validated_tier_A,not_run_gate_not_ready,0,0,0,"{""gate1_metric_ready"": false, ""gate2_mapping_ready"": false, ""gate3_coverage_ready"": false, ""gate4_official_ready"": false}",,,,,0
+VAL_20260712_151256,C_validated_tier_A_B1,not_run_gate_not_ready,0,0,0,"{""gate1_metric_ready"": false, ""gate2_mapping_ready"": false, ""gate3_coverage_ready"": false, ""gate4_official_ready"": false}",,,,,0
+VAL_20260712_151256,D_gold_exact_only,not_run_gate_not_ready,0,0,0,"{""gate1_metric_ready"": false, ""gate2_mapping_ready"": false, ""gate3_coverage_ready"": false, ""gate4_official_ready"": false}",,,,,0
+VAL_20260712_151256,E_gold_exact_validated_alias,not_run_gate_not_ready,0,0,0,"{""gate1_metric_ready"": false, ""gate2_mapping_ready"": false, ""gate3_coverage_ready"": false, ""gate4_official_ready"": false}",,,,,0

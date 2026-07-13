@@ -1,0 +1,63 @@
+﻿step,dataset,action,rows_before,rows_after,rows_affected,status,rule,note,executed_at
+setup,environment,initialize_paths_and_imports,,,,PASS,,,2026-07-10T13:44:01
+artifact_export,eda_01_file_inventory.csv,save_csv,5.0,5.0,5.0,PASS,utf-8-sig,/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_2/data/crawl_2024_admission/eda_outputs/eda_01_file_inventory.csv,2026-07-10T13:44:01
+file_inventory,input_files,profile_files_and_html_cache,,5.0,,PASS,,,2026-07-10T13:44:01
+safe_loading,seed_raw,load_dataframe,,52.0,,PASS,,"shape=(52, 13)",2026-07-10T13:44:01
+safe_loading,registry_raw,load_dataframe,,51.0,,PASS,,"shape=(51, 19)",2026-07-10T13:44:01
+safe_loading,admission_raw,load_dataframe,,3096.0,,PASS,,"shape=(3096, 19)",2026-07-10T13:44:01
+schema_profile,seed_raw,profile_dataframe,,52.0,0.0,PASS,,"duplicate_n=0, memory_bytes=9515",2026-07-10T13:44:01
+schema_profile,registry_raw,profile_dataframe,,51.0,0.0,PASS,,"duplicate_n=0, memory_bytes=28604",2026-07-10T13:44:01
+schema_profile,admission_raw,profile_dataframe,,3096.0,0.0,PASS,,"duplicate_n=0, memory_bytes=1855638",2026-07-10T13:44:01
+artifact_export,eda_02_schema_profile.csv,save_csv,51.0,51.0,51.0,PASS,utf-8-sig,/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_2/data/crawl_2024_admission/eda_outputs/eda_02_schema_profile.csv,2026-07-10T13:44:02
+artifact_export,eda_03_missingness_profile.csv,save_csv,51.0,51.0,51.0,PASS,utf-8-sig,/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_2/data/crawl_2024_admission/eda_outputs/eda_03_missingness_profile.csv,2026-07-10T13:44:02
+artifact_export,eda_04_column_role_mapping.csv,save_csv,51.0,51.0,51.0,PASS,utf-8-sig,/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_2/data/crawl_2024_admission/eda_outputs/eda_04_column_role_mapping.csv,2026-07-10T13:44:02
+artifact_export,eda_05_seed_entity_resolution.csv,save_csv,52.0,52.0,52.0,PASS,utf-8-sig,/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_2/data/crawl_2024_admission/eda_outputs/eda_05_seed_entity_resolution.csv,2026-07-10T13:44:02
+seed_quality,seed_raw,resolve_seed_entities,52.0,52.0,,PASS,,,2026-07-10T13:44:02
+artifact_export,eda_06_crawl_registry_quality.csv,save_csv,51.0,51.0,51.0,PASS,utf-8-sig,/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_2/data/crawl_2024_admission/eda_outputs/eda_06_crawl_registry_quality.csv,2026-07-10T13:44:02
+registry_quality,registry_raw,validate_registry_links,51.0,51.0,,PASS,,,2026-07-10T13:44:02
+artifact_export,eda_07_university_coverage.csv,save_csv,51.0,51.0,51.0,PASS,utf-8-sig,/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_2/data/crawl_2024_admission/eda_outputs/eda_07_university_coverage.csv,2026-07-10T13:44:02
+coverage,admission_raw,aggregate_university_coverage,3096.0,51.0,,PASS,,,2026-07-10T13:44:02
+artifact_export,fig_01_rows_per_university.png,save_png,,,,PASS,,/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_2/data/crawl_2024_admission/eda_outputs/figures/fig_01_rows_per_university.png,2026-07-10T13:44:03
+artifact_export,fig_02_recruitment_units_per_university.png,save_png,,,,PASS,,/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_2/data/crawl_2024_admission/eda_outputs/figures/fig_02_recruitment_units_per_university.png,2026-07-10T13:44:03
+artifact_export,fig_03_key_field_missingness.png,save_png,,,,PASS,,/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_2/data/crawl_2024_admission/eda_outputs/figures/fig_03_key_field_missingness.png,2026-07-10T13:44:03
+artifact_export,fig_04_percentile_coverage_by_university.png,save_png,,,,PASS,,/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_2/data/crawl_2024_admission/eda_outputs/figures/fig_04_percentile_coverage_by_university.png,2026-07-10T13:44:03
+artifact_export,eda_08_duplicate_candidates.csv,save_csv,746.0,746.0,746.0,PASS,utf-8-sig,/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_2/data/crawl_2024_admission/eda_outputs/eda_08_duplicate_candidates.csv,2026-07-10T13:44:04
+duplicate_diagnosis,admission_raw,diagnose_duplicate_units,3096.0,746.0,,PASS,,,2026-07-10T13:44:04
+artifact_export,eda_09_text_anomalies.csv,save_csv,0.0,0.0,0.0,PASS,utf-8-sig,/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_2/data/crawl_2024_admission/eda_outputs/eda_09_text_anomalies.csv,2026-07-10T13:44:04
+text_eda,admission_raw,flag_recruitment_unit_text_anomalies,3096.0,0.0,,PASS,,,2026-07-10T13:44:04
+artifact_export,eda_10_numeric_conversion_report.csv,save_csv,6.0,6.0,6.0,PASS,utf-8-sig,/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_2/data/crawl_2024_admission/eda_outputs/eda_10_numeric_conversion_report.csv,2026-07-10T13:44:04
+numeric_conversion,admission_raw,create_numeric_derivatives,3096.0,3096.0,,PASS,,,2026-07-10T13:44:04
+artifact_export,eda_11_numeric_quality_issues.csv,save_csv,499.0,499.0,499.0,PASS,utf-8-sig,/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_2/data/crawl_2024_admission/eda_outputs/eda_11_numeric_quality_issues.csv,2026-07-10T13:44:04
+numeric_quality,admission_eda,range_and_logic_checks,3096.0,499.0,,PASS,,,2026-07-10T13:44:04
+artifact_export,eda_numeric_distribution_profile.csv,save_csv,7.0,7.0,7.0,PASS,utf-8-sig,/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_2/data/crawl_2024_admission/eda_outputs/eda_numeric_distribution_profile.csv,2026-07-10T13:44:04
+artifact_export,fig_06_recruitment_n_distribution.png,save_png,,,,PASS,,/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_2/data/crawl_2024_admission/eda_outputs/figures/fig_06_recruitment_n_distribution.png,2026-07-10T13:44:04
+artifact_export,fig_07_competition_rate_distribution.png,save_png,,,,PASS,,/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_2/data/crawl_2024_admission/eda_outputs/figures/fig_07_competition_rate_distribution.png,2026-07-10T13:44:04
+artifact_export,fig_08_percentile_70cut_distribution.png,save_png,,,,PASS,,/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_2/data/crawl_2024_admission/eda_outputs/figures/fig_08_percentile_70cut_distribution.png,2026-07-10T13:44:04
+artifact_export,fig_09_recruitment_vs_competition.png,save_png,,,,PASS,,/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_2/data/crawl_2024_admission/eda_outputs/figures/fig_09_recruitment_vs_competition.png,2026-07-10T13:44:04
+artifact_export,eda_12_score_availability_patterns.csv,save_csv,16.0,16.0,16.0,PASS,utf-8-sig,/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_2/data/crawl_2024_admission/eda_outputs/eda_12_score_availability_patterns.csv,2026-07-10T13:44:04
+availability,admission_eda,field_coavailability,3096.0,16.0,,PASS,,,2026-07-10T13:44:04
+artifact_export,eda_13_university_score_coverage.csv,save_csv,51.0,51.0,51.0,PASS,utf-8-sig,/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_2/data/crawl_2024_admission/eda_outputs/eda_13_university_score_coverage.csv,2026-07-10T13:44:04
+score_coverage,admission_eda,aggregate_score_coverage,3096.0,51.0,,PASS,,,2026-07-10T13:44:04
+artifact_export,eda_15_selection_classification.csv,save_csv,57.0,57.0,57.0,PASS,utf-8-sig,/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_2/data/crawl_2024_admission/eda_outputs/eda_15_selection_classification.csv,2026-07-10T13:44:04
+selection_classification,admission_eda,classify_selection_names,3096.0,57.0,,PASS,,,2026-07-10T13:44:04
+artifact_export,eda_18_parser_anomaly_review.csv,save_csv,203.0,203.0,203.0,PASS,utf-8-sig,/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_2/data/crawl_2024_admission/eda_outputs/eda_18_parser_anomaly_review.csv,2026-07-10T13:44:04
+parser_anomaly,admission_eda,review_result_table_detection,3096.0,203.0,,PASS,,,2026-07-10T13:44:04
+artifact_export,eda_14_score_comparability_candidate.csv,save_csv,4.0,4.0,4.0,PASS,utf-8-sig,/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_2/data/crawl_2024_admission/eda_outputs/eda_14_score_comparability_candidate.csv,2026-07-10T13:44:04
+artifact_export,fig_05_score_comparability_tier.png,save_png,,,,PASS,,/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_2/data/crawl_2024_admission/eda_outputs/figures/fig_05_score_comparability_tier.png,2026-07-10T13:44:05
+comparability,admission_eda,assign_score_tiers,3096.0,4.0,,PASS,,,2026-07-10T13:44:05
+artifact_export,eda_16_university_quality_dashboard.csv,save_csv,51.0,51.0,51.0,PASS,utf-8-sig,/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_2/data/crawl_2024_admission/eda_outputs/eda_16_university_quality_dashboard.csv,2026-07-10T13:44:05
+quality_dashboard,admission_eda,build_university_quality_dashboard,3096.0,51.0,,PASS,,,2026-07-10T13:44:05
+artifact_export,eda_17_rank_group_coverage.csv,save_csv,46.0,46.0,46.0,PASS,utf-8-sig,/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_2/data/crawl_2024_admission/eda_outputs/eda_17_rank_group_coverage.csv,2026-07-10T13:44:05
+rank_group,admission_eda,aggregate_rank_group_coverage,3096.0,46.0,,PASS,,,2026-07-10T13:44:05
+artifact_export,eda_19_html_spotcheck_10_universities.csv,save_csv,10.0,10.0,10.0,PASS,utf-8-sig,/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_2/data/crawl_2024_admission/eda_outputs/eda_19_html_spotcheck_10_universities.csv,2026-07-10T13:44:08
+html_spotcheck,raw_html,spotcheck_10_universities,,10.0,,PASS,,,2026-07-10T13:44:08
+artifact_export,eda_20_modeling_readiness_counts.csv,save_csv,6.0,6.0,6.0,PASS,utf-8-sig,/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_2/data/crawl_2024_admission/eda_outputs/eda_20_modeling_readiness_counts.csv,2026-07-10T13:44:08
+modeling_readiness,admission_eda,count_modeling_candidate_samples,3096.0,6.0,,PASS,,,2026-07-10T13:44:08
+artifact_export,eda_21_crosswalk_difficulty.csv,save_csv,51.0,51.0,51.0,PASS,utf-8-sig,/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_2/data/crawl_2024_admission/eda_outputs/eda_21_crosswalk_difficulty.csv,2026-07-10T13:44:08
+artifact_export,fig_10_crosswalk_difficulty.png,save_png,,,,PASS,,/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_2/data/crawl_2024_admission/eda_outputs/figures/fig_10_crosswalk_difficulty.png,2026-07-10T13:44:08
+artifact_export,03_admission_result_eda_ready_2024.parquet,save_parquet,3096.0,3096.0,,PASS,,/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_2/data/crawl_2024_admission/eda_outputs/03_admission_result_eda_ready_2024.parquet,2026-07-10T13:44:08
+artifact_export,03_admission_result_eda_ready_2024.csv,save_csv,3096.0,3096.0,3096.0,PASS,utf-8-sig,/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_2/data/crawl_2024_admission/eda_outputs/03_admission_result_eda_ready_2024.csv,2026-07-10T13:44:08
+crosswalk_readiness,admission_eda,classify_unit_structure,3096.0,51.0,,PASS,,,2026-07-10T13:44:08
+evaluation,gate1,judge_gate1_quality,,8.0,,CONDITIONAL PASS,,,2026-07-10T13:44:08
+artifact_export,eda_22_gate2_readiness.csv,save_csv,5.0,5.0,5.0,PASS,utf-8-sig,/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_2/data/crawl_2024_admission/eda_outputs/eda_22_gate2_readiness.csv,2026-07-10T13:44:08
+evaluation,gate2,judge_gate2_readiness,,5.0,,READY_WITH_WARNINGS,,,2026-07-10T13:44:08

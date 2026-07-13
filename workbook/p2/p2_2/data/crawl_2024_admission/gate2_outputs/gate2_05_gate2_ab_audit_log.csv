@@ -1,0 +1,14 @@
+﻿step,dataset,action,rows_before,rows_after,status,note,executed_at
+setup,environment,initialize,,,PASS,,2026-07-10T13:59:07
+load,inputs,load_gate2_inputs,,51.0,PASS,,2026-07-10T13:59:07
+export,gate2_00_admission_guide_links.csv,save_csv,102.0,102.0,PASS,/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_2/data/crawl_2024_admission/gate2_outputs/gate2_00_admission_guide_links.csv,2026-07-10T13:59:22
+export,gate2_01_rule_table_candidates.csv,save_csv,1306.0,1306.0,PASS,/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_2/data/crawl_2024_admission/gate2_outputs/gate2_01_rule_table_candidates.csv,2026-07-10T13:59:22
+export,gate2_02_rule_text_snippets.csv,save_csv,1008.0,1008.0,PASS,/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_2/data/crawl_2024_admission/gate2_outputs/gate2_02_rule_text_snippets.csv,2026-07-10T13:59:22
+parse_html,raw_html,extract_rule_candidates,,1306.0,PASS,,2026-07-10T13:59:22
+export,gate2_04_candidate_type_summary.csv,save_csv,6.0,6.0,PASS,/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_2/data/crawl_2024_admission/gate2_outputs/gate2_04_candidate_type_summary.csv,2026-07-10T13:59:22
+export,gate2_03_university_rule_collection_priority.csv,save_csv,51.0,51.0,PASS,/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_2/data/crawl_2024_admission/gate2_outputs/gate2_03_university_rule_collection_priority.csv,2026-07-10T13:59:22
+export,gate2_07_top_rule_candidates_for_review.csv,save_csv,255.0,255.0,PASS,/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_2/data/crawl_2024_admission/gate2_outputs/gate2_07_top_rule_candidates_for_review.csv,2026-07-10T13:59:22
+export,fig_gate2_01_candidate_counts_by_type.png,save_png,,,PASS,/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_2/data/crawl_2024_admission/gate2_outputs/figures/fig_gate2_01_candidate_counts_by_type.png,2026-07-10T13:59:22
+export,fig_gate2_02_university_priority.png,save_png,,,PASS,/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_2/data/crawl_2024_admission/gate2_outputs/figures/fig_gate2_02_university_priority.png,2026-07-10T13:59:23
+export,gate2_06_final_summary.csv,save_csv,11.0,11.0,PASS,/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_2/data/crawl_2024_admission/gate2_outputs/gate2_06_final_summary.csv,2026-07-10T13:59:23
+export,gate2_rule_extraction_summary.md,write_markdown,,,PASS,/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_2/data/crawl_2024_admission/gate2_outputs/gate2_rule_extraction_summary.md,2026-07-10T13:59:23

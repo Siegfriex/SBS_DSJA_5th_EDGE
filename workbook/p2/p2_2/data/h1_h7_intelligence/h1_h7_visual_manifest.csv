@@ -1,0 +1,7 @@
+﻿visual_id,hypothesis,path,reading
+V1,H1/H7,/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_2/figures/h1_h7_intelligence/h1_h7_rank_a_curve.png,"상위권일수록 A비율이 높고, 곡률은 있으나 최하위 재상승은 제한적이다."
+V2,H2,/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_2/figures/h1_h7_intelligence/h2_credit_forfeit_a_rate.png,O/X 평균 차이는 작고 통계적으로 뚜렷하지 않다.
+V3,H3/H4/H5,/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_2/figures/h1_h7_intelligence/h3_h4_h5_outcome_correlation_bar.png,"취업률보다 진학률, 특히 대학원 진학률에서 상관이 더 크다."
+V4,H3/H5,/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_2/figures/h1_h7_intelligence/h3_vs_h5_scatter_compare.png,"취업률 산점도는 평평하고, 대학원 진학률은 상승 패턴이 보인다."
+V5,H6,/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_2/figures/h1_h7_intelligence/h6_residual_university_examples.png,잔차 후보는 후속 취재 목록이지 전략의 증거가 아니다.
+V6,H7,/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_2/figures/h1_h7_intelligence/h7_rank_quartile_a_rate.png,최하위 분위가 다시 크게 올라가는 전형적 V자는 아니다.

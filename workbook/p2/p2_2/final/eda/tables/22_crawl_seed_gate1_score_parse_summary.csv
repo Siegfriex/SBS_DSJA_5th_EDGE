@@ -1,0 +1,17 @@
+﻿metric,value
+rank_excel_rows,52
+target_institution_rows,51
+target_excluded_rows,1
+manual_review_required_rows,1
+source_registry_rows,51
+source_registry_success_rows,51
+raw_html_files_existing,51
+target_with_raw_rows_gt0,51
+target_with_v1_any_score_field,48
+target_with_raw_percentile_0_100,43
+target_with_v2_metric,51
+raw_total_rows,3096
+raw_rows_with_v1_any_score_field,2830
+raw_rows_with_v1_percentile_0_100,2293
+raw_rows_with_v1_percentile_gt100,173
+raw_rows_with_v2_metric,2794

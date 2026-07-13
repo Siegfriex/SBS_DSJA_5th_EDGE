@@ -1,0 +1,6 @@
+﻿block,figure,csv,question
+V9-A,deep_v9_numeric_ordinal_test_heatmap_2024.png,deep_numeric_ordinal_target_tests_2024.csv,수치형/순서형 피처와 A비율·잔차의 관계는 어디가 강한가
+V9-B,deep_v10_categorical_binary_effect_matrix_2024.png,deep_categorical_binary_target_tests_2024.csv,범주형/이진형 피처는 타겟을 얼마나 가르는가
+V11,deep_v11_h1_actual_within_contrast_dashboard_2024.png,deep_h1_selectivity_quartile_summary_2024.csv,실제 입결과 A비율의 대학 간/대학 내 패턴은 다른가
+V12,deep_v12_h2_h3_policy_residual_outcome_dashboard_2024.png,deep_h3_residual_group_outcome_summary_2024.csv,학점포기제와 실제 입결 잔차는 취업·진학성과와 어떻게 연결되는가
+V13,deep_v13_grade_composition_crosswalk_dashboard_2024.png,deep_grade_composition_by_selectivity_quartile_2024.csv,입결 분위별 성적 구성과 매핑 품질은 동시에 안전한가

@@ -1,0 +1,39 @@
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>고용조사분석시스템</title>
+				<style type="text/css">
+						table{width:100%;border-top:2px solid #445069;}
+						 thead th{padding:10px 0;background:#e6eaed;font-size:14px;color:#515151;border-right:1px solid #bcbfc4;border-bottom:1px solid #bcbfc4;}
+						 tbody th{padding:10px 0;background:#e6eaed;font-size:14px;color:#515151;text-align:center;border-right:1px solid #bcbfc4;border-bottom:1px solid #bcbfc4;line-height:20px;}
+						 tbody td{padding:10px 0;font-size:14px;color:#696969;text-align:center;border-right:1px solid #bcbfc4;border-bottom:1px solid #bcbfc4;line-height:20px;}
+					</style>
+</head>
+ <body>
+ 
+<div id="wrap">
+	<div id="contents_size" >
+		<div id="contents">
+			<div class="content">
+					<table class="table1 border_t0 data_table" cellpadding="0" cellspacing="0"  id="tresult"  border="2">
+					
+					<caption>주제별 통계</caption>
+					<thead><tr><th colspan=&quot;1&quot; rowspan=&quot;1&quot;></th><th>2007</th><th>2008</th><th>2009</th><th>2010</th><th>2011</th><th>2012</th><th>2013</th><th>2014</th><th>2015</th><th>2016</th><th>2017</th><th>2018</th><th>2019</th></tr></thead>
+					<tbody><tr><td colspan=&quot;1&quot; class=&quot;text_left2&quot;>전체</td><td class=&quot;text_right2&quot;>195.9</td><td class=&quot;text_right2&quot;>189.0</td><td class=&quot;text_right2&quot;>190.1</td><td class=&quot;text_right2&quot;>198.2</td><td class=&quot;text_right2&quot;>206.6</td><td class=&quot;text_right2&quot;>203.6</td><td class=&quot;text_right2&quot;>205.5</td><td class=&quot;text_right2&quot;>206.1</td><td class=&quot;text_right2&quot;>208.2</td><td class=&quot;text_right2&quot;>219.1</td><td class=&quot;text_right2&quot;>230.0</td><td class=&quot;text_right2&quot;>238.7</td><td class=&quot;text_right2&quot;>247.2</td></tr><tr><td class=&quot;text_left2&quot;>1. 1～4명</td><td class=&quot;text_right2&quot;>171.2</td><td class=&quot;text_right2&quot;>164.1</td><td class=&quot;text_right2&quot;>172.8</td><td class=&quot;text_right2&quot;>170.4</td><td class=&quot;text_right2&quot;>181.3</td><td class=&quot;text_right2&quot;>167.4</td><td class=&quot;text_right2&quot;>172.6</td><td class=&quot;text_right2&quot;>171.6</td><td class=&quot;text_right2&quot;>175.5</td><td class=&quot;text_right2&quot;>178.4</td><td class=&quot;text_right2&quot;>185.5</td><td class=&quot;text_right2&quot;>195.8</td><td class=&quot;text_right2&quot;>183.0</td></tr><tr><td class=&quot;text_left2&quot;>2. 5～9명</td><td class=&quot;text_right2&quot;>164.3</td><td class=&quot;text_right2&quot;>160.0</td><td class=&quot;text_right2&quot;>164.2</td><td class=&quot;text_right2&quot;>182.0</td><td class=&quot;text_right2&quot;>173.0</td><td class=&quot;text_right2&quot;>172.5</td><td class=&quot;text_right2&quot;>169.2</td><td class=&quot;text_right2&quot;>173.2</td><td class=&quot;text_right2&quot;>175.9</td><td class=&quot;text_right2&quot;>187.2</td><td class=&quot;text_right2&quot;>196.8</td><td class=&quot;text_right2&quot;>197.9</td><td class=&quot;text_right2&quot;>198.4</td></tr><tr><td class=&quot;text_left2&quot;>3. 10～29명</td><td class=&quot;text_right2&quot;>182.5</td><td class=&quot;text_right2&quot;>187.2</td><td class=&quot;text_right2&quot;>180.6</td><td class=&quot;text_right2&quot;>189.1</td><td class=&quot;text_right2&quot;>197.7</td><td class=&quot;text_right2&quot;>189.8</td><td class=&quot;text_right2&quot;>190.0</td><td class=&quot;text_right2&quot;>192.1</td><td class=&quot;text_right2&quot;>199.3</td><td class=&quot;text_right2&quot;>211.2</td><td class=&quot;text_right2&quot;>217.1</td><td class=&quot;text_right2&quot;>225.2</td><td class=&quot;text_right2&quot;>226.6</td></tr><tr><td class=&quot;text_left2&quot;>4. 30～49명</td><td class=&quot;text_right2&quot;>194.8</td><td class=&quot;text_right2&quot;>190.1</td><td class=&quot;text_right2&quot;>181.8</td><td class=&quot;text_right2&quot;>190.1</td><td class=&quot;text_right2&quot;>199.8</td><td class=&quot;text_right2&quot;>197.3</td><td class=&quot;text_right2&quot;>199.6</td><td class=&quot;text_right2&quot;>202.8</td><td class=&quot;text_right2&quot;>208.4</td><td class=&quot;text_right2&quot;>220.5</td><td class=&quot;text_right2&quot;>223.4</td><td class=&quot;text_right2&quot;>237.8</td><td class=&quot;text_right2&quot;>239.0</td></tr><tr><td class=&quot;text_left2&quot;>5. 50～99명</td><td class=&quot;text_right2&quot;>197.1</td><td class=&quot;text_right2&quot;>188.3</td><td class=&quot;text_right2&quot;>186.6</td><td class=&quot;text_right2&quot;>195.8</td><td class=&quot;text_right2&quot;>202.0</td><td class=&quot;text_right2&quot;>198.8</td><td class=&quot;text_right2&quot;>202.6</td><td class=&quot;text_right2&quot;>208.3</td><td class=&quot;text_right2&quot;>212.4</td><td class=&quot;text_right2&quot;>221.2</td><td class=&quot;text_right2&quot;>237.2</td><td class=&quot;text_right2&quot;>237.4</td><td class=&quot;text_right2&quot;>243.8</td></tr><tr><td class=&quot;text_left2&quot;>6. 100～299명</td><td class=&quot;text_right2&quot;>202.9</td><td class=&quot;text_right2&quot;>195.4</td><td class=&quot;text_right2&quot;>195.1</td><td class=&quot;text_right2&quot;>201.2</td><td class=&quot;text_right2&quot;>215.1</td><td class=&quot;text_right2&quot;>209.8</td><td class=&quot;text_right2&quot;>215.0</td><td class=&quot;text_right2&quot;>217.3</td><td class=&quot;text_right2&quot;>219.8</td><td class=&quot;text_right2&quot;>237.9</td><td class=&quot;text_right2&quot;>248.8</td><td class=&quot;text_right2&quot;>254.3</td><td class=&quot;text_right2&quot;>254.0</td></tr><tr><td class=&quot;text_left2&quot;>7. 300～499명</td><td class=&quot;text_right2&quot;>210.2</td><td class=&quot;text_right2&quot;>201.3</td><td class=&quot;text_right2&quot;>206.2</td><td class=&quot;text_right2&quot;>212.1</td><td class=&quot;text_right2&quot;>222.6</td><td class=&quot;text_right2&quot;>227.9</td><td class=&quot;text_right2&quot;>225.2</td><td class=&quot;text_right2&quot;>226.4</td><td class=&quot;text_right2&quot;>228.4</td><td class=&quot;text_right2&quot;>242.1</td><td class=&quot;text_right2&quot;>262.5</td><td class=&quot;text_right2&quot;>271.1</td><td class=&quot;text_right2&quot;>270.2</td></tr><tr><td class=&quot;text_left2&quot;>8. 500～999명</td><td class=&quot;text_right2&quot;>223.4</td><td class=&quot;text_right2&quot;>211.8</td><td class=&quot;text_right2&quot;>207.9</td><td class=&quot;text_right2&quot;>218.1</td><td class=&quot;text_right2&quot;>225.6</td><td class=&quot;text_right2&quot;>233.2</td><td class=&quot;text_right2&quot;>236.5</td><td class=&quot;text_right2&quot;>240.2</td><td class=&quot;text_right2&quot;>227.9</td><td class=&quot;text_right2&quot;>249.4</td><td class=&quot;text_right2&quot;>268.0</td><td class=&quot;text_right2&quot;>273.7</td><td class=&quot;text_right2&quot;>273.1</td></tr><tr><td class=&quot;text_left2&quot;>9. 1,000명 이상</td><td class=&quot;text_right2&quot;>252.7</td><td class=&quot;text_right2&quot;>230.2</td><td class=&quot;text_right2&quot;>244.9</td><td class=&quot;text_right2&quot;>248.7</td><td class=&quot;text_right2&quot;>252.0</td><td class=&quot;text_right2&quot;>265.5</td><td class=&quot;text_right2&quot;>275.9</td><td class=&quot;text_right2&quot;>260.3</td><td class=&quot;text_right2&quot;>259.9</td><td class=&quot;text_right2&quot;>262.9</td><td class=&quot;text_right2&quot;>284.8</td><td class=&quot;text_right2&quot;>298.1</td><td class=&quot;text_right2&quot;>360.2</td></tr></tbody>
+					
+					</table>
+			</div>
+		</div>
+	</div>
+</div>
+</body>
+</html>

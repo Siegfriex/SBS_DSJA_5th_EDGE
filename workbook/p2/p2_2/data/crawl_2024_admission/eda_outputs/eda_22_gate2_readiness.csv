@@ -1,0 +1,6 @@
+﻿criterion,result,status,evidence,required_action
+Gate 2-A: 2024 정시 모집요강 수집,대상 51개 대학 registry 확보,READY,registry_univ_n=51,대학별 모집요강 URL/파일 수집 우선순위화
+Gate 2-B: 전형별 반영규칙 추출,대학별 점수 산식 이질성 존재,READY_WITH_WARNINGS,대학 환산점수는 대학 간 동일척도 아님,"모집요강에서 수능 반영비율, 가산점, 산식 추출"
+Gate 2-C: 모집단위 ↔ 학점학과 crosswalk,high priority university_n=4,READY_WITH_WARNINGS,광역/자유전공/unknown 구조가 일부 존재,학과명 표준화 전 수동검토 큐 작성
+Gate 2-D: 비교가능성 등급 최종 확정,Tier A row_n=104,READY_WITH_WARNINGS,70% 백분위 기반 주 분석 후보와 보조 후보 분리 완료,입학처 표본검증 확장 후 Tier 규칙 확정
+Gate 2-E: H1/H2 모델 테이블 생성,최종 target a_rate_pct 미병합,READY_WITH_WARNINGS,"EDA-ready 입결 데이터 생성 완료, 학점 타깃은 별도 병합 필요",학점 타깃 병합과 crosswalk 검증 후 모델링

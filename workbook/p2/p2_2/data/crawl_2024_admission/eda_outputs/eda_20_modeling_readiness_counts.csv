@@ -1,0 +1,7 @@
+﻿sample_definition,row_n,university_n,recruitment_unit_n,percent_of_total_rows,percent_of_total_universities,main_blocker
+all_rows,3096,51,1326,1.0,1.0,
+percentile_available,2487,46,1192,0.8032945736434108,0.9019607843137255,70% 백분위 결측; 전형명 수동검토; 헤더-only 행
+tier_a_rows,104,2,96,0.03359173126614987,0.0392156862745098,70% 백분위 결측; 전형명 수동검토; 헤더-only 행
+tier_a_no_duplicate,87,2,79,0.02810077519379845,0.0392156862745098,70% 백분위 결측; 전형명 수동검토; 헤더-only 행
+regular_csat_percentile,104,2,96,0.03359173126614987,0.0392156862745098,70% 백분위 결측; 전형명 수동검토; 헤더-only 행
+provisional_main_analysis,104,2,96,0.03359173126614987,0.0392156862745098,70% 백분위 결측; 전형명 수동검토; 헤더-only 행

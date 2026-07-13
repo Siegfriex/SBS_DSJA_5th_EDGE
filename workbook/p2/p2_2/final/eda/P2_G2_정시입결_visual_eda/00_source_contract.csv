@@ -1,0 +1,12 @@
+﻿metric,value,note
+source_file,/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_2/final/final_data/P2_G2_정시입결.csv,이번 EDA의 단일 원본 CSV
+rows,10242,2024 대학-학과_계열 단위
+source_columns,17,원본 CSV 컬럼 수
+working_columns,20,EDA 파생 컬럼 포함
+universities,227,전체 대학 수
+department_labels,4195,정규화 학과 라벨 수
+admission_non_null,3737,입결_프록시 반영 행
+admission_missing,6505,입결_프록시 결측 행
+admission_covered_universities,157,입결 1개 이상 대학
+duplicate_key_rows,0,중복 기준연도+학교명+학과_계열
+font_used,DejaVu Sans,matplotlib 한글 폰트

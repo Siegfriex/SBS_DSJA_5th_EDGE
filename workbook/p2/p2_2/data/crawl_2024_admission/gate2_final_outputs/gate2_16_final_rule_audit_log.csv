@@ -1,0 +1,13 @@
+﻿step,dataset,action,rows_before,rows_after,status,note,executed_at
+setup,font,set_nanumgothic,,,PASS,/usr/share/fonts/truetype/nanum/NanumGothic.ttf,2026-07-10T14:25:52
+load,gate2_inputs,load_candidate_tables,,1306.0,PASS,,2026-07-10T14:25:52
+select_rules,candidate_pool,select_representative_csat_rule_table,996.0,51.0,PASS,,2026-07-10T14:26:06
+export,gate2_10_final_admission_rule_summary.csv,save_csv,51.0,51.0,PASS,/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_2/data/crawl_2024_admission/gate2_final_outputs/gate2_10_final_admission_rule_summary.csv,2026-07-10T14:26:06
+export,gate2_11_concrete_rule_showcase_top12.csv,save_csv,12.0,12.0,PASS,/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_2/data/crawl_2024_admission/gate2_final_outputs/gate2_11_concrete_rule_showcase_top12.csv,2026-07-10T14:26:06
+export,gate2_12_final_rule_status_summary.csv,save_csv,3.0,3.0,PASS,/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_2/data/crawl_2024_admission/gate2_final_outputs/gate2_12_final_rule_status_summary.csv,2026-07-10T14:26:06
+export,gate2_13_score_metric_summary.csv,save_csv,5.0,5.0,PASS,/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_2/data/crawl_2024_admission/gate2_final_outputs/gate2_13_score_metric_summary.csv,2026-07-10T14:26:06
+export,gate2_14_subject_area_summary.csv,save_csv,6.0,6.0,PASS,/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_2/data/crawl_2024_admission/gate2_final_outputs/gate2_14_subject_area_summary.csv,2026-07-10T14:26:06
+export,fig_gate2_final_01_confirmation_status.png,save_png,,,PASS,/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_2/data/crawl_2024_admission/gate2_final_outputs/figures/fig_gate2_final_01_confirmation_status.png,2026-07-10T14:26:06
+export,fig_gate2_final_02_score_metric_terms.png,save_png,,,PASS,/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_2/data/crawl_2024_admission/gate2_final_outputs/figures/fig_gate2_final_02_score_metric_terms.png,2026-07-10T14:26:06
+export,gate2_15_final_rule_summary.csv,save_csv,7.0,7.0,PASS,/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_2/data/crawl_2024_admission/gate2_final_outputs/gate2_15_final_rule_summary.csv,2026-07-10T14:26:06
+export,gate2_final_rule_confirmation_report.md,write_markdown_report,,,PASS,/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_2/data/crawl_2024_admission/gate2_final_outputs/gate2_final_rule_confirmation_report.md,2026-07-10T14:26:06

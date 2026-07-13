@@ -1,0 +1,5 @@
+﻿dataset,frame_name,rows,columns,primary,unit,intended_use,path,encoding
+P2_G0_final_department_cleaned,final_department,34969,132,True,실제 학과 행,"학과별 분포, 계열별 평균, 경쟁률/충원율 등 기본 EDA",final/eda/P2_G0/final_data/P2_G0_final_department_cleaned.csv,utf-8-sig
+P2_G0_final_total_with_placeholder,final_total,35431,132,False,원자료 행 전체,"전체 총합 재현, placeholder 포함 원자료 감사",final/eda/P2_G0/final_data/P2_G0_final_total_with_placeholder.csv,utf-8-sig
+P2_G0_final_faculty_total,final_faculty_total,35431,19,False,교원 총합용 행,소속학과없음 교원 수치를 포함한 학교/시도/학위과정별 교원 총합,final/eda/P2_G0/final_data/P2_G0_final_faculty_total.csv,utf-8-sig
+P2_G0_final_placeholder_rows,final_placeholder,462,132,False,소속학과없음 placeholder 행,학과 분석 제외 근거와 교원 총합 보정 감사,final/eda/P2_G0/final_data/P2_G0_final_placeholder_rows.csv,utf-8-sig

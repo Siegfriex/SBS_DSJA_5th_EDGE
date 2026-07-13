@@ -1,0 +1,11 @@
+﻿metric,value,note
+rows,10242,2024 대학-학과_계열 단위
+source_columns,17,최종 CSV 원본 컬럼 수
+working_columns,20,EDA 파생 컬럼 포함 작업 컬럼 수
+universities,227,전체 대학 수
+department_labels,4195,정규화 학과 라벨 수
+admission_non_null,3652,최종 CSV에 반영된 입결 점수 행
+admission_missing,6590,입결 미반영 행
+admission_covered_universities,155,입결 1개 이상 존재 대학
+duplicate_key_rows,0,중복 키 행
+font_used,DejaVu Sans,matplotlib 한글 폰트

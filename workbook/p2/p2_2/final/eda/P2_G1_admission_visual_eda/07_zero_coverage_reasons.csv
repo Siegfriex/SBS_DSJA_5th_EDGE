@@ -1,0 +1,5 @@
+﻿zero_coverage_major_reason,zero_coverage_detail_reason,universities,grade_labels,raw_rows,raw_metric_nonnull
+crawled_but_zero_coverage,fetched_but_result_tables_0,38,751,0,0
+crawled_but_zero_coverage,metric_exists_but_department_unmatched,14,408,144,114
+crawled_but_zero_coverage,raw_fetched_but_no_usable_metric,7,365,157,0
+not_crawled_or_scope_excluded,not_crawled_or_scope_excluded,13,236,0,0

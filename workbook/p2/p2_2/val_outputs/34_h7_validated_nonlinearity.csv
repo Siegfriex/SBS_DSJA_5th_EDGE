@@ -1,0 +1,2 @@
+﻿validation_run_id,analysis_status,model,rows,universities,aic,adjusted_r2,turning_point_inside_observed_range,note
+VAL_20260712_151256,not_run_gate_not_ready,linear_quadratic_spline_lowess,0,0,,,,Not computed until validation gates pass.

@@ -1,0 +1,39 @@
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>고용조사분석시스템</title>
+				<style type="text/css">
+						table{width:100%;border-top:2px solid #445069;}
+						 thead th{padding:10px 0;background:#e6eaed;font-size:14px;color:#515151;border-right:1px solid #bcbfc4;border-bottom:1px solid #bcbfc4;}
+						 tbody th{padding:10px 0;background:#e6eaed;font-size:14px;color:#515151;text-align:center;border-right:1px solid #bcbfc4;border-bottom:1px solid #bcbfc4;line-height:20px;}
+						 tbody td{padding:10px 0;font-size:14px;color:#696969;text-align:center;border-right:1px solid #bcbfc4;border-bottom:1px solid #bcbfc4;line-height:20px;}
+					</style>
+</head>
+ <body>
+ 
+<div id="wrap">
+	<div id="contents_size" >
+		<div id="contents">
+			<div class="content">
+					<table class="table1 border_t0 data_table" cellpadding="0" cellspacing="0"  id="tresult"  border="2">
+					
+					<caption>주제별 통계</caption>
+					<thead><tr><th colspan=&quot;1&quot; rowspan=&quot;1&quot;></th><th>2007</th><th>2008</th><th>2009</th><th>2010</th><th>2011</th><th>2012</th><th>2013</th><th>2014</th><th>2015</th><th>2016</th><th>2017</th><th>2018</th><th>2019</th></tr></thead>
+					<tbody><tr><td colspan=&quot;1&quot; class=&quot;text_left2&quot;>전체</td><td class=&quot;text_right2&quot;>195.8</td><td class=&quot;text_right2&quot;>188.9</td><td class=&quot;text_right2&quot;>190.0</td><td class=&quot;text_right2&quot;>198.1</td><td class=&quot;text_right2&quot;>206.5</td><td class=&quot;text_right2&quot;>202.8</td><td class=&quot;text_right2&quot;>204.6</td><td class=&quot;text_right2&quot;>205.2</td><td class=&quot;text_right2&quot;>207.9</td><td class=&quot;text_right2&quot;>217.0</td><td class=&quot;text_right2&quot;>227.2</td><td class=&quot;text_right2&quot;>235.7</td><td class=&quot;text_right2&quot;>242.6</td></tr><tr><td class=&quot;text_left2&quot;>인문</td><td class=&quot;text_right2&quot;>180.9</td><td class=&quot;text_right2&quot;>183.7</td><td class=&quot;text_right2&quot;>173.0</td><td class=&quot;text_right2&quot;>184.2</td><td class=&quot;text_right2&quot;>198.0</td><td class=&quot;text_right2&quot;>186.0</td><td class=&quot;text_right2&quot;>194.4</td><td class=&quot;text_right2&quot;>192.1</td><td class=&quot;text_right2&quot;>187.2</td><td class=&quot;text_right2&quot;>196.9</td><td class=&quot;text_right2&quot;>204.1</td><td class=&quot;text_right2&quot;>212.5</td><td class=&quot;text_right2&quot;>269.8</td></tr><tr><td class=&quot;text_left2&quot;>사회</td><td class=&quot;text_right2&quot;>205.8</td><td class=&quot;text_right2&quot;>197.2</td><td class=&quot;text_right2&quot;>196.3</td><td class=&quot;text_right2&quot;>203.8</td><td class=&quot;text_right2&quot;>212.1</td><td class=&quot;text_right2&quot;>208.6</td><td class=&quot;text_right2&quot;>208.1</td><td class=&quot;text_right2&quot;>209.0</td><td class=&quot;text_right2&quot;>208.7</td><td class=&quot;text_right2&quot;>219.0</td><td class=&quot;text_right2&quot;>233.6</td><td class=&quot;text_right2&quot;>238.2</td><td class=&quot;text_right2&quot;>234.6</td></tr><tr><td class=&quot;text_left2&quot;>교육</td><td class=&quot;text_right2&quot;>173.7</td><td class=&quot;text_right2&quot;>177.4</td><td class=&quot;text_right2&quot;>175.7</td><td class=&quot;text_right2&quot;>183.5</td><td class=&quot;text_right2&quot;>189.9</td><td class=&quot;text_right2&quot;>191.6</td><td class=&quot;text_right2&quot;>194.3</td><td class=&quot;text_right2&quot;>199.3</td><td class=&quot;text_right2&quot;>202.8</td><td class=&quot;text_right2&quot;>204.6</td><td class=&quot;text_right2&quot;>213.3</td><td class=&quot;text_right2&quot;>217.8</td><td class=&quot;text_right2&quot;>221.8</td></tr><tr><td class=&quot;text_left2&quot;>공학</td><td class=&quot;text_right2&quot;>214.4</td><td class=&quot;text_right2&quot;>204.8</td><td class=&quot;text_right2&quot;>207.9</td><td class=&quot;text_right2&quot;>220.7</td><td class=&quot;text_right2&quot;>227.8</td><td class=&quot;text_right2&quot;>227.5</td><td class=&quot;text_right2&quot;>234.9</td><td class=&quot;text_right2&quot;>226.9</td><td class=&quot;text_right2&quot;>232.0</td><td class=&quot;text_right2&quot;>242.8</td><td class=&quot;text_right2&quot;>247.5</td><td class=&quot;text_right2&quot;>257.6</td><td class=&quot;text_right2&quot;>260.6</td></tr><tr><td class=&quot;text_left2&quot;>자연</td><td class=&quot;text_right2&quot;>190.1</td><td class=&quot;text_right2&quot;>181.3</td><td class=&quot;text_right2&quot;>183.0</td><td class=&quot;text_right2&quot;>184.3</td><td class=&quot;text_right2&quot;>194.6</td><td class=&quot;text_right2&quot;>193.2</td><td class=&quot;text_right2&quot;>196.5</td><td class=&quot;text_right2&quot;>196.4</td><td class=&quot;text_right2&quot;>194.9</td><td class=&quot;text_right2&quot;>204.5</td><td class=&quot;text_right2&quot;>220.7</td><td class=&quot;text_right2&quot;>228.1</td><td class=&quot;text_right2&quot;>225.2</td></tr><tr><td class=&quot;text_left2&quot;>의약</td><td class=&quot;text_right2&quot;>210.1</td><td class=&quot;text_right2&quot;>202.0</td><td class=&quot;text_right2&quot;>202.0</td><td class=&quot;text_right2&quot;>206.3</td><td class=&quot;text_right2&quot;>219.3</td><td class=&quot;text_right2&quot;>217.1</td><td class=&quot;text_right2&quot;>213.4</td><td class=&quot;text_right2&quot;>219.3</td><td class=&quot;text_right2&quot;>220.1</td><td class=&quot;text_right2&quot;>233.1</td><td class=&quot;text_right2&quot;>248.7</td><td class=&quot;text_right2&quot;>264.5</td><td class=&quot;text_right2&quot;>271.8</td></tr><tr><td class=&quot;text_left2&quot;>예체능</td><td class=&quot;text_right2&quot;>158.6</td><td class=&quot;text_right2&quot;>147.7</td><td class=&quot;text_right2&quot;>158.3</td><td class=&quot;text_right2&quot;>163.1</td><td class=&quot;text_right2&quot;>167.4</td><td class=&quot;text_right2&quot;>161.4</td><td class=&quot;text_right2&quot;>155.7</td><td class=&quot;text_right2&quot;>165.8</td><td class=&quot;text_right2&quot;>172.0</td><td class=&quot;text_right2&quot;>175.6</td><td class=&quot;text_right2&quot;>182.5</td><td class=&quot;text_right2&quot;>195.0</td><td class=&quot;text_right2&quot;>192.7</td></tr></tbody>
+					
+					</table>
+			</div>
+		</div>
+	</div>
+</div>
+</body>
+</html>

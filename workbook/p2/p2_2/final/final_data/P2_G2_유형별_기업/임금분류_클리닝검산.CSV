@@ -1,0 +1,9 @@
+﻿check,value,status
+final_rows,7,PASS
+final_columns,62,INFO
+final_null_cells,0,PASS
+company_competitive_residual_max_abs,0.0,PASS
+salary_bucket_residual_max_abs,0.0,PASS
+industry_row_residual_max_abs,0.0,PASS
+job_cert_joined,False,PASS
+industry_unknown_flag_rows,7,INFO

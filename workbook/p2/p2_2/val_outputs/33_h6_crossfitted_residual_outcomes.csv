@@ -1,0 +1,2 @@
+﻿validation_run_id,analysis_status,method,rows,note
+VAL_20260712_151256,not_run_gate_not_ready,leave_one_university_out_cross_fitting,0,Not computed because metric/mapping/coverage/cohort gates are not fully ready.

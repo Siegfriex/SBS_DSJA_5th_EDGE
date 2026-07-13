@@ -1,0 +1,11 @@
+﻿check,result,value
+before_shape,True,15727 rows x 130 cols
+after_shape,True,15727 rows x 120 cols
+dropped_columns,True,"주야구분, is_no_department_placeholder, 대계열_clean, 중계열_clean, 소계열_clean, 주소, 우편번호, 전화번호, 팩스번호, 홈페이지"
+drop_columns_already_absent,True,none
+graduate_type_original_retained,True,"{<NA>: 8260, '부설대학원': 7235, '대학원대학': 232}"
+graduate_clean_binary_retained,True,"{0: np.int64(8260), 1: np.int64(7467)}"
+cyber_like_rows_remaining,True,0
+removed_columns_absent,True,all absent
+remaining_missing_columns,True,{'대학원구분': np.int64(8260)}
+utf8_sig_bom,True,utf-8-sig

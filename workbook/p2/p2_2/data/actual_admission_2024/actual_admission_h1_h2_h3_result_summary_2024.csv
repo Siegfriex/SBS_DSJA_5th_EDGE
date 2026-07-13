@@ -1,0 +1,16 @@
+﻿model,term,coef,se,p,n,universities,adj_r2,ci_low,ci_high,permutation_p_univ_mean,note,hypothesis,effect_size_hedges_g,outcome
+H1-Actual Spearman,selectivity_pct_2024,0.16268681347364838,,1.7573692340280902e-08,1186,35,,-0.13915667345202637,0.41192866945563034,0.19536092781443712,"학과행 상관, 신뢰구간은 대학 군집 bootstrap. permutation은 대학 평균 기반 보조 검정.",H1-Actual,,
+H1-Actual Kendall tau-b,selectivity_pct_2024,0.11136717385683474,,9.598179486538235e-09,1186,35,,,,,학과행 Kendall tau-b.,H1-Actual,,
+H1-Actual OLS major_group + university cluster SE,selectivity_pct_2024,0.21980415999211225,0.15250805111507995,0.15865786497206455,1186,35,0.13187734586241018,,,,계수 단위: selectivity 1%p 증가당 A비율 %p 변화.,H1-Actual,,
+H1-Within University FE,selectivity_pct_2024,0.007047370035894708,0.03801708772385047,0.8540373469297871,1186,35,0.5031245118930736,,,,계수 단위: selectivity 1%p 증가당 A비율 %p 변화.,H1-Actual,,
+H1 Between/Within decomposition,selectivity_univ_mean,0.377282750913008,0.2328609740269495,0.11442749294764963,1186,35,0.15950518750566212,,,,계수 단위: selectivity 1%p 증가당 A비율 %p 변화.,H1-Actual,,
+H1 Between/Within decomposition,selectivity_within,-0.017938557348026664,0.05052312431263392,0.7247404931111543,1186,35,0.15950518750566212,,,,계수 단위: selectivity 1%p 증가당 A비율 %p 변화.,H1-Actual,,
+H2-University Welch,credit_forfeit_bin O-X,-2.868598120680552,,0.30279198448651123,33,33,,,,,대학 단위: 실제 학과 입결 중앙값 요약 전 집단 차이.,H2-University,-0.34706593011504433,
+H2-University Mann-Whitney U,credit_forfeit_bin O-X,,,0.37215999848634584,33,33,,,,,대학 단위 비모수 보조 검정.,H2-University,,
+H2-University OLS HC3 actual selectivity controlled,credit_forfeit_bin,-4.32911122703865,2.9600078231713405,0.1539931809529873,33,33,0.13913784931014794,,,,통제: 대학별 실제 학과 입결 중앙값. 표준오차: HC3.,H2-University,,
+H2-Department OLS major_group + university cluster SE,selectivity_pct_2024,0.2652588866936309,0.17451318146869899,0.13833277612182163,1157,33,0.14363698318146123,,,,학과 단위 보조모형. 학점포기제는 대학 단위 변수라 대학 고정효과와 함께 넣지 않음.,H2-Department,,
+H2-Department OLS major_group + university cluster SE,credit_forfeit_bin,-2.0039516286931094,3.030391579696194,0.5131633019403664,1157,33,0.14363698318146123,,,,학과 단위 보조모형. 학점포기제는 대학 단위 변수라 대학 고정효과와 함께 넣지 않음.,H2-Department,,
+H3 actual-selectivity residual university outcome Spearman,actual_a_residual_mean_pctp,0.2568627450980392,,0.13634168359523455,35,35,,,,,대학별 실제 입결 기대 A비율 잔차와 성과지표의 탐색 상관.,H3-Actual,,official_employment_rate_pct
+H3 actual-selectivity residual university outcome Spearman,actual_a_residual_mean_pctp,0.33613445378151263,,0.04835385268616848,35,35,,,,,대학별 실제 입결 기대 A비율 잔차와 성과지표의 탐색 상관.,H3-Actual,,health_employment_rate_pct
+H3 actual-selectivity residual university outcome Spearman,actual_a_residual_mean_pctp,0.39355742296918766,,0.019333417631588894,35,35,,,,,대학별 실제 입결 기대 A비율 잔차와 성과지표의 탐색 상관.,H3-Actual,,overall_advancement_rate_pct
+H3 actual-selectivity residual university outcome Spearman,actual_a_residual_mean_pctp,0.392436974789916,,0.019711849169670947,35,35,,,,,대학별 실제 입결 기대 A비율 잔차와 성과지표의 탐색 상관.,H3-Actual,,graduate_school_rate_pct

@@ -1,0 +1,10 @@
+﻿validation_run_id,field,value,contract
+VAL_20260712_151256,RUN_MODE,prepare_review,prepare_review creates queues and does not auto-approve unresolved rows
+VAL_20260712_151256,ADMISSION_YEAR,2024,2024 admission source year
+VAL_20260712_151256,GRADE_YEAR,2024,2024 regular semester grade target
+VAL_20260712_151256,primary_metric,raw_percentile_70cut,usable only when official average percentile phrase is verified
+VAL_20260712_151256,primary_metric_tier,Tier A,official_mean_percentile_70cut with verified source context
+VAL_20260712_151256,sensitivity_metric_tier,Tier A + Tier B1,B1 requires official subject percentile and aggregation rule evidence
+VAL_20260712_151256,primary_mapping_types,"exact_1to1, alias_1to1, official_rename_1to1",alias/rename requires review pass unless exact auto-pass
+VAL_20260712_151256,coverage_gold_threshold,"unit>=0.60, seat>=0.60, grade>=0.60, departments>=5",used for primary H1 sample
+VAL_20260712_151256,cohort_rule,do not use 2024 admission as cohort-aligned predictor for 2024 outcomes,requires 2018-2021 official admission data

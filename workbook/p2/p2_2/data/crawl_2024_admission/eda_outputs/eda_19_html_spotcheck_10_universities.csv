@@ -1,0 +1,11 @@
+﻿univ_id,univ_name_std,source_id,html_path,html_exists,html_size_bytes,sha256_match,parsed_row_n,sample_unit_n,sample_unit_match_n,soup_table_n,result_like_table_n,status,note
+U0000149,연세대학교,SRC_0000149_2025_0002,/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_2/data/crawl_2024_admission/raw_html/0000149_2025.html,True,3086974,False,235,5,5,45,12,WARN,sha mismatch
+U0000069,고려대학교,SRC_0000069_2025_0003,/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_2/data/crawl_2024_admission/raw_html/0000069_2025.html,True,1943250,False,176,5,5,38,7,WARN,sha mismatch
+U0000029,충남대학교,SRC_0000029_2025_0039,/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_2/data/crawl_2024_admission/raw_html/0000029_2025.html,True,2519583,False,126,5,5,34,8,WARN,sha mismatch
+U0000025,전북대학교,SRC_0000025_2025_0045,/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_2/data/crawl_2024_admission/raw_html/0000025_2025.html,True,3801285,False,121,5,3,40,14,WARN,sha mismatch
+U0000099,덕성여자대학교,SRC_0000099_2025_0035,/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_2/data/crawl_2024_admission/raw_html/0000099_2025.html,True,1310960,False,7,5,1,65,12,WARN,sha mismatch
+U0000150,연세대학교,SRC_0000150_2025_0048,/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_2/data/crawl_2024_admission/raw_html/0000150_2025.html,True,1645236,False,14,5,4,41,11,WARN,sha mismatch
+U0000200,한성대학교,SRC_0000200_2025_0040,/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_2/data/crawl_2024_admission/raw_html/0000200_2025.html,True,899278,False,15,5,0,34,4,WARN,sha mismatch; sample unit text not found in html
+U0000046,가톨릭대학교,SRC_0000046_2025_0030,/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_2/data/crawl_2024_admission/raw_html/0000046_2025.html,True,1416106,False,38,5,5,42,9,WARN,sha mismatch
+U0002726,단국대학교,SRC_0002726_2025_0046,/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_2/data/crawl_2024_admission/raw_html/0002726_2025.html,True,2128303,False,43,5,0,45,9,WARN,sha mismatch; sample unit text not found in html
+U0000143,숭실대학교,SRC_0000143_2025_0015,/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_2/data/crawl_2024_admission/raw_html/0000143_2025.html,True,1891534,False,41,5,5,52,3,WARN,sha mismatch

@@ -1,0 +1,19 @@
+﻿validation_run_id,score_comparability_tier,mapping_type,valid_for_primary_model,rows,source_table,primary_sample_flag,analysis_sample_tier_ab_flag
+VAL_20260712_151256,Tier A,alias_1to1,True,49,crosswalk,,
+VAL_20260712_151256,Tier A,alias_not_present_in_university_grade_list,False,1,crosswalk,,
+VAL_20260712_151256,Tier A,broad_recruitment_unit,False,7,crosswalk,,
+VAL_20260712_151256,Tier A,exact_1to1,True,31,crosswalk,,
+VAL_20260712_151256,Tier A,loose_candidate_review,False,12,crosswalk,,
+VAL_20260712_151256,Tier A,unmatched,False,4,crosswalk,,
+VAL_20260712_151256,Tier B,alias_1to1,True,1190,crosswalk,,
+VAL_20260712_151256,Tier B,alias_not_present_in_university_grade_list,False,176,crosswalk,,
+VAL_20260712_151256,Tier B,broad_recruitment_unit,False,66,crosswalk,,
+VAL_20260712_151256,Tier B,exact_1to1,True,136,crosswalk,,
+VAL_20260712_151256,Tier B,loose_candidate_review,False,132,crosswalk,,
+VAL_20260712_151256,Tier B,unmatched,False,222,crosswalk,,
+VAL_20260712_151256,Tier A,alias_1to1,,49,department_model,True,True
+VAL_20260712_151256,Tier A,exact_1to1,,31,department_model,True,True
+VAL_20260712_151256,Tier B,alias_1to1,,25,department_model,False,False
+VAL_20260712_151256,Tier B,alias_1to1,,978,department_model,False,True
+VAL_20260712_151256,Tier B,exact_1to1,,5,department_model,False,False
+VAL_20260712_151256,Tier B,exact_1to1,,128,department_model,False,True

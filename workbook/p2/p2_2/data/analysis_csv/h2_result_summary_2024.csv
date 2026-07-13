@@ -1,0 +1,5 @@
+﻿hypothesis,metric,estimate,ci_low,ci_high,p_value,effect_size,n,interpretation
+H2,mean(A rate O - X),-1.039706304686895,-5.713871912380686,3.539955065264702,,-0.12806066801048213,43,양수이면 학점포기제 O 대학의 평균 A비율이 높음
+H2,Welch t-test two-sided,-0.43152451393826957,,,0.6683739314788427,-0.12806066801048213,43,O/X 평균 차이에 대한 이분산 t 검정
+H2,Mann-Whitney U two-sided,217.0,,,0.7973440602056446,,43,O/X 분포 차이에 대한 비모수 검정
+H2,"OLS HC3 beta: credit_forfeit_bin -> a_rate_pct, controlling prestige_score",-2.526383991682363,-7.1020591916881,2.049291208323374,0.2791805688612159,,43,서열 프록시 통제 후 학점포기제 O의 A비율 차이(%p)

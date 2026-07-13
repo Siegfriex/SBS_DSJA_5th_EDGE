@@ -1,0 +1,10 @@
+﻿validation_run_id,gate,status,required_for,note
+VAL_20260712_151256,Gate0_input_freeze,PASS,all,core files loaded and baseline frozen
+VAL_20260712_151256,Gate1_metric_definition,NOT_READY,H1/H5/H6/H7,70% cut metric definition verification
+VAL_20260712_151256,Gate2_alias_mapping,NOT_READY,H1/H5/H6/H7,alias mapping is not auto-approved without official evidence
+VAL_20260712_151256,Gate3_coverage,NOT_READY,H1/H5/H6/H7,"Gold/Silver coverage class by unit, seat, and grade coverage"
+VAL_20260712_151256,Gate4_official_sample_expansion,NOT_READY,H1/H5/H6/H7,no new official source collection in prepare_review
+VAL_20260712_151256,Gate5_cohort_alignment,NOT_READY,H5/H6 cohort interpretation,2018-2021 historical admission not collected
+VAL_20260712_151256,Gate6_validated_sample_build,NOT_READY,rerun,validated samples exported
+VAL_20260712_151256,Gate7_rerun,NOT_READY,final estimates,reruns blocked unless validation gates pass
+VAL_20260712_151256,Final_analysis_readiness,NOT_READY,main analysis,H5/H6 cohort status: EXPLORATORY_ONLY

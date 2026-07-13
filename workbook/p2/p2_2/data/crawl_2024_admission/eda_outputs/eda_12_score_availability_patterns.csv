@@ -1,0 +1,17 @@
+﻿has_recruitment_n,has_competition_rate,has_additional_rank,has_univ_score_70cut,has_univ_score_max,has_percentile_70cut,has_univ_score_ratio,row_n,university_n,recruitment_unit_n,percent_of_total_rows,pattern_label
+True,True,True,True,True,True,True,2217,44,1132,0.6693840579710145,"recruitment_n, competition_rate, additional_rank, univ_score_70cut, univ_score_max, percentile_70cut, univ_score_ratio"
+False,True,True,True,True,True,True,332,3,14,0.10024154589371981,"competition_rate, additional_rank, univ_score_70cut, univ_score_max, percentile_70cut, univ_score_ratio"
+False,False,False,False,False,False,False,193,3,99,0.058272946859903384,no_core_numeric_field
+True,True,False,False,False,False,False,155,3,19,0.04679951690821256,"recruitment_n, competition_rate"
+True,True,True,True,False,False,False,104,2,94,0.03140096618357488,"recruitment_n, competition_rate, additional_rank, univ_score_70cut"
+True,True,True,False,True,False,False,82,8,74,0.024758454106280192,"recruitment_n, competition_rate, additional_rank, univ_score_max"
+True,True,True,True,False,True,False,76,1,69,0.022946859903381644,"recruitment_n, competition_rate, additional_rank, univ_score_70cut, percentile_70cut"
+True,True,True,False,True,True,False,52,1,52,0.01570048309178744,"recruitment_n, competition_rate, additional_rank, univ_score_max, percentile_70cut"
+True,True,True,False,False,False,False,22,3,14,0.006642512077294686,"recruitment_n, competition_rate, additional_rank"
+False,True,True,True,True,False,True,18,1,8,0.005434782608695652,"competition_rate, additional_rank, univ_score_70cut, univ_score_max, univ_score_ratio"
+True,True,True,True,True,False,True,17,5,10,0.005132850241545894,"recruitment_n, competition_rate, additional_rank, univ_score_70cut, univ_score_max, univ_score_ratio"
+False,False,True,True,False,True,False,13,1,8,0.00392512077294686,"additional_rank, univ_score_70cut, percentile_70cut"
+True,True,False,True,True,True,True,13,7,13,0.00392512077294686,"recruitment_n, competition_rate, univ_score_70cut, univ_score_max, percentile_70cut, univ_score_ratio"
+False,False,False,True,False,False,False,10,2,1,0.0030193236714975845,univ_score_70cut
+True,True,False,True,False,False,False,7,1,2,0.002113526570048309,"recruitment_n, competition_rate, univ_score_70cut"
+False,False,False,False,True,False,False,1,1,1,0.00030193236714975844,univ_score_max

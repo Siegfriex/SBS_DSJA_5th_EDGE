@@ -1,0 +1,5 @@
+﻿frame_name,path,rows,columns,unit,use_for,caution
+df_analysis_total,final/eda/P2_G0/analysis_frames/P2_G0_analysis_total.csv,35431,132,원자료 행 전체. 소속학과없음 placeholder 포함,"전체/학교/시도 총합, 교원 총합, 원자료 재현",학과별 평균/분포에는 placeholder가 섞이므로 바로 쓰지 않음
+df_department,final/eda/P2_G0/analysis_frames/P2_G0_department_analysis.csv,34969,132,실제 학과 행. 소속학과없음 placeholder 제외,"학과별 분포, 대계열/중계열/소계열별 평균, 경쟁률/충원율 EDA",교원 총합 분석에서는 placeholder 교원 수치가 빠질 수 있음
+df_placeholder,final/eda/P2_G0/analysis_frames/P2_G0_placeholder_rows.csv,462,132,소속학과없음 placeholder 행,"학과 분포 제외 근거, 교원 총합 보정",교원 수치가 배정된 행이 있으므로 무조건 삭제하지 않음
+df_faculty_total,final/eda/P2_G0/analysis_frames/P2_G0_faculty_total_frame.csv,35431,19,교원 총합용 행. placeholder 포함,학교/시도/학위과정별 전임/비전임 교원 합계,시간강사 컬럼은 분석용 df에서 제거됨

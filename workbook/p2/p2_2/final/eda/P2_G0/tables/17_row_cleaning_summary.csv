@@ -1,0 +1,6 @@
+﻿check,row_count,interpretation
+non_graduate_rows_with_null_graduate_type,22757,대학원구분 해당없음: NULL을 '해당없음_비대학원'으로 분석용 보정
+graduate_rows_with_null_graduate_type,0,대학원구분 실질결측
+no_department_placeholder_rows,462,"학과명/계열별 평균·분포에서는 제외, 총합 분석에서는 소속학과없음 항목으로 별도 집계"
+no_department_placeholder_rows_with_nonzero_measures,461,placeholder 행의 비0 수치 존재 여부. 현재는 교원 계열 수치가 배정되어 별도 처리 필요
+taxonomy_true_missing_rows,0,실제 학과 행의 계열 실질결측

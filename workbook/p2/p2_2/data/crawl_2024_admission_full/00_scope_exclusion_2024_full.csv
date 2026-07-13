@@ -1,0 +1,14 @@
+﻿학교명,exclusion_category,search_query,candidate_count,decision,decision_note,chosen_adiga_code,chosen_adiga_label
+경남과학기술대학교(폐교),closed_institution,,0,excluded_closed_institution,"폐교 — ADIGA 결과 없음, 검색 스킵",,
+국립강릉원주대학교(폐교),closed_institution,,0,excluded_closed_institution,"폐교 — ADIGA 결과 없음, 검색 스킵",,
+국립강릉원주대학교_제2캠퍼스(폐교),closed_institution,,0,excluded_closed_institution,"폐교 — ADIGA 결과 없음, 검색 스킵",,
+경인교육대학교_제2캠퍼스,code_duplicate_no_separate_source,경인교육대학교,1,excluded_no_separate_adiga_code,"ADIGA가 본교와 별도 캠퍼스 코드를 제공하지 않음(0000256과 동일) — 중복크롤링 방지 위해 제외, 사람 확인",256.0,경인교육대학교[본교]
+광주과학기술원,manual_review_pending,광주과학기술원,0,manual_review,검색 결과 없음,,
+대구경북과학기술원,manual_review_pending,대구경북과학기술원,0,manual_review,검색 결과 없음,,
+순복음총회신학교,manual_review_pending,순복음총회신학교,0,manual_review,검색 결과 없음,,
+울산과학기술원,manual_review_pending,울산과학기술원,0,manual_review,검색 결과 없음,,
+한국과학기술원,manual_review_pending,한국과학기술원,0,manual_review,검색 결과 없음,,
+한국방송통신대학교,manual_review_pending,한국방송통신대학교,0,manual_review,검색 결과 없음,,
+한국에너지공과대학교,manual_review_pending,한국에너지공과대학교,0,manual_review,검색 결과 없음,,
+한국예술종합학교,manual_review_pending,한국예술종합학교,0,manual_review,검색 결과 없음,,
+한국전통문화대학교,manual_review_pending,한국전통문화대학교,0,manual_review,검색 결과 없음,,

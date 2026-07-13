@@ -1,0 +1,26 @@
+﻿index_group,index_value,color
+selectivity_quartile,Q1 낮음,#dbeafe
+selectivity_quartile,Q2,#93c5fd
+selectivity_quartile,Q3,#3b82f6
+selectivity_quartile,Q4 높음,#1e3a8a
+credit_forfeit_label,X,#64748b
+credit_forfeit_label,O,#0f766e
+credit_forfeit_label,결측,#d1d5db
+mapping_type,exact_1to1,#166534
+mapping_type,alias_1to1,#22c55e
+mapping_type,loose_candidate_review,#f59e0b
+mapping_type,broad_recruitment_unit,#ef4444
+mapping_type,unmatched,#6b7280
+mapping_type,alias_not_present_in_university_grade_list,#a855f7
+major_group_top,건축토목환경,#1f77b4
+major_group_top,경영경제,#aec7e8
+major_group_top,공학,#ffbb78
+major_group_top,교육,#98df8a
+major_group_top,기타,#ff9896
+major_group_top,법행정경찰소방,#c5b0d5
+major_group_top,보건의료,#8c564b
+major_group_top,사회복지상담심리,#e377c2
+major_group_top,생명식품농림,#7f7f7f
+major_group_top,언어인문,#bcbd22
+major_group_top,예체능디자인,#17becf
+major_group_top,컴퓨터AI,#9edae5

@@ -1,0 +1,11 @@
+﻿feature,role,feature_type,default_test,visual_encoding
+selectivity_pct_2024,main_explanatory,numerical_percentile,Spearman/Kendall + cluster OLS,"x축, sequential color bin"
+rank_2024_raw,legacy_baseline,ordinal,Spearman/Kendall,rank_quartile
+prestige_score,legacy_baseline,ordinal_rescaled,Spearman/OLS,continuous
+credit_forfeit_label,policy,binary_nominal,Mann-Whitney + Hedges g,fixed binary color
+major_group_top,control_group,nominal,Kruskal-Wallis + epsilon squared,tab20 fixed index color
+selectivity_quartile,binned_explanatory,ordinal_category,Kruskal-Wallis + ordered median,sequential bin color
+grade_size_quartile,weight_context,ordinal_category,Kruskal-Wallis,size bin
+mapping_type,merge_quality,nominal_qa,coverage/funnel only,mapping palette
+a_rate_pct,target,numerical_percent,target,y축
+a_rate_residual_actual_selectivity_pctp,engineered_signal,numerical_residual,outcome Spearman,diverging color

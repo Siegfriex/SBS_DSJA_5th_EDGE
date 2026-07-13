@@ -1,0 +1,3 @@
+﻿topic_id,file_name,measure_type,count,mean,std,min,25%,50%,75%,max
+GOMS_011,GOMS_011_취업자의_전공별_직업_분포2016_freq_share.xls,frequency,2000.0,7559.098,30075.582806771665,0.0,171.0,709.5,3345.75,392483.0
+GOMS_011,GOMS_011_취업자의_전공별_직업_분포2016_freq_share.xls,share,2000.0,7.95505,20.920439452624922,0.0,0.3,1.1,4.0,100.0

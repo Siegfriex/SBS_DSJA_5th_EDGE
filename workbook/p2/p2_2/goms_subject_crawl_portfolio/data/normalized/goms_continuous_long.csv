@@ -1,0 +1,2231 @@
+﻿topic_id,topic_group,topic_name,classification_version,dimension_value,year,measure_type,value
+GOMS_022,근로소득,성별 월평균 근로소득,all,전체,2007,mean_income_or_hours,195.8
+GOMS_022,근로소득,성별 월평균 근로소득,all,남자,2007,mean_income_or_hours,216.5
+GOMS_022,근로소득,성별 월평균 근로소득,all,여자,2007,mean_income_or_hours,167.0
+GOMS_022,근로소득,성별 월평균 근로소득,all,전체,2008,mean_income_or_hours,188.9
+GOMS_022,근로소득,성별 월평균 근로소득,all,남자,2008,mean_income_or_hours,208.1
+GOMS_022,근로소득,성별 월평균 근로소득,all,여자,2008,mean_income_or_hours,161.3
+GOMS_022,근로소득,성별 월평균 근로소득,all,전체,2009,mean_income_or_hours,190.0
+GOMS_022,근로소득,성별 월평균 근로소득,all,남자,2009,mean_income_or_hours,212.3
+GOMS_022,근로소득,성별 월평균 근로소득,all,여자,2009,mean_income_or_hours,162.9
+GOMS_022,근로소득,성별 월평균 근로소득,all,전체,2010,mean_income_or_hours,198.1
+GOMS_022,근로소득,성별 월평균 근로소득,all,남자,2010,mean_income_or_hours,222.9
+GOMS_022,근로소득,성별 월평균 근로소득,all,여자,2010,mean_income_or_hours,169.0
+GOMS_022,근로소득,성별 월평균 근로소득,all,전체,2011,mean_income_or_hours,206.5
+GOMS_022,근로소득,성별 월평균 근로소득,all,남자,2011,mean_income_or_hours,230.3
+GOMS_022,근로소득,성별 월평균 근로소득,all,여자,2011,mean_income_or_hours,178.4
+GOMS_022,근로소득,성별 월평균 근로소득,all,전체,2012,mean_income_or_hours,202.8
+GOMS_022,근로소득,성별 월평균 근로소득,all,남자,2012,mean_income_or_hours,227.3
+GOMS_022,근로소득,성별 월평균 근로소득,all,여자,2012,mean_income_or_hours,176.3
+GOMS_022,근로소득,성별 월평균 근로소득,all,전체,2013,mean_income_or_hours,204.6
+GOMS_022,근로소득,성별 월평균 근로소득,all,남자,2013,mean_income_or_hours,230.8
+GOMS_022,근로소득,성별 월평균 근로소득,all,여자,2013,mean_income_or_hours,175.0
+GOMS_022,근로소득,성별 월평균 근로소득,all,전체,2014,mean_income_or_hours,205.2
+GOMS_022,근로소득,성별 월평균 근로소득,all,남자,2014,mean_income_or_hours,224.7
+GOMS_022,근로소득,성별 월평균 근로소득,all,여자,2014,mean_income_or_hours,182.0
+GOMS_022,근로소득,성별 월평균 근로소득,all,전체,2015,mean_income_or_hours,207.9
+GOMS_022,근로소득,성별 월평균 근로소득,all,남자,2015,mean_income_or_hours,229.5
+GOMS_022,근로소득,성별 월평균 근로소득,all,여자,2015,mean_income_or_hours,183.4
+GOMS_022,근로소득,성별 월평균 근로소득,all,전체,2016,mean_income_or_hours,217.0
+GOMS_022,근로소득,성별 월평균 근로소득,all,남자,2016,mean_income_or_hours,240.3
+GOMS_022,근로소득,성별 월평균 근로소득,all,여자,2016,mean_income_or_hours,189.0
+GOMS_022,근로소득,성별 월평균 근로소득,all,전체,2017,mean_income_or_hours,227.2
+GOMS_022,근로소득,성별 월평균 근로소득,all,남자,2017,mean_income_or_hours,249.5
+GOMS_022,근로소득,성별 월평균 근로소득,all,여자,2017,mean_income_or_hours,199.6
+GOMS_022,근로소득,성별 월평균 근로소득,all,전체,2018,mean_income_or_hours,235.7
+GOMS_022,근로소득,성별 월평균 근로소득,all,남자,2018,mean_income_or_hours,256.4
+GOMS_022,근로소득,성별 월평균 근로소득,all,여자,2018,mean_income_or_hours,208.8
+GOMS_022,근로소득,성별 월평균 근로소득,all,전체,2019,mean_income_or_hours,242.6
+GOMS_022,근로소득,성별 월평균 근로소득,all,남자,2019,mean_income_or_hours,259.4
+GOMS_022,근로소득,성별 월평균 근로소득,all,여자,2019,mean_income_or_hours,226.4
+GOMS_023,근로소득,학교유형별 월평균 근로소득,all,전체,2007,mean_income_or_hours,195.8
+GOMS_023,근로소득,학교유형별 월평균 근로소득,all,전문대,2007,mean_income_or_hours,182.6
+GOMS_023,근로소득,학교유형별 월평균 근로소득,all,4년제,2007,mean_income_or_hours,201.7
+GOMS_023,근로소득,학교유형별 월평균 근로소득,all,교육대,2007,mean_income_or_hours,198.1
+GOMS_023,근로소득,학교유형별 월평균 근로소득,all,전체,2008,mean_income_or_hours,188.9
+GOMS_023,근로소득,학교유형별 월평균 근로소득,all,전문대,2008,mean_income_or_hours,172.3
+GOMS_023,근로소득,학교유형별 월평균 근로소득,all,4년제,2008,mean_income_or_hours,195.5
+GOMS_023,근로소득,학교유형별 월평균 근로소득,all,교육대,2008,mean_income_or_hours,206.4
+GOMS_023,근로소득,학교유형별 월평균 근로소득,all,전체,2009,mean_income_or_hours,190.0
+GOMS_023,근로소득,학교유형별 월평균 근로소득,all,전문대,2009,mean_income_or_hours,173.1
+GOMS_023,근로소득,학교유형별 월평균 근로소득,all,4년제,2009,mean_income_or_hours,199.9
+GOMS_023,근로소득,학교유형별 월평균 근로소득,all,교육대,2009,mean_income_or_hours,197.5
+GOMS_023,근로소득,학교유형별 월평균 근로소득,all,전체,2010,mean_income_or_hours,198.1
+GOMS_023,근로소득,학교유형별 월평균 근로소득,all,전문대,2010,mean_income_or_hours,186.1
+GOMS_023,근로소득,학교유형별 월평균 근로소득,all,4년제,2010,mean_income_or_hours,203.7
+GOMS_023,근로소득,학교유형별 월평균 근로소득,all,교육대,2010,mean_income_or_hours,203.2
+GOMS_023,근로소득,학교유형별 월평균 근로소득,all,전체,2011,mean_income_or_hours,206.5
+GOMS_023,근로소득,학교유형별 월평균 근로소득,all,전문대,2011,mean_income_or_hours,187.8
+GOMS_023,근로소득,학교유형별 월평균 근로소득,all,4년제,2011,mean_income_or_hours,215.1
+GOMS_023,근로소득,학교유형별 월평균 근로소득,all,교육대,2011,mean_income_or_hours,209.1
+GOMS_023,근로소득,학교유형별 월평균 근로소득,all,전체,2012,mean_income_or_hours,202.8
+GOMS_023,근로소득,학교유형별 월평균 근로소득,all,전문대,2012,mean_income_or_hours,185.5
+GOMS_023,근로소득,학교유형별 월평균 근로소득,all,4년제,2012,mean_income_or_hours,210.6
+GOMS_023,근로소득,학교유형별 월평균 근로소득,all,교육대,2012,mean_income_or_hours,212.5
+GOMS_023,근로소득,학교유형별 월평균 근로소득,all,전체,2013,mean_income_or_hours,204.6
+GOMS_023,근로소득,학교유형별 월평균 근로소득,all,전문대,2013,mean_income_or_hours,185.0
+GOMS_023,근로소득,학교유형별 월평균 근로소득,all,4년제,2013,mean_income_or_hours,213.4
+GOMS_023,근로소득,학교유형별 월평균 근로소득,all,교육대,2013,mean_income_or_hours,209.6
+GOMS_023,근로소득,학교유형별 월평균 근로소득,all,전체,2014,mean_income_or_hours,205.2
+GOMS_023,근로소득,학교유형별 월평균 근로소득,all,전문대,2014,mean_income_or_hours,186.4
+GOMS_023,근로소득,학교유형별 월평균 근로소득,all,4년제,2014,mean_income_or_hours,213.1
+GOMS_023,근로소득,학교유형별 월평균 근로소득,all,교육대,2014,mean_income_or_hours,217.6
+GOMS_023,근로소득,학교유형별 월평균 근로소득,all,전체,2015,mean_income_or_hours,207.9
+GOMS_023,근로소득,학교유형별 월평균 근로소득,all,전문대,2015,mean_income_or_hours,191.5
+GOMS_023,근로소득,학교유형별 월평균 근로소득,all,4년제,2015,mean_income_or_hours,213.9
+GOMS_023,근로소득,학교유형별 월평균 근로소득,all,교육대,2015,mean_income_or_hours,219.3
+GOMS_023,근로소득,학교유형별 월평균 근로소득,all,전체,2016,mean_income_or_hours,217.0
+GOMS_023,근로소득,학교유형별 월평균 근로소득,all,전문대,2016,mean_income_or_hours,201.6
+GOMS_023,근로소득,학교유형별 월평균 근로소득,all,4년제,2016,mean_income_or_hours,222.2
+GOMS_023,근로소득,학교유형별 월평균 근로소득,all,교육대,2016,mean_income_or_hours,229.8
+GOMS_023,근로소득,학교유형별 월평균 근로소득,all,전체,2017,mean_income_or_hours,227.2
+GOMS_023,근로소득,학교유형별 월평균 근로소득,all,전문대,2017,mean_income_or_hours,209.8
+GOMS_023,근로소득,학교유형별 월평균 근로소득,all,4년제,2017,mean_income_or_hours,231.7
+GOMS_023,근로소득,학교유형별 월평균 근로소득,all,교육대,2017,mean_income_or_hours,233.4
+GOMS_023,근로소득,학교유형별 월평균 근로소득,all,전체,2018,mean_income_or_hours,235.7
+GOMS_023,근로소득,학교유형별 월평균 근로소득,all,전문대,2018,mean_income_or_hours,220.1
+GOMS_023,근로소득,학교유형별 월평균 근로소득,all,4년제,2018,mean_income_or_hours,239.9
+GOMS_023,근로소득,학교유형별 월평균 근로소득,all,교육대,2018,mean_income_or_hours,238.3
+GOMS_023,근로소득,학교유형별 월평균 근로소득,all,전체,2019,mean_income_or_hours,242.6
+GOMS_023,근로소득,학교유형별 월평균 근로소득,all,전문대,2019,mean_income_or_hours,214.9
+GOMS_023,근로소득,학교유형별 월평균 근로소득,all,4년제,2019,mean_income_or_hours,250.4
+GOMS_023,근로소득,학교유형별 월평균 근로소득,all,교육대,2019,mean_income_or_hours,248.3
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,전체,2007,mean_income_or_hours,195.8
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,인문,2007,mean_income_or_hours,180.9
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,사회,2007,mean_income_or_hours,205.8
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,교육,2007,mean_income_or_hours,173.7
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,공학,2007,mean_income_or_hours,214.4
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,자연,2007,mean_income_or_hours,190.1
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,의약,2007,mean_income_or_hours,210.1
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,예체능,2007,mean_income_or_hours,158.6
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,전체,2008,mean_income_or_hours,188.9
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,인문,2008,mean_income_or_hours,183.7
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,사회,2008,mean_income_or_hours,197.2
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,교육,2008,mean_income_or_hours,177.4
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,공학,2008,mean_income_or_hours,204.8
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,자연,2008,mean_income_or_hours,181.3
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,의약,2008,mean_income_or_hours,202.0
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,예체능,2008,mean_income_or_hours,147.7
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,전체,2009,mean_income_or_hours,190.0
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,인문,2009,mean_income_or_hours,173.0
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,사회,2009,mean_income_or_hours,196.3
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,교육,2009,mean_income_or_hours,175.7
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,공학,2009,mean_income_or_hours,207.9
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,자연,2009,mean_income_or_hours,183.0
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,의약,2009,mean_income_or_hours,202.0
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,예체능,2009,mean_income_or_hours,158.3
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,전체,2010,mean_income_or_hours,198.1
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,인문,2010,mean_income_or_hours,184.2
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,사회,2010,mean_income_or_hours,203.8
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,교육,2010,mean_income_or_hours,183.5
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,공학,2010,mean_income_or_hours,220.7
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,자연,2010,mean_income_or_hours,184.3
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,의약,2010,mean_income_or_hours,206.3
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,예체능,2010,mean_income_or_hours,163.1
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,전체,2011,mean_income_or_hours,206.5
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,인문,2011,mean_income_or_hours,198.0
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,사회,2011,mean_income_or_hours,212.1
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,교육,2011,mean_income_or_hours,189.9
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,공학,2011,mean_income_or_hours,227.8
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,자연,2011,mean_income_or_hours,194.6
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,의약,2011,mean_income_or_hours,219.3
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,예체능,2011,mean_income_or_hours,167.4
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,전체,2012,mean_income_or_hours,202.8
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,인문,2012,mean_income_or_hours,186.0
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,사회,2012,mean_income_or_hours,208.6
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,교육,2012,mean_income_or_hours,191.6
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,공학,2012,mean_income_or_hours,227.5
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,자연,2012,mean_income_or_hours,193.2
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,의약,2012,mean_income_or_hours,217.1
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,예체능,2012,mean_income_or_hours,161.4
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,전체,2013,mean_income_or_hours,204.6
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,인문,2013,mean_income_or_hours,194.4
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,사회,2013,mean_income_or_hours,208.1
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,교육,2013,mean_income_or_hours,194.3
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,공학,2013,mean_income_or_hours,234.9
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,자연,2013,mean_income_or_hours,196.5
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,의약,2013,mean_income_or_hours,213.4
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,예체능,2013,mean_income_or_hours,155.7
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,전체,2014,mean_income_or_hours,205.2
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,인문,2014,mean_income_or_hours,192.1
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,사회,2014,mean_income_or_hours,209.0
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,교육,2014,mean_income_or_hours,199.3
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,공학,2014,mean_income_or_hours,226.9
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,자연,2014,mean_income_or_hours,196.4
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,의약,2014,mean_income_or_hours,219.3
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,예체능,2014,mean_income_or_hours,165.8
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,전체,2015,mean_income_or_hours,207.9
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,인문,2015,mean_income_or_hours,187.2
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,사회,2015,mean_income_or_hours,208.7
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,교육,2015,mean_income_or_hours,202.8
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,공학,2015,mean_income_or_hours,232.0
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,자연,2015,mean_income_or_hours,194.9
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,의약,2015,mean_income_or_hours,220.1
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,예체능,2015,mean_income_or_hours,172.0
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,전체,2016,mean_income_or_hours,217.0
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,인문,2016,mean_income_or_hours,196.9
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,사회,2016,mean_income_or_hours,219.0
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,교육,2016,mean_income_or_hours,204.6
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,공학,2016,mean_income_or_hours,242.8
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,자연,2016,mean_income_or_hours,204.5
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,의약,2016,mean_income_or_hours,233.1
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,예체능,2016,mean_income_or_hours,175.6
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,전체,2017,mean_income_or_hours,227.2
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,인문,2017,mean_income_or_hours,204.1
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,사회,2017,mean_income_or_hours,233.6
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,교육,2017,mean_income_or_hours,213.3
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,공학,2017,mean_income_or_hours,247.5
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,자연,2017,mean_income_or_hours,220.7
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,의약,2017,mean_income_or_hours,248.7
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,예체능,2017,mean_income_or_hours,182.5
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,전체,2018,mean_income_or_hours,235.7
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,인문,2018,mean_income_or_hours,212.5
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,사회,2018,mean_income_or_hours,238.2
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,교육,2018,mean_income_or_hours,217.8
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,공학,2018,mean_income_or_hours,257.6
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,자연,2018,mean_income_or_hours,228.1
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,의약,2018,mean_income_or_hours,264.5
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,예체능,2018,mean_income_or_hours,195.0
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,전체,2019,mean_income_or_hours,242.6
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,인문,2019,mean_income_or_hours,269.8
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,사회,2019,mean_income_or_hours,234.6
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,교육,2019,mean_income_or_hours,221.8
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,공학,2019,mean_income_or_hours,260.6
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,자연,2019,mean_income_or_hours,225.2
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,의약,2019,mean_income_or_hours,271.8
+GOMS_024,근로소득,전공계열별 월평균 근로소득,all,예체능,2019,mean_income_or_hours,192.7
+GOMS_025,근로소득,산업별 월평균 근로소득,all,전체,2007,mean_income_or_hours,195.8
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"농업,임업 및 어업",2007,mean_income_or_hours,301.2
+GOMS_025,근로소득,산업별 월평균 근로소득,all,광업,2007,mean_income_or_hours,273.8
+GOMS_025,근로소득,산업별 월평균 근로소득,all,제조업,2007,mean_income_or_hours,220.0
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"전기, 가스, 증기 및 수도사업",2007,mean_income_or_hours,282.8
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"하수·폐기물처리, 원료재생 및 환경복원업",2007,mean_income_or_hours,176.7
+GOMS_025,근로소득,산업별 월평균 근로소득,all,건설업,2007,mean_income_or_hours,226.8
+GOMS_025,근로소득,산업별 월평균 근로소득,all,도매 및 소매업,2007,mean_income_or_hours,202.8
+GOMS_025,근로소득,산업별 월평균 근로소득,all,운수업,2007,mean_income_or_hours,238.4
+GOMS_025,근로소득,산업별 월평균 근로소득,all,숙박 및 음식점업,2007,mean_income_or_hours,177.5
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"출판, 영상, 방송통신 및 정보서비스업",2007,mean_income_or_hours,190.5
+GOMS_025,근로소득,산업별 월평균 근로소득,all,금융 및 보험업,2007,mean_income_or_hours,274.5
+GOMS_025,근로소득,산업별 월평균 근로소득,all,부동산업 및 임대업,2007,mean_income_or_hours,221.9
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"전문, 과학 및 기술 서비스업",2007,mean_income_or_hours,193.8
+GOMS_025,근로소득,산업별 월평균 근로소득,all,사업시설관리 및 사업지원 서비스업,2007,mean_income_or_hours,153.6
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"공공행정, 국방 및 사회보장 행정",2007,mean_income_or_hours,206.5
+GOMS_025,근로소득,산업별 월평균 근로소득,all,교육 서비스업,2007,mean_income_or_hours,149.7
+GOMS_025,근로소득,산업별 월평균 근로소득,all,보건업 및 사회복지 서비스업,2007,mean_income_or_hours,173.1
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"예술,스포츠 및 여가관련 서비스업",2007,mean_income_or_hours,151.5
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"협회 및 단체, 수리 및 기타 개인 서비스",2007,mean_income_or_hours,149.8
+GOMS_025,근로소득,산업별 월평균 근로소득,all,가구내 고용활동 및 달리 분류되지 않은 자가소비 생산활동,2007,mean_income_or_hours,80.0
+GOMS_025,근로소득,산업별 월평균 근로소득,all,국제 및 외국기관,2007,mean_income_or_hours,215.6
+GOMS_025,근로소득,산업별 월평균 근로소득,all,전체,2008,mean_income_or_hours,188.9
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"농업,임업 및 어업",2008,mean_income_or_hours,328.9
+GOMS_025,근로소득,산업별 월평균 근로소득,all,광업,2008,mean_income_or_hours,263.9
+GOMS_025,근로소득,산업별 월평균 근로소득,all,제조업,2008,mean_income_or_hours,214.1
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"전기, 가스, 증기 및 수도사업",2008,mean_income_or_hours,216.3
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"하수·폐기물처리, 원료재생 및 환경복원업",2008,mean_income_or_hours,174.8
+GOMS_025,근로소득,산업별 월평균 근로소득,all,건설업,2008,mean_income_or_hours,223.6
+GOMS_025,근로소득,산업별 월평균 근로소득,all,도매 및 소매업,2008,mean_income_or_hours,194.1
+GOMS_025,근로소득,산업별 월평균 근로소득,all,운수업,2008,mean_income_or_hours,229.6
+GOMS_025,근로소득,산업별 월평균 근로소득,all,숙박 및 음식점업,2008,mean_income_or_hours,167.2
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"출판, 영상, 방송통신 및 정보서비스업",2008,mean_income_or_hours,182.1
+GOMS_025,근로소득,산업별 월평균 근로소득,all,금융 및 보험업,2008,mean_income_or_hours,272.6
+GOMS_025,근로소득,산업별 월평균 근로소득,all,부동산업 및 임대업,2008,mean_income_or_hours,218.4
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"전문, 과학 및 기술 서비스업",2008,mean_income_or_hours,186.1
+GOMS_025,근로소득,산업별 월평균 근로소득,all,사업시설관리 및 사업지원 서비스업,2008,mean_income_or_hours,149.8
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"공공행정, 국방 및 사회보장 행정",2008,mean_income_or_hours,178.2
+GOMS_025,근로소득,산업별 월평균 근로소득,all,교육 서비스업,2008,mean_income_or_hours,152.8
+GOMS_025,근로소득,산업별 월평균 근로소득,all,보건업 및 사회복지 서비스업,2008,mean_income_or_hours,175.6
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"예술,스포츠 및 여가관련 서비스업",2008,mean_income_or_hours,137.1
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"협회 및 단체, 수리 및 기타 개인 서비스",2008,mean_income_or_hours,139.8
+GOMS_025,근로소득,산업별 월평균 근로소득,all,가구내 고용활동 및 달리 분류되지 않은 자가소비 생산활동,2008,mean_income_or_hours,60.0
+GOMS_025,근로소득,산업별 월평균 근로소득,all,국제 및 외국기관,2008,mean_income_or_hours,258.8
+GOMS_025,근로소득,산업별 월평균 근로소득,all,전체,2009,mean_income_or_hours,190.1
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"농업,임업 및 어업",2009,mean_income_or_hours,296.1
+GOMS_025,근로소득,산업별 월평균 근로소득,all,광업,2009,mean_income_or_hours,205.0
+GOMS_025,근로소득,산업별 월평균 근로소득,all,제조업,2009,mean_income_or_hours,214.3
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"전기, 가스, 증기 및 수도사업",2009,mean_income_or_hours,246.7
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"하수·폐기물처리, 원료재생 및 환경복원업",2009,mean_income_or_hours,171.6
+GOMS_025,근로소득,산업별 월평균 근로소득,all,건설업,2009,mean_income_or_hours,219.2
+GOMS_025,근로소득,산업별 월평균 근로소득,all,도매 및 소매업,2009,mean_income_or_hours,194.9
+GOMS_025,근로소득,산업별 월평균 근로소득,all,운수업,2009,mean_income_or_hours,212.9
+GOMS_025,근로소득,산업별 월평균 근로소득,all,숙박 및 음식점업,2009,mean_income_or_hours,169.0
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"출판, 영상, 방송통신 및 정보서비스업",2009,mean_income_or_hours,187.0
+GOMS_025,근로소득,산업별 월평균 근로소득,all,금융 및 보험업,2009,mean_income_or_hours,251.2
+GOMS_025,근로소득,산업별 월평균 근로소득,all,부동산업 및 임대업,2009,mean_income_or_hours,196.8
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"전문, 과학 및 기술 서비스업",2009,mean_income_or_hours,195.2
+GOMS_025,근로소득,산업별 월평균 근로소득,all,사업시설관리 및 사업지원 서비스업,2009,mean_income_or_hours,158.4
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"공공행정, 국방 및 사회보장 행정",2009,mean_income_or_hours,187.1
+GOMS_025,근로소득,산업별 월평균 근로소득,all,교육 서비스업,2009,mean_income_or_hours,157.5
+GOMS_025,근로소득,산업별 월평균 근로소득,all,보건업 및 사회복지 서비스업,2009,mean_income_or_hours,168.1
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"예술,스포츠 및 여가관련 서비스업",2009,mean_income_or_hours,157.3
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"협회 및 단체, 수리 및 기타 개인 서비스",2009,mean_income_or_hours,159.1
+GOMS_025,근로소득,산업별 월평균 근로소득,all,가구내 고용활동 및 달리 분류되지 않은 자가소비 생산활동,2009,mean_income_or_hours,0.0
+GOMS_025,근로소득,산업별 월평균 근로소득,all,국제 및 외국기관,2009,mean_income_or_hours,157.5
+GOMS_025,근로소득,산업별 월평균 근로소득,all,전체,2010,mean_income_or_hours,198.1
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"농업,임업 및 어업",2010,mean_income_or_hours,323.4
+GOMS_025,근로소득,산업별 월평균 근로소득,all,광업,2010,mean_income_or_hours,235.5
+GOMS_025,근로소득,산업별 월평균 근로소득,all,제조업,2010,mean_income_or_hours,234.8
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"전기, 가스, 증기 및 수도사업",2010,mean_income_or_hours,230.1
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"하수·폐기물처리, 원료재생 및 환경복원업",2010,mean_income_or_hours,189.2
+GOMS_025,근로소득,산업별 월평균 근로소득,all,건설업,2010,mean_income_or_hours,247.7
+GOMS_025,근로소득,산업별 월평균 근로소득,all,도매 및 소매업,2010,mean_income_or_hours,219.1
+GOMS_025,근로소득,산업별 월평균 근로소득,all,운수업,2010,mean_income_or_hours,227.7
+GOMS_025,근로소득,산업별 월평균 근로소득,all,숙박 및 음식점업,2010,mean_income_or_hours,164.9
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"출판, 영상, 방송통신 및 정보서비스업",2010,mean_income_or_hours,197.3
+GOMS_025,근로소득,산업별 월평균 근로소득,all,금융 및 보험업,2010,mean_income_or_hours,256.9
+GOMS_025,근로소득,산업별 월평균 근로소득,all,부동산업 및 임대업,2010,mean_income_or_hours,231.8
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"전문, 과학 및 기술 서비스업",2010,mean_income_or_hours,205.7
+GOMS_025,근로소득,산업별 월평균 근로소득,all,사업시설관리 및 사업지원 서비스업,2010,mean_income_or_hours,162.8
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"공공행정, 국방 및 사회보장 행정",2010,mean_income_or_hours,200.2
+GOMS_025,근로소득,산업별 월평균 근로소득,all,교육 서비스업,2010,mean_income_or_hours,148.2
+GOMS_025,근로소득,산업별 월평균 근로소득,all,보건업 및 사회복지 서비스업,2010,mean_income_or_hours,176.8
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"예술,스포츠 및 여가관련 서비스업",2010,mean_income_or_hours,156.5
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"협회 및 단체, 수리 및 기타 개인 서비스",2010,mean_income_or_hours,158.5
+GOMS_025,근로소득,산업별 월평균 근로소득,all,가구내 고용활동 및 달리 분류되지 않은 자가소비 생산활동,2010,mean_income_or_hours,90.0
+GOMS_025,근로소득,산업별 월평균 근로소득,all,국제 및 외국기관,2010,mean_income_or_hours,232.2
+GOMS_025,근로소득,산업별 월평균 근로소득,all,전체,2011,mean_income_or_hours,206.5
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"농업,임업 및 어업",2011,mean_income_or_hours,313.3
+GOMS_025,근로소득,산업별 월평균 근로소득,all,광업,2011,mean_income_or_hours,412.5
+GOMS_025,근로소득,산업별 월평균 근로소득,all,제조업,2011,mean_income_or_hours,246.8
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"전기, 가스, 증기 및 수도사업",2011,mean_income_or_hours,245.6
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"하수·폐기물처리, 원료재생 및 환경복원업",2011,mean_income_or_hours,217.8
+GOMS_025,근로소득,산업별 월평균 근로소득,all,건설업,2011,mean_income_or_hours,250.9
+GOMS_025,근로소득,산업별 월평균 근로소득,all,도매 및 소매업,2011,mean_income_or_hours,214.5
+GOMS_025,근로소득,산업별 월평균 근로소득,all,운수업,2011,mean_income_or_hours,228.3
+GOMS_025,근로소득,산업별 월평균 근로소득,all,숙박 및 음식점업,2011,mean_income_or_hours,175.1
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"출판, 영상, 방송통신 및 정보서비스업",2011,mean_income_or_hours,208.6
+GOMS_025,근로소득,산업별 월평균 근로소득,all,금융 및 보험업,2011,mean_income_or_hours,284.0
+GOMS_025,근로소득,산업별 월평균 근로소득,all,부동산업 및 임대업,2011,mean_income_or_hours,197.1
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"전문, 과학 및 기술 서비스업",2011,mean_income_or_hours,223.4
+GOMS_025,근로소득,산업별 월평균 근로소득,all,사업시설관리 및 사업지원 서비스업,2011,mean_income_or_hours,172.2
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"공공행정, 국방 및 사회보장 행정",2011,mean_income_or_hours,207.5
+GOMS_025,근로소득,산업별 월평균 근로소득,all,교육 서비스업,2011,mean_income_or_hours,150.2
+GOMS_025,근로소득,산업별 월평균 근로소득,all,보건업 및 사회복지 서비스업,2011,mean_income_or_hours,189.3
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"예술,스포츠 및 여가관련 서비스업",2011,mean_income_or_hours,153.4
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"협회 및 단체, 수리 및 기타 개인 서비스",2011,mean_income_or_hours,159.8
+GOMS_025,근로소득,산업별 월평균 근로소득,all,가구내 고용활동 및 달리 분류되지 않은 자가소비 생산활동,2011,mean_income_or_hours,90.0
+GOMS_025,근로소득,산업별 월평균 근로소득,all,국제 및 외국기관,2011,mean_income_or_hours,232.7
+GOMS_025,근로소득,산업별 월평균 근로소득,all,전체,2012,mean_income_or_hours,202.8
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"농업,임업 및 어업",2012,mean_income_or_hours,242.9
+GOMS_025,근로소득,산업별 월평균 근로소득,all,광업,2012,mean_income_or_hours,228.0
+GOMS_025,근로소득,산업별 월평균 근로소득,all,제조업,2012,mean_income_or_hours,240.6
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"전기, 가스, 증기 및 수도사업",2012,mean_income_or_hours,270.2
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"하수·폐기물처리, 원료재생 및 환경복원업",2012,mean_income_or_hours,234.2
+GOMS_025,근로소득,산업별 월평균 근로소득,all,건설업,2012,mean_income_or_hours,244.2
+GOMS_025,근로소득,산업별 월평균 근로소득,all,도매 및 소매업,2012,mean_income_or_hours,204.9
+GOMS_025,근로소득,산업별 월평균 근로소득,all,운수업,2012,mean_income_or_hours,226.2
+GOMS_025,근로소득,산업별 월평균 근로소득,all,숙박 및 음식점업,2012,mean_income_or_hours,172.0
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"출판, 영상, 방송통신 및 정보서비스업",2012,mean_income_or_hours,207.9
+GOMS_025,근로소득,산업별 월평균 근로소득,all,금융 및 보험업,2012,mean_income_or_hours,271.6
+GOMS_025,근로소득,산업별 월평균 근로소득,all,부동산업 및 임대업,2012,mean_income_or_hours,226.1
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"전문, 과학 및 기술 서비스업",2012,mean_income_or_hours,211.4
+GOMS_025,근로소득,산업별 월평균 근로소득,all,사업시설관리 및 사업지원 서비스업,2012,mean_income_or_hours,168.9
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"공공행정, 국방 및 사회보장 행정",2012,mean_income_or_hours,195.7
+GOMS_025,근로소득,산업별 월평균 근로소득,all,교육 서비스업,2012,mean_income_or_hours,157.1
+GOMS_025,근로소득,산업별 월평균 근로소득,all,보건업 및 사회복지 서비스업,2012,mean_income_or_hours,189.1
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"예술,스포츠 및 여가관련 서비스업",2012,mean_income_or_hours,157.6
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"협회 및 단체, 수리 및 기타 개인 서비스",2012,mean_income_or_hours,160.2
+GOMS_025,근로소득,산업별 월평균 근로소득,all,가구내 고용활동 및 달리 분류되지 않은 자가소비 생산활동,2012,mean_income_or_hours,21.5
+GOMS_025,근로소득,산업별 월평균 근로소득,all,국제 및 외국기관,2012,mean_income_or_hours,172.1
+GOMS_025,근로소득,산업별 월평균 근로소득,all,전체,2013,mean_income_or_hours,204.6
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"농업,임업 및 어업",2013,mean_income_or_hours,289.0
+GOMS_025,근로소득,산업별 월평균 근로소득,all,광업,2013,mean_income_or_hours,250.0
+GOMS_025,근로소득,산업별 월평균 근로소득,all,제조업,2013,mean_income_or_hours,249.6
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"전기, 가스, 증기 및 수도사업",2013,mean_income_or_hours,266.9
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"하수·폐기물처리, 원료재생 및 환경복원업",2013,mean_income_or_hours,197.1
+GOMS_025,근로소득,산업별 월평균 근로소득,all,건설업,2013,mean_income_or_hours,258.4
+GOMS_025,근로소득,산업별 월평균 근로소득,all,도매 및 소매업,2013,mean_income_or_hours,206.2
+GOMS_025,근로소득,산업별 월평균 근로소득,all,운수업,2013,mean_income_or_hours,236.2
+GOMS_025,근로소득,산업별 월평균 근로소득,all,숙박 및 음식점업,2013,mean_income_or_hours,160.4
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"출판, 영상, 방송통신 및 정보서비스업",2013,mean_income_or_hours,207.1
+GOMS_025,근로소득,산업별 월평균 근로소득,all,금융 및 보험업,2013,mean_income_or_hours,281.1
+GOMS_025,근로소득,산업별 월평균 근로소득,all,부동산업 및 임대업,2013,mean_income_or_hours,207.5
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"전문, 과학 및 기술 서비스업",2013,mean_income_or_hours,209.2
+GOMS_025,근로소득,산업별 월평균 근로소득,all,사업시설관리 및 사업지원 서비스업,2013,mean_income_or_hours,176.8
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"공공행정, 국방 및 사회보장 행정",2013,mean_income_or_hours,185.3
+GOMS_025,근로소득,산업별 월평균 근로소득,all,교육 서비스업,2013,mean_income_or_hours,160.0
+GOMS_025,근로소득,산업별 월평균 근로소득,all,보건업 및 사회복지 서비스업,2013,mean_income_or_hours,192.9
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"예술,스포츠 및 여가관련 서비스업",2013,mean_income_or_hours,141.1
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"협회 및 단체, 수리 및 기타 개인 서비스",2013,mean_income_or_hours,163.0
+GOMS_025,근로소득,산업별 월평균 근로소득,all,가구내 고용활동 및 달리 분류되지 않은 자가소비 생산활동,2013,mean_income_or_hours,0.0
+GOMS_025,근로소득,산업별 월평균 근로소득,all,국제 및 외국기관,2013,mean_income_or_hours,168.3
+GOMS_025,근로소득,산업별 월평균 근로소득,all,전체,2014,mean_income_or_hours,205.3
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"농업,임업 및 어업",2014,mean_income_or_hours,256.7
+GOMS_025,근로소득,산업별 월평균 근로소득,all,광업,2014,mean_income_or_hours,256.3
+GOMS_025,근로소득,산업별 월평균 근로소득,all,제조업,2014,mean_income_or_hours,246.5
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"전기, 가스, 증기 및 수도사업",2014,mean_income_or_hours,275.7
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"하수·폐기물처리, 원료재생 및 환경복원업",2014,mean_income_or_hours,217.2
+GOMS_025,근로소득,산업별 월평균 근로소득,all,건설업,2014,mean_income_or_hours,234.5
+GOMS_025,근로소득,산업별 월평균 근로소득,all,도매 및 소매업,2014,mean_income_or_hours,207.8
+GOMS_025,근로소득,산업별 월평균 근로소득,all,운수업,2014,mean_income_or_hours,243.8
+GOMS_025,근로소득,산업별 월평균 근로소득,all,숙박 및 음식점업,2014,mean_income_or_hours,160.6
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"출판, 영상, 방송통신 및 정보서비스업",2014,mean_income_or_hours,211.1
+GOMS_025,근로소득,산업별 월평균 근로소득,all,금융 및 보험업,2014,mean_income_or_hours,276.3
+GOMS_025,근로소득,산업별 월평균 근로소득,all,부동산업 및 임대업,2014,mean_income_or_hours,218.1
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"전문, 과학 및 기술 서비스업",2014,mean_income_or_hours,208.9
+GOMS_025,근로소득,산업별 월평균 근로소득,all,사업시설관리 및 사업지원 서비스업,2014,mean_income_or_hours,174.1
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"공공행정, 국방 및 사회보장 행정",2014,mean_income_or_hours,192.4
+GOMS_025,근로소득,산업별 월평균 근로소득,all,교육 서비스업,2014,mean_income_or_hours,161.9
+GOMS_025,근로소득,산업별 월평균 근로소득,all,보건업 및 사회복지 서비스업,2014,mean_income_or_hours,200.1
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"예술,스포츠 및 여가관련 서비스업",2014,mean_income_or_hours,163.7
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"협회 및 단체, 수리 및 기타 개인 서비스",2014,mean_income_or_hours,171.3
+GOMS_025,근로소득,산업별 월평균 근로소득,all,가구내 고용활동 및 달리 분류되지 않은 자가소비 생산활동,2014,mean_income_or_hours,110.0
+GOMS_025,근로소득,산업별 월평균 근로소득,all,국제 및 외국기관,2014,mean_income_or_hours,170.5
+GOMS_025,근로소득,산업별 월평균 근로소득,all,전체,2015,mean_income_or_hours,207.9
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"농업,임업 및 어업",2015,mean_income_or_hours,240.5
+GOMS_025,근로소득,산업별 월평균 근로소득,all,광업,2015,mean_income_or_hours,255.0
+GOMS_025,근로소득,산업별 월평균 근로소득,all,제조업,2015,mean_income_or_hours,247.8
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"전기, 가스, 증기 및 수도사업",2015,mean_income_or_hours,281.9
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"하수·폐기물처리, 원료재생 및 환경복원업",2015,mean_income_or_hours,236.4
+GOMS_025,근로소득,산업별 월평균 근로소득,all,건설업,2015,mean_income_or_hours,241.0
+GOMS_025,근로소득,산업별 월평균 근로소득,all,도매 및 소매업,2015,mean_income_or_hours,210.7
+GOMS_025,근로소득,산업별 월평균 근로소득,all,운수업,2015,mean_income_or_hours,248.7
+GOMS_025,근로소득,산업별 월평균 근로소득,all,숙박 및 음식점업,2015,mean_income_or_hours,165.1
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"출판, 영상, 방송통신 및 정보서비스업",2015,mean_income_or_hours,212.1
+GOMS_025,근로소득,산업별 월평균 근로소득,all,금융 및 보험업,2015,mean_income_or_hours,276.9
+GOMS_025,근로소득,산업별 월평균 근로소득,all,부동산업 및 임대업,2015,mean_income_or_hours,206.6
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"전문, 과학 및 기술 서비스업",2015,mean_income_or_hours,217.2
+GOMS_025,근로소득,산업별 월평균 근로소득,all,사업시설관리 및 사업지원 서비스업,2015,mean_income_or_hours,185.5
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"공공행정, 국방 및 사회보장 행정",2015,mean_income_or_hours,203.0
+GOMS_025,근로소득,산업별 월평균 근로소득,all,교육 서비스업,2015,mean_income_or_hours,161.9
+GOMS_025,근로소득,산업별 월평균 근로소득,all,보건업 및 사회복지 서비스업,2015,mean_income_or_hours,201.0
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"예술,스포츠 및 여가관련 서비스업",2015,mean_income_or_hours,160.7
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"협회 및 단체, 수리 및 기타 개인 서비스",2015,mean_income_or_hours,185.5
+GOMS_025,근로소득,산업별 월평균 근로소득,all,가구내 고용활동 및 달리 분류되지 않은 자가소비 생산활동,2015,mean_income_or_hours,35.0
+GOMS_025,근로소득,산업별 월평균 근로소득,all,국제 및 외국기관,2015,mean_income_or_hours,280.0
+GOMS_025,근로소득,산업별 월평균 근로소득,all,전체,2016,mean_income_or_hours,217.0
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"농업,임업 및 어업",2016,mean_income_or_hours,303.7
+GOMS_025,근로소득,산업별 월평균 근로소득,all,광업,2016,mean_income_or_hours,303.6
+GOMS_025,근로소득,산업별 월평균 근로소득,all,제조업,2016,mean_income_or_hours,264.1
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"전기, 가스, 증기 및 수도사업",2016,mean_income_or_hours,295.3
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"하수·폐기물처리, 원료재생 및 환경복원업",2016,mean_income_or_hours,253.7
+GOMS_025,근로소득,산업별 월평균 근로소득,all,건설업,2016,mean_income_or_hours,253.9
+GOMS_025,근로소득,산업별 월평균 근로소득,all,도매 및 소매업,2016,mean_income_or_hours,223.7
+GOMS_025,근로소득,산업별 월평균 근로소득,all,운수업,2016,mean_income_or_hours,260.0
+GOMS_025,근로소득,산업별 월평균 근로소득,all,숙박 및 음식점업,2016,mean_income_or_hours,160.3
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"출판, 영상, 방송통신 및 정보서비스업",2016,mean_income_or_hours,224.2
+GOMS_025,근로소득,산업별 월평균 근로소득,all,금융 및 보험업,2016,mean_income_or_hours,293.6
+GOMS_025,근로소득,산업별 월평균 근로소득,all,부동산업 및 임대업,2016,mean_income_or_hours,231.6
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"전문, 과학 및 기술 서비스업",2016,mean_income_or_hours,225.4
+GOMS_025,근로소득,산업별 월평균 근로소득,all,사업시설관리 및 사업지원 서비스업,2016,mean_income_or_hours,189.7
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"공공행정, 국방 및 사회보장 행정",2016,mean_income_or_hours,211.3
+GOMS_025,근로소득,산업별 월평균 근로소득,all,교육 서비스업,2016,mean_income_or_hours,160.4
+GOMS_025,근로소득,산업별 월평균 근로소득,all,보건업 및 사회복지 서비스업,2016,mean_income_or_hours,210.0
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"예술,스포츠 및 여가관련 서비스업",2016,mean_income_or_hours,167.2
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"협회 및 단체, 수리 및 기타 개인 서비스",2016,mean_income_or_hours,176.5
+GOMS_025,근로소득,산업별 월평균 근로소득,all,가구내 고용활동 및 달리 분류되지 않은 자가소비 생산활동,2016,mean_income_or_hours,0.0
+GOMS_025,근로소득,산업별 월평균 근로소득,all,국제 및 외국기관,2016,mean_income_or_hours,223.4
+GOMS_025,근로소득,산업별 월평균 근로소득,all,전체,2017,mean_income_or_hours,227.2
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"농업,임업 및 어업",2017,mean_income_or_hours,280.9
+GOMS_025,근로소득,산업별 월평균 근로소득,all,광업,2017,mean_income_or_hours,283.3
+GOMS_025,근로소득,산업별 월평균 근로소득,all,제조업,2017,mean_income_or_hours,278.9
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"전기, 가스, 증기 및 수도사업",2017,mean_income_or_hours,321.0
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"하수·폐기물처리, 원료재생 및 환경복원업",2017,mean_income_or_hours,278.8
+GOMS_025,근로소득,산업별 월평균 근로소득,all,건설업,2017,mean_income_or_hours,265.7
+GOMS_025,근로소득,산업별 월평균 근로소득,all,도매 및 소매업,2017,mean_income_or_hours,237.8
+GOMS_025,근로소득,산업별 월평균 근로소득,all,운수업,2017,mean_income_or_hours,264.9
+GOMS_025,근로소득,산업별 월평균 근로소득,all,숙박 및 음식점업,2017,mean_income_or_hours,160.1
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"출판, 영상, 방송통신 및 정보서비스업",2017,mean_income_or_hours,234.2
+GOMS_025,근로소득,산업별 월평균 근로소득,all,금융 및 보험업,2017,mean_income_or_hours,324.6
+GOMS_025,근로소득,산업별 월평균 근로소득,all,부동산업 및 임대업,2017,mean_income_or_hours,245.0
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"전문, 과학 및 기술 서비스업",2017,mean_income_or_hours,237.9
+GOMS_025,근로소득,산업별 월평균 근로소득,all,사업시설관리 및 사업지원 서비스업,2017,mean_income_or_hours,203.3
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"공공행정, 국방 및 사회보장 행정",2017,mean_income_or_hours,220.1
+GOMS_025,근로소득,산업별 월평균 근로소득,all,교육 서비스업,2017,mean_income_or_hours,164.6
+GOMS_025,근로소득,산업별 월평균 근로소득,all,보건업 및 사회복지 서비스업,2017,mean_income_or_hours,226.3
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"예술,스포츠 및 여가관련 서비스업",2017,mean_income_or_hours,162.8
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"협회 및 단체, 수리 및 기타 개인 서비스",2017,mean_income_or_hours,189.6
+GOMS_025,근로소득,산업별 월평균 근로소득,all,가구내 고용활동 및 달리 분류되지 않은 자가소비 생산활동,2017,mean_income_or_hours,110.0
+GOMS_025,근로소득,산업별 월평균 근로소득,all,국제 및 외국기관,2017,mean_income_or_hours,366.7
+GOMS_025,근로소득,산업별 월평균 근로소득,all,전체,2018,mean_income_or_hours,235.8
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"농업,임업 및 어업",2018,mean_income_or_hours,336.4
+GOMS_025,근로소득,산업별 월평균 근로소득,all,광업,2018,mean_income_or_hours,288.0
+GOMS_025,근로소득,산업별 월평균 근로소득,all,제조업,2018,mean_income_or_hours,282.6
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"전기, 가스, 증기 및 수도사업",2018,mean_income_or_hours,326.4
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"하수·폐기물처리, 원료재생 및 환경복원업",2018,mean_income_or_hours,256.2
+GOMS_025,근로소득,산업별 월평균 근로소득,all,건설업,2018,mean_income_or_hours,269.7
+GOMS_025,근로소득,산업별 월평균 근로소득,all,도매 및 소매업,2018,mean_income_or_hours,236.3
+GOMS_025,근로소득,산업별 월평균 근로소득,all,운수업,2018,mean_income_or_hours,279.8
+GOMS_025,근로소득,산업별 월평균 근로소득,all,숙박 및 음식점업,2018,mean_income_or_hours,163.0
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"출판, 영상, 방송통신 및 정보서비스업",2018,mean_income_or_hours,246.8
+GOMS_025,근로소득,산업별 월평균 근로소득,all,금융 및 보험업,2018,mean_income_or_hours,328.4
+GOMS_025,근로소득,산업별 월평균 근로소득,all,부동산업 및 임대업,2018,mean_income_or_hours,257.2
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"전문, 과학 및 기술 서비스업",2018,mean_income_or_hours,242.3
+GOMS_025,근로소득,산업별 월평균 근로소득,all,사업시설관리 및 사업지원 서비스업,2018,mean_income_or_hours,225.9
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"공공행정, 국방 및 사회보장 행정",2018,mean_income_or_hours,232.2
+GOMS_025,근로소득,산업별 월평균 근로소득,all,교육 서비스업,2018,mean_income_or_hours,170.8
+GOMS_025,근로소득,산업별 월평균 근로소득,all,보건업 및 사회복지 서비스업,2018,mean_income_or_hours,242.0
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"예술,스포츠 및 여가관련 서비스업",2018,mean_income_or_hours,162.8
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"협회 및 단체, 수리 및 기타 개인 서비스",2018,mean_income_or_hours,197.3
+GOMS_025,근로소득,산업별 월평균 근로소득,all,가구내 고용활동 및 달리 분류되지 않은 자가소비 생산활동,2018,mean_income_or_hours,65.5
+GOMS_025,근로소득,산업별 월평균 근로소득,all,국제 및 외국기관,2018,mean_income_or_hours,208.3
+GOMS_025,근로소득,산업별 월평균 근로소득,all,전체,2019,mean_income_or_hours,242.9
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"농업,임업 및 어업",2019,mean_income_or_hours,266.1
+GOMS_025,근로소득,산업별 월평균 근로소득,all,광업,2019,mean_income_or_hours,305.0
+GOMS_025,근로소득,산업별 월평균 근로소득,all,제조업,2019,mean_income_or_hours,283.8
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"전기, 가스, 증기 및 수도사업",2019,mean_income_or_hours,326.0
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"하수·폐기물처리, 원료재생 및 환경복원업",2019,mean_income_or_hours,267.3
+GOMS_025,근로소득,산업별 월평균 근로소득,all,건설업,2019,mean_income_or_hours,276.0
+GOMS_025,근로소득,산업별 월평균 근로소득,all,도매 및 소매업,2019,mean_income_or_hours,222.4
+GOMS_025,근로소득,산업별 월평균 근로소득,all,운수업,2019,mean_income_or_hours,265.1
+GOMS_025,근로소득,산업별 월평균 근로소득,all,숙박 및 음식점업,2019,mean_income_or_hours,151.8
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"출판, 영상, 방송통신 및 정보서비스업",2019,mean_income_or_hours,253.4
+GOMS_025,근로소득,산업별 월평균 근로소득,all,금융 및 보험업,2019,mean_income_or_hours,523.0
+GOMS_025,근로소득,산업별 월평균 근로소득,all,부동산업 및 임대업,2019,mean_income_or_hours,260.7
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"전문, 과학 및 기술 서비스업",2019,mean_income_or_hours,244.0
+GOMS_025,근로소득,산업별 월평균 근로소득,all,사업시설관리 및 사업지원 서비스업,2019,mean_income_or_hours,219.3
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"공공행정, 국방 및 사회보장 행정",2019,mean_income_or_hours,219.4
+GOMS_025,근로소득,산업별 월평균 근로소득,all,교육 서비스업,2019,mean_income_or_hours,187.1
+GOMS_025,근로소득,산업별 월평균 근로소득,all,보건업 및 사회복지 서비스업,2019,mean_income_or_hours,248.7
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"예술,스포츠 및 여가관련 서비스업",2019,mean_income_or_hours,162.9
+GOMS_025,근로소득,산업별 월평균 근로소득,all,"협회 및 단체, 수리 및 기타 개인 서비스",2019,mean_income_or_hours,197.0
+GOMS_025,근로소득,산업별 월평균 근로소득,all,가구내 고용활동 및 달리 분류되지 않은 자가소비 생산활동,2019,mean_income_or_hours,0.0
+GOMS_025,근로소득,산업별 월평균 근로소득,all,국제 및 외국기관,2019,mean_income_or_hours,222.5
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,전체,2007,mean_income_or_hours,196.4
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,관리직,2007,mean_income_or_hours,384.3
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,경영·회계·사무 관련직,2007,mean_income_or_hours,196.3
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,금융·보험 관련직,2007,mean_income_or_hours,277.1
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,교육 및 자연과학·사회과학 연구관련직,2007,mean_income_or_hours,153.6
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,법률·경찰·소방·교도 관련직,2007,mean_income_or_hours,253.8
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,보건·의료 관련직,2007,mean_income_or_hours,198.7
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,사회복지 및 종교 관련직,2007,mean_income_or_hours,131.9
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,문화·예술·디자인·방송 관련직,2007,mean_income_or_hours,159.8
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,운전 및 운송 관련직,2007,mean_income_or_hours,208.2
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,영업 및 판매 관련직,2007,mean_income_or_hours,207.9
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,경비 및 청소 관련직,2007,mean_income_or_hours,168.6
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,미용·숙박·여행·오락 스포츠 관련직,2007,mean_income_or_hours,169.0
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,음식서비스 관련직,2007,mean_income_or_hours,154.9
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,건설 관련직,2007,mean_income_or_hours,214.1
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,기계 관련직,2007,mean_income_or_hours,232.0
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,재료관련직,2007,mean_income_or_hours,205.5
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,화학 관련직,2007,mean_income_or_hours,217.5
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,섬유 및 의복 관련직,2007,mean_income_or_hours,153.2
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,전기·전자 관련직,2007,mean_income_or_hours,220.6
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,정보통신 관련직,2007,mean_income_or_hours,210.7
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,식품가공 관련직,2007,mean_income_or_hours,200.5
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,환경·인쇄·목재·가구·공예 및 생산단순직,2007,mean_income_or_hours,192.9
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,농림어업 관련직,2007,mean_income_or_hours,284.8
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,군인,2007,mean_income_or_hours,204.0
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,전체,2008,mean_income_or_hours,188.9
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,관리직,2008,mean_income_or_hours,454.1
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,경영·회계·사무 관련직,2008,mean_income_or_hours,186.2
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,금융·보험 관련직,2008,mean_income_or_hours,271.5
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,교육 및 자연과학·사회과학 연구관련직,2008,mean_income_or_hours,153.6
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,법률·경찰·소방·교도 관련직,2008,mean_income_or_hours,267.3
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,보건·의료 관련직,2008,mean_income_or_hours,197.0
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,사회복지 및 종교 관련직,2008,mean_income_or_hours,131.1
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,문화·예술·디자인·방송 관련직,2008,mean_income_or_hours,150.6
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,운전 및 운송 관련직,2008,mean_income_or_hours,197.3
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,영업 및 판매 관련직,2008,mean_income_or_hours,202.3
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,경비 및 청소 관련직,2008,mean_income_or_hours,149.7
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,미용·숙박·여행·오락 스포츠 관련직,2008,mean_income_or_hours,163.6
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,음식서비스 관련직,2008,mean_income_or_hours,144.3
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,건설 관련직,2008,mean_income_or_hours,213.4
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,기계 관련직,2008,mean_income_or_hours,227.8
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,재료관련직,2008,mean_income_or_hours,207.9
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,화학 관련직,2008,mean_income_or_hours,221.6
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,섬유 및 의복 관련직,2008,mean_income_or_hours,184.5
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,전기·전자 관련직,2008,mean_income_or_hours,206.6
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,정보통신 관련직,2008,mean_income_or_hours,206.2
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,식품가공 관련직,2008,mean_income_or_hours,174.9
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,환경·인쇄·목재·가구·공예 및 생산단순직,2008,mean_income_or_hours,179.9
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,농림어업 관련직,2008,mean_income_or_hours,365.4
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,군인,2008,mean_income_or_hours,194.1
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,전체,2009,mean_income_or_hours,192.5
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,관리직,2009,mean_income_or_hours,429.8
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,경영·회계·사무 관련직,2009,mean_income_or_hours,188.1
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,금융·보험 관련직,2009,mean_income_or_hours,259.7
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,교육 및 자연과학·사회과학 연구관련직,2009,mean_income_or_hours,161.4
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,법률·경찰·소방·교도 관련직,2009,mean_income_or_hours,247.5
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,보건·의료 관련직,2009,mean_income_or_hours,194.1
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,사회복지 및 종교 관련직,2009,mean_income_or_hours,131.7
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,문화·예술·디자인·방송 관련직,2009,mean_income_or_hours,158.3
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,운전 및 운송 관련직,2009,mean_income_or_hours,186.7
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,영업 및 판매 관련직,2009,mean_income_or_hours,199.8
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,경비 및 청소 관련직,2009,mean_income_or_hours,171.2
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,미용·숙박·여행·오락 스포츠 관련직,2009,mean_income_or_hours,180.7
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,음식서비스 관련직,2009,mean_income_or_hours,151.6
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,건설 관련직,2009,mean_income_or_hours,215.6
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,기계 관련직,2009,mean_income_or_hours,227.9
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,재료관련직,2009,mean_income_or_hours,228.8
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,화학 관련직,2009,mean_income_or_hours,237.4
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,섬유 및 의복 관련직,2009,mean_income_or_hours,155.5
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,전기·전자 관련직,2009,mean_income_or_hours,214.0
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,정보통신 관련직,2009,mean_income_or_hours,203.8
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,식품가공 관련직,2009,mean_income_or_hours,165.9
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,환경·인쇄·목재·가구·공예 및 생산단순직,2009,mean_income_or_hours,190.8
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,농림어업 관련직,2009,mean_income_or_hours,308.5
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,군인,2009,mean_income_or_hours,185.3
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,전체,2010,mean_income_or_hours,198.1
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,관리직,2010,mean_income_or_hours,551.8
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,경영·회계·사무 관련직,2010,mean_income_or_hours,200.3
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,금융·보험 관련직,2010,mean_income_or_hours,262.7
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,교육 및 자연과학·사회과학 연구관련직,2010,mean_income_or_hours,151.1
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,법률·경찰·소방·교도 관련직,2010,mean_income_or_hours,254.2
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,보건·의료 관련직,2010,mean_income_or_hours,199.8
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,사회복지 및 종교 관련직,2010,mean_income_or_hours,139.8
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,문화·예술·디자인·방송 관련직,2010,mean_income_or_hours,160.1
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,운전 및 운송 관련직,2010,mean_income_or_hours,204.0
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,영업 및 판매 관련직,2010,mean_income_or_hours,224.0
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,경비 및 청소 관련직,2010,mean_income_or_hours,160.8
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,미용·숙박·여행·오락 스포츠 관련직,2010,mean_income_or_hours,181.3
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,음식서비스 관련직,2010,mean_income_or_hours,154.8
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,건설 관련직,2010,mean_income_or_hours,221.7
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,기계 관련직,2010,mean_income_or_hours,246.0
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,재료관련직,2010,mean_income_or_hours,226.3
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,화학 관련직,2010,mean_income_or_hours,235.5
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,섬유 및 의복 관련직,2010,mean_income_or_hours,186.1
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,전기·전자 관련직,2010,mean_income_or_hours,241.8
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,정보통신 관련직,2010,mean_income_or_hours,221.2
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,식품가공 관련직,2010,mean_income_or_hours,172.9
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,환경·인쇄·목재·가구·공예 및 생산단순직,2010,mean_income_or_hours,189.2
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,농림어업 관련직,2010,mean_income_or_hours,340.0
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,군인,2010,mean_income_or_hours,202.0
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,전체,2011,mean_income_or_hours,207.3
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,관리직,2011,mean_income_or_hours,444.4
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,경영·회계·사무 관련직,2011,mean_income_or_hours,209.4
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,금융·보험 관련직,2011,mean_income_or_hours,288.9
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,교육 및 자연과학·사회과학 연구관련직,2011,mean_income_or_hours,155.8
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,법률·경찰·소방·교도 관련직,2011,mean_income_or_hours,304.1
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,보건·의료 관련직,2011,mean_income_or_hours,216.7
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,사회복지 및 종교 관련직,2011,mean_income_or_hours,143.3
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,문화·예술·디자인·방송 관련직,2011,mean_income_or_hours,170.5
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,운전 및 운송 관련직,2011,mean_income_or_hours,201.6
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,영업 및 판매 관련직,2011,mean_income_or_hours,217.5
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,경비 및 청소 관련직,2011,mean_income_or_hours,167.3
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,미용·숙박·여행·오락 스포츠 관련직,2011,mean_income_or_hours,176.2
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,음식서비스 관련직,2011,mean_income_or_hours,155.7
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,건설 관련직,2011,mean_income_or_hours,234.9
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,기계 관련직,2011,mean_income_or_hours,253.9
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,재료관련직,2011,mean_income_or_hours,241.8
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,화학 관련직,2011,mean_income_or_hours,247.4
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,섬유 및 의복 관련직,2011,mean_income_or_hours,171.0
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,전기·전자 관련직,2011,mean_income_or_hours,258.1
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,정보통신 관련직,2011,mean_income_or_hours,236.3
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,식품가공 관련직,2011,mean_income_or_hours,191.2
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,환경·인쇄·목재·가구·공예 및 생산단순직,2011,mean_income_or_hours,203.4
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,농림어업 관련직,2011,mean_income_or_hours,294.9
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,군인,2011,mean_income_or_hours,194.5
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,전체,2012,mean_income_or_hours,205.9
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,관리직,2012,mean_income_or_hours,496.1
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,경영·회계·사무 관련직,2012,mean_income_or_hours,204.7
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,금융·보험 관련직,2012,mean_income_or_hours,276.9
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,교육 및 자연과학·사회과학 연구관련직,2012,mean_income_or_hours,166.7
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,법률·경찰·소방·교도 관련직,2012,mean_income_or_hours,266.7
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,보건·의료 관련직,2012,mean_income_or_hours,209.0
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,사회복지 및 종교 관련직,2012,mean_income_or_hours,151.0
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,문화·예술·디자인·방송 관련직,2012,mean_income_or_hours,172.6
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,운전 및 운송 관련직,2012,mean_income_or_hours,214.8
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,영업 및 판매 관련직,2012,mean_income_or_hours,206.6
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,경비 및 청소 관련직,2012,mean_income_or_hours,167.6
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,미용·숙박·여행·오락 스포츠 관련직,2012,mean_income_or_hours,176.7
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,음식서비스 관련직,2012,mean_income_or_hours,147.7
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,건설 관련직,2012,mean_income_or_hours,235.2
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,기계 관련직,2012,mean_income_or_hours,256.9
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,재료관련직,2012,mean_income_or_hours,242.8
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,화학 관련직,2012,mean_income_or_hours,250.7
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,섬유 및 의복 관련직,2012,mean_income_or_hours,216.0
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,전기·전자 관련직,2012,mean_income_or_hours,235.4
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,정보통신 관련직,2012,mean_income_or_hours,235.1
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,식품가공 관련직,2012,mean_income_or_hours,215.0
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,환경·인쇄·목재·가구·공예 및 생산단순직,2012,mean_income_or_hours,202.9
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,농림어업 관련직,2012,mean_income_or_hours,200.5
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,군인,2012,mean_income_or_hours,184.0
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,전체,2013,mean_income_or_hours,204.7
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,관리직,2013,mean_income_or_hours,640.2
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,경영·회계·사무 관련직,2013,mean_income_or_hours,203.5
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,금융·보험 관련직,2013,mean_income_or_hours,288.8
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,교육 및 자연과학·사회과학 연구관련직,2013,mean_income_or_hours,170.9
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,법률·경찰·소방·교도 관련직,2013,mean_income_or_hours,249.9
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,보건·의료 관련직,2013,mean_income_or_hours,209.4
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,사회복지 및 종교 관련직,2013,mean_income_or_hours,154.0
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,문화·예술·디자인·방송 관련직,2013,mean_income_or_hours,171.2
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,운전 및 운송 관련직,2013,mean_income_or_hours,209.2
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,영업 및 판매 관련직,2013,mean_income_or_hours,219.5
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,경비 및 청소 관련직,2013,mean_income_or_hours,174.9
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,미용·숙박·여행·오락 스포츠 관련직,2013,mean_income_or_hours,164.0
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,음식서비스 관련직,2013,mean_income_or_hours,141.7
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,건설 관련직,2013,mean_income_or_hours,232.3
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,기계 관련직,2013,mean_income_or_hours,258.3
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,재료관련직,2013,mean_income_or_hours,260.2
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,화학 관련직,2013,mean_income_or_hours,224.0
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,섬유 및 의복 관련직,2013,mean_income_or_hours,194.5
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,전기·전자 관련직,2013,mean_income_or_hours,252.3
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,정보통신 관련직,2013,mean_income_or_hours,233.8
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,식품가공 관련직,2013,mean_income_or_hours,187.8
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,환경·인쇄·목재·가구·공예 및 생산단순직,2013,mean_income_or_hours,202.8
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,농림어업 관련직,2013,mean_income_or_hours,230.1
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,군인,2013,mean_income_or_hours,183.3
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,전체,2014,mean_income_or_hours,205.2
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,관리직,2014,mean_income_or_hours,438.3
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,경영·회계·사무 관련직,2014,mean_income_or_hours,207.2
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,금융·보험 관련직,2014,mean_income_or_hours,278.9
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,교육 및 자연과학·사회과학 연구관련직,2014,mean_income_or_hours,177.3
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,법률·경찰·소방·교도 관련직,2014,mean_income_or_hours,256.9
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,보건·의료 관련직,2014,mean_income_or_hours,213.1
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,사회복지 및 종교 관련직,2014,mean_income_or_hours,158.6
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,문화·예술·디자인·방송 관련직,2014,mean_income_or_hours,176.1
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,운전 및 운송 관련직,2014,mean_income_or_hours,223.4
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,영업 및 판매 관련직,2014,mean_income_or_hours,213.4
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,경비 및 청소 관련직,2014,mean_income_or_hours,166.4
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,미용·숙박·여행·오락 스포츠 관련직,2014,mean_income_or_hours,181.1
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,음식서비스 관련직,2014,mean_income_or_hours,146.1
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,건설 관련직,2014,mean_income_or_hours,218.5
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,기계 관련직,2014,mean_income_or_hours,251.8
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,재료관련직,2014,mean_income_or_hours,209.1
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,화학 관련직,2014,mean_income_or_hours,239.6
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,섬유 및 의복 관련직,2014,mean_income_or_hours,177.2
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,전기·전자 관련직,2014,mean_income_or_hours,240.3
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,정보통신 관련직,2014,mean_income_or_hours,233.1
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,식품가공 관련직,2014,mean_income_or_hours,182.4
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,환경·인쇄·목재·가구·공예 및 생산단순직,2014,mean_income_or_hours,211.3
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,농림어업 관련직,2014,mean_income_or_hours,242.9
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,군인,2014,mean_income_or_hours,182.2
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,전체,2015,mean_income_or_hours,207.8
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,관리직,2015,mean_income_or_hours,591.4
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,경영·회계·사무 관련직,2015,mean_income_or_hours,207.1
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,금융·보험 관련직,2015,mean_income_or_hours,280.4
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,교육 및 자연과학·사회과학 연구관련직,2015,mean_income_or_hours,174.7
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,법률·경찰·소방·교도 관련직,2015,mean_income_or_hours,258.4
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,보건·의료 관련직,2015,mean_income_or_hours,216.3
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,사회복지 및 종교 관련직,2015,mean_income_or_hours,167.5
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,문화·예술·디자인·방송 관련직,2015,mean_income_or_hours,182.2
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,운전 및 운송 관련직,2015,mean_income_or_hours,231.5
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,영업 및 판매 관련직,2015,mean_income_or_hours,212.0
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,경비 및 청소 관련직,2015,mean_income_or_hours,176.5
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,미용·숙박·여행·오락 스포츠 관련직,2015,mean_income_or_hours,193.7
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,음식서비스 관련직,2015,mean_income_or_hours,145.8
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,건설 관련직,2015,mean_income_or_hours,230.8
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,기계 관련직,2015,mean_income_or_hours,259.9
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,재료관련직,2015,mean_income_or_hours,212.3
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,화학 관련직,2015,mean_income_or_hours,223.1
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,섬유 및 의복 관련직,2015,mean_income_or_hours,206.4
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,전기·전자 관련직,2015,mean_income_or_hours,242.3
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,정보통신 관련직,2015,mean_income_or_hours,230.3
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,식품가공 관련직,2015,mean_income_or_hours,183.1
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,환경·인쇄·목재·가구·공예 및 생산단순직,2015,mean_income_or_hours,209.4
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,농림어업 관련직,2015,mean_income_or_hours,230.8
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,군인,2015,mean_income_or_hours,188.5
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,전체,2016,mean_income_or_hours,217.0
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,관리직,2016,mean_income_or_hours,603.2
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,경영·회계·사무 관련직,2016,mean_income_or_hours,220.9
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,금융·보험 관련직,2016,mean_income_or_hours,298.5
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,교육 및 자연과학·사회과학 연구관련직,2016,mean_income_or_hours,176.6
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,법률·경찰·소방·교도 관련직,2016,mean_income_or_hours,270.2
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,보건·의료 관련직,2016,mean_income_or_hours,228.8
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,사회복지 및 종교 관련직,2016,mean_income_or_hours,166.9
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,문화·예술·디자인·방송 관련직,2016,mean_income_or_hours,184.0
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,운전 및 운송 관련직,2016,mean_income_or_hours,231.8
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,영업 및 판매 관련직,2016,mean_income_or_hours,216.6
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,경비 및 청소 관련직,2016,mean_income_or_hours,175.6
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,미용·숙박·여행·오락 스포츠 관련직,2016,mean_income_or_hours,188.0
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,음식서비스 관련직,2016,mean_income_or_hours,142.7
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,건설 관련직,2016,mean_income_or_hours,237.2
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,기계 관련직,2016,mean_income_or_hours,265.9
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,재료관련직,2016,mean_income_or_hours,229.7
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,화학 관련직,2016,mean_income_or_hours,247.0
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,섬유 및 의복 관련직,2016,mean_income_or_hours,190.8
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,전기·전자 관련직,2016,mean_income_or_hours,248.8
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,정보통신 관련직,2016,mean_income_or_hours,244.8
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,식품가공 관련직,2016,mean_income_or_hours,186.5
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,환경·인쇄·목재·가구·공예 및 생산단순직,2016,mean_income_or_hours,224.2
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,농림어업 관련직,2016,mean_income_or_hours,289.8
+GOMS_026,근로소득,직업별 월평균 근로소득(~2016),pre_2017,군인,2016,mean_income_or_hours,214.9
+GOMS_027,근로소득,직업별 월평균 근로소득(2017~),post_2017,전체,2017,mean_income_or_hours,227.2
+GOMS_027,근로소득,직업별 월평균 근로소득(2017~),post_2017,경영·사무·금융·보험직,2017,mean_income_or_hours,244.3
+GOMS_027,근로소득,직업별 월평균 근로소득(2017~),post_2017,연구직 및 공학 기술직,2017,mean_income_or_hours,237.9
+GOMS_027,근로소득,직업별 월평균 근로소득(2017~),post_2017,교육·법률·사회복지·경찰·소방직 및 군인,2017,mean_income_or_hours,193.8
+GOMS_027,근로소득,직업별 월평균 근로소득(2017~),post_2017,보건·의료직,2017,mean_income_or_hours,249.8
+GOMS_027,근로소득,직업별 월평균 근로소득(2017~),post_2017,예술·디자인·방송·스포츠직,2017,mean_income_or_hours,197.5
+GOMS_027,근로소득,직업별 월평균 근로소득(2017~),post_2017,미용·여행·숙박·음식·경비·청소직,2017,mean_income_or_hours,154.3
+GOMS_027,근로소득,직업별 월평균 근로소득(2017~),post_2017,영업·판매·운전·운송직,2017,mean_income_or_hours,225.7
+GOMS_027,근로소득,직업별 월평균 근로소득(2017~),post_2017,건설·채굴직,2017,mean_income_or_hours,278.9
+GOMS_027,근로소득,직업별 월평균 근로소득(2017~),post_2017,설치·정비·생산직,2017,mean_income_or_hours,263.5
+GOMS_027,근로소득,직업별 월평균 근로소득(2017~),post_2017,농림어업직,2017,mean_income_or_hours,269.8
+GOMS_027,근로소득,직업별 월평균 근로소득(2017~),post_2017,전체,2018,mean_income_or_hours,235.7
+GOMS_027,근로소득,직업별 월평균 근로소득(2017~),post_2017,경영·사무·금융·보험직,2018,mean_income_or_hours,251.2
+GOMS_027,근로소득,직업별 월평균 근로소득(2017~),post_2017,연구직 및 공학 기술직,2018,mean_income_or_hours,244.2
+GOMS_027,근로소득,직업별 월평균 근로소득(2017~),post_2017,교육·법률·사회복지·경찰·소방직 및 군인,2018,mean_income_or_hours,203.0
+GOMS_027,근로소득,직업별 월평균 근로소득(2017~),post_2017,보건·의료직,2018,mean_income_or_hours,268.6
+GOMS_027,근로소득,직업별 월평균 근로소득(2017~),post_2017,예술·디자인·방송·스포츠직,2018,mean_income_or_hours,208.6
+GOMS_027,근로소득,직업별 월평균 근로소득(2017~),post_2017,미용·여행·숙박·음식·경비·청소직,2018,mean_income_or_hours,161.7
+GOMS_027,근로소득,직업별 월평균 근로소득(2017~),post_2017,영업·판매·운전·운송직,2018,mean_income_or_hours,226.5
+GOMS_027,근로소득,직업별 월평균 근로소득(2017~),post_2017,건설·채굴직,2018,mean_income_or_hours,256.7
+GOMS_027,근로소득,직업별 월평균 근로소득(2017~),post_2017,설치·정비·생산직,2018,mean_income_or_hours,274.3
+GOMS_027,근로소득,직업별 월평균 근로소득(2017~),post_2017,농림어업직,2018,mean_income_or_hours,328.8
+GOMS_027,근로소득,직업별 월평균 근로소득(2017~),post_2017,전체,2019,mean_income_or_hours,236.4
+GOMS_027,근로소득,직업별 월평균 근로소득(2017~),post_2017,경영·사무·금융·보험직,2019,mean_income_or_hours,246.1
+GOMS_027,근로소득,직업별 월평균 근로소득(2017~),post_2017,연구직 및 공학 기술직,2019,mean_income_or_hours,259.2
+GOMS_027,근로소득,직업별 월평균 근로소득(2017~),post_2017,교육·법률·사회복지·경찰·소방직 및 군인,2019,mean_income_or_hours,205.9
+GOMS_027,근로소득,직업별 월평균 근로소득(2017~),post_2017,보건·의료직,2019,mean_income_or_hours,274.1
+GOMS_027,근로소득,직업별 월평균 근로소득(2017~),post_2017,예술·디자인·방송·스포츠직,2019,mean_income_or_hours,215.5
+GOMS_027,근로소득,직업별 월평균 근로소득(2017~),post_2017,미용·여행·숙박·음식·경비·청소직,2019,mean_income_or_hours,148.3
+GOMS_027,근로소득,직업별 월평균 근로소득(2017~),post_2017,영업·판매·운전·운송직,2019,mean_income_or_hours,206.6
+GOMS_027,근로소득,직업별 월평균 근로소득(2017~),post_2017,건설·채굴직,2019,mean_income_or_hours,302.7
+GOMS_027,근로소득,직업별 월평균 근로소득(2017~),post_2017,설치·정비·생산직,2019,mean_income_or_hours,273.6
+GOMS_027,근로소득,직업별 월평균 근로소득(2017~),post_2017,농림어업직,2019,mean_income_or_hours,249.6
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,전체,2007,mean_income_or_hours,195.9
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,1. 1～4명,2007,mean_income_or_hours,171.2
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,2. 5～9명,2007,mean_income_or_hours,164.3
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,3. 10～29명,2007,mean_income_or_hours,182.5
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,4. 30～49명,2007,mean_income_or_hours,194.8
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,5. 50～99명,2007,mean_income_or_hours,197.1
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,6. 100～299명,2007,mean_income_or_hours,202.9
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,7. 300～499명,2007,mean_income_or_hours,210.2
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,8. 500～999명,2007,mean_income_or_hours,223.4
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,"9. 1,000명 이상",2007,mean_income_or_hours,252.7
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,전체,2008,mean_income_or_hours,189.0
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,1. 1～4명,2008,mean_income_or_hours,164.1
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,2. 5～9명,2008,mean_income_or_hours,160.0
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,3. 10～29명,2008,mean_income_or_hours,187.2
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,4. 30～49명,2008,mean_income_or_hours,190.1
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,5. 50～99명,2008,mean_income_or_hours,188.3
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,6. 100～299명,2008,mean_income_or_hours,195.4
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,7. 300～499명,2008,mean_income_or_hours,201.3
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,8. 500～999명,2008,mean_income_or_hours,211.8
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,"9. 1,000명 이상",2008,mean_income_or_hours,230.2
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,전체,2009,mean_income_or_hours,190.1
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,1. 1～4명,2009,mean_income_or_hours,172.8
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,2. 5～9명,2009,mean_income_or_hours,164.2
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,3. 10～29명,2009,mean_income_or_hours,180.6
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,4. 30～49명,2009,mean_income_or_hours,181.8
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,5. 50～99명,2009,mean_income_or_hours,186.6
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,6. 100～299명,2009,mean_income_or_hours,195.1
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,7. 300～499명,2009,mean_income_or_hours,206.2
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,8. 500～999명,2009,mean_income_or_hours,207.9
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,"9. 1,000명 이상",2009,mean_income_or_hours,244.9
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,전체,2010,mean_income_or_hours,198.2
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,1. 1～4명,2010,mean_income_or_hours,170.4
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,2. 5～9명,2010,mean_income_or_hours,182.0
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,3. 10～29명,2010,mean_income_or_hours,189.1
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,4. 30～49명,2010,mean_income_or_hours,190.1
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,5. 50～99명,2010,mean_income_or_hours,195.8
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,6. 100～299명,2010,mean_income_or_hours,201.2
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,7. 300～499명,2010,mean_income_or_hours,212.1
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,8. 500～999명,2010,mean_income_or_hours,218.1
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,"9. 1,000명 이상",2010,mean_income_or_hours,248.7
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,전체,2011,mean_income_or_hours,206.6
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,1. 1～4명,2011,mean_income_or_hours,181.3
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,2. 5～9명,2011,mean_income_or_hours,173.0
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,3. 10～29명,2011,mean_income_or_hours,197.7
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,4. 30～49명,2011,mean_income_or_hours,199.8
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,5. 50～99명,2011,mean_income_or_hours,202.0
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,6. 100～299명,2011,mean_income_or_hours,215.1
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,7. 300～499명,2011,mean_income_or_hours,222.6
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,8. 500～999명,2011,mean_income_or_hours,225.6
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,"9. 1,000명 이상",2011,mean_income_or_hours,252.0
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,전체,2012,mean_income_or_hours,203.6
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,1. 1～4명,2012,mean_income_or_hours,167.4
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,2. 5～9명,2012,mean_income_or_hours,172.5
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,3. 10～29명,2012,mean_income_or_hours,189.8
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,4. 30～49명,2012,mean_income_or_hours,197.3
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,5. 50～99명,2012,mean_income_or_hours,198.8
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,6. 100～299명,2012,mean_income_or_hours,209.8
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,7. 300～499명,2012,mean_income_or_hours,227.9
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,8. 500～999명,2012,mean_income_or_hours,233.2
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,"9. 1,000명 이상",2012,mean_income_or_hours,265.5
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,전체,2013,mean_income_or_hours,205.5
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,1. 1～4명,2013,mean_income_or_hours,172.6
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,2. 5～9명,2013,mean_income_or_hours,169.2
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,3. 10～29명,2013,mean_income_or_hours,190.0
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,4. 30～49명,2013,mean_income_or_hours,199.6
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,5. 50～99명,2013,mean_income_or_hours,202.6
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,6. 100～299명,2013,mean_income_or_hours,215.0
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,7. 300～499명,2013,mean_income_or_hours,225.2
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,8. 500～999명,2013,mean_income_or_hours,236.5
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,"9. 1,000명 이상",2013,mean_income_or_hours,275.9
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,전체,2014,mean_income_or_hours,206.1
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,1. 1～4명,2014,mean_income_or_hours,171.6
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,2. 5～9명,2014,mean_income_or_hours,173.2
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,3. 10～29명,2014,mean_income_or_hours,192.1
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,4. 30～49명,2014,mean_income_or_hours,202.8
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,5. 50～99명,2014,mean_income_or_hours,208.3
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,6. 100～299명,2014,mean_income_or_hours,217.3
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,7. 300～499명,2014,mean_income_or_hours,226.4
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,8. 500～999명,2014,mean_income_or_hours,240.2
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,"9. 1,000명 이상",2014,mean_income_or_hours,260.3
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,전체,2015,mean_income_or_hours,208.2
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,1. 1～4명,2015,mean_income_or_hours,175.5
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,2. 5～9명,2015,mean_income_or_hours,175.9
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,3. 10～29명,2015,mean_income_or_hours,199.3
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,4. 30～49명,2015,mean_income_or_hours,208.4
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,5. 50～99명,2015,mean_income_or_hours,212.4
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,6. 100～299명,2015,mean_income_or_hours,219.8
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,7. 300～499명,2015,mean_income_or_hours,228.4
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,8. 500～999명,2015,mean_income_or_hours,227.9
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,"9. 1,000명 이상",2015,mean_income_or_hours,259.9
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,전체,2016,mean_income_or_hours,219.1
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,1. 1～4명,2016,mean_income_or_hours,178.4
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,2. 5～9명,2016,mean_income_or_hours,187.2
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,3. 10～29명,2016,mean_income_or_hours,211.2
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,4. 30～49명,2016,mean_income_or_hours,220.5
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,5. 50～99명,2016,mean_income_or_hours,221.2
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,6. 100～299명,2016,mean_income_or_hours,237.9
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,7. 300～499명,2016,mean_income_or_hours,242.1
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,8. 500～999명,2016,mean_income_or_hours,249.4
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,"9. 1,000명 이상",2016,mean_income_or_hours,262.9
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,전체,2017,mean_income_or_hours,230.0
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,1. 1～4명,2017,mean_income_or_hours,185.5
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,2. 5～9명,2017,mean_income_or_hours,196.8
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,3. 10～29명,2017,mean_income_or_hours,217.1
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,4. 30～49명,2017,mean_income_or_hours,223.4
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,5. 50～99명,2017,mean_income_or_hours,237.2
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,6. 100～299명,2017,mean_income_or_hours,248.8
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,7. 300～499명,2017,mean_income_or_hours,262.5
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,8. 500～999명,2017,mean_income_or_hours,268.0
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,"9. 1,000명 이상",2017,mean_income_or_hours,284.8
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,전체,2018,mean_income_or_hours,238.7
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,1. 1～4명,2018,mean_income_or_hours,195.8
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,2. 5～9명,2018,mean_income_or_hours,197.9
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,3. 10～29명,2018,mean_income_or_hours,225.2
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,4. 30～49명,2018,mean_income_or_hours,237.8
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,5. 50～99명,2018,mean_income_or_hours,237.4
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,6. 100～299명,2018,mean_income_or_hours,254.3
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,7. 300～499명,2018,mean_income_or_hours,271.1
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,8. 500～999명,2018,mean_income_or_hours,273.7
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,"9. 1,000명 이상",2018,mean_income_or_hours,298.1
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,전체,2019,mean_income_or_hours,247.2
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,1. 1～4명,2019,mean_income_or_hours,183.0
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,2. 5～9명,2019,mean_income_or_hours,198.4
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,3. 10～29명,2019,mean_income_or_hours,226.6
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,4. 30～49명,2019,mean_income_or_hours,239.0
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,5. 50～99명,2019,mean_income_or_hours,243.8
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,6. 100～299명,2019,mean_income_or_hours,254.0
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,7. 300～499명,2019,mean_income_or_hours,270.2
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,8. 500～999명,2019,mean_income_or_hours,273.1
+GOMS_028,근로소득,사업체 규모별 월평균 근로소득,all,"9. 1,000명 이상",2019,mean_income_or_hours,360.2
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,전체,2007,mean_income_or_hours,195.8
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,1. 내국인이 운영하는 국내외의 민간회사 또는개인사업체,2007,mean_income_or_hours,201.1
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,2. 외국인이 운영하는 국내외에 위치하는 외국인 회사,2007,mean_income_or_hours,242.3
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,3. 정부투자기관/정부출연기관/공사합동기업,2007,mean_income_or_hours,232.7
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,"4. (재단, 사단) 법인단체",2007,mean_income_or_hours,177.3
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,"5. 정부기관(공무원, 군인 등)",2007,mean_income_or_hours,196.8
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,"6. 교육기관(대학, 초/중/고 등)",2007,mean_income_or_hours,153.0
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,7. 연구기관(국립/사립),2007,mean_income_or_hours,141.2
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,8. 특정한 회사나 사업체에 소속되어 있지 않다,2007,mean_income_or_hours,120.1
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,9. 기타,2007,mean_income_or_hours,160.7
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,전체,2008,mean_income_or_hours,188.9
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,1. 내국인이 운영하는 국내외의 민간회사 또는개인사업체,2008,mean_income_or_hours,196.6
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,2. 외국인이 운영하는 국내외에 위치하는 외국인 회사,2008,mean_income_or_hours,240.9
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,3. 정부투자기관/정부출연기관/공사합동기업,2008,mean_income_or_hours,195.9
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,"4. (재단, 사단) 법인단체",2008,mean_income_or_hours,146.5
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,"5. 정부기관(공무원, 군인 등)",2008,mean_income_or_hours,171.2
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,"6. 교육기관(대학, 초/중/고 등)",2008,mean_income_or_hours,161.5
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,7. 연구기관(국립/사립),2008,mean_income_or_hours,152.3
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,8. 특정한 회사나 사업체에 소속되어 있지 않다,2008,mean_income_or_hours,134.6
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,9. 기타,2008,mean_income_or_hours,212.5
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,전체,2009,mean_income_or_hours,190.0
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,1. 내국인이 운영하는 국내외의 민간회사 또는개인사업체,2009,mean_income_or_hours,194.0
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,2. 외국인이 운영하는 국내외에 위치하는 외국인 회사,2009,mean_income_or_hours,235.2
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,3. 정부투자기관/정부출연기관/공사합동기업,2009,mean_income_or_hours,193.0
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,"4. (재단, 사단) 법인단체",2009,mean_income_or_hours,174.0
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,"5. 정부기관(공무원, 군인 등)",2009,mean_income_or_hours,183.7
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,"6. 교육기관(대학, 초/중/고 등)",2009,mean_income_or_hours,161.6
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,7. 연구기관(국립/사립),2009,mean_income_or_hours,145.8
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,8. 특정한 회사나 사업체에 소속되어 있지 않다,2009,mean_income_or_hours,182.3
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,9. 기타,2009,mean_income_or_hours,167.8
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,전체,2010,mean_income_or_hours,198.1
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,1. 내국인이 운영하는 국내외의 민간회사 또는개인사업체,2010,mean_income_or_hours,207.9
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,2. 외국인이 운영하는 국내외에 위치하는 외국인 회사,2010,mean_income_or_hours,249.9
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,3. 정부투자기관/정부출연기관/공사합동기업,2010,mean_income_or_hours,199.3
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,"4. (재단, 사단) 법인단체",2010,mean_income_or_hours,176.0
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,"5. 정부기관(공무원, 군인 등)",2010,mean_income_or_hours,190.9
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,"6. 교육기관(대학, 초/중/고 등)",2010,mean_income_or_hours,149.6
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,7. 연구기관(국립/사립),2010,mean_income_or_hours,130.3
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,8. 특정한 회사나 사업체에 소속되어 있지 않다,2010,mean_income_or_hours,150.2
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,9. 기타,2010,mean_income_or_hours,168.4
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,전체,2011,mean_income_or_hours,206.5
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,1. 내국인이 운영하는 국내외의 민간회사 또는개인사업체,2011,mean_income_or_hours,219.3
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,2. 외국인이 운영하는 국내외에 위치하는 외국인 회사,2011,mean_income_or_hours,247.9
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,3. 정부투자기관/정부출연기관/공사합동기업,2011,mean_income_or_hours,204.0
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,"4. (재단, 사단) 법인단체",2011,mean_income_or_hours,181.6
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,"5. 정부기관(공무원, 군인 등)",2011,mean_income_or_hours,199.9
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,"6. 교육기관(대학, 초/중/고 등)",2011,mean_income_or_hours,150.3
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,7. 연구기관(국립/사립),2011,mean_income_or_hours,151.2
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,8. 특정한 회사나 사업체에 소속되어 있지 않다,2011,mean_income_or_hours,174.3
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,9. 기타,2011,mean_income_or_hours,152.5
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,전체,2012,mean_income_or_hours,202.8
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,1. 내국인이 운영하는 국내외의 민간회사 또는개인사업체,2012,mean_income_or_hours,210.9
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,2. 외국인이 운영하는 국내외에 위치하는 외국인 회사,2012,mean_income_or_hours,247.4
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,3. 정부투자기관/정부출연기관/공사합동기업,2012,mean_income_or_hours,214.3
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,"4. (재단, 사단) 법인단체",2012,mean_income_or_hours,193.8
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,"5. 정부기관(공무원, 군인 등)",2012,mean_income_or_hours,191.7
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,"6. 교육기관(대학, 초/중/고 등)",2012,mean_income_or_hours,159.8
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,7. 연구기관(국립/사립),2012,mean_income_or_hours,156.1
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,8. 특정한 회사나 사업체에 소속되어 있지 않다,2012,mean_income_or_hours,169.1
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,9. 기타,2012,mean_income_or_hours,178.4
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,전체,2013,mean_income_or_hours,204.6
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,1. 내국인이 운영하는 국내외의 민간회사 또는개인사업체,2013,mean_income_or_hours,212.2
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,2. 외국인이 운영하는 국내외에 위치하는 외국인 회사,2013,mean_income_or_hours,231.0
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,3. 정부투자기관/정부출연기관/공사합동기업,2013,mean_income_or_hours,208.7
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,"4. (재단, 사단) 법인단체",2013,mean_income_or_hours,202.2
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,"5. 정부기관(공무원, 군인 등)",2013,mean_income_or_hours,190.8
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,"6. 교육기관(대학, 초/중/고 등)",2013,mean_income_or_hours,169.9
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,7. 연구기관(국립/사립),2013,mean_income_or_hours,173.6
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,8. 특정한 회사나 사업체에 소속되어 있지 않다,2013,mean_income_or_hours,184.6
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,9. 기타,2013,mean_income_or_hours,100.3
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,전체,2014,mean_income_or_hours,205.2
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,1. 내국인이 운영하는 국내외의 민간회사 또는개인사업체,2014,mean_income_or_hours,213.0
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,2. 외국인이 운영하는 국내외에 위치하는 외국인 회사,2014,mean_income_or_hours,242.5
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,3. 정부투자기관/정부출연기관/공사합동기업,2014,mean_income_or_hours,211.7
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,"4. (재단, 사단) 법인단체",2014,mean_income_or_hours,197.8
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,"5. 정부기관(공무원, 군인 등)",2014,mean_income_or_hours,192.7
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,"6. 교육기관(대학, 초/중/고 등)",2014,mean_income_or_hours,165.0
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,7. 연구기관(국립/사립),2014,mean_income_or_hours,182.5
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,8. 특정한 회사나 사업체에 소속되어 있지 않다,2014,mean_income_or_hours,177.6
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,9. 기타,2014,mean_income_or_hours,118.1
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,전체,2015,mean_income_or_hours,207.9
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,1. 내국인이 운영하는 국내외의 민간회사 또는개인사업체,2015,mean_income_or_hours,214.2
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,2. 외국인이 운영하는 국내외에 위치하는 외국인 회사,2015,mean_income_or_hours,246.8
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,3. 정부투자기관/정부출연기관/공사합동기업,2015,mean_income_or_hours,224.4
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,"4. (재단, 사단) 법인단체",2015,mean_income_or_hours,205.0
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,"5. 정부기관(공무원, 군인 등)",2015,mean_income_or_hours,199.6
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,"6. 교육기관(대학, 초/중/고 등)",2015,mean_income_or_hours,168.4
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,7. 연구기관(국립/사립),2015,mean_income_or_hours,142.4
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,8. 특정한 회사나 사업체에 소속되어 있지 않다,2015,mean_income_or_hours,210.7
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,9. 기타,2015,mean_income_or_hours,205.1
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,전체,2016,mean_income_or_hours,217.0
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,1. 내국인이 운영하는 국내외의 민간회사 또는개인사업체,2016,mean_income_or_hours,224.5
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,2. 외국인이 운영하는 국내외에 위치하는 외국인 회사,2016,mean_income_or_hours,262.9
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,3. 정부투자기관/정부출연기관/공사합동기업,2016,mean_income_or_hours,236.5
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,"4. (재단, 사단) 법인단체",2016,mean_income_or_hours,216.3
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,"5. 정부기관(공무원, 군인 등)",2016,mean_income_or_hours,213.0
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,"6. 교육기관(대학, 초/중/고 등)",2016,mean_income_or_hours,158.7
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,7. 연구기관(국립/사립),2016,mean_income_or_hours,168.9
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,8. 특정한 회사나 사업체에 소속되어 있지 않다,2016,mean_income_or_hours,184.2
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,9. 기타,2016,mean_income_or_hours,200.0
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,전체,2017,mean_income_or_hours,227.2
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,1. 내국인이 운영하는 국내외의 민간회사 또는개인사업체,2017,mean_income_or_hours,237.2
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,2. 외국인이 운영하는 국내외에 위치하는 외국인 회사,2017,mean_income_or_hours,283.1
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,3. 정부투자기관/정부출연기관/공사합동기업,2017,mean_income_or_hours,252.9
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,"4. (재단, 사단) 법인단체",2017,mean_income_or_hours,217.4
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,"5. 정부기관(공무원, 군인 등)",2017,mean_income_or_hours,217.4
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,"6. 교육기관(대학, 초/중/고 등)",2017,mean_income_or_hours,169.8
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,7. 연구기관(국립/사립),2017,mean_income_or_hours,166.7
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,8. 특정한 회사나 사업체에 소속되어 있지 않다,2017,mean_income_or_hours,169.8
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,9. 기타,2017,mean_income_or_hours,283.3
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,전체,2018,mean_income_or_hours,235.7
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,1. 내국인이 운영하는 국내외의 민간회사 또는개인사업체,2018,mean_income_or_hours,245.4
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,2. 외국인이 운영하는 국내외에 위치하는 외국인 회사,2018,mean_income_or_hours,275.3
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,3. 정부투자기관/정부출연기관/공사합동기업,2018,mean_income_or_hours,266.2
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,"4. (재단, 사단) 법인단체",2018,mean_income_or_hours,229.9
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,"5. 정부기관(공무원, 군인 등)",2018,mean_income_or_hours,234.1
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,"6. 교육기관(대학, 초/중/고 등)",2018,mean_income_or_hours,171.3
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,7. 연구기관(국립/사립),2018,mean_income_or_hours,159.3
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,8. 특정한 회사나 사업체에 소속되어 있지 않다,2018,mean_income_or_hours,220.1
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,9. 기타,2018,mean_income_or_hours,150.0
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,전체,2019,mean_income_or_hours,242.7
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,1. 내국인이 운영하는 국내외의 민간회사 또는개인사업체,2019,mean_income_or_hours,251.3
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,2. 외국인이 운영하는 국내외에 위치하는 외국인 회사,2019,mean_income_or_hours,269.5
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,3. 정부투자기관/정부출연기관/공사합동기업,2019,mean_income_or_hours,267.5
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,"4. (재단, 사단) 법인단체",2019,mean_income_or_hours,247.2
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,"5. 정부기관(공무원, 군인 등)",2019,mean_income_or_hours,222.0
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,"6. 교육기관(대학, 초/중/고 등)",2019,mean_income_or_hours,194.7
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,7. 연구기관(국립/사립),2019,mean_income_or_hours,209.6
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,8. 특정한 회사나 사업체에 소속되어 있지 않다,2019,mean_income_or_hours,242.2
+GOMS_029,근로소득,사업체 유형별 월평균 근로소득,all,9. 기타,2019,mean_income_or_hours,203.3
+GOMS_030,근로소득,종사상지위별 월평균 근로소득,all,전체,2007,mean_income_or_hours,196.5
+GOMS_030,근로소득,종사상지위별 월평균 근로소득,all,1. 상용근로자,2007,mean_income_or_hours,203.9
+GOMS_030,근로소득,종사상지위별 월평균 근로소득,all,2. 임시근로자,2007,mean_income_or_hours,123.3
+GOMS_030,근로소득,종사상지위별 월평균 근로소득,all,3. 일용근로자,2007,mean_income_or_hours,105.1
+GOMS_030,근로소득,종사상지위별 월평균 근로소득,all,4. 고용원이 있는 자영업자,2007,mean_income_or_hours,352.9
+GOMS_030,근로소득,종사상지위별 월평균 근로소득,all,5. 고용원이 없는 자영업자,2007,mean_income_or_hours,206.0
+GOMS_030,근로소득,종사상지위별 월평균 근로소득,all,6. 무급가족종사자,2007,mean_income_or_hours,130.0
+GOMS_030,근로소득,종사상지위별 월평균 근로소득,all,전체,2008,mean_income_or_hours,188.9
+GOMS_030,근로소득,종사상지위별 월평균 근로소득,all,1. 상용근로자,2008,mean_income_or_hours,196.5
+GOMS_030,근로소득,종사상지위별 월평균 근로소득,all,2. 임시근로자,2008,mean_income_or_hours,113.4
+GOMS_030,근로소득,종사상지위별 월평균 근로소득,all,3. 일용근로자,2008,mean_income_or_hours,95.0
+GOMS_030,근로소득,종사상지위별 월평균 근로소득,all,4. 고용원이 있는 자영업자,2008,mean_income_or_hours,382.0
+GOMS_030,근로소득,종사상지위별 월평균 근로소득,all,5. 고용원이 없는 자영업자,2008,mean_income_or_hours,178.0
+GOMS_030,근로소득,종사상지위별 월평균 근로소득,all,6. 무급가족종사자,2008,mean_income_or_hours,26.7
+GOMS_030,근로소득,종사상지위별 월평균 근로소득,all,전체,2009,mean_income_or_hours,192.5
+GOMS_030,근로소득,종사상지위별 월평균 근로소득,all,1. 상용근로자,2009,mean_income_or_hours,196.1
+GOMS_030,근로소득,종사상지위별 월평균 근로소득,all,2. 임시근로자,2009,mean_income_or_hours,121.3
+GOMS_030,근로소득,종사상지위별 월평균 근로소득,all,3. 일용근로자,2009,mean_income_or_hours,106.7
+GOMS_030,근로소득,종사상지위별 월평균 근로소득,all,4. 고용원이 있는 자영업자,2009,mean_income_or_hours,360.2
+GOMS_030,근로소득,종사상지위별 월평균 근로소득,all,5. 고용원이 없는 자영업자,2009,mean_income_or_hours,202.4
+GOMS_030,근로소득,종사상지위별 월평균 근로소득,all,6. 무급가족종사자,2009,mean_income_or_hours,0.0
+GOMS_030,근로소득,종사상지위별 월평균 근로소득,all,전체,2010,mean_income_or_hours,198.3
+GOMS_030,근로소득,종사상지위별 월평균 근로소득,all,1. 상용근로자,2010,mean_income_or_hours,206.9
+GOMS_030,근로소득,종사상지위별 월평균 근로소득,all,2. 임시근로자,2010,mean_income_or_hours,110.1
+GOMS_030,근로소득,종사상지위별 월평균 근로소득,all,3. 일용근로자,2010,mean_income_or_hours,108.9
+GOMS_030,근로소득,종사상지위별 월평균 근로소득,all,4. 고용원이 있는 자영업자,2010,mean_income_or_hours,418.0
+GOMS_030,근로소득,종사상지위별 월평균 근로소득,all,5. 고용원이 없는 자영업자,2010,mean_income_or_hours,194.5
+GOMS_030,근로소득,종사상지위별 월평균 근로소득,all,6. 무급가족종사자,2010,mean_income_or_hours,0.0
+GOMS_030,근로소득,종사상지위별 월평균 근로소득,all,전체,2011,mean_income_or_hours,206.5
+GOMS_030,근로소득,종사상지위별 월평균 근로소득,all,1. 상용근로자,2011,mean_income_or_hours,219.6
+GOMS_030,근로소득,종사상지위별 월평균 근로소득,all,2. 임시근로자,2011,mean_income_or_hours,123.4
+GOMS_030,근로소득,종사상지위별 월평균 근로소득,all,3. 일용근로자,2011,mean_income_or_hours,132.6
+GOMS_030,근로소득,종사상지위별 월평균 근로소득,all,4. 고용원이 있는 자영업자,2011,mean_income_or_hours,378.6
+GOMS_030,근로소득,종사상지위별 월평균 근로소득,all,5. 고용원이 없는 자영업자,2011,mean_income_or_hours,204.8
+GOMS_030,근로소득,종사상지위별 월평균 근로소득,all,6. 무급가족종사자,2011,mean_income_or_hours,0.0
+GOMS_030,근로소득,종사상지위별 월평균 근로소득,all,전체,2012,mean_income_or_hours,205.1
+GOMS_030,근로소득,종사상지위별 월평균 근로소득,all,1. 상용근로자,2012,mean_income_or_hours,217.8
+GOMS_030,근로소득,종사상지위별 월평균 근로소득,all,2. 임시근로자,2012,mean_income_or_hours,132.3
+GOMS_030,근로소득,종사상지위별 월평균 근로소득,all,3. 일용근로자,2012,mean_income_or_hours,101.4
+GOMS_030,근로소득,종사상지위별 월평균 근로소득,all,4. 고용원이 있는 자영업자,2012,mean_income_or_hours,401.9
+GOMS_030,근로소득,종사상지위별 월평균 근로소득,all,5. 고용원이 없는 자영업자,2012,mean_income_or_hours,193.6
+GOMS_030,근로소득,종사상지위별 월평균 근로소득,all,6. 무급가족종사자,2012,mean_income_or_hours,5.4
+GOMS_030,근로소득,종사상지위별 월평균 근로소득,all,전체,2013,mean_income_or_hours,205.3
+GOMS_030,근로소득,종사상지위별 월평균 근로소득,all,1. 상용근로자,2013,mean_income_or_hours,215.4
+GOMS_030,근로소득,종사상지위별 월평균 근로소득,all,2. 임시근로자,2013,mean_income_or_hours,126.1
+GOMS_030,근로소득,종사상지위별 월평균 근로소득,all,3. 일용근로자,2013,mean_income_or_hours,97.7
+GOMS_030,근로소득,종사상지위별 월평균 근로소득,all,4. 고용원이 있는 자영업자,2013,mean_income_or_hours,402.4
+GOMS_030,근로소득,종사상지위별 월평균 근로소득,all,5. 고용원이 없는 자영업자,2013,mean_income_or_hours,189.3
+GOMS_030,근로소득,종사상지위별 월평균 근로소득,all,6. 무급가족종사자,2013,mean_income_or_hours,0.0
+GOMS_030,근로소득,종사상지위별 월평균 근로소득,all,전체,2014,mean_income_or_hours,205.3
+GOMS_030,근로소득,종사상지위별 월평균 근로소득,all,1. 상용근로자,2014,mean_income_or_hours,219.0
+GOMS_030,근로소득,종사상지위별 월평균 근로소득,all,2. 임시근로자,2014,mean_income_or_hours,137.0
+GOMS_030,근로소득,종사상지위별 월평균 근로소득,all,3. 일용근로자,2014,mean_income_or_hours,109.7
+GOMS_030,근로소득,종사상지위별 월평균 근로소득,all,4. 고용원이 있는 자영업자,2014,mean_income_or_hours,334.5
+GOMS_030,근로소득,종사상지위별 월평균 근로소득,all,5. 고용원이 없는 자영업자,2014,mean_income_or_hours,193.6
+GOMS_030,근로소득,종사상지위별 월평균 근로소득,all,6. 무급가족종사자,2014,mean_income_or_hours,0.0
+GOMS_030,근로소득,종사상지위별 월평균 근로소득,all,전체,2015,mean_income_or_hours,208.1
+GOMS_030,근로소득,종사상지위별 월평균 근로소득,all,1. 상용근로자,2015,mean_income_or_hours,220.2
+GOMS_030,근로소득,종사상지위별 월평균 근로소득,all,2. 임시근로자,2015,mean_income_or_hours,137.7
+GOMS_030,근로소득,종사상지위별 월평균 근로소득,all,3. 일용근로자,2015,mean_income_or_hours,107.3
+GOMS_030,근로소득,종사상지위별 월평균 근로소득,all,4. 고용원이 있는 자영업자,2015,mean_income_or_hours,362.5
+GOMS_030,근로소득,종사상지위별 월평균 근로소득,all,5. 고용원이 없는 자영업자,2015,mean_income_or_hours,218.9
+GOMS_030,근로소득,종사상지위별 월평균 근로소득,all,6. 무급가족종사자,2015,mean_income_or_hours,0.0
+GOMS_030,근로소득,종사상지위별 월평균 근로소득,all,전체,2016,mean_income_or_hours,217.0
+GOMS_030,근로소득,종사상지위별 월평균 근로소득,all,1. 상용근로자,2016,mean_income_or_hours,233.1
+GOMS_030,근로소득,종사상지위별 월평균 근로소득,all,2. 임시근로자,2016,mean_income_or_hours,135.9
+GOMS_030,근로소득,종사상지위별 월평균 근로소득,all,3. 일용근로자,2016,mean_income_or_hours,112.8
+GOMS_030,근로소득,종사상지위별 월평균 근로소득,all,4. 고용원이 있는 자영업자,2016,mean_income_or_hours,397.2
+GOMS_030,근로소득,종사상지위별 월평균 근로소득,all,5. 고용원이 없는 자영업자,2016,mean_income_or_hours,199.2
+GOMS_030,근로소득,종사상지위별 월평균 근로소득,all,6. 무급가족종사자,2016,mean_income_or_hours,0.0
+GOMS_030,근로소득,종사상지위별 월평균 근로소득,all,전체,2017,mean_income_or_hours,227.2
+GOMS_030,근로소득,종사상지위별 월평균 근로소득,all,1. 상용근로자,2017,mean_income_or_hours,245.5
+GOMS_030,근로소득,종사상지위별 월평균 근로소득,all,2. 임시근로자,2017,mean_income_or_hours,135.7
+GOMS_030,근로소득,종사상지위별 월평균 근로소득,all,3. 일용근로자,2017,mean_income_or_hours,109.0
+GOMS_030,근로소득,종사상지위별 월평균 근로소득,all,4. 고용원이 있는 자영업자,2017,mean_income_or_hours,444.9
+GOMS_030,근로소득,종사상지위별 월평균 근로소득,all,5. 고용원이 없는 자영업자,2017,mean_income_or_hours,191.6
+GOMS_030,근로소득,종사상지위별 월평균 근로소득,all,6. 무급가족종사자,2017,mean_income_or_hours,0.0
+GOMS_030,근로소득,종사상지위별 월평균 근로소득,all,전체,2018,mean_income_or_hours,235.7
+GOMS_030,근로소득,종사상지위별 월평균 근로소득,all,1. 상용근로자,2018,mean_income_or_hours,253.4
+GOMS_030,근로소득,종사상지위별 월평균 근로소득,all,2. 임시근로자,2018,mean_income_or_hours,136.4
+GOMS_030,근로소득,종사상지위별 월평균 근로소득,all,3. 일용근로자,2018,mean_income_or_hours,116.5
+GOMS_030,근로소득,종사상지위별 월평균 근로소득,all,4. 고용원이 있는 자영업자,2018,mean_income_or_hours,396.5
+GOMS_030,근로소득,종사상지위별 월평균 근로소득,all,5. 고용원이 없는 자영업자,2018,mean_income_or_hours,230.6
+GOMS_030,근로소득,종사상지위별 월평균 근로소득,all,6. 무급가족종사자,2018,mean_income_or_hours,0.0
+GOMS_030,근로소득,종사상지위별 월평균 근로소득,all,전체,2019,mean_income_or_hours,242.6
+GOMS_030,근로소득,종사상지위별 월평균 근로소득,all,1. 상용근로자,2019,mean_income_or_hours,264.6
+GOMS_030,근로소득,종사상지위별 월평균 근로소득,all,2. 임시근로자,2019,mean_income_or_hours,146.3
+GOMS_030,근로소득,종사상지위별 월평균 근로소득,all,3. 일용근로자,2019,mean_income_or_hours,117.3
+GOMS_030,근로소득,종사상지위별 월평균 근로소득,all,4. 고용원이 있는 자영업자,2019,mean_income_or_hours,461.8
+GOMS_030,근로소득,종사상지위별 월평균 근로소득,all,5. 고용원이 없는 자영업자,2019,mean_income_or_hours,196.0
+GOMS_030,근로소득,종사상지위별 월평균 근로소득,all,6. 무급가족종사자,2019,mean_income_or_hours,0.0
+GOMS_031,근로시간,성별 주당 평균 근로시간,all,전체,2007,mean_income_or_hours,46.8
+GOMS_031,근로시간,성별 주당 평균 근로시간,all,남자,2007,mean_income_or_hours,48.6
+GOMS_031,근로시간,성별 주당 평균 근로시간,all,여자,2007,mean_income_or_hours,44.1
+GOMS_031,근로시간,성별 주당 평균 근로시간,all,전체,2008,mean_income_or_hours,47.1
+GOMS_031,근로시간,성별 주당 평균 근로시간,all,남자,2008,mean_income_or_hours,49.2
+GOMS_031,근로시간,성별 주당 평균 근로시간,all,여자,2008,mean_income_or_hours,44.1
+GOMS_031,근로시간,성별 주당 평균 근로시간,all,전체,2009,mean_income_or_hours,46.1
+GOMS_031,근로시간,성별 주당 평균 근로시간,all,남자,2009,mean_income_or_hours,47.5
+GOMS_031,근로시간,성별 주당 평균 근로시간,all,여자,2009,mean_income_or_hours,44.4
+GOMS_031,근로시간,성별 주당 평균 근로시간,all,전체,2010,mean_income_or_hours,45.7
+GOMS_031,근로시간,성별 주당 평균 근로시간,all,남자,2010,mean_income_or_hours,47.7
+GOMS_031,근로시간,성별 주당 평균 근로시간,all,여자,2010,mean_income_or_hours,43.3
+GOMS_031,근로시간,성별 주당 평균 근로시간,all,전체,2011,mean_income_or_hours,45.3
+GOMS_031,근로시간,성별 주당 평균 근로시간,all,남자,2011,mean_income_or_hours,46.9
+GOMS_031,근로시간,성별 주당 평균 근로시간,all,여자,2011,mean_income_or_hours,43.5
+GOMS_031,근로시간,성별 주당 평균 근로시간,all,전체,2012,mean_income_or_hours,44.5
+GOMS_031,근로시간,성별 주당 평균 근로시간,all,남자,2012,mean_income_or_hours,46.4
+GOMS_031,근로시간,성별 주당 평균 근로시간,all,여자,2012,mean_income_or_hours,42.5
+GOMS_031,근로시간,성별 주당 평균 근로시간,all,전체,2013,mean_income_or_hours,45.1
+GOMS_031,근로시간,성별 주당 평균 근로시간,all,남자,2013,mean_income_or_hours,47.3
+GOMS_031,근로시간,성별 주당 평균 근로시간,all,여자,2013,mean_income_or_hours,42.5
+GOMS_031,근로시간,성별 주당 평균 근로시간,all,전체,2014,mean_income_or_hours,44.6
+GOMS_031,근로시간,성별 주당 평균 근로시간,all,남자,2014,mean_income_or_hours,46.2
+GOMS_031,근로시간,성별 주당 평균 근로시간,all,여자,2014,mean_income_or_hours,42.6
+GOMS_031,근로시간,성별 주당 평균 근로시간,all,전체,2015,mean_income_or_hours,44.0
+GOMS_031,근로시간,성별 주당 평균 근로시간,all,남자,2015,mean_income_or_hours,45.6
+GOMS_031,근로시간,성별 주당 평균 근로시간,all,여자,2015,mean_income_or_hours,42.2
+GOMS_031,근로시간,성별 주당 평균 근로시간,all,전체,2016,mean_income_or_hours,43.9
+GOMS_031,근로시간,성별 주당 평균 근로시간,all,남자,2016,mean_income_or_hours,45.8
+GOMS_031,근로시간,성별 주당 평균 근로시간,all,여자,2016,mean_income_or_hours,41.6
+GOMS_031,근로시간,성별 주당 평균 근로시간,all,전체,2017,mean_income_or_hours,43.1
+GOMS_031,근로시간,성별 주당 평균 근로시간,all,남자,2017,mean_income_or_hours,44.9
+GOMS_031,근로시간,성별 주당 평균 근로시간,all,여자,2017,mean_income_or_hours,41.0
+GOMS_031,근로시간,성별 주당 평균 근로시간,all,전체,2018,mean_income_or_hours,42.1
+GOMS_031,근로시간,성별 주당 평균 근로시간,all,남자,2018,mean_income_or_hours,43.6
+GOMS_031,근로시간,성별 주당 평균 근로시간,all,여자,2018,mean_income_or_hours,40.1
+GOMS_031,근로시간,성별 주당 평균 근로시간,all,전체,2019,mean_income_or_hours,41.9
+GOMS_031,근로시간,성별 주당 평균 근로시간,all,남자,2019,mean_income_or_hours,43.8
+GOMS_031,근로시간,성별 주당 평균 근로시간,all,여자,2019,mean_income_or_hours,40.0
+GOMS_032,근로시간,학교유형별 주당 평균 근로시간,all,전체,2007,mean_income_or_hours,46.8
+GOMS_032,근로시간,학교유형별 주당 평균 근로시간,all,전문대,2007,mean_income_or_hours,48.3
+GOMS_032,근로시간,학교유형별 주당 평균 근로시간,all,4년제,2007,mean_income_or_hours,46.1
+GOMS_032,근로시간,학교유형별 주당 평균 근로시간,all,교육대,2007,mean_income_or_hours,44.6
+GOMS_032,근로시간,학교유형별 주당 평균 근로시간,all,전체,2008,mean_income_or_hours,47.1
+GOMS_032,근로시간,학교유형별 주당 평균 근로시간,all,전문대,2008,mean_income_or_hours,48.3
+GOMS_032,근로시간,학교유형별 주당 평균 근로시간,all,4년제,2008,mean_income_or_hours,46.6
+GOMS_032,근로시간,학교유형별 주당 평균 근로시간,all,교육대,2008,mean_income_or_hours,44.6
+GOMS_032,근로시간,학교유형별 주당 평균 근로시간,all,전체,2009,mean_income_or_hours,46.1
+GOMS_032,근로시간,학교유형별 주당 평균 근로시간,all,전문대,2009,mean_income_or_hours,47.3
+GOMS_032,근로시간,학교유형별 주당 평균 근로시간,all,4년제,2009,mean_income_or_hours,45.5
+GOMS_032,근로시간,학교유형별 주당 평균 근로시간,all,교육대,2009,mean_income_or_hours,44.8
+GOMS_032,근로시간,학교유형별 주당 평균 근로시간,all,전체,2010,mean_income_or_hours,45.7
+GOMS_032,근로시간,학교유형별 주당 평균 근로시간,all,전문대,2010,mean_income_or_hours,46.9
+GOMS_032,근로시간,학교유형별 주당 평균 근로시간,all,4년제,2010,mean_income_or_hours,45.2
+GOMS_032,근로시간,학교유형별 주당 평균 근로시간,all,교육대,2010,mean_income_or_hours,44.2
+GOMS_032,근로시간,학교유형별 주당 평균 근로시간,all,전체,2011,mean_income_or_hours,45.3
+GOMS_032,근로시간,학교유형별 주당 평균 근로시간,all,전문대,2011,mean_income_or_hours,46.0
+GOMS_032,근로시간,학교유형별 주당 평균 근로시간,all,4년제,2011,mean_income_or_hours,45.2
+GOMS_032,근로시간,학교유형별 주당 평균 근로시간,all,교육대,2011,mean_income_or_hours,41.3
+GOMS_032,근로시간,학교유형별 주당 평균 근로시간,all,전체,2012,mean_income_or_hours,44.5
+GOMS_032,근로시간,학교유형별 주당 평균 근로시간,all,전문대,2012,mean_income_or_hours,45.6
+GOMS_032,근로시간,학교유형별 주당 평균 근로시간,all,4년제,2012,mean_income_or_hours,44.2
+GOMS_032,근로시간,학교유형별 주당 평균 근로시간,all,교육대,2012,mean_income_or_hours,40.2
+GOMS_032,근로시간,학교유형별 주당 평균 근로시간,all,전체,2013,mean_income_or_hours,45.1
+GOMS_032,근로시간,학교유형별 주당 평균 근로시간,all,전문대,2013,mean_income_or_hours,45.9
+GOMS_032,근로시간,학교유형별 주당 평균 근로시간,all,4년제,2013,mean_income_or_hours,44.8
+GOMS_032,근로시간,학교유형별 주당 평균 근로시간,all,교육대,2013,mean_income_or_hours,41.1
+GOMS_032,근로시간,학교유형별 주당 평균 근로시간,all,전체,2014,mean_income_or_hours,44.6
+GOMS_032,근로시간,학교유형별 주당 평균 근로시간,all,전문대,2014,mean_income_or_hours,45.1
+GOMS_032,근로시간,학교유형별 주당 평균 근로시간,all,4년제,2014,mean_income_or_hours,44.5
+GOMS_032,근로시간,학교유형별 주당 평균 근로시간,all,교육대,2014,mean_income_or_hours,41.9
+GOMS_032,근로시간,학교유형별 주당 평균 근로시간,all,전체,2015,mean_income_or_hours,44.0
+GOMS_032,근로시간,학교유형별 주당 평균 근로시간,all,전문대,2015,mean_income_or_hours,45.1
+GOMS_032,근로시간,학교유형별 주당 평균 근로시간,all,4년제,2015,mean_income_or_hours,43.7
+GOMS_032,근로시간,학교유형별 주당 평균 근로시간,all,교육대,2015,mean_income_or_hours,41.1
+GOMS_032,근로시간,학교유형별 주당 평균 근로시간,all,전체,2016,mean_income_or_hours,43.9
+GOMS_032,근로시간,학교유형별 주당 평균 근로시간,all,전문대,2016,mean_income_or_hours,44.3
+GOMS_032,근로시간,학교유형별 주당 평균 근로시간,all,4년제,2016,mean_income_or_hours,43.8
+GOMS_032,근로시간,학교유형별 주당 평균 근로시간,all,교육대,2016,mean_income_or_hours,40.9
+GOMS_032,근로시간,학교유형별 주당 평균 근로시간,all,전체,2017,mean_income_or_hours,43.1
+GOMS_032,근로시간,학교유형별 주당 평균 근로시간,all,전문대,2017,mean_income_or_hours,43.8
+GOMS_032,근로시간,학교유형별 주당 평균 근로시간,all,4년제,2017,mean_income_or_hours,43.0
+GOMS_032,근로시간,학교유형별 주당 평균 근로시간,all,교육대,2017,mean_income_or_hours,41.0
+GOMS_032,근로시간,학교유형별 주당 평균 근로시간,all,전체,2018,mean_income_or_hours,42.1
+GOMS_032,근로시간,학교유형별 주당 평균 근로시간,all,전문대,2018,mean_income_or_hours,42.4
+GOMS_032,근로시간,학교유형별 주당 평균 근로시간,all,4년제,2018,mean_income_or_hours,42.0
+GOMS_032,근로시간,학교유형별 주당 평균 근로시간,all,교육대,2018,mean_income_or_hours,40.6
+GOMS_032,근로시간,학교유형별 주당 평균 근로시간,all,전체,2019,mean_income_or_hours,41.9
+GOMS_032,근로시간,학교유형별 주당 평균 근로시간,all,전문대,2019,mean_income_or_hours,42.1
+GOMS_032,근로시간,학교유형별 주당 평균 근로시간,all,4년제,2019,mean_income_or_hours,41.8
+GOMS_032,근로시간,학교유형별 주당 평균 근로시간,all,교육대,2019,mean_income_or_hours,40.6
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,전체,2007,mean_income_or_hours,46.8
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,인문,2007,mean_income_or_hours,43.4
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,사회,2007,mean_income_or_hours,46.6
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,교육,2007,mean_income_or_hours,44.3
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,공학,2007,mean_income_or_hours,49.1
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,자연,2007,mean_income_or_hours,46.5
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,의약,2007,mean_income_or_hours,50.4
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,예체능,2007,mean_income_or_hours,44.4
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,전체,2008,mean_income_or_hours,47.1
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,인문,2008,mean_income_or_hours,43.7
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,사회,2008,mean_income_or_hours,46.9
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,교육,2008,mean_income_or_hours,43.7
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,공학,2008,mean_income_or_hours,49.9
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,자연,2008,mean_income_or_hours,47.6
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,의약,2008,mean_income_or_hours,49.5
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,예체능,2008,mean_income_or_hours,43.9
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,전체,2009,mean_income_or_hours,46.1
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,인문,2009,mean_income_or_hours,43.4
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,사회,2009,mean_income_or_hours,45.9
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,교육,2009,mean_income_or_hours,45.2
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,공학,2009,mean_income_or_hours,47.7
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,자연,2009,mean_income_or_hours,46.3
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,의약,2009,mean_income_or_hours,48.2
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,예체능,2009,mean_income_or_hours,44.6
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,전체,2010,mean_income_or_hours,45.7
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,인문,2010,mean_income_or_hours,42.2
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,사회,2010,mean_income_or_hours,45.5
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,교육,2010,mean_income_or_hours,43.6
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,공학,2010,mean_income_or_hours,48.2
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,자연,2010,mean_income_or_hours,46.1
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,의약,2010,mean_income_or_hours,46.5
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,예체능,2010,mean_income_or_hours,43.7
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,전체,2011,mean_income_or_hours,45.3
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,인문,2011,mean_income_or_hours,43.2
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,사회,2011,mean_income_or_hours,45.3
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,교육,2011,mean_income_or_hours,42.2
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,공학,2011,mean_income_or_hours,47.3
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,자연,2011,mean_income_or_hours,45.6
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,의약,2011,mean_income_or_hours,47.3
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,예체능,2011,mean_income_or_hours,43.4
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,전체,2012,mean_income_or_hours,44.5
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,인문,2012,mean_income_or_hours,42.5
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,사회,2012,mean_income_or_hours,44.7
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,교육,2012,mean_income_or_hours,40.8
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,공학,2012,mean_income_or_hours,46.4
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,자연,2012,mean_income_or_hours,45.1
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,의약,2012,mean_income_or_hours,47.3
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,예체능,2012,mean_income_or_hours,42.1
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,전체,2013,mean_income_or_hours,45.1
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,인문,2013,mean_income_or_hours,42.4
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,사회,2013,mean_income_or_hours,45.1
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,교육,2013,mean_income_or_hours,41.8
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,공학,2013,mean_income_or_hours,47.9
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,자연,2013,mean_income_or_hours,45.6
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,의약,2013,mean_income_or_hours,47.9
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,예체능,2013,mean_income_or_hours,41.3
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,전체,2014,mean_income_or_hours,44.6
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,인문,2014,mean_income_or_hours,42.4
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,사회,2014,mean_income_or_hours,44.7
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,교육,2014,mean_income_or_hours,41.8
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,공학,2014,mean_income_or_hours,46.8
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,자연,2014,mean_income_or_hours,44.5
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,의약,2014,mean_income_or_hours,47.2
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,예체능,2014,mean_income_or_hours,41.4
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,전체,2015,mean_income_or_hours,44.0
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,인문,2015,mean_income_or_hours,42.1
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,사회,2015,mean_income_or_hours,44.1
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,교육,2015,mean_income_or_hours,41.3
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,공학,2015,mean_income_or_hours,46.1
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,자연,2015,mean_income_or_hours,44.5
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,의약,2015,mean_income_or_hours,46.1
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,예체능,2015,mean_income_or_hours,40.2
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,전체,2016,mean_income_or_hours,43.9
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,인문,2016,mean_income_or_hours,41.5
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,사회,2016,mean_income_or_hours,43.9
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,교육,2016,mean_income_or_hours,40.4
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,공학,2016,mean_income_or_hours,46.1
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,자연,2016,mean_income_or_hours,44.1
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,의약,2016,mean_income_or_hours,45.9
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,예체능,2016,mean_income_or_hours,40.5
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,전체,2017,mean_income_or_hours,43.1
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,인문,2017,mean_income_or_hours,40.3
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,사회,2017,mean_income_or_hours,43.0
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,교육,2017,mean_income_or_hours,39.8
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,공학,2017,mean_income_or_hours,45.3
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,자연,2017,mean_income_or_hours,43.8
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,의약,2017,mean_income_or_hours,45.8
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,예체능,2017,mean_income_or_hours,39.9
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,전체,2018,mean_income_or_hours,42.1
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,인문,2018,mean_income_or_hours,39.7
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,사회,2018,mean_income_or_hours,41.7
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,교육,2018,mean_income_or_hours,39.1
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,공학,2018,mean_income_or_hours,43.9
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,자연,2018,mean_income_or_hours,43.1
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,의약,2018,mean_income_or_hours,44.3
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,예체능,2018,mean_income_or_hours,39.3
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,전체,2019,mean_income_or_hours,41.9
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,인문,2019,mean_income_or_hours,39.9
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,사회,2019,mean_income_or_hours,41.9
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,교육,2019,mean_income_or_hours,39.6
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,공학,2019,mean_income_or_hours,43.7
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,자연,2019,mean_income_or_hours,42.5
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,의약,2019,mean_income_or_hours,44.8
+GOMS_033,근로시간,전공계열별 주당 평균 근로시간,all,예체능,2019,mean_income_or_hours,37.6
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,전체,2007,mean_income_or_hours,46.8
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"농업,임업 및 어업",2007,mean_income_or_hours,50.4
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,광업,2007,mean_income_or_hours,49.3
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,제조업,2007,mean_income_or_hours,49.3
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"전기, 가스, 증기 및 수도사업",2007,mean_income_or_hours,43.8
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"하수·폐기물처리, 원료재생 및 환경복원업",2007,mean_income_or_hours,46.5
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,건설업,2007,mean_income_or_hours,52.0
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,도매 및 소매업,2007,mean_income_or_hours,49.2
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,운수업,2007,mean_income_or_hours,45.8
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,숙박 및 음식점업,2007,mean_income_or_hours,51.2
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"출판, 영상, 방송통신 및 정보서비스업",2007,mean_income_or_hours,47.7
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,금융 및 보험업,2007,mean_income_or_hours,46.8
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,부동산업 및 임대업,2007,mean_income_or_hours,46.4
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"전문, 과학 및 기술 서비스업",2007,mean_income_or_hours,48.9
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,사업시설관리 및 사업지원 서비스업,2007,mean_income_or_hours,45.6
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"공공행정, 국방 및 사회보장 행정",2007,mean_income_or_hours,47.6
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,교육 서비스업,2007,mean_income_or_hours,38.4
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,보건업 및 사회복지 서비스업,2007,mean_income_or_hours,48.2
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"예술,스포츠 및 여가관련 서비스업",2007,mean_income_or_hours,43.3
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"협회 및 단체, 수리 및 기타 개인 서비스",2007,mean_income_or_hours,43.9
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,가구내 고용활동 및 달리 분류되지 않은 자가소비 생산활동,2007,mean_income_or_hours,72.0
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,국제 및 외국기관,2007,mean_income_or_hours,39.0
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,전체,2008,mean_income_or_hours,47.1
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"농업,임업 및 어업",2008,mean_income_or_hours,54.8
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,광업,2008,mean_income_or_hours,40.0
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,제조업,2008,mean_income_or_hours,50.0
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"전기, 가스, 증기 및 수도사업",2008,mean_income_or_hours,44.5
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"하수·폐기물처리, 원료재생 및 환경복원업",2008,mean_income_or_hours,45.8
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,건설업,2008,mean_income_or_hours,52.5
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,도매 및 소매업,2008,mean_income_or_hours,50.0
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,운수업,2008,mean_income_or_hours,45.9
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,숙박 및 음식점업,2008,mean_income_or_hours,51.5
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"출판, 영상, 방송통신 및 정보서비스업",2008,mean_income_or_hours,47.5
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,금융 및 보험업,2008,mean_income_or_hours,47.2
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,부동산업 및 임대업,2008,mean_income_or_hours,48.1
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"전문, 과학 및 기술 서비스업",2008,mean_income_or_hours,48.4
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,사업시설관리 및 사업지원 서비스업,2008,mean_income_or_hours,45.6
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"공공행정, 국방 및 사회보장 행정",2008,mean_income_or_hours,46.9
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,교육 서비스업,2008,mean_income_or_hours,40.1
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,보건업 및 사회복지 서비스업,2008,mean_income_or_hours,48.0
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"예술,스포츠 및 여가관련 서비스업",2008,mean_income_or_hours,46.0
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"협회 및 단체, 수리 및 기타 개인 서비스",2008,mean_income_or_hours,45.6
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,가구내 고용활동 및 달리 분류되지 않은 자가소비 생산활동,2008,mean_income_or_hours,10.0
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,국제 및 외국기관,2008,mean_income_or_hours,40.3
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,전체,2009,mean_income_or_hours,46.2
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"농업,임업 및 어업",2009,mean_income_or_hours,54.1
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,광업,2009,mean_income_or_hours,44.0
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,제조업,2009,mean_income_or_hours,47.6
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"전기, 가스, 증기 및 수도사업",2009,mean_income_or_hours,42.7
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"하수·폐기물처리, 원료재생 및 환경복원업",2009,mean_income_or_hours,46.2
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,건설업,2009,mean_income_or_hours,49.9
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,도매 및 소매업,2009,mean_income_or_hours,49.1
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,운수업,2009,mean_income_or_hours,46.0
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,숙박 및 음식점업,2009,mean_income_or_hours,51.5
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"출판, 영상, 방송통신 및 정보서비스업",2009,mean_income_or_hours,46.7
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,금융 및 보험업,2009,mean_income_or_hours,45.8
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,부동산업 및 임대업,2009,mean_income_or_hours,46.9
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"전문, 과학 및 기술 서비스업",2009,mean_income_or_hours,46.1
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,사업시설관리 및 사업지원 서비스업,2009,mean_income_or_hours,45.5
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"공공행정, 국방 및 사회보장 행정",2009,mean_income_or_hours,45.5
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,교육 서비스업,2009,mean_income_or_hours,40.5
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,보건업 및 사회복지 서비스업,2009,mean_income_or_hours,46.8
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"예술,스포츠 및 여가관련 서비스업",2009,mean_income_or_hours,44.6
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"협회 및 단체, 수리 및 기타 개인 서비스",2009,mean_income_or_hours,45.0
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,가구내 고용활동 및 달리 분류되지 않은 자가소비 생산활동,2009,mean_income_or_hours,0.0
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,국제 및 외국기관,2009,mean_income_or_hours,40.0
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,전체,2010,mean_income_or_hours,45.7
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"농업,임업 및 어업",2010,mean_income_or_hours,45.7
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,광업,2010,mean_income_or_hours,45.8
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,제조업,2010,mean_income_or_hours,48.5
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"전기, 가스, 증기 및 수도사업",2010,mean_income_or_hours,43.0
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"하수·폐기물처리, 원료재생 및 환경복원업",2010,mean_income_or_hours,43.9
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,건설업,2010,mean_income_or_hours,50.7
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,도매 및 소매업,2010,mean_income_or_hours,48.3
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,운수업,2010,mean_income_or_hours,47.1
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,숙박 및 음식점업,2010,mean_income_or_hours,49.5
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"출판, 영상, 방송통신 및 정보서비스업",2010,mean_income_or_hours,47.2
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,금융 및 보험업,2010,mean_income_or_hours,46.2
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,부동산업 및 임대업,2010,mean_income_or_hours,45.2
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"전문, 과학 및 기술 서비스업",2010,mean_income_or_hours,47.0
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,사업시설관리 및 사업지원 서비스업,2010,mean_income_or_hours,44.8
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"공공행정, 국방 및 사회보장 행정",2010,mean_income_or_hours,45.2
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,교육 서비스업,2010,mean_income_or_hours,39.3
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,보건업 및 사회복지 서비스업,2010,mean_income_or_hours,45.4
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"예술,스포츠 및 여가관련 서비스업",2010,mean_income_or_hours,41.5
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"협회 및 단체, 수리 및 기타 개인 서비스",2010,mean_income_or_hours,45.5
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,가구내 고용활동 및 달리 분류되지 않은 자가소비 생산활동,2010,mean_income_or_hours,55.0
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,국제 및 외국기관,2010,mean_income_or_hours,42.8
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,전체,2011,mean_income_or_hours,45.3
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"농업,임업 및 어업",2011,mean_income_or_hours,50.9
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,광업,2011,mean_income_or_hours,46.8
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,제조업,2011,mean_income_or_hours,48.1
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"전기, 가스, 증기 및 수도사업",2011,mean_income_or_hours,42.9
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"하수·폐기물처리, 원료재생 및 환경복원업",2011,mean_income_or_hours,45.2
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,건설업,2011,mean_income_or_hours,48.7
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,도매 및 소매업,2011,mean_income_or_hours,47.9
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,운수업,2011,mean_income_or_hours,45.5
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,숙박 및 음식점업,2011,mean_income_or_hours,48.8
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"출판, 영상, 방송통신 및 정보서비스업",2011,mean_income_or_hours,46.1
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,금융 및 보험업,2011,mean_income_or_hours,46.0
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,부동산업 및 임대업,2011,mean_income_or_hours,47.2
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"전문, 과학 및 기술 서비스업",2011,mean_income_or_hours,47.0
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,사업시설관리 및 사업지원 서비스업,2011,mean_income_or_hours,43.9
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"공공행정, 국방 및 사회보장 행정",2011,mean_income_or_hours,45.9
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,교육 서비스업,2011,mean_income_or_hours,39.0
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,보건업 및 사회복지 서비스업,2011,mean_income_or_hours,45.3
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"예술,스포츠 및 여가관련 서비스업",2011,mean_income_or_hours,41.8
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"협회 및 단체, 수리 및 기타 개인 서비스",2011,mean_income_or_hours,43.9
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,가구내 고용활동 및 달리 분류되지 않은 자가소비 생산활동,2011,mean_income_or_hours,40.0
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,국제 및 외국기관,2011,mean_income_or_hours,45.2
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,전체,2012,mean_income_or_hours,44.5
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"농업,임업 및 어업",2012,mean_income_or_hours,49.5
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,광업,2012,mean_income_or_hours,42.7
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,제조업,2012,mean_income_or_hours,47.6
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"전기, 가스, 증기 및 수도사업",2012,mean_income_or_hours,43.3
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"하수·폐기물처리, 원료재생 및 환경복원업",2012,mean_income_or_hours,47.4
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,건설업,2012,mean_income_or_hours,47.6
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,도매 및 소매업,2012,mean_income_or_hours,47.1
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,운수업,2012,mean_income_or_hours,45.5
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,숙박 및 음식점업,2012,mean_income_or_hours,45.7
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"출판, 영상, 방송통신 및 정보서비스업",2012,mean_income_or_hours,45.0
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,금융 및 보험업,2012,mean_income_or_hours,45.1
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,부동산업 및 임대업,2012,mean_income_or_hours,45.5
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"전문, 과학 및 기술 서비스업",2012,mean_income_or_hours,46.1
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,사업시설관리 및 사업지원 서비스업,2012,mean_income_or_hours,43.7
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"공공행정, 국방 및 사회보장 행정",2012,mean_income_or_hours,45.0
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,교육 서비스업,2012,mean_income_or_hours,37.6
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,보건업 및 사회복지 서비스업,2012,mean_income_or_hours,45.6
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"예술,스포츠 및 여가관련 서비스업",2012,mean_income_or_hours,40.9
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"협회 및 단체, 수리 및 기타 개인 서비스",2012,mean_income_or_hours,42.7
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,가구내 고용활동 및 달리 분류되지 않은 자가소비 생산활동,2012,mean_income_or_hours,6.0
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,국제 및 외국기관,2012,mean_income_or_hours,44.1
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,전체,2013,mean_income_or_hours,45.1
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"농업,임업 및 어업",2013,mean_income_or_hours,49.4
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,광업,2013,mean_income_or_hours,47.4
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,제조업,2013,mean_income_or_hours,48.1
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"전기, 가스, 증기 및 수도사업",2013,mean_income_or_hours,44.1
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"하수·폐기물처리, 원료재생 및 환경복원업",2013,mean_income_or_hours,48.4
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,건설업,2013,mean_income_or_hours,49.5
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,도매 및 소매업,2013,mean_income_or_hours,46.7
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,운수업,2013,mean_income_or_hours,45.1
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,숙박 및 음식점업,2013,mean_income_or_hours,45.1
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"출판, 영상, 방송통신 및 정보서비스업",2013,mean_income_or_hours,47.0
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,금융 및 보험업,2013,mean_income_or_hours,46.4
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,부동산업 및 임대업,2013,mean_income_or_hours,45.9
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"전문, 과학 및 기술 서비스업",2013,mean_income_or_hours,46.2
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,사업시설관리 및 사업지원 서비스업,2013,mean_income_or_hours,46.1
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"공공행정, 국방 및 사회보장 행정",2013,mean_income_or_hours,45.1
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,교육 서비스업,2013,mean_income_or_hours,38.6
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,보건업 및 사회복지 서비스업,2013,mean_income_or_hours,46.1
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"예술,스포츠 및 여가관련 서비스업",2013,mean_income_or_hours,38.0
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"협회 및 단체, 수리 및 기타 개인 서비스",2013,mean_income_or_hours,43.5
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,가구내 고용활동 및 달리 분류되지 않은 자가소비 생산활동,2013,mean_income_or_hours,0.0
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,국제 및 외국기관,2013,mean_income_or_hours,34.8
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,전체,2014,mean_income_or_hours,44.6
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"농업,임업 및 어업",2014,mean_income_or_hours,45.9
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,광업,2014,mean_income_or_hours,41.3
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,제조업,2014,mean_income_or_hours,47.5
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"전기, 가스, 증기 및 수도사업",2014,mean_income_or_hours,43.6
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"하수·폐기물처리, 원료재생 및 환경복원업",2014,mean_income_or_hours,47.5
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,건설업,2014,mean_income_or_hours,48.7
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,도매 및 소매업,2014,mean_income_or_hours,46.1
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,운수업,2014,mean_income_or_hours,43.5
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,숙박 및 음식점업,2014,mean_income_or_hours,44.2
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"출판, 영상, 방송통신 및 정보서비스업",2014,mean_income_or_hours,45.3
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,금융 및 보험업,2014,mean_income_or_hours,44.5
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,부동산업 및 임대업,2014,mean_income_or_hours,45.8
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"전문, 과학 및 기술 서비스업",2014,mean_income_or_hours,45.5
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,사업시설관리 및 사업지원 서비스업,2014,mean_income_or_hours,43.6
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"공공행정, 국방 및 사회보장 행정",2014,mean_income_or_hours,46.3
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,교육 서비스업,2014,mean_income_or_hours,38.6
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,보건업 및 사회복지 서비스업,2014,mean_income_or_hours,46.2
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"예술,스포츠 및 여가관련 서비스업",2014,mean_income_or_hours,38.6
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"협회 및 단체, 수리 및 기타 개인 서비스",2014,mean_income_or_hours,44.7
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,가구내 고용활동 및 달리 분류되지 않은 자가소비 생산활동,2014,mean_income_or_hours,28.5
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,국제 및 외국기관,2014,mean_income_or_hours,35.4
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,전체,2015,mean_income_or_hours,44.0
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"농업,임업 및 어업",2015,mean_income_or_hours,49.8
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,광업,2015,mean_income_or_hours,40.0
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,제조업,2015,mean_income_or_hours,46.5
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"전기, 가스, 증기 및 수도사업",2015,mean_income_or_hours,43.0
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"하수·폐기물처리, 원료재생 및 환경복원업",2015,mean_income_or_hours,45.0
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,건설업,2015,mean_income_or_hours,48.1
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,도매 및 소매업,2015,mean_income_or_hours,45.5
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,운수업,2015,mean_income_or_hours,44.2
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,숙박 및 음식점업,2015,mean_income_or_hours,44.7
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"출판, 영상, 방송통신 및 정보서비스업",2015,mean_income_or_hours,45.3
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,금융 및 보험업,2015,mean_income_or_hours,44.7
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,부동산업 및 임대업,2015,mean_income_or_hours,45.4
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"전문, 과학 및 기술 서비스업",2015,mean_income_or_hours,44.9
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,사업시설관리 및 사업지원 서비스업,2015,mean_income_or_hours,44.6
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"공공행정, 국방 및 사회보장 행정",2015,mean_income_or_hours,45.2
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,교육 서비스업,2015,mean_income_or_hours,38.0
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,보건업 및 사회복지 서비스업,2015,mean_income_or_hours,44.7
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"예술,스포츠 및 여가관련 서비스업",2015,mean_income_or_hours,38.9
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"협회 및 단체, 수리 및 기타 개인 서비스",2015,mean_income_or_hours,44.2
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,가구내 고용활동 및 달리 분류되지 않은 자가소비 생산활동,2015,mean_income_or_hours,11.0
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,국제 및 외국기관,2015,mean_income_or_hours,40.0
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,전체,2016,mean_income_or_hours,43.9
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"농업,임업 및 어업",2016,mean_income_or_hours,47.6
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,광업,2016,mean_income_or_hours,50.8
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,제조업,2016,mean_income_or_hours,46.6
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"전기, 가스, 증기 및 수도사업",2016,mean_income_or_hours,42.8
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"하수·폐기물처리, 원료재생 및 환경복원업",2016,mean_income_or_hours,44.1
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,건설업,2016,mean_income_or_hours,48.8
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,도매 및 소매업,2016,mean_income_or_hours,44.2
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,운수업,2016,mean_income_or_hours,45.1
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,숙박 및 음식점업,2016,mean_income_or_hours,41.7
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"출판, 영상, 방송통신 및 정보서비스업",2016,mean_income_or_hours,44.5
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,금융 및 보험업,2016,mean_income_or_hours,44.5
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,부동산업 및 임대업,2016,mean_income_or_hours,44.9
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"전문, 과학 및 기술 서비스업",2016,mean_income_or_hours,45.1
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,사업시설관리 및 사업지원 서비스업,2016,mean_income_or_hours,43.0
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"공공행정, 국방 및 사회보장 행정",2016,mean_income_or_hours,45.9
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,교육 서비스업,2016,mean_income_or_hours,38.7
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,보건업 및 사회복지 서비스업,2016,mean_income_or_hours,44.9
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"예술,스포츠 및 여가관련 서비스업",2016,mean_income_or_hours,38.2
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"협회 및 단체, 수리 및 기타 개인 서비스",2016,mean_income_or_hours,42.6
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,가구내 고용활동 및 달리 분류되지 않은 자가소비 생산활동,2016,mean_income_or_hours,0.0
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,국제 및 외국기관,2016,mean_income_or_hours,44.0
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,전체,2017,mean_income_or_hours,43.1
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"농업,임업 및 어업",2017,mean_income_or_hours,50.3
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,광업,2017,mean_income_or_hours,43.0
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,제조업,2017,mean_income_or_hours,45.7
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"전기, 가스, 증기 및 수도사업",2017,mean_income_or_hours,42.5
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"하수·폐기물처리, 원료재생 및 환경복원업",2017,mean_income_or_hours,45.9
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,건설업,2017,mean_income_or_hours,47.5
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,도매 및 소매업,2017,mean_income_or_hours,43.2
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,운수업,2017,mean_income_or_hours,45.6
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,숙박 및 음식점업,2017,mean_income_or_hours,39.1
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"출판, 영상, 방송통신 및 정보서비스업",2017,mean_income_or_hours,44.3
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,금융 및 보험업,2017,mean_income_or_hours,44.6
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,부동산업 및 임대업,2017,mean_income_or_hours,45.5
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"전문, 과학 및 기술 서비스업",2017,mean_income_or_hours,44.2
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,사업시설관리 및 사업지원 서비스업,2017,mean_income_or_hours,42.3
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"공공행정, 국방 및 사회보장 행정",2017,mean_income_or_hours,46.1
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,교육 서비스업,2017,mean_income_or_hours,38.0
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,보건업 및 사회복지 서비스업,2017,mean_income_or_hours,44.5
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"예술,스포츠 및 여가관련 서비스업",2017,mean_income_or_hours,37.6
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"협회 및 단체, 수리 및 기타 개인 서비스",2017,mean_income_or_hours,41.8
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,가구내 고용활동 및 달리 분류되지 않은 자가소비 생산활동,2017,mean_income_or_hours,26.0
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,국제 및 외국기관,2017,mean_income_or_hours,37.5
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,전체,2018,mean_income_or_hours,42.1
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"농업,임업 및 어업",2018,mean_income_or_hours,48.2
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,광업,2018,mean_income_or_hours,42.0
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,제조업,2018,mean_income_or_hours,44.6
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"전기, 가스, 증기 및 수도사업",2018,mean_income_or_hours,43.0
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"하수·폐기물처리, 원료재생 및 환경복원업",2018,mean_income_or_hours,44.0
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,건설업,2018,mean_income_or_hours,46.3
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,도매 및 소매업,2018,mean_income_or_hours,41.2
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,운수업,2018,mean_income_or_hours,43.3
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,숙박 및 음식점업,2018,mean_income_or_hours,36.9
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"출판, 영상, 방송통신 및 정보서비스업",2018,mean_income_or_hours,43.1
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,금융 및 보험업,2018,mean_income_or_hours,43.0
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,부동산업 및 임대업,2018,mean_income_or_hours,42.5
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"전문, 과학 및 기술 서비스업",2018,mean_income_or_hours,43.5
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,사업시설관리 및 사업지원 서비스업,2018,mean_income_or_hours,42.5
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"공공행정, 국방 및 사회보장 행정",2018,mean_income_or_hours,44.8
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,교육 서비스업,2018,mean_income_or_hours,38.1
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,보건업 및 사회복지 서비스업,2018,mean_income_or_hours,43.4
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"예술,스포츠 및 여가관련 서비스업",2018,mean_income_or_hours,35.3
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"협회 및 단체, 수리 및 기타 개인 서비스",2018,mean_income_or_hours,40.7
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,가구내 고용활동 및 달리 분류되지 않은 자가소비 생산활동,2018,mean_income_or_hours,18.7
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,국제 및 외국기관,2018,mean_income_or_hours,43.7
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,전체,2019,mean_income_or_hours,41.9
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"농업,임업 및 어업",2019,mean_income_or_hours,46.9
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,광업,2019,mean_income_or_hours,40.0
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,제조업,2019,mean_income_or_hours,44.9
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"전기, 가스, 증기 및 수도사업",2019,mean_income_or_hours,42.9
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"하수·폐기물처리, 원료재생 및 환경복원업",2019,mean_income_or_hours,45.7
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,건설업,2019,mean_income_or_hours,46.9
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,도매 및 소매업,2019,mean_income_or_hours,39.6
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,운수업,2019,mean_income_or_hours,43.0
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,숙박 및 음식점업,2019,mean_income_or_hours,33.4
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"출판, 영상, 방송통신 및 정보서비스업",2019,mean_income_or_hours,42.8
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,금융 및 보험업,2019,mean_income_or_hours,43.2
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,부동산업 및 임대업,2019,mean_income_or_hours,43.3
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"전문, 과학 및 기술 서비스업",2019,mean_income_or_hours,43.1
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,사업시설관리 및 사업지원 서비스업,2019,mean_income_or_hours,43.2
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"공공행정, 국방 및 사회보장 행정",2019,mean_income_or_hours,44.3
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,교육 서비스업,2019,mean_income_or_hours,37.8
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,보건업 및 사회복지 서비스업,2019,mean_income_or_hours,43.9
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"예술,스포츠 및 여가관련 서비스업",2019,mean_income_or_hours,34.8
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,"협회 및 단체, 수리 및 기타 개인 서비스",2019,mean_income_or_hours,40.0
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,가구내 고용활동 및 달리 분류되지 않은 자가소비 생산활동,2019,mean_income_or_hours,0.0
+GOMS_034,근로시간,산업별 주당 평균 근로시간,all,국제 및 외국기관,2019,mean_income_or_hours,41.3
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,전체,2007,mean_income_or_hours,46.8
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,관리직,2007,mean_income_or_hours,47.7
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,경영·회계·사무 관련직,2007,mean_income_or_hours,46.2
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,금융·보험 관련직,2007,mean_income_or_hours,47.4
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,교육 및 자연과학·사회과학 연구관련직,2007,mean_income_or_hours,37.1
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,법률·경찰·소방·교도 관련직,2007,mean_income_or_hours,50.7
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,보건·의료 관련직,2007,mean_income_or_hours,50.0
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,사회복지 및 종교 관련직,2007,mean_income_or_hours,44.3
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,문화·예술·디자인·방송 관련직,2007,mean_income_or_hours,47.7
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,운전 및 운송 관련직,2007,mean_income_or_hours,51.2
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,영업 및 판매 관련직,2007,mean_income_or_hours,48.9
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,경비 및 청소 관련직,2007,mean_income_or_hours,46.1
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,미용·숙박·여행·오락 스포츠 관련직,2007,mean_income_or_hours,47.0
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,음식서비스 관련직,2007,mean_income_or_hours,52.1
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,건설 관련직,2007,mean_income_or_hours,52.4
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,기계 관련직,2007,mean_income_or_hours,50.5
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,재료관련직,2007,mean_income_or_hours,51.3
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,화학 관련직,2007,mean_income_or_hours,47.8
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,섬유 및 의복 관련직,2007,mean_income_or_hours,48.5
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,전기·전자 관련직,2007,mean_income_or_hours,48.9
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,정보통신 관련직,2007,mean_income_or_hours,48.6
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,식품가공 관련직,2007,mean_income_or_hours,50.4
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,환경·인쇄·목재·가구·공예 및 생산단순직,2007,mean_income_or_hours,48.9
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,농림어업 관련직,2007,mean_income_or_hours,49.6
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,군인,2007,mean_income_or_hours,51.0
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,전체,2008,mean_income_or_hours,47.1
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,관리직,2008,mean_income_or_hours,49.5
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,경영·회계·사무 관련직,2008,mean_income_or_hours,46.4
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,금융·보험 관련직,2008,mean_income_or_hours,47.7
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,교육 및 자연과학·사회과학 연구관련직,2008,mean_income_or_hours,39.7
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,법률·경찰·소방·교도 관련직,2008,mean_income_or_hours,52.3
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,보건·의료 관련직,2008,mean_income_or_hours,50.3
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,사회복지 및 종교 관련직,2008,mean_income_or_hours,45.2
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,문화·예술·디자인·방송 관련직,2008,mean_income_or_hours,47.3
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,운전 및 운송 관련직,2008,mean_income_or_hours,49.2
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,영업 및 판매 관련직,2008,mean_income_or_hours,49.6
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,경비 및 청소 관련직,2008,mean_income_or_hours,46.8
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,미용·숙박·여행·오락 스포츠 관련직,2008,mean_income_or_hours,47.7
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,음식서비스 관련직,2008,mean_income_or_hours,52.1
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,건설 관련직,2008,mean_income_or_hours,53.0
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,기계 관련직,2008,mean_income_or_hours,50.9
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,재료관련직,2008,mean_income_or_hours,50.0
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,화학 관련직,2008,mean_income_or_hours,48.6
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,섬유 및 의복 관련직,2008,mean_income_or_hours,49.9
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,전기·전자 관련직,2008,mean_income_or_hours,50.5
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,정보통신 관련직,2008,mean_income_or_hours,48.8
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,식품가공 관련직,2008,mean_income_or_hours,53.0
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,환경·인쇄·목재·가구·공예 및 생산단순직,2008,mean_income_or_hours,48.9
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,농림어업 관련직,2008,mean_income_or_hours,57.1
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,군인,2008,mean_income_or_hours,51.6
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,전체,2009,mean_income_or_hours,46.1
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,관리직,2009,mean_income_or_hours,49.3
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,경영·회계·사무 관련직,2009,mean_income_or_hours,45.5
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,금융·보험 관련직,2009,mean_income_or_hours,46.5
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,교육 및 자연과학·사회과학 연구관련직,2009,mean_income_or_hours,39.6
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,법률·경찰·소방·교도 관련직,2009,mean_income_or_hours,48.5
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,보건·의료 관련직,2009,mean_income_or_hours,48.7
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,사회복지 및 종교 관련직,2009,mean_income_or_hours,44.1
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,문화·예술·디자인·방송 관련직,2009,mean_income_or_hours,47.3
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,운전 및 운송 관련직,2009,mean_income_or_hours,49.6
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,영업 및 판매 관련직,2009,mean_income_or_hours,48.7
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,경비 및 청소 관련직,2009,mean_income_or_hours,48.9
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,미용·숙박·여행·오락 스포츠 관련직,2009,mean_income_or_hours,48.2
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,음식서비스 관련직,2009,mean_income_or_hours,52.5
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,건설 관련직,2009,mean_income_or_hours,49.7
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,기계 관련직,2009,mean_income_or_hours,48.7
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,재료관련직,2009,mean_income_or_hours,46.8
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,화학 관련직,2009,mean_income_or_hours,46.1
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,섬유 및 의복 관련직,2009,mean_income_or_hours,49.8
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,전기·전자 관련직,2009,mean_income_or_hours,47.4
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,정보통신 관련직,2009,mean_income_or_hours,46.8
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,식품가공 관련직,2009,mean_income_or_hours,50.3
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,환경·인쇄·목재·가구·공예 및 생산단순직,2009,mean_income_or_hours,47.0
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,농림어업 관련직,2009,mean_income_or_hours,54.4
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,군인,2009,mean_income_or_hours,48.8
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,전체,2010,mean_income_or_hours,45.7
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,관리직,2010,mean_income_or_hours,51.9
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,경영·회계·사무 관련직,2010,mean_income_or_hours,45.3
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,금융·보험 관련직,2010,mean_income_or_hours,46.8
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,교육 및 자연과학·사회과학 연구관련직,2010,mean_income_or_hours,38.5
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,법률·경찰·소방·교도 관련직,2010,mean_income_or_hours,49.5
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,보건·의료 관련직,2010,mean_income_or_hours,46.9
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,사회복지 및 종교 관련직,2010,mean_income_or_hours,43.3
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,문화·예술·디자인·방송 관련직,2010,mean_income_or_hours,47.0
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,운전 및 운송 관련직,2010,mean_income_or_hours,49.5
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,영업 및 판매 관련직,2010,mean_income_or_hours,48.3
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,경비 및 청소 관련직,2010,mean_income_or_hours,46.8
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,미용·숙박·여행·오락 스포츠 관련직,2010,mean_income_or_hours,47.3
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,음식서비스 관련직,2010,mean_income_or_hours,49.4
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,건설 관련직,2010,mean_income_or_hours,51.0
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,기계 관련직,2010,mean_income_or_hours,49.9
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,재료관련직,2010,mean_income_or_hours,49.3
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,화학 관련직,2010,mean_income_or_hours,46.6
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,섬유 및 의복 관련직,2010,mean_income_or_hours,48.7
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,전기·전자 관련직,2010,mean_income_or_hours,49.5
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,정보통신 관련직,2010,mean_income_or_hours,47.2
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,식품가공 관련직,2010,mean_income_or_hours,50.8
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,환경·인쇄·목재·가구·공예 및 생산단순직,2010,mean_income_or_hours,47.2
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,농림어업 관련직,2010,mean_income_or_hours,45.6
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,군인,2010,mean_income_or_hours,48.9
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,전체,2011,mean_income_or_hours,45.3
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,관리직,2011,mean_income_or_hours,46.4
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,경영·회계·사무 관련직,2011,mean_income_or_hours,45.2
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,금융·보험 관련직,2011,mean_income_or_hours,46.6
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,교육 및 자연과학·사회과학 연구관련직,2011,mean_income_or_hours,38.7
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,법률·경찰·소방·교도 관련직,2011,mean_income_or_hours,50.2
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,보건·의료 관련직,2011,mean_income_or_hours,47.4
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,사회복지 및 종교 관련직,2011,mean_income_or_hours,42.4
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,문화·예술·디자인·방송 관련직,2011,mean_income_or_hours,46.0
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,운전 및 운송 관련직,2011,mean_income_or_hours,49.0
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,영업 및 판매 관련직,2011,mean_income_or_hours,47.9
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,경비 및 청소 관련직,2011,mean_income_or_hours,45.4
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,미용·숙박·여행·오락 스포츠 관련직,2011,mean_income_or_hours,45.2
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,음식서비스 관련직,2011,mean_income_or_hours,48.3
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,건설 관련직,2011,mean_income_or_hours,49.3
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,기계 관련직,2011,mean_income_or_hours,49.2
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,재료관련직,2011,mean_income_or_hours,49.4
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,화학 관련직,2011,mean_income_or_hours,46.7
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,섬유 및 의복 관련직,2011,mean_income_or_hours,49.0
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,전기·전자 관련직,2011,mean_income_or_hours,48.2
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,정보통신 관련직,2011,mean_income_or_hours,46.3
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,식품가공 관련직,2011,mean_income_or_hours,48.9
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,환경·인쇄·목재·가구·공예 및 생산단순직,2011,mean_income_or_hours,46.8
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,농림어업 관련직,2011,mean_income_or_hours,52.2
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,군인,2011,mean_income_or_hours,48.7
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,전체,2012,mean_income_or_hours,44.6
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,관리직,2012,mean_income_or_hours,48.3
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,경영·회계·사무 관련직,2012,mean_income_or_hours,44.6
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,금융·보험 관련직,2012,mean_income_or_hours,45.1
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,교육 및 자연과학·사회과학 연구관련직,2012,mean_income_or_hours,37.4
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,법률·경찰·소방·교도 관련직,2012,mean_income_or_hours,47.9
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,보건·의료 관련직,2012,mean_income_or_hours,47.3
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,사회복지 및 종교 관련직,2012,mean_income_or_hours,42.0
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,문화·예술·디자인·방송 관련직,2012,mean_income_or_hours,45.1
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,운전 및 운송 관련직,2012,mean_income_or_hours,47.0
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,영업 및 판매 관련직,2012,mean_income_or_hours,46.6
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,경비 및 청소 관련직,2012,mean_income_or_hours,47.0
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,미용·숙박·여행·오락 스포츠 관련직,2012,mean_income_or_hours,44.3
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,음식서비스 관련직,2012,mean_income_or_hours,44.8
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,건설 관련직,2012,mean_income_or_hours,49.2
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,기계 관련직,2012,mean_income_or_hours,48.4
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,재료관련직,2012,mean_income_or_hours,49.3
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,화학 관련직,2012,mean_income_or_hours,45.7
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,섬유 및 의복 관련직,2012,mean_income_or_hours,50.7
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,전기·전자 관련직,2012,mean_income_or_hours,47.6
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,정보통신 관련직,2012,mean_income_or_hours,45.6
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,식품가공 관련직,2012,mean_income_or_hours,48.8
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,환경·인쇄·목재·가구·공예 및 생산단순직,2012,mean_income_or_hours,45.9
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,농림어업 관련직,2012,mean_income_or_hours,48.8
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,군인,2012,mean_income_or_hours,46.5
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,전체,2013,mean_income_or_hours,45.1
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,관리직,2013,mean_income_or_hours,46.1
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,경영·회계·사무 관련직,2013,mean_income_or_hours,44.6
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,금융·보험 관련직,2013,mean_income_or_hours,47.2
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,교육 및 자연과학·사회과학 연구관련직,2013,mean_income_or_hours,37.1
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,법률·경찰·소방·교도 관련직,2013,mean_income_or_hours,47.2
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,보건·의료 관련직,2013,mean_income_or_hours,47.8
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,사회복지 및 종교 관련직,2013,mean_income_or_hours,42.6
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,문화·예술·디자인·방송 관련직,2013,mean_income_or_hours,45.6
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,운전 및 운송 관련직,2013,mean_income_or_hours,48.7
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,영업 및 판매 관련직,2013,mean_income_or_hours,46.8
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,경비 및 청소 관련직,2013,mean_income_or_hours,48.5
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,미용·숙박·여행·오락 스포츠 관련직,2013,mean_income_or_hours,43.7
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,음식서비스 관련직,2013,mean_income_or_hours,43.0
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,건설 관련직,2013,mean_income_or_hours,50.1
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,기계 관련직,2013,mean_income_or_hours,49.1
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,재료관련직,2013,mean_income_or_hours,48.0
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,화학 관련직,2013,mean_income_or_hours,49.6
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,섬유 및 의복 관련직,2013,mean_income_or_hours,49.4
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,전기·전자 관련직,2013,mean_income_or_hours,48.4
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,정보통신 관련직,2013,mean_income_or_hours,47.0
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,식품가공 관련직,2013,mean_income_or_hours,48.6
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,환경·인쇄·목재·가구·공예 및 생산단순직,2013,mean_income_or_hours,46.0
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,농림어업 관련직,2013,mean_income_or_hours,50.8
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,군인,2013,mean_income_or_hours,48.1
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,전체,2014,mean_income_or_hours,44.6
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,관리직,2014,mean_income_or_hours,44.1
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,경영·회계·사무 관련직,2014,mean_income_or_hours,44.3
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,금융·보험 관련직,2014,mean_income_or_hours,45.1
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,교육 및 자연과학·사회과학 연구관련직,2014,mean_income_or_hours,37.4
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,법률·경찰·소방·교도 관련직,2014,mean_income_or_hours,49.7
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,보건·의료 관련직,2014,mean_income_or_hours,47.4
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,사회복지 및 종교 관련직,2014,mean_income_or_hours,42.4
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,문화·예술·디자인·방송 관련직,2014,mean_income_or_hours,44.8
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,운전 및 운송 관련직,2014,mean_income_or_hours,45.8
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,영업 및 판매 관련직,2014,mean_income_or_hours,45.7
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,경비 및 청소 관련직,2014,mean_income_or_hours,44.2
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,미용·숙박·여행·오락 스포츠 관련직,2014,mean_income_or_hours,42.2
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,음식서비스 관련직,2014,mean_income_or_hours,43.1
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,건설 관련직,2014,mean_income_or_hours,48.4
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,기계 관련직,2014,mean_income_or_hours,49.4
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,재료관련직,2014,mean_income_or_hours,49.0
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,화학 관련직,2014,mean_income_or_hours,46.1
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,섬유 및 의복 관련직,2014,mean_income_or_hours,47.0
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,전기·전자 관련직,2014,mean_income_or_hours,47.4
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,정보통신 관련직,2014,mean_income_or_hours,45.4
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,식품가공 관련직,2014,mean_income_or_hours,48.9
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,환경·인쇄·목재·가구·공예 및 생산단순직,2014,mean_income_or_hours,46.2
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,농림어업 관련직,2014,mean_income_or_hours,44.6
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,군인,2014,mean_income_or_hours,47.2
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,전체,2015,mean_income_or_hours,44.0
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,관리직,2015,mean_income_or_hours,39.9
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,경영·회계·사무 관련직,2015,mean_income_or_hours,43.8
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,금융·보험 관련직,2015,mean_income_or_hours,45.0
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,교육 및 자연과학·사회과학 연구관련직,2015,mean_income_or_hours,37.0
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,법률·경찰·소방·교도 관련직,2015,mean_income_or_hours,47.3
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,보건·의료 관련직,2015,mean_income_or_hours,46.7
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,사회복지 및 종교 관련직,2015,mean_income_or_hours,42.1
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,문화·예술·디자인·방송 관련직,2015,mean_income_or_hours,44.6
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,운전 및 운송 관련직,2015,mean_income_or_hours,47.0
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,영업 및 판매 관련직,2015,mean_income_or_hours,44.5
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,경비 및 청소 관련직,2015,mean_income_or_hours,43.6
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,미용·숙박·여행·오락 스포츠 관련직,2015,mean_income_or_hours,40.8
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,음식서비스 관련직,2015,mean_income_or_hours,42.8
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,건설 관련직,2015,mean_income_or_hours,48.3
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,기계 관련직,2015,mean_income_or_hours,48.1
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,재료관련직,2015,mean_income_or_hours,48.1
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,화학 관련직,2015,mean_income_or_hours,46.5
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,섬유 및 의복 관련직,2015,mean_income_or_hours,48.0
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,전기·전자 관련직,2015,mean_income_or_hours,46.5
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,정보통신 관련직,2015,mean_income_or_hours,45.2
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,식품가공 관련직,2015,mean_income_or_hours,49.0
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,환경·인쇄·목재·가구·공예 및 생산단순직,2015,mean_income_or_hours,44.5
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,농림어업 관련직,2015,mean_income_or_hours,48.9
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,군인,2015,mean_income_or_hours,46.7
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,전체,2016,mean_income_or_hours,43.9
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,관리직,2016,mean_income_or_hours,43.5
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,경영·회계·사무 관련직,2016,mean_income_or_hours,43.8
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,금융·보험 관련직,2016,mean_income_or_hours,44.9
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,교육 및 자연과학·사회과학 연구관련직,2016,mean_income_or_hours,36.9
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,법률·경찰·소방·교도 관련직,2016,mean_income_or_hours,49.1
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,보건·의료 관련직,2016,mean_income_or_hours,46.6
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,사회복지 및 종교 관련직,2016,mean_income_or_hours,41.2
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,문화·예술·디자인·방송 관련직,2016,mean_income_or_hours,43.3
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,운전 및 운송 관련직,2016,mean_income_or_hours,45.4
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,영업 및 판매 관련직,2016,mean_income_or_hours,43.0
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,경비 및 청소 관련직,2016,mean_income_or_hours,43.1
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,미용·숙박·여행·오락 스포츠 관련직,2016,mean_income_or_hours,42.3
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,음식서비스 관련직,2016,mean_income_or_hours,39.7
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,건설 관련직,2016,mean_income_or_hours,47.9
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,기계 관련직,2016,mean_income_or_hours,48.3
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,재료관련직,2016,mean_income_or_hours,49.9
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,화학 관련직,2016,mean_income_or_hours,45.2
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,섬유 및 의복 관련직,2016,mean_income_or_hours,49.3
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,전기·전자 관련직,2016,mean_income_or_hours,46.6
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,정보통신 관련직,2016,mean_income_or_hours,45.0
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,식품가공 관련직,2016,mean_income_or_hours,48.5
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,환경·인쇄·목재·가구·공예 및 생산단순직,2016,mean_income_or_hours,45.9
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,농림어업 관련직,2016,mean_income_or_hours,47.6
+GOMS_035,근로시간,직업별 주당 평균 근로시간(~2016),pre_2017,군인,2016,mean_income_or_hours,48.6
+GOMS_036,근로시간,직업별 주당 평균 근로시간(2017~),post_2017,전체,2017,mean_income_or_hours,43.1
+GOMS_036,근로시간,직업별 주당 평균 근로시간(2017~),post_2017,경영·사무·금융·보험직,2017,mean_income_or_hours,43.3
+GOMS_036,근로시간,직업별 주당 평균 근로시간(2017~),post_2017,연구직 및 공학 기술직,2017,mean_income_or_hours,45.6
+GOMS_036,근로시간,직업별 주당 평균 근로시간(2017~),post_2017,교육·법률·사회복지·경찰·소방직 및 군인,2017,mean_income_or_hours,38.4
+GOMS_036,근로시간,직업별 주당 평균 근로시간(2017~),post_2017,보건·의료직,2017,mean_income_or_hours,46.2
+GOMS_036,근로시간,직업별 주당 평균 근로시간(2017~),post_2017,예술·디자인·방송·스포츠직,2017,mean_income_or_hours,42.6
+GOMS_036,근로시간,직업별 주당 평균 근로시간(2017~),post_2017,미용·여행·숙박·음식·경비·청소직,2017,mean_income_or_hours,38.9
+GOMS_036,근로시간,직업별 주당 평균 근로시간(2017~),post_2017,영업·판매·운전·운송직,2017,mean_income_or_hours,42.0
+GOMS_036,근로시간,직업별 주당 평균 근로시간(2017~),post_2017,건설·채굴직,2017,mean_income_or_hours,42.9
+GOMS_036,근로시간,직업별 주당 평균 근로시간(2017~),post_2017,설치·정비·생산직,2017,mean_income_or_hours,47.0
+GOMS_036,근로시간,직업별 주당 평균 근로시간(2017~),post_2017,농림어업직,2017,mean_income_or_hours,49.6
+GOMS_036,근로시간,직업별 주당 평균 근로시간(2017~),post_2017,전체,2018,mean_income_or_hours,42.1
+GOMS_036,근로시간,직업별 주당 평균 근로시간(2017~),post_2017,경영·사무·금융·보험직,2018,mean_income_or_hours,42.2
+GOMS_036,근로시간,직업별 주당 평균 근로시간(2017~),post_2017,연구직 및 공학 기술직,2018,mean_income_or_hours,44.8
+GOMS_036,근로시간,직업별 주당 평균 근로시간(2017~),post_2017,교육·법률·사회복지·경찰·소방직 및 군인,2018,mean_income_or_hours,38.0
+GOMS_036,근로시간,직업별 주당 평균 근로시간(2017~),post_2017,보건·의료직,2018,mean_income_or_hours,44.9
+GOMS_036,근로시간,직업별 주당 평균 근로시간(2017~),post_2017,예술·디자인·방송·스포츠직,2018,mean_income_or_hours,41.5
+GOMS_036,근로시간,직업별 주당 평균 근로시간(2017~),post_2017,미용·여행·숙박·음식·경비·청소직,2018,mean_income_or_hours,36.6
+GOMS_036,근로시간,직업별 주당 평균 근로시간(2017~),post_2017,영업·판매·운전·운송직,2018,mean_income_or_hours,40.2
+GOMS_036,근로시간,직업별 주당 평균 근로시간(2017~),post_2017,건설·채굴직,2018,mean_income_or_hours,43.0
+GOMS_036,근로시간,직업별 주당 평균 근로시간(2017~),post_2017,설치·정비·생산직,2018,mean_income_or_hours,45.2
+GOMS_036,근로시간,직업별 주당 평균 근로시간(2017~),post_2017,농림어업직,2018,mean_income_or_hours,48.6
+GOMS_036,근로시간,직업별 주당 평균 근로시간(2017~),post_2017,전체,2019,mean_income_or_hours,41.9
+GOMS_036,근로시간,직업별 주당 평균 근로시간(2017~),post_2017,경영·사무·금융·보험직,2019,mean_income_or_hours,42.4
+GOMS_036,근로시간,직업별 주당 평균 근로시간(2017~),post_2017,연구직 및 공학 기술직,2019,mean_income_or_hours,44.7
+GOMS_036,근로시간,직업별 주당 평균 근로시간(2017~),post_2017,교육·법률·사회복지·경찰·소방직 및 군인,2019,mean_income_or_hours,38.7
+GOMS_036,근로시간,직업별 주당 평균 근로시간(2017~),post_2017,보건·의료직,2019,mean_income_or_hours,45.3
+GOMS_036,근로시간,직업별 주당 평균 근로시간(2017~),post_2017,예술·디자인·방송·스포츠직,2019,mean_income_or_hours,40.8
+GOMS_036,근로시간,직업별 주당 평균 근로시간(2017~),post_2017,미용·여행·숙박·음식·경비·청소직,2019,mean_income_or_hours,33.6
+GOMS_036,근로시간,직업별 주당 평균 근로시간(2017~),post_2017,영업·판매·운전·운송직,2019,mean_income_or_hours,38.2
+GOMS_036,근로시간,직업별 주당 평균 근로시간(2017~),post_2017,건설·채굴직,2019,mean_income_or_hours,46.2
+GOMS_036,근로시간,직업별 주당 평균 근로시간(2017~),post_2017,설치·정비·생산직,2019,mean_income_or_hours,45.8
+GOMS_036,근로시간,직업별 주당 평균 근로시간(2017~),post_2017,농림어업직,2019,mean_income_or_hours,46.1
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,전체,2007,mean_income_or_hours,46.8
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,1. 1～4명,2007,mean_income_or_hours,44.3
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,2. 5～9명,2007,mean_income_or_hours,46.0
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,3. 10～29명,2007,mean_income_or_hours,47.7
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,4. 30～49명,2007,mean_income_or_hours,46.1
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,5. 50～99명,2007,mean_income_or_hours,46.3
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,6. 100～299명,2007,mean_income_or_hours,47.5
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,7. 300～499명,2007,mean_income_or_hours,47.4
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,8. 500～999명,2007,mean_income_or_hours,47.1
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,"9. 1,000명 이상",2007,mean_income_or_hours,48.1
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,전체,2008,mean_income_or_hours,47.1
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,1. 1～4명,2008,mean_income_or_hours,45.5
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,2. 5～9명,2008,mean_income_or_hours,47.4
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,3. 10～29명,2008,mean_income_or_hours,47.3
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,4. 30～49명,2008,mean_income_or_hours,46.5
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,5. 50～99명,2008,mean_income_or_hours,46.6
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,6. 100～299명,2008,mean_income_or_hours,47.2
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,7. 300～499명,2008,mean_income_or_hours,48.3
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,8. 500～999명,2008,mean_income_or_hours,47.4
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,"9. 1,000명 이상",2008,mean_income_or_hours,48.6
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,전체,2009,mean_income_or_hours,46.1
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,1. 1～4명,2009,mean_income_or_hours,46.3
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,2. 5～9명,2009,mean_income_or_hours,46.5
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,3. 10～29명,2009,mean_income_or_hours,46.3
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,4. 30～49명,2009,mean_income_or_hours,45.5
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,5. 50～99명,2009,mean_income_or_hours,45.4
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,6. 100～299명,2009,mean_income_or_hours,46.0
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,7. 300～499명,2009,mean_income_or_hours,46.5
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,8. 500～999명,2009,mean_income_or_hours,45.7
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,"9. 1,000명 이상",2009,mean_income_or_hours,46.8
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,전체,2010,mean_income_or_hours,45.7
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,1. 1～4명,2010,mean_income_or_hours,43.9
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,2. 5～9명,2010,mean_income_or_hours,45.4
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,3. 10～29명,2010,mean_income_or_hours,46.2
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,4. 30～49명,2010,mean_income_or_hours,44.8
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,5. 50～99명,2010,mean_income_or_hours,45.4
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,6. 100～299명,2010,mean_income_or_hours,46.7
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,7. 300～499명,2010,mean_income_or_hours,46.1
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,8. 500～999명,2010,mean_income_or_hours,45.9
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,"9. 1,000명 이상",2010,mean_income_or_hours,47.0
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,전체,2011,mean_income_or_hours,45.4
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,1. 1～4명,2011,mean_income_or_hours,44.1
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,2. 5～9명,2011,mean_income_or_hours,45.0
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,3. 10～29명,2011,mean_income_or_hours,45.6
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,4. 30～49명,2011,mean_income_or_hours,44.0
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,5. 50～99명,2011,mean_income_or_hours,44.4
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,6. 100～299명,2011,mean_income_or_hours,45.9
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,7. 300～499명,2011,mean_income_or_hours,46.5
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,8. 500～999명,2011,mean_income_or_hours,45.4
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,"9. 1,000명 이상",2011,mean_income_or_hours,47.0
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,전체,2012,mean_income_or_hours,44.6
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,1. 1～4명,2012,mean_income_or_hours,42.8
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,2. 5～9명,2012,mean_income_or_hours,43.7
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,3. 10～29명,2012,mean_income_or_hours,44.6
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,4. 30～49명,2012,mean_income_or_hours,44.2
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,5. 50～99명,2012,mean_income_or_hours,43.7
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,6. 100～299명,2012,mean_income_or_hours,45.4
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,7. 300～499명,2012,mean_income_or_hours,45.6
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,8. 500～999명,2012,mean_income_or_hours,46.2
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,"9. 1,000명 이상",2012,mean_income_or_hours,46.3
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,전체,2013,mean_income_or_hours,45.1
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,1. 1～4명,2013,mean_income_or_hours,42.4
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,2. 5～9명,2013,mean_income_or_hours,44.4
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,3. 10～29명,2013,mean_income_or_hours,44.8
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,4. 30～49명,2013,mean_income_or_hours,44.7
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,5. 50～99명,2013,mean_income_or_hours,44.6
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,6. 100～299명,2013,mean_income_or_hours,46.0
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,7. 300～499명,2013,mean_income_or_hours,46.9
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,8. 500～999명,2013,mean_income_or_hours,46.4
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,"9. 1,000명 이상",2013,mean_income_or_hours,47.6
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,전체,2014,mean_income_or_hours,44.7
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,1. 1～4명,2014,mean_income_or_hours,41.3
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,2. 5～9명,2014,mean_income_or_hours,43.7
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,3. 10～29명,2014,mean_income_or_hours,44.8
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,4. 30～49명,2014,mean_income_or_hours,44.3
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,5. 50～99명,2014,mean_income_or_hours,44.5
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,6. 100～299명,2014,mean_income_or_hours,46.1
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,7. 300～499명,2014,mean_income_or_hours,46.8
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,8. 500～999명,2014,mean_income_or_hours,46.2
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,"9. 1,000명 이상",2014,mean_income_or_hours,46.5
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,전체,2015,mean_income_or_hours,44.1
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,1. 1～4명,2015,mean_income_or_hours,41.7
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,2. 5～9명,2015,mean_income_or_hours,42.9
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,3. 10～29명,2015,mean_income_or_hours,44.4
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,4. 30～49명,2015,mean_income_or_hours,43.9
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,5. 50～99명,2015,mean_income_or_hours,43.8
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,6. 100～299명,2015,mean_income_or_hours,44.9
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,7. 300～499명,2015,mean_income_or_hours,44.7
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,8. 500～999명,2015,mean_income_or_hours,45.4
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,"9. 1,000명 이상",2015,mean_income_or_hours,45.9
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,전체,2016,mean_income_or_hours,44.0
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,1. 1～4명,2016,mean_income_or_hours,40.3
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,2. 5～9명,2016,mean_income_or_hours,42.0
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,3. 10～29명,2016,mean_income_or_hours,44.3
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,4. 30～49명,2016,mean_income_or_hours,44.2
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,5. 50～99명,2016,mean_income_or_hours,44.1
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,6. 100～299명,2016,mean_income_or_hours,45.6
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,7. 300～499명,2016,mean_income_or_hours,45.5
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,8. 500～999명,2016,mean_income_or_hours,45.9
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,"9. 1,000명 이상",2016,mean_income_or_hours,46.4
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,전체,2017,mean_income_or_hours,43.3
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,1. 1～4명,2017,mean_income_or_hours,39.7
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,2. 5～9명,2017,mean_income_or_hours,41.3
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,3. 10～29명,2017,mean_income_or_hours,43.3
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,4. 30～49명,2017,mean_income_or_hours,43.5
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,5. 50～99명,2017,mean_income_or_hours,43.6
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,6. 100～299명,2017,mean_income_or_hours,45.1
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,7. 300～499명,2017,mean_income_or_hours,44.7
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,8. 500～999명,2017,mean_income_or_hours,44.9
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,"9. 1,000명 이상",2017,mean_income_or_hours,45.5
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,전체,2018,mean_income_or_hours,42.2
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,1. 1～4명,2018,mean_income_or_hours,39.0
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,2. 5～9명,2018,mean_income_or_hours,39.2
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,3. 10～29명,2018,mean_income_or_hours,42.2
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,4. 30～49명,2018,mean_income_or_hours,42.7
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,5. 50～99명,2018,mean_income_or_hours,42.8
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,6. 100～299명,2018,mean_income_or_hours,44.1
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,7. 300～499명,2018,mean_income_or_hours,43.7
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,8. 500～999명,2018,mean_income_or_hours,44.0
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,"9. 1,000명 이상",2018,mean_income_or_hours,44.2
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,전체,2019,mean_income_or_hours,41.9
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,1. 1～4명,2019,mean_income_or_hours,37.2
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,2. 5～9명,2019,mean_income_or_hours,38.2
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,3. 10～29명,2019,mean_income_or_hours,42.0
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,4. 30～49명,2019,mean_income_or_hours,42.0
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,5. 50～99명,2019,mean_income_or_hours,42.9
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,6. 100～299명,2019,mean_income_or_hours,44.0
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,7. 300～499명,2019,mean_income_or_hours,44.9
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,8. 500～999명,2019,mean_income_or_hours,44.2
+GOMS_037,근로시간,사업체 규모별 주당 평균 근로시간,all,"9. 1,000명 이상",2019,mean_income_or_hours,44.5
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,전체,2007,mean_income_or_hours,46.7
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,1. 내국인이 운영하는 국내외의 민간회사 또는개인사업체,2007,mean_income_or_hours,47.8
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,2. 외국인이 운영하는 국내외에 위치하는 외국인 회사,2007,mean_income_or_hours,45.9
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,3. 정부투자기관/정부출연기관/공사합동기업,2007,mean_income_or_hours,44.8
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,"4. (재단, 사단) 법인단체",2007,mean_income_or_hours,47.6
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,"5. 정부기관(공무원, 군인 등)",2007,mean_income_or_hours,45.8
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,"6. 교육기관(대학, 초/중/고 등)",2007,mean_income_or_hours,42.0
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,7. 연구기관(국립/사립),2007,mean_income_or_hours,43.2
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,8. 특정한 회사나 사업체에 소속되어 있지 않다,2007,mean_income_or_hours,33.0
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,9. 기타,2007,mean_income_or_hours,40.1
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,전체,2008,mean_income_or_hours,47.1
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,1. 내국인이 운영하는 국내외의 민간회사 또는개인사업체,2008,mean_income_or_hours,48.5
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,2. 외국인이 운영하는 국내외에 위치하는 외국인 회사,2008,mean_income_or_hours,46.1
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,3. 정부투자기관/정부출연기관/공사합동기업,2008,mean_income_or_hours,43.9
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,"4. (재단, 사단) 법인단체",2008,mean_income_or_hours,43.6
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,"5. 정부기관(공무원, 군인 등)",2008,mean_income_or_hours,45.2
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,"6. 교육기관(대학, 초/중/고 등)",2008,mean_income_or_hours,44.5
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,7. 연구기관(국립/사립),2008,mean_income_or_hours,46.0
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,8. 특정한 회사나 사업체에 소속되어 있지 않다,2008,mean_income_or_hours,28.4
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,9. 기타,2008,mean_income_or_hours,47.2
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,전체,2009,mean_income_or_hours,46.1
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,1. 내국인이 운영하는 국내외의 민간회사 또는개인사업체,2009,mean_income_or_hours,47.1
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,2. 외국인이 운영하는 국내외에 위치하는 외국인 회사,2009,mean_income_or_hours,44.7
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,3. 정부투자기관/정부출연기관/공사합동기업,2009,mean_income_or_hours,43.9
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,"4. (재단, 사단) 법인단체",2009,mean_income_or_hours,44.4
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,"5. 정부기관(공무원, 군인 등)",2009,mean_income_or_hours,44.8
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,"6. 교육기관(대학, 초/중/고 등)",2009,mean_income_or_hours,42.8
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,7. 연구기관(국립/사립),2009,mean_income_or_hours,44.3
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,8. 특정한 회사나 사업체에 소속되어 있지 않다,2009,mean_income_or_hours,37.4
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,9. 기타,2009,mean_income_or_hours,43.5
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,전체,2010,mean_income_or_hours,45.7
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,1. 내국인이 운영하는 국내외의 민간회사 또는개인사업체,2010,mean_income_or_hours,47.1
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,2. 외국인이 운영하는 국내외에 위치하는 외국인 회사,2010,mean_income_or_hours,45.7
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,3. 정부투자기관/정부출연기관/공사합동기업,2010,mean_income_or_hours,43.5
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,"4. (재단, 사단) 법인단체",2010,mean_income_or_hours,43.5
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,"5. 정부기관(공무원, 군인 등)",2010,mean_income_or_hours,44.3
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,"6. 교육기관(대학, 초/중/고 등)",2010,mean_income_or_hours,42.2
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,7. 연구기관(국립/사립),2010,mean_income_or_hours,44.7
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,8. 특정한 회사나 사업체에 소속되어 있지 않다,2010,mean_income_or_hours,29.3
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,9. 기타,2010,mean_income_or_hours,36.2
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,전체,2011,mean_income_or_hours,45.3
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,1. 내국인이 운영하는 국내외의 민간회사 또는개인사업체,2011,mean_income_or_hours,46.8
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,2. 외국인이 운영하는 국내외에 위치하는 외국인 회사,2011,mean_income_or_hours,45.7
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,3. 정부투자기관/정부출연기관/공사합동기업,2011,mean_income_or_hours,43.4
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,"4. (재단, 사단) 법인단체",2011,mean_income_or_hours,43.9
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,"5. 정부기관(공무원, 군인 등)",2011,mean_income_or_hours,44.9
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,"6. 교육기관(대학, 초/중/고 등)",2011,mean_income_or_hours,40.9
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,7. 연구기관(국립/사립),2011,mean_income_or_hours,42.2
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,8. 특정한 회사나 사업체에 소속되어 있지 않다,2011,mean_income_or_hours,30.6
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,9. 기타,2011,mean_income_or_hours,27.3
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,전체,2012,mean_income_or_hours,44.5
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,1. 내국인이 운영하는 국내외의 민간회사 또는개인사업체,2012,mean_income_or_hours,45.8
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,2. 외국인이 운영하는 국내외에 위치하는 외국인 회사,2012,mean_income_or_hours,44.5
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,3. 정부투자기관/정부출연기관/공사합동기업,2012,mean_income_or_hours,42.9
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,"4. (재단, 사단) 법인단체",2012,mean_income_or_hours,43.5
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,"5. 정부기관(공무원, 군인 등)",2012,mean_income_or_hours,44.4
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,"6. 교육기관(대학, 초/중/고 등)",2012,mean_income_or_hours,39.4
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,7. 연구기관(국립/사립),2012,mean_income_or_hours,43.3
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,8. 특정한 회사나 사업체에 소속되어 있지 않다,2012,mean_income_or_hours,33.6
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,9. 기타,2012,mean_income_or_hours,40.5
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,전체,2013,mean_income_or_hours,45.1
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,1. 내국인이 운영하는 국내외의 민간회사 또는개인사업체,2013,mean_income_or_hours,46.0
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,2. 외국인이 운영하는 국내외에 위치하는 외국인 회사,2013,mean_income_or_hours,44.4
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,3. 정부투자기관/정부출연기관/공사합동기업,2013,mean_income_or_hours,43.6
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,"4. (재단, 사단) 법인단체",2013,mean_income_or_hours,45.6
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,"5. 정부기관(공무원, 군인 등)",2013,mean_income_or_hours,44.4
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,"6. 교육기관(대학, 초/중/고 등)",2013,mean_income_or_hours,42.2
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,7. 연구기관(국립/사립),2013,mean_income_or_hours,44.9
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,8. 특정한 회사나 사업체에 소속되어 있지 않다,2013,mean_income_or_hours,34.2
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,9. 기타,2013,mean_income_or_hours,28.7
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,전체,2014,mean_income_or_hours,44.6
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,1. 내국인이 운영하는 국내외의 민간회사 또는개인사업체,2014,mean_income_or_hours,45.5
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,2. 외국인이 운영하는 국내외에 위치하는 외국인 회사,2014,mean_income_or_hours,45.7
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,3. 정부투자기관/정부출연기관/공사합동기업,2014,mean_income_or_hours,43.1
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,"4. (재단, 사단) 법인단체",2014,mean_income_or_hours,44.4
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,"5. 정부기관(공무원, 군인 등)",2014,mean_income_or_hours,46.0
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,"6. 교육기관(대학, 초/중/고 등)",2014,mean_income_or_hours,40.8
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,7. 연구기관(국립/사립),2014,mean_income_or_hours,43.2
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,8. 특정한 회사나 사업체에 소속되어 있지 않다,2014,mean_income_or_hours,28.4
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,9. 기타,2014,mean_income_or_hours,34.8
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,전체,2015,mean_income_or_hours,44.0
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,1. 내국인이 운영하는 국내외의 민간회사 또는개인사업체,2015,mean_income_or_hours,44.9
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,2. 외국인이 운영하는 국내외에 위치하는 외국인 회사,2015,mean_income_or_hours,44.3
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,3. 정부투자기관/정부출연기관/공사합동기업,2015,mean_income_or_hours,42.5
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,"4. (재단, 사단) 법인단체",2015,mean_income_or_hours,44.2
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,"5. 정부기관(공무원, 군인 등)",2015,mean_income_or_hours,44.8
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,"6. 교육기관(대학, 초/중/고 등)",2015,mean_income_or_hours,39.8
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,7. 연구기관(국립/사립),2015,mean_income_or_hours,43.8
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,8. 특정한 회사나 사업체에 소속되어 있지 않다,2015,mean_income_or_hours,34.4
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,9. 기타,2015,mean_income_or_hours,46.8
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,전체,2016,mean_income_or_hours,43.9
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,1. 내국인이 운영하는 국내외의 민간회사 또는개인사업체,2016,mean_income_or_hours,44.5
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,2. 외국인이 운영하는 국내외에 위치하는 외국인 회사,2016,mean_income_or_hours,44.4
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,3. 정부투자기관/정부출연기관/공사합동기업,2016,mean_income_or_hours,42.2
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,"4. (재단, 사단) 법인단체",2016,mean_income_or_hours,43.9
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,"5. 정부기관(공무원, 군인 등)",2016,mean_income_or_hours,45.6
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,"6. 교육기관(대학, 초/중/고 등)",2016,mean_income_or_hours,41.2
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,7. 연구기관(국립/사립),2016,mean_income_or_hours,45.8
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,8. 특정한 회사나 사업체에 소속되어 있지 않다,2016,mean_income_or_hours,27.5
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,9. 기타,2016,mean_income_or_hours,30.0
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,전체,2017,mean_income_or_hours,43.1
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,1. 내국인이 운영하는 국내외의 민간회사 또는개인사업체,2017,mean_income_or_hours,43.6
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,2. 외국인이 운영하는 국내외에 위치하는 외국인 회사,2017,mean_income_or_hours,43.8
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,3. 정부투자기관/정부출연기관/공사합동기업,2017,mean_income_or_hours,43.1
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,"4. (재단, 사단) 법인단체",2017,mean_income_or_hours,43.1
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,"5. 정부기관(공무원, 군인 등)",2017,mean_income_or_hours,45.1
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,"6. 교육기관(대학, 초/중/고 등)",2017,mean_income_or_hours,40.6
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,7. 연구기관(국립/사립),2017,mean_income_or_hours,44.3
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,8. 특정한 회사나 사업체에 소속되어 있지 않다,2017,mean_income_or_hours,31.4
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,9. 기타,2017,mean_income_or_hours,35.0
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,전체,2018,mean_income_or_hours,42.1
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,1. 내국인이 운영하는 국내외의 민간회사 또는개인사업체,2018,mean_income_or_hours,42.3
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,2. 외국인이 운영하는 국내외에 위치하는 외국인 회사,2018,mean_income_or_hours,42.6
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,3. 정부투자기관/정부출연기관/공사합동기업,2018,mean_income_or_hours,42.3
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,"4. (재단, 사단) 법인단체",2018,mean_income_or_hours,42.2
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,"5. 정부기관(공무원, 군인 등)",2018,mean_income_or_hours,44.4
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,"6. 교육기관(대학, 초/중/고 등)",2018,mean_income_or_hours,40.0
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,7. 연구기관(국립/사립),2018,mean_income_or_hours,43.3
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,8. 특정한 회사나 사업체에 소속되어 있지 않다,2018,mean_income_or_hours,33.2
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,9. 기타,2018,mean_income_or_hours,41.0
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,전체,2019,mean_income_or_hours,41.9
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,1. 내국인이 운영하는 국내외의 민간회사 또는개인사업체,2019,mean_income_or_hours,41.8
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,2. 외국인이 운영하는 국내외에 위치하는 외국인 회사,2019,mean_income_or_hours,41.5
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,3. 정부투자기관/정부출연기관/공사합동기업,2019,mean_income_or_hours,42.3
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,"4. (재단, 사단) 법인단체",2019,mean_income_or_hours,42.9
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,"5. 정부기관(공무원, 군인 등)",2019,mean_income_or_hours,44.3
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,"6. 교육기관(대학, 초/중/고 등)",2019,mean_income_or_hours,40.4
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,7. 연구기관(국립/사립),2019,mean_income_or_hours,41.7
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,8. 특정한 회사나 사업체에 소속되어 있지 않다,2019,mean_income_or_hours,32.4
+GOMS_038,근로시간,사업체 유형별 주당 평균 근로시간,all,9. 기타,2019,mean_income_or_hours,42.7
+GOMS_039,근로시간,종사상지위별 주당 평균 근로시간,all,전체,2007,mean_income_or_hours,46.7
+GOMS_039,근로시간,종사상지위별 주당 평균 근로시간,all,1. 상용근로자,2007,mean_income_or_hours,48.1
+GOMS_039,근로시간,종사상지위별 주당 평균 근로시간,all,2. 임시근로자,2007,mean_income_or_hours,37.9
+GOMS_039,근로시간,종사상지위별 주당 평균 근로시간,all,3. 일용근로자,2007,mean_income_or_hours,38.7
+GOMS_039,근로시간,종사상지위별 주당 평균 근로시간,all,4. 고용원이 있는 자영업자,2007,mean_income_or_hours,54.6
+GOMS_039,근로시간,종사상지위별 주당 평균 근로시간,all,5. 고용원이 없는 자영업자,2007,mean_income_or_hours,41.2
+GOMS_039,근로시간,종사상지위별 주당 평균 근로시간,all,6. 무급가족종사자,2007,mean_income_or_hours,50.0
+GOMS_039,근로시간,종사상지위별 주당 평균 근로시간,all,전체,2008,mean_income_or_hours,47.1
+GOMS_039,근로시간,종사상지위별 주당 평균 근로시간,all,1. 상용근로자,2008,mean_income_or_hours,48.3
+GOMS_039,근로시간,종사상지위별 주당 평균 근로시간,all,2. 임시근로자,2008,mean_income_or_hours,39.3
+GOMS_039,근로시간,종사상지위별 주당 평균 근로시간,all,3. 일용근로자,2008,mean_income_or_hours,36.7
+GOMS_039,근로시간,종사상지위별 주당 평균 근로시간,all,4. 고용원이 있는 자영업자,2008,mean_income_or_hours,57.1
+GOMS_039,근로시간,종사상지위별 주당 평균 근로시간,all,5. 고용원이 없는 자영업자,2008,mean_income_or_hours,39.2
+GOMS_039,근로시간,종사상지위별 주당 평균 근로시간,all,6. 무급가족종사자,2008,mean_income_or_hours,36.3
+GOMS_039,근로시간,종사상지위별 주당 평균 근로시간,all,전체,2009,mean_income_or_hours,46.2
+GOMS_039,근로시간,종사상지위별 주당 평균 근로시간,all,1. 상용근로자,2009,mean_income_or_hours,46.8
+GOMS_039,근로시간,종사상지위별 주당 평균 근로시간,all,2. 임시근로자,2009,mean_income_or_hours,40.1
+GOMS_039,근로시간,종사상지위별 주당 평균 근로시간,all,3. 일용근로자,2009,mean_income_or_hours,38.1
+GOMS_039,근로시간,종사상지위별 주당 평균 근로시간,all,4. 고용원이 있는 자영업자,2009,mean_income_or_hours,54.6
+GOMS_039,근로시간,종사상지위별 주당 평균 근로시간,all,5. 고용원이 없는 자영업자,2009,mean_income_or_hours,41.7
+GOMS_039,근로시간,종사상지위별 주당 평균 근로시간,all,6. 무급가족종사자,2009,mean_income_or_hours,47.5
+GOMS_039,근로시간,종사상지위별 주당 평균 근로시간,all,전체,2010,mean_income_or_hours,45.7
+GOMS_039,근로시간,종사상지위별 주당 평균 근로시간,all,1. 상용근로자,2010,mean_income_or_hours,47.0
+GOMS_039,근로시간,종사상지위별 주당 평균 근로시간,all,2. 임시근로자,2010,mean_income_or_hours,38.0
+GOMS_039,근로시간,종사상지위별 주당 평균 근로시간,all,3. 일용근로자,2010,mean_income_or_hours,33.7
+GOMS_039,근로시간,종사상지위별 주당 평균 근로시간,all,4. 고용원이 있는 자영업자,2010,mean_income_or_hours,55.3
+GOMS_039,근로시간,종사상지위별 주당 평균 근로시간,all,5. 고용원이 없는 자영업자,2010,mean_income_or_hours,36.7
+GOMS_039,근로시간,종사상지위별 주당 평균 근로시간,all,6. 무급가족종사자,2010,mean_income_or_hours,41.8
+GOMS_039,근로시간,종사상지위별 주당 평균 근로시간,all,전체,2011,mean_income_or_hours,45.3
+GOMS_039,근로시간,종사상지위별 주당 평균 근로시간,all,1. 상용근로자,2011,mean_income_or_hours,46.7
+GOMS_039,근로시간,종사상지위별 주당 평균 근로시간,all,2. 임시근로자,2011,mean_income_or_hours,38.9
+GOMS_039,근로시간,종사상지위별 주당 평균 근로시간,all,3. 일용근로자,2011,mean_income_or_hours,33.7
+GOMS_039,근로시간,종사상지위별 주당 평균 근로시간,all,4. 고용원이 있는 자영업자,2011,mean_income_or_hours,52.5
+GOMS_039,근로시간,종사상지위별 주당 평균 근로시간,all,5. 고용원이 없는 자영업자,2011,mean_income_or_hours,39.4
+GOMS_039,근로시간,종사상지위별 주당 평균 근로시간,all,6. 무급가족종사자,2011,mean_income_or_hours,54.5
+GOMS_039,근로시간,종사상지위별 주당 평균 근로시간,all,전체,2012,mean_income_or_hours,44.5
+GOMS_039,근로시간,종사상지위별 주당 평균 근로시간,all,1. 상용근로자,2012,mean_income_or_hours,46.0
+GOMS_039,근로시간,종사상지위별 주당 평균 근로시간,all,2. 임시근로자,2012,mean_income_or_hours,38.1
+GOMS_039,근로시간,종사상지위별 주당 평균 근로시간,all,3. 일용근로자,2012,mean_income_or_hours,30.6
+GOMS_039,근로시간,종사상지위별 주당 평균 근로시간,all,4. 고용원이 있는 자영업자,2012,mean_income_or_hours,51.8
+GOMS_039,근로시간,종사상지위별 주당 평균 근로시간,all,5. 고용원이 없는 자영업자,2012,mean_income_or_hours,39.1
+GOMS_039,근로시간,종사상지위별 주당 평균 근로시간,all,6. 무급가족종사자,2012,mean_income_or_hours,48.8
+GOMS_039,근로시간,종사상지위별 주당 평균 근로시간,all,전체,2013,mean_income_or_hours,45.1
+GOMS_039,근로시간,종사상지위별 주당 평균 근로시간,all,1. 상용근로자,2013,mean_income_or_hours,46.5
+GOMS_039,근로시간,종사상지위별 주당 평균 근로시간,all,2. 임시근로자,2013,mean_income_or_hours,38.3
+GOMS_039,근로시간,종사상지위별 주당 평균 근로시간,all,3. 일용근로자,2013,mean_income_or_hours,29.6
+GOMS_039,근로시간,종사상지위별 주당 평균 근로시간,all,4. 고용원이 있는 자영업자,2013,mean_income_or_hours,50.5
+GOMS_039,근로시간,종사상지위별 주당 평균 근로시간,all,5. 고용원이 없는 자영업자,2013,mean_income_or_hours,37.4
+GOMS_039,근로시간,종사상지위별 주당 평균 근로시간,all,6. 무급가족종사자,2013,mean_income_or_hours,48.9
+GOMS_039,근로시간,종사상지위별 주당 평균 근로시간,all,전체,2014,mean_income_or_hours,44.6
+GOMS_039,근로시간,종사상지위별 주당 평균 근로시간,all,1. 상용근로자,2014,mean_income_or_hours,46.5
+GOMS_039,근로시간,종사상지위별 주당 평균 근로시간,all,2. 임시근로자,2014,mean_income_or_hours,38.5
+GOMS_039,근로시간,종사상지위별 주당 평균 근로시간,all,3. 일용근로자,2014,mean_income_or_hours,31.3
+GOMS_039,근로시간,종사상지위별 주당 평균 근로시간,all,4. 고용원이 있는 자영업자,2014,mean_income_or_hours,47.3
+GOMS_039,근로시간,종사상지위별 주당 평균 근로시간,all,5. 고용원이 없는 자영업자,2014,mean_income_or_hours,33.7
+GOMS_039,근로시간,종사상지위별 주당 평균 근로시간,all,6. 무급가족종사자,2014,mean_income_or_hours,44.4
+GOMS_039,근로시간,종사상지위별 주당 평균 근로시간,all,전체,2015,mean_income_or_hours,44.0
+GOMS_039,근로시간,종사상지위별 주당 평균 근로시간,all,1. 상용근로자,2015,mean_income_or_hours,45.6
+GOMS_039,근로시간,종사상지위별 주당 평균 근로시간,all,2. 임시근로자,2015,mean_income_or_hours,37.6
+GOMS_039,근로시간,종사상지위별 주당 평균 근로시간,all,3. 일용근로자,2015,mean_income_or_hours,30.0
+GOMS_039,근로시간,종사상지위별 주당 평균 근로시간,all,4. 고용원이 있는 자영업자,2015,mean_income_or_hours,49.1
+GOMS_039,근로시간,종사상지위별 주당 평균 근로시간,all,5. 고용원이 없는 자영업자,2015,mean_income_or_hours,39.3
+GOMS_039,근로시간,종사상지위별 주당 평균 근로시간,all,6. 무급가족종사자,2015,mean_income_or_hours,46.3
+GOMS_039,근로시간,종사상지위별 주당 평균 근로시간,all,전체,2016,mean_income_or_hours,43.9
+GOMS_039,근로시간,종사상지위별 주당 평균 근로시간,all,1. 상용근로자,2016,mean_income_or_hours,45.8
+GOMS_039,근로시간,종사상지위별 주당 평균 근로시간,all,2. 임시근로자,2016,mean_income_or_hours,36.5
+GOMS_039,근로시간,종사상지위별 주당 평균 근로시간,all,3. 일용근로자,2016,mean_income_or_hours,29.5
+GOMS_039,근로시간,종사상지위별 주당 평균 근로시간,all,4. 고용원이 있는 자영업자,2016,mean_income_or_hours,50.1
+GOMS_039,근로시간,종사상지위별 주당 평균 근로시간,all,5. 고용원이 없는 자영업자,2016,mean_income_or_hours,37.9
+GOMS_039,근로시간,종사상지위별 주당 평균 근로시간,all,6. 무급가족종사자,2016,mean_income_or_hours,43.6
+GOMS_039,근로시간,종사상지위별 주당 평균 근로시간,all,전체,2017,mean_income_or_hours,43.1
+GOMS_039,근로시간,종사상지위별 주당 평균 근로시간,all,1. 상용근로자,2017,mean_income_or_hours,45.1
+GOMS_039,근로시간,종사상지위별 주당 평균 근로시간,all,2. 임시근로자,2017,mean_income_or_hours,35.3
+GOMS_039,근로시간,종사상지위별 주당 평균 근로시간,all,3. 일용근로자,2017,mean_income_or_hours,27.0
+GOMS_039,근로시간,종사상지위별 주당 평균 근로시간,all,4. 고용원이 있는 자영업자,2017,mean_income_or_hours,52.3
+GOMS_039,근로시간,종사상지위별 주당 평균 근로시간,all,5. 고용원이 없는 자영업자,2017,mean_income_or_hours,39.0
+GOMS_039,근로시간,종사상지위별 주당 평균 근로시간,all,6. 무급가족종사자,2017,mean_income_or_hours,41.9
+GOMS_039,근로시간,종사상지위별 주당 평균 근로시간,all,전체,2018,mean_income_or_hours,42.1
+GOMS_039,근로시간,종사상지위별 주당 평균 근로시간,all,1. 상용근로자,2018,mean_income_or_hours,44.0
+GOMS_039,근로시간,종사상지위별 주당 평균 근로시간,all,2. 임시근로자,2018,mean_income_or_hours,33.3
+GOMS_039,근로시간,종사상지위별 주당 평균 근로시간,all,3. 일용근로자,2018,mean_income_or_hours,25.0
+GOMS_039,근로시간,종사상지위별 주당 평균 근로시간,all,4. 고용원이 있는 자영업자,2018,mean_income_or_hours,47.7
+GOMS_039,근로시간,종사상지위별 주당 평균 근로시간,all,5. 고용원이 없는 자영업자,2018,mean_income_or_hours,40.1
+GOMS_039,근로시간,종사상지위별 주당 평균 근로시간,all,6. 무급가족종사자,2018,mean_income_or_hours,45.1
+GOMS_039,근로시간,종사상지위별 주당 평균 근로시간,all,전체,2019,mean_income_or_hours,41.9
+GOMS_039,근로시간,종사상지위별 주당 평균 근로시간,all,1. 상용근로자,2019,mean_income_or_hours,44.1
+GOMS_039,근로시간,종사상지위별 주당 평균 근로시간,all,2. 임시근로자,2019,mean_income_or_hours,33.0
+GOMS_039,근로시간,종사상지위별 주당 평균 근로시간,all,3. 일용근로자,2019,mean_income_or_hours,25.6
+GOMS_039,근로시간,종사상지위별 주당 평균 근로시간,all,4. 고용원이 있는 자영업자,2019,mean_income_or_hours,48.4
+GOMS_039,근로시간,종사상지위별 주당 평균 근로시간,all,5. 고용원이 없는 자영업자,2019,mean_income_or_hours,38.8
+GOMS_039,근로시간,종사상지위별 주당 평균 근로시간,all,6. 무급가족종사자,2019,mean_income_or_hours,39.0

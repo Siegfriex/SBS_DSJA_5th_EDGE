@@ -1,0 +1,53 @@
+﻿source_row_id,univ_id,univ_name_raw,univ_name_std,campus_id,campus_name_std,adiga_univ_code,adiga_label,target_institution_flag,branch_status,crawl_priority,manual_review_required,seed_note,adiga_univ_code_str,duplicate_adiga_code_flag,duplicate_univ_name_flag,seed_status,same_code_university_names,same_name_codes,hufs_global_case_flag
+0,U0000019,서울대,서울대학교,0000019,본교/미구분,19,서울대학교[본교],True,main,1,False,,0000019,False,False,unique_target,서울대학교,0000019,False
+1,U0000149,연세대,연세대학교,0000149,본교/미구분,149,연세대학교[본교],True,main,2,False,,0000149,False,True,unique_target,연세대학교,0000149; 0000150,False
+2,U0000069,고려대,고려대학교,0000069,본교/미구분,69,고려대학교[본교],True,main,3,False,,0000069,False,True,unique_target,고려대학교,0000069; 0000070,False
+3,U0000133,성균관대,성균관대학교,0000133,본교/미구분,133,성균관대학교[본교],True,main,4,False,,0000133,False,False,unique_target,성균관대학교,0000133,False
+4,U0000203,한양대,한양대학교,0000203,본교/미구분,203,한양대학교[본교],True,main,5,False,,0000203,False,True,unique_target,한양대학교,0000203; 0000204,False
+5,U0000120,서강대,서강대학교,0000120,본교/미구분,120,서강대학교[본교],True,main,6,False,,0000120,False,False,unique_target,서강대학교,0000120,False
+6,U0000175,중앙대,중앙대학교,0000175,본교/미구분,175,중앙대학교[본교],True,main,7,False,,0000175,False,False,unique_target,중앙대학교,0000175,False
+7,U0000163,이화여대,이화여자대학교,0000163,본교/미구분,163,이화여자대학교[본교],True,main,8,False,,0000163,False,False,unique_target,이화여자대학교,0000163,False
+8,U0000040,시립대,서울시립대학교,0000040,본교/미구분,40,서울시립대학교[본교],True,main,9,False,,0000040,False,False,unique_target,서울시립대학교,0000040,False
+9,U0000066,경희대,경희대학교,0000066,본교/미구분,66,경희대학교[본교],True,main,10,False,,0000066,False,False,unique_target,경희대학교,0000066,False
+10,U0000052,건국대,건국대학교,0000052,본교/미구분,52,건국대학교[본교],True,main,11,False,,0000052,False,False,unique_target,건국대학교,0000052,False
+11,U0000192,한국외대,한국외국어대학교,0000192,본교/미구분,192,한국외국어대학교[본교],True,main,12,False,,0000192,True,True,duplicate_adiga_code,한국외국어대학교,0000192,True
+12,U0000100,동국대,동국대학교,0000100,본교/미구분,100,동국대학교[본교],True,main,13,False,,0000100,False,False,unique_target,동국대학교,0000100,False
+13,U0000212,홍익대,홍익대학교,0000212,본교/미구분,212,홍익대학교[본교],True,main,14,False,,0000212,False,False,unique_target,홍익대학교,0000212,False
+14,U0000143,숭실대,숭실대학교,0000143,본교/미구분,143,숭실대학교[본교],True,main,15,False,,0000143,False,False,unique_target,숭실대학교,0000143,False
+15,U0000141,숙명여대,숙명여자대학교,0000141,본교/미구분,141,숙명여자대학교[본교],True,main,16,False,,0000141,False,False,unique_target,숙명여자대학교,0000141,False
+16,U0000078,국민대,국민대학교,0000078,본교/미구분,78,국민대학교[본교],True,main,17,False,,0000078,False,False,unique_target,국민대학교,0000078,False
+17,U0000014,부산대,부산대학교,0000014,본교/미구분,14,부산대학교[본교],True,main,18,False,,0000014,False,False,unique_target,부산대학교,0000014,False
+18,U0000138,세종대,세종대학교,0000138,본교/미구분,138,세종대학교[본교],True,main,19,False,,0000138,False,False,unique_target,세종대학교,0000138,False
+19,U0000146,아주대,아주대학교,0000146,본교/미구분,146,아주대학교[본교],True,main,20,False,,0000146,False,False,unique_target,아주대학교,0000146,False
+20,U0000036,서울과기대,서울과학기술대학교,0000036,본교/미구분,36,서울과학기술대학교[본교],True,main,21,False,,0000036,False,False,unique_target,서울과학기술대학교,0000036,False
+21,U0000005,경북대,경북대학교,0000005,본교/미구분,5,경북대학교[본교],True,main,22,False,,0000005,False,False,unique_target,경북대학교,0000005,False
+22,U0000169,인하대,인하대학교,0000169,본교/미구분,169,인하대학교[본교],True,main,23,False,,0000169,False,False,unique_target,인하대학교,0000169,False
+23,U0000136,성신여대,성신여자대학교,0000136,본교/미구분,136,성신여자대학교[본교],True,main,24,False,,0000136,False,False,unique_target,성신여자대학교,0000136,False
+24,U0000082,단국대,단국대학교,0000082_죽전,죽전,82,단국대학교[본교],True,main,25,False,,0000082,False,True,unique_target,단국대학교,0000082; 0002726,False
+25,U0000074,광운대,광운대학교,0000074,본교/미구분,74,광운대학교[본교],True,main,26,False,,0000074,False,False,unique_target,광운대학교,0000074,False
+26,U0000194,항공대,한국항공대학교,0000194,본교/미구분,194,한국항공대학교[본교],True,main,27,False,,0000194,False,False,unique_target,한국항공대학교,0000194,False
+27,U0000204,한양대에리카,한양대학교,0000204,본교/미구분,204,한양대학교(ERICA)[분교],True,branch,28,False,,0000204,False,True,unique_target,한양대학교,0000203; 0000204,False
+28,U0000117,상명대,상명대학교,0000117,본교/미구분,117,상명대학교[본교],True,main,29,False,,0000117,False,False,unique_target,상명대학교,0000117,False
+29,U0000046,가톨릭대,가톨릭대학교,0000046,본교/미구분,46,가톨릭대학교[본교],True,main,30,False,,0000046,False,False,unique_target,가톨릭대학교,0000046,False
+30,U0000109,명지대,명지대학교,0000109,본교/미구분,109,명지대학교[본교],True,main,31,False,,0000109,False,False,unique_target,명지대학교,0000109,False
+31,U0000023,전남대,전남대학교,0000023,본교/미구분,23,전남대학교[본교],True,main,32,False,,0000023,False,False,unique_target,전남대학교,0000023,False
+32,U0002660,인천대,인천대학교,0002660,본교/미구분,2660,인천대학교[본교],True,main,33,False,,0002660,False,False,unique_target,인천대학교,0002660,False
+33,U0000063,가천대,가천대학교,0000063,본교/미구분,63,가천대학교[본교],True,main,34,False,,0000063,False,False,unique_target,가천대학교,0000063,False
+34,U0000099,덕성여대,덕성여자대학교,0000099,본교/미구분,99,덕성여자대학교[본교],True,main,35,False,,0000099,False,False,unique_target,덕성여자대학교,0000099,False
+35,U0000102,동덕여대,동덕여자대학교,0000102,본교/미구분,102,동덕여자대학교[본교],True,main,36,False,,0000102,False,False,unique_target,동덕여자대학교,0000102,False
+36,U0000056,경기대,경기대학교,0000056,본교/미구분,56,경기대학교[본교],True,main,37,False,,0000056,False,False,unique_target,경기대학교,0000056,False
+37,U0000192,한국외대(글캠),한국외국어대학교,0000192,본교/미구분,192,한국외국어대학교[본교],False,unknown,38,True,"adiga에 별도 캠퍼스 코드 없음 — U0000192와 동일 페이지, 중복크롤링 방지 위해 크롤링 대상에서 제외",0000192,True,True,excluded_duplicate_seed,한국외국어대학교,0000192,True
+38,U0000126,서울여대,서울여자대학교,0000126,본교/미구분,126,서울여자대학교[본교],True,main,39,False,,0000126,False,False,unique_target,서울여자대학교,0000126,False
+39,U0000029,충남대,충남대학교,0000029,본교/미구분,29,충남대학교[본교],True,main,40,False,,0000029,False,False,unique_target,충남대학교,0000029,False
+40,U0000200,한성대,한성대학교,0000200,본교/미구분,200,한성대학교[본교],True,main,41,False,,0000200,False,False,unique_target,한성대학교,0000200,False
+41,U0000030,충북대,충북대학교,0000030,본교/미구분,30,충북대학교[본교],True,main,42,False,,0000030,False,False,unique_target,충북대학교,0000030,False
+42,U0000116,삼육대,삼육대학교,0000116,본교/미구분,116,삼육대학교[본교],True,main,43,False,,0000116,False,False,unique_target,삼육대학교,0000116,False
+43,U0000121,서경대,서경대학교,0000121,본교/미구분,121,서경대학교[본교],True,main,44,False,,0000121,False,False,unique_target,서경대학교,0000121,False
+44,U0000013,부경대,부경대학교,0000013,본교/미구분,13,국립부경대학교[본교],True,main,45,False,,0000013,False,False,unique_target,부경대학교,0000013,False
+45,U0000025,전북대,전북대학교,0000025,본교/미구분,25,전북대학교[본교],True,main,46,False,,0000025,False,False,unique_target,전북대학교,0000025,False
+46,U0002726,단국대,단국대학교,0002726_천안,천안,2726,단국대학교[제2캠퍼스],True,branch,47,False,,0002726,False,True,unique_target,단국대학교,0000082; 0002726,False
+47,U0000003,강원대,강원대학교,0000003,본교/미구분,3,강원대학교[본교],True,main,48,False,,0000003,False,False,unique_target,강원대학교,0000003,False
+48,U0000150,연세대(원주캠),연세대학교,0000150,본교/미구분,150,연세대학교(미래)[분교],True,branch,49,False,,0000150,False,True,unique_target,연세대학교,0000149; 0000150,False
+49,U0000070,고려대(세종캠),고려대학교,0000070,본교/미구분,70,고려대학교(세종)[분교],True,branch,50,False,,0000070,False,True,unique_target,고려대학교,0000069; 0000070,False
+50,U0000140,수원대,수원대학교,0000140,본교/미구분,140,수원대학교[본교],True,main,51,False,,0000140,False,False,unique_target,수원대학교,0000140,False
+51,U0000247,한국공대,한국공학대학교,0000247,본교/미구분,247,한국공학대학교[본교],True,main,52,False,,0000247,False,False,unique_target,한국공학대학교,0000247,False

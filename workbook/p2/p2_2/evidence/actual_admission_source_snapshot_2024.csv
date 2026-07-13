@@ -1,0 +1,5 @@
+﻿artifact,path,rows,columns
+admission_raw,data/crawl_2024_admission/02_admission_result_raw_2024.csv,3096,18
+admission_eda_ready,data/crawl_2024_admission/eda_outputs/03_admission_result_eda_ready_2024.csv,3096,64
+dept_reference,P2_학과별_A비율_대학아님.csv,4644,7
+grade_target_regular_mean,data/analysis_csv/department_grade_target_2024_regular_term_mean.csv,10865,14

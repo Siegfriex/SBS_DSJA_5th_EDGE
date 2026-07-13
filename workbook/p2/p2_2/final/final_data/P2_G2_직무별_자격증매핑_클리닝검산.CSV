@@ -1,0 +1,11 @@
+﻿check,value,status
+job_mapping_rows,24,PASS
+job_mapping_columns,26,INFO
+job_mapping_null_cells,0,PASS
+job_mapping_missing,0,PASS
+job_mapping_join_now_any,False,PASS
+job_cert_high_ed_residual_max_abs,0.0,PASS
+job_cert_degree_ratio_residual_max_abs,1.0658141036401503e-14,PASS
+job_cert_total_row_count,1,PASS
+job_cert_source_unknown_rows,1,INFO
+job_cert_graduate_dominant_rows,2,INFO

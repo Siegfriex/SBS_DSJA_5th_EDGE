@@ -1,0 +1,7 @@
+﻿mapping_type,valid_for_primary_model,rows,universities
+alias_1to1,True,1239,35
+unmatched,False,226,27
+alias_not_present_in_university_grade_list,False,177,21
+exact_1to1,True,167,24
+loose_candidate_review,False,144,22
+broad_recruitment_unit,False,73,18

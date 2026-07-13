@@ -1,0 +1,39 @@
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>고용조사분석시스템</title>
+				<style type="text/css">
+						table{width:100%;border-top:2px solid #445069;}
+						 thead th{padding:10px 0;background:#e6eaed;font-size:14px;color:#515151;border-right:1px solid #bcbfc4;border-bottom:1px solid #bcbfc4;}
+						 tbody th{padding:10px 0;background:#e6eaed;font-size:14px;color:#515151;text-align:center;border-right:1px solid #bcbfc4;border-bottom:1px solid #bcbfc4;line-height:20px;}
+						 tbody td{padding:10px 0;font-size:14px;color:#696969;text-align:center;border-right:1px solid #bcbfc4;border-bottom:1px solid #bcbfc4;line-height:20px;}
+					</style>
+</head>
+ <body>
+ 
+<div id="wrap">
+	<div id="contents_size" >
+		<div id="contents">
+			<div class="content">
+					<table class="table1 border_t0 data_table" cellpadding="0" cellspacing="0"  id="tresult"  border="2">
+					
+					<caption>주제별 통계</caption>
+					<thead><tr><th colspan=&quot;1&quot; rowspan=&quot;1&quot;></th><th>2007</th><th>2008</th><th>2009</th><th>2010</th><th>2011</th><th>2012</th><th>2013</th><th>2014</th><th>2015</th><th>2016</th><th>2017</th><th>2018</th><th>2019</th></tr></thead>
+					<tbody><tr><td colspan=&quot;1&quot; class=&quot;text_left2&quot;>전체</td><td class=&quot;text_right2&quot;>196.5</td><td class=&quot;text_right2&quot;>188.9</td><td class=&quot;text_right2&quot;>192.5</td><td class=&quot;text_right2&quot;>198.3</td><td class=&quot;text_right2&quot;>206.5</td><td class=&quot;text_right2&quot;>205.1</td><td class=&quot;text_right2&quot;>205.3</td><td class=&quot;text_right2&quot;>205.3</td><td class=&quot;text_right2&quot;>208.1</td><td class=&quot;text_right2&quot;>217.0</td><td class=&quot;text_right2&quot;>227.2</td><td class=&quot;text_right2&quot;>235.7</td><td class=&quot;text_right2&quot;>242.6</td></tr><tr><td class=&quot;text_left2&quot;>1. 상용근로자</td><td class=&quot;text_right2&quot;>203.9</td><td class=&quot;text_right2&quot;>196.5</td><td class=&quot;text_right2&quot;>196.1</td><td class=&quot;text_right2&quot;>206.9</td><td class=&quot;text_right2&quot;>219.6</td><td class=&quot;text_right2&quot;>217.8</td><td class=&quot;text_right2&quot;>215.4</td><td class=&quot;text_right2&quot;>219.0</td><td class=&quot;text_right2&quot;>220.2</td><td class=&quot;text_right2&quot;>233.1</td><td class=&quot;text_right2&quot;>245.5</td><td class=&quot;text_right2&quot;>253.4</td><td class=&quot;text_right2&quot;>264.6</td></tr><tr><td class=&quot;text_left2&quot;>2. 임시근로자</td><td class=&quot;text_right2&quot;>123.3</td><td class=&quot;text_right2&quot;>113.4</td><td class=&quot;text_right2&quot;>121.3</td><td class=&quot;text_right2&quot;>110.1</td><td class=&quot;text_right2&quot;>123.4</td><td class=&quot;text_right2&quot;>132.3</td><td class=&quot;text_right2&quot;>126.1</td><td class=&quot;text_right2&quot;>137.0</td><td class=&quot;text_right2&quot;>137.7</td><td class=&quot;text_right2&quot;>135.9</td><td class=&quot;text_right2&quot;>135.7</td><td class=&quot;text_right2&quot;>136.4</td><td class=&quot;text_right2&quot;>146.3</td></tr><tr><td class=&quot;text_left2&quot;>3. 일용근로자</td><td class=&quot;text_right2&quot;>105.1</td><td class=&quot;text_right2&quot;>95.0</td><td class=&quot;text_right2&quot;>106.7</td><td class=&quot;text_right2&quot;>108.9</td><td class=&quot;text_right2&quot;>132.6</td><td class=&quot;text_right2&quot;>101.4</td><td class=&quot;text_right2&quot;>97.7</td><td class=&quot;text_right2&quot;>109.7</td><td class=&quot;text_right2&quot;>107.3</td><td class=&quot;text_right2&quot;>112.8</td><td class=&quot;text_right2&quot;>109.0</td><td class=&quot;text_right2&quot;>116.5</td><td class=&quot;text_right2&quot;>117.3</td></tr><tr><td class=&quot;text_left2&quot;>4. 고용원이 있는 자영업자</td><td class=&quot;text_right2&quot;>352.9</td><td class=&quot;text_right2&quot;>382.0</td><td class=&quot;text_right2&quot;>360.2</td><td class=&quot;text_right2&quot;>418.0</td><td class=&quot;text_right2&quot;>378.6</td><td class=&quot;text_right2&quot;>401.9</td><td class=&quot;text_right2&quot;>402.4</td><td class=&quot;text_right2&quot;>334.5</td><td class=&quot;text_right2&quot;>362.5</td><td class=&quot;text_right2&quot;>397.2</td><td class=&quot;text_right2&quot;>444.9</td><td class=&quot;text_right2&quot;>396.5</td><td class=&quot;text_right2&quot;>461.8</td></tr><tr><td class=&quot;text_left2&quot;>5. 고용원이 없는 자영업자</td><td class=&quot;text_right2&quot;>206.0</td><td class=&quot;text_right2&quot;>178.0</td><td class=&quot;text_right2&quot;>202.4</td><td class=&quot;text_right2&quot;>194.5</td><td class=&quot;text_right2&quot;>204.8</td><td class=&quot;text_right2&quot;>193.6</td><td class=&quot;text_right2&quot;>189.3</td><td class=&quot;text_right2&quot;>193.6</td><td class=&quot;text_right2&quot;>218.9</td><td class=&quot;text_right2&quot;>199.2</td><td class=&quot;text_right2&quot;>191.6</td><td class=&quot;text_right2&quot;>230.6</td><td class=&quot;text_right2&quot;>196.0</td></tr><tr><td class=&quot;text_left2&quot;>6. 무급가족종사자</td><td class=&quot;text_right2&quot;>130.0</td><td class=&quot;text_right2&quot;>26.7</td><td class=&quot;text_right2&quot;>0.0</td><td class=&quot;text_right2&quot;>0.0</td><td class=&quot;text_right2&quot;>0.0</td><td class=&quot;text_right2&quot;>5.4</td><td class=&quot;text_right2&quot;>0.0</td><td class=&quot;text_right2&quot;>0.0</td><td class=&quot;text_right2&quot;>0.0</td><td class=&quot;text_right2&quot;>0.0</td><td class=&quot;text_right2&quot;>0.0</td><td class=&quot;text_right2&quot;>0.0</td><td class=&quot;text_right2&quot;>0.0</td></tr></tbody>
+					
+					</table>
+			</div>
+		</div>
+	</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,9 @@
+﻿metric,value,note
+grade_raw_rows,31743,P2__전체대학학점비율.csv 전체 행
+grade_raw_years,2024 | 2025,원자료 기준연도
+grade_raw_schools,246,원자료 학교명 고유값
+grade_raw_department_norms,4644,정규화 학과 고유값
+regular_2024_rows,23520,2024년 1·2학기만 사용
+dropped_2024_non_regular_rows,6185,계절학기·3학기·4학기 드랍
+employment_rows,9951,취업자료 2024년 학과 행
+advancement_rows,9951,진학자료 2024년 학과 행

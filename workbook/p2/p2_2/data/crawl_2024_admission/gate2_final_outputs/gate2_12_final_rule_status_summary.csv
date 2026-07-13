@@ -1,0 +1,4 @@
+﻿confirmation_status,final_modeling_use,university_n,mean_percentile_coverage,mean_rule_score
+confirmed,primary_candidate,44,0.9836691904554663,95.79545454545455
+confirmed,rule_confirmed_but_score_data_limited,6,0.07894736842105261,92.5
+confirmed,secondary_candidate,1,0.6590909090909091,85.0

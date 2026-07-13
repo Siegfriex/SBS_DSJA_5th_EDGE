@@ -1,0 +1,3 @@
+﻿model,term,coef,se,p,n,adj_r2,universities,note
+H2-Department OLS major_group + university cluster SE,selectivity_pct_2024,0.2652588866936309,0.17451318146869899,0.13833277612182163,1157,0.14363698318146123,33,학과 단위 보조모형. 학점포기제는 대학 단위 변수라 대학 고정효과와 함께 넣지 않음.
+H2-Department OLS major_group + university cluster SE,credit_forfeit_bin,-2.0039516286931094,3.030391579696194,0.5131633019403664,1157,0.14363698318146123,33,학과 단위 보조모형. 학점포기제는 대학 단위 변수라 대학 고정효과와 함께 넣지 않음.

@@ -1,0 +1,5 @@
+﻿hypothesis,article_question,unit,metric,result,safe_sentence,avoid
+H1-Main,2024 실제 정시 입결 70% cut이 높은 학과일수록 A비율이 높은가,대학-학과,Spearman + 대학군집 bootstrap + 군집보정 회귀,"rho=0.163, p=0.000, cluster CI=[-0.139, 0.412]",실제 입결 백분위가 높은 학과일수록 A비율이 높게 관측되는지 탐색했다. 표본과 매핑 제한을 함께 제시해야 한다.,입결이 높기 때문에 대학이 A를 더 준다고 단정
+H1-Within University,같은 대학 안에서도 입결 높은 학과가 A를 더 많이 받는가,대학-학과,"대학 고정효과, 전공계열 통제","within FE coef=0.007, p=0.854; within decomposition coef=-0.018, p=0.725",대학 고정효과 모형은 대학별 학사정책·브랜드 차이를 제거한 같은 대학 내부 패턴이다.,대학 간 순위 효과와 대학 내부 학과 효과를 섞어 해석
+H2-Main,학점포기제 O/X 차이가 실제 입결 통제 뒤에도 남는가,대학 및 대학-학과,"대학 단위 HC3, 학과 단위 대학군집표준오차","univ credit coef=-4.329, p=0.154; dept credit coef=-2.004, p=0.513",학점포기제 변수는 O/X만 있으므로 세부 제도 강도와 기준연도 한계를 함께 적어야 한다.,학점포기제가 A비율을 올린 원인이라고 단정
+H3-Actual,실제 입결 대비 A를 적게 주는 대학의 취업·진학성과 패턴,대학,실제 입결 기대 A비율 잔차와 성과지표 Spearman,"official_employment_rate_pct: rho=0.257, p=0.136; health_employment_rate_pct: rho=0.336, p=0.048; overall_advancement_rate_pct: rho=0.394, p=0.019; graduate_school_rate_pct: rho=0.392, p=0.020",잔차는 엄격한 학점정책의 직접 측정치가 아니라 후속 취재 후보를 찾는 관측 신호다.,잔차가 낮은 대학이 취업을 더 잘 시킨다고 단정

@@ -1,0 +1,2 @@
+﻿total_topics,categorical_topics,continuous_topics,parse_failures,proportion_review_count,year_coverage_review_count,duplicate_rows_categorical,duplicate_rows_continuous,cross_file_hash_duplicates,stddev_available,stddev_reason
+39,21,18,0,0,0,0,0,PASS,False,site JS bug (callbackGOMSSubject unconditionally resets viewType2 to index 0 on every render) makes 분산/표준편차 unreachable via official UI/CSV flow

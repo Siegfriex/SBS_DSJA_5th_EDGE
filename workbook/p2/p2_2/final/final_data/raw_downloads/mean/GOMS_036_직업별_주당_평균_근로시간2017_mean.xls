@@ -1,0 +1,39 @@
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>고용조사분석시스템</title>
+				<style type="text/css">
+						table{width:100%;border-top:2px solid #445069;}
+						 thead th{padding:10px 0;background:#e6eaed;font-size:14px;color:#515151;border-right:1px solid #bcbfc4;border-bottom:1px solid #bcbfc4;}
+						 tbody th{padding:10px 0;background:#e6eaed;font-size:14px;color:#515151;text-align:center;border-right:1px solid #bcbfc4;border-bottom:1px solid #bcbfc4;line-height:20px;}
+						 tbody td{padding:10px 0;font-size:14px;color:#696969;text-align:center;border-right:1px solid #bcbfc4;border-bottom:1px solid #bcbfc4;line-height:20px;}
+					</style>
+</head>
+ <body>
+ 
+<div id="wrap">
+	<div id="contents_size" >
+		<div id="contents">
+			<div class="content">
+					<table class="table1 border_t0 data_table" cellpadding="0" cellspacing="0"  id="tresult"  border="2">
+					
+					<caption>주제별 통계</caption>
+					<thead><tr><th colspan=&quot;1&quot; rowspan=&quot;1&quot;></th><th>2017</th><th>2018</th><th>2019</th></tr></thead>
+					<tbody><tr><td colspan=&quot;1&quot; class=&quot;text_left2&quot;>전체</td><td class=&quot;text_right2&quot;>43.1</td><td class=&quot;text_right2&quot;>42.1</td><td class=&quot;text_right2&quot;>41.9</td></tr><tr><td class=&quot;text_left2&quot;>경영·사무·금융·보험직</td><td class=&quot;text_right2&quot;>43.3</td><td class=&quot;text_right2&quot;>42.2</td><td class=&quot;text_right2&quot;>42.4</td></tr><tr><td class=&quot;text_left2&quot;>연구직 및 공학 기술직</td><td class=&quot;text_right2&quot;>45.6</td><td class=&quot;text_right2&quot;>44.8</td><td class=&quot;text_right2&quot;>44.7</td></tr><tr><td class=&quot;text_left2&quot;>교육·법률·사회복지·경찰·소방직 및 군인</td><td class=&quot;text_right2&quot;>38.4</td><td class=&quot;text_right2&quot;>38.0</td><td class=&quot;text_right2&quot;>38.7</td></tr><tr><td class=&quot;text_left2&quot;>보건·의료직</td><td class=&quot;text_right2&quot;>46.2</td><td class=&quot;text_right2&quot;>44.9</td><td class=&quot;text_right2&quot;>45.3</td></tr><tr><td class=&quot;text_left2&quot;>예술·디자인·방송·스포츠직</td><td class=&quot;text_right2&quot;>42.6</td><td class=&quot;text_right2&quot;>41.5</td><td class=&quot;text_right2&quot;>40.8</td></tr><tr><td class=&quot;text_left2&quot;>미용·여행·숙박·음식·경비·청소직</td><td class=&quot;text_right2&quot;>38.9</td><td class=&quot;text_right2&quot;>36.6</td><td class=&quot;text_right2&quot;>33.6</td></tr><tr><td class=&quot;text_left2&quot;>영업·판매·운전·운송직</td><td class=&quot;text_right2&quot;>42.0</td><td class=&quot;text_right2&quot;>40.2</td><td class=&quot;text_right2&quot;>38.2</td></tr><tr><td class=&quot;text_left2&quot;>건설·채굴직</td><td class=&quot;text_right2&quot;>42.9</td><td class=&quot;text_right2&quot;>43.0</td><td class=&quot;text_right2&quot;>46.2</td></tr><tr><td class=&quot;text_left2&quot;>설치·정비·생산직</td><td class=&quot;text_right2&quot;>47.0</td><td class=&quot;text_right2&quot;>45.2</td><td class=&quot;text_right2&quot;>45.8</td></tr><tr><td class=&quot;text_left2&quot;>농림어업직</td><td class=&quot;text_right2&quot;>49.6</td><td class=&quot;text_right2&quot;>48.6</td><td class=&quot;text_right2&quot;>46.1</td></tr></tbody>
+					
+					</table>
+			</div>
+		</div>
+	</div>
+</div>
+</body>
+</html>

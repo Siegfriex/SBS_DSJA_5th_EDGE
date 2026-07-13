@@ -1,0 +1,7 @@
+﻿model,term,coef,se,p,n,universities,adj_r2,ci_low,ci_high,permutation_p_univ_mean,note
+H1-Actual Spearman,selectivity_pct_2024,0.16268681347364838,,1.7573692340280902e-08,1186,35,,-0.13915667345202637,0.41192866945563034,0.19536092781443712,"학과행 상관, 신뢰구간은 대학 군집 bootstrap. permutation은 대학 평균 기반 보조 검정."
+H1-Actual Kendall tau-b,selectivity_pct_2024,0.11136717385683474,,9.598179486538235e-09,1186,35,,,,,학과행 Kendall tau-b.
+H1-Actual OLS major_group + university cluster SE,selectivity_pct_2024,0.21980415999211225,0.15250805111507995,0.15865786497206455,1186,35,0.13187734586241018,,,,계수 단위: selectivity 1%p 증가당 A비율 %p 변화.
+H1-Within University FE,selectivity_pct_2024,0.007047370035894708,0.03801708772385047,0.8540373469297871,1186,35,0.5031245118930736,,,,계수 단위: selectivity 1%p 증가당 A비율 %p 변화.
+H1 Between/Within decomposition,selectivity_univ_mean,0.377282750913008,0.2328609740269495,0.11442749294764963,1186,35,0.15950518750566212,,,,계수 단위: selectivity 1%p 증가당 A비율 %p 변화.
+H1 Between/Within decomposition,selectivity_within,-0.017938557348026664,0.05052312431263392,0.7247404931111543,1186,35,0.15950518750566212,,,,계수 단위: selectivity 1%p 증가당 A비율 %p 변화.

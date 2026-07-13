@@ -1,0 +1,36 @@
+﻿metric,value,source,note
+grade54_universities,54,대학별_학점분포_전공교양합산_ 최종.xlsx,
+grade54_weighted_ab_pct,79.83748716730209,대학별_학점분포_전공교양합산_ 최종.xlsx,
+grade54_weighted_abc_pct,94.93057007916188,대학별_학점분포_전공교양합산_ 최종.xlsx,
+grade54_weighted_df_pct,5.069429920838111,대학별_학점분포_전공교양합산_ 최종.xlsx,
+grade54_unweighted_ab_pct,80.13148148148147,대학별_학점분포_전공교양합산_ 최종.xlsx,
+highest_a_university,고려대,대학별_학점분포_전공교양합산_ 최종.xlsx,
+highest_a_pct,65.15,대학별_학점분포_전공교양합산_ 최종.xlsx,
+lowest_a_university,성신여대,대학별_학점분포_전공교양합산_ 최종.xlsx,
+lowest_a_pct,33.35,대학별_학점분포_전공교양합산_ 최종.xlsx,
+max_min_a_gap_pctp,31.800000000000004,대학별_학점분포_전공교양합산_ 최종.xlsx,
+rank_top10_a_mean_pct,54.273,대학별_학점분포_전공교양합산_ 최종.xlsx,순위 상위 10개교
+rank_bottom10_a_mean_pct,37.05,대학별_학점분포_전공교양합산_ 최종.xlsx,순위 하위 10개교
+rank_a_pearson_54,-0.6403222534261322,대학별_학점분포_전공교양합산_ 최종.xlsx,
+rank_a_spearman_54,-0.6184223066171113,대학별_학점분포_전공교양합산_ 최종.xlsx,
+policy_o_minus_x_pctp,0.7358441558441555,학점포기제도현황.xlsx + 54개 대학 학점분포,
+policy_welch_p,0.762323004894604,학점포기제도현황.xlsx + 54개 대학 학점분포,
+raw_grade_rows,31743,P2__전체대학학점비율.csv,
+raw_grade_schools,246,P2__전체대학학점비율.csv,
+department_analysis_rows,10865,department_analysis_table_2024.csv,
+department_analysis_universities,246,department_analysis_table_2024.csv,
+group_chi2,25823.735836838805,department_analysis_table_2024.csv,
+group_cramers_v,0.14533130374207984,department_analysis_table_2024.csv,
+variance_between_university_share,0.5214112743459485,department_analysis_table_2024.csv,학생수 가중
+variance_within_university_share,0.4785887256540516,department_analysis_table_2024.csv,학생수 가중
+official_employment_rate_pct_spearman_rho,0.018693881507342917,department university aggregate + outcome tables,
+official_employment_rate_pct_partial_spearman_r,0.024467938408026867,department university aggregate + outcome tables,"controls: log graduates, dept_count, major_group_count, region, establishment"
+health_employment_rate_pct_spearman_rho,-0.08497750890726279,department university aggregate + outcome tables,
+health_employment_rate_pct_partial_spearman_r,-0.03997858272025108,department university aggregate + outcome tables,"controls: log graduates, dept_count, major_group_count, region, establishment"
+overall_advancement_rate_pct_spearman_rho,0.33089532631853685,department university aggregate + outcome tables,
+overall_advancement_rate_pct_partial_spearman_r,0.2702212812279284,department university aggregate + outcome tables,"controls: log graduates, dept_count, major_group_count, region, establishment"
+graduate_school_rate_pct_spearman_rho,0.3541755152012913,department university aggregate + outcome tables,
+graduate_school_rate_pct_partial_spearman_r,0.2844322494578331,department university aggregate + outcome tables,"controls: log graduates, dept_count, major_group_count, region, establishment"
+validation_final_readiness,NOT_READY,val_outputs/38_final_validation_summary.csv,
+validation_metric_review_queue_rows,354,val_outputs/38_final_validation_summary.csv,
+validation_alias_review_queue_rows,1859,val_outputs/38_final_validation_summary.csv,

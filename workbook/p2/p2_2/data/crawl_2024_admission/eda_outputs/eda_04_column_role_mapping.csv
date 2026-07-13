@@ -1,0 +1,52 @@
+﻿dataset,original_column,inferred_role,inferred_dtype,conversion_required,confidence,note
+seed_raw,source_row_id,unresolved,int64,False,unresolved,역할 자동 확정 불가
+seed_raw,univ_id,대학코드,str,False,confirmed,명시적 컬럼명 매핑
+seed_raw,univ_name_raw,대학명,str,False,confirmed,명시적 컬럼명 매핑
+seed_raw,univ_name_std,대학명,str,False,confirmed,명시적 컬럼명 매핑
+seed_raw,campus_id,캠퍼스,str,False,confirmed,명시적 컬럼명 매핑
+seed_raw,campus_name_std,캠퍼스,str,False,confirmed,명시적 컬럼명 매핑
+seed_raw,adiga_univ_code,대학코드,int64,False,confirmed,명시적 컬럼명 매핑
+seed_raw,adiga_label,unresolved,str,False,unresolved,역할 자동 확정 불가
+seed_raw,target_institution_flag,unresolved,bool,False,unresolved,역할 자동 확정 불가
+seed_raw,branch_status,unresolved,str,False,unresolved,역할 자동 확정 불가
+seed_raw,crawl_priority,unresolved,int64,False,unresolved,역할 자동 확정 불가
+seed_raw,manual_review_required,unresolved,bool,False,unresolved,역할 자동 확정 불가
+seed_raw,seed_note,파싱 경고,str,False,medium,warning/note 키워드 기반
+registry_raw,source_row_id,unresolved,int64,False,unresolved,역할 자동 확정 불가
+registry_raw,source_id,source_id,str,False,confirmed,명시적 컬럼명 매핑
+registry_raw,crawl_run_id,unresolved,str,False,unresolved,역할 자동 확정 불가
+registry_raw,univ_id,대학코드,str,False,confirmed,명시적 컬럼명 매핑
+registry_raw,campus_id,캠퍼스,str,False,confirmed,명시적 컬럼명 매핑
+registry_raw,source_type,unresolved,str,False,unresolved,역할 자동 확정 불가
+registry_raw,source_priority,unresolved,int64,False,unresolved,역할 자동 확정 불가
+registry_raw,source_search_year,unresolved,int64,False,unresolved,역할 자동 확정 불가
+registry_raw,source_result_year,unresolved,int64,False,unresolved,역할 자동 확정 불가
+registry_raw,source_section,unresolved,str,False,unresolved,역할 자동 확정 불가
+registry_raw,source_url,source URL,str,False,confirmed,명시적 컬럼명 매핑
+registry_raw,retrieved_at,unresolved,str,False,unresolved,역할 자동 확정 불가
+registry_raw,http_status,HTTP 상태,int64,False,confirmed,명시적 컬럼명 매핑
+registry_raw,content_type,unresolved,str,False,unresolved,역할 자동 확정 불가
+registry_raw,content_sha256,unresolved,str,False,unresolved,역할 자동 확정 불가
+registry_raw,raw_file_path,unresolved,str,False,unresolved,역할 자동 확정 불가
+registry_raw,parser_version,unresolved,str,False,unresolved,역할 자동 확정 불가
+registry_raw,parse_status,파싱 상태,str,False,confirmed,명시적 컬럼명 매핑
+registry_raw,parse_note,파싱 경고,str,False,medium,warning/note 키워드 기반
+admission_raw,source_row_id,unresolved,int64,False,unresolved,역할 자동 확정 불가
+admission_raw,raw_row_id,raw_row_id,str,False,confirmed,명시적 컬럼명 매핑
+admission_raw,source_id,source_id,str,False,confirmed,명시적 컬럼명 매핑
+admission_raw,univ_id,대학코드,str,False,confirmed,명시적 컬럼명 매핑
+admission_raw,admission_year,unresolved,int64,False,unresolved,역할 자동 확정 불가
+admission_raw,raw_table_index,원본 테이블 번호,int64,False,confirmed,명시적 컬럼명 매핑
+admission_raw,raw_row_index,원본 행 번호,int64,False,confirmed,명시적 컬럼명 매핑
+admission_raw,raw_section_title,전형명,str,False,confirmed,명시적 컬럼명 매핑
+admission_raw,raw_header_json,원본 헤더,str,False,confirmed,명시적 컬럼명 매핑
+admission_raw,raw_cells_json,원본 셀,str,False,confirmed,명시적 컬럼명 매핑
+admission_raw,raw_admission_group,정시군,str,False,confirmed,명시적 컬럼명 매핑
+admission_raw,raw_recruitment_unit,모집단위,str,False,confirmed,명시적 컬럼명 매핑
+admission_raw,raw_recruitment_n,모집인원,str,True,confirmed,명시적 컬럼명 매핑
+admission_raw,raw_competition_rate,경쟁률,str,True,confirmed,명시적 컬럼명 매핑
+admission_raw,raw_additional_rank,충원합격순위,str,True,confirmed,명시적 컬럼명 매핑
+admission_raw,raw_score_70cut,대학별 환산 70% cut,str,True,confirmed,명시적 컬럼명 매핑
+admission_raw,raw_score_max,수능 총점,str,True,confirmed,명시적 컬럼명 매핑
+admission_raw,raw_percentile_70cut,70% cut 평균 백분위,str,True,confirmed,명시적 컬럼명 매핑
+admission_raw,raw_parse_warning,파싱 경고,str,False,confirmed,명시적 컬럼명 매핑

@@ -1,0 +1,165 @@
+﻿raw_name_key,canonical_candidates,appears_in_admission_data,admission_raw_examples,same_concept_punct_variant_only,decision,decision_note
+컴퓨터공학부컴퓨터공학전공,컴퓨터공 | 컴퓨터공컴퓨터공학,True,컴퓨터공학부 ( 컴퓨터공학전공 ),False,canonical_override,university_scoped_override로 처리(대학별 실제 학과_계열과 대조해 확정) — UNIVERSITY_DEPARTMENT_OVERRIDES 참고
+기계공학부기계공학전공,기계공 | 기계공기계공학,True,기계공학부 기계공학전공,False,canonical_override,university_scoped_override로 처리(대학별 실제 학과_계열과 대조해 확정) — UNIVERSITY_DEPARTMENT_OVERRIDES 참고
+전자공학부전자공학전공,전자공 | 전자공전자공학,True,전자공학부 전자공학전공 | 전자공학부 ( 전자공학전공 ),False,canonical_override,university_scoped_override로 처리(대학별 실제 학과_계열과 대조해 확정) — UNIVERSITY_DEPARTMENT_OVERRIDES 참고
+디자인학부시각디자인전공,디자인 | 디자인시각디자인,True,디자인학부 ( 시각디자인전공 ),False,canonical_override,university_scoped_override로 처리(대학별 실제 학과_계열과 대조해 확정) — UNIVERSITY_DEPARTMENT_OVERRIDES 참고
+경찰학부경찰행정학전공,경찰 | 경찰경찰행정학,True,경찰학부 ( 경찰행정학전공 ),False,canonical_override,university_scoped_override로 처리(대학별 실제 학과_계열과 대조해 확정) — UNIVERSITY_DEPARTMENT_OVERRIDES 참고
+경찰행정학과,경찰・행정 | 경찰행정,True,경찰행정학과 | 경찰·행정학과,True,keep_duplicate_canonical_low_risk,"두 canonical이 가운뎃점(·/・) 표기 차이만 있는 사실상 동일 개념 — 어느 쪽이 선택되든 의미상 오류 아님. 단, 참조표 자체의 canonical 중복은 별도 정리 필요(이번 배치 범위 밖)"
+경찰행정학부,경찰・행정 | 경찰행정,True,경찰행정학부,True,keep_duplicate_canonical_low_risk,"두 canonical이 가운뎃점(·/・) 표기 차이만 있는 사실상 동일 개념 — 어느 쪽이 선택되든 의미상 오류 아님. 단, 참조표 자체의 canonical 중복은 별도 정리 필요(이번 배치 범위 밖)"
+사회복지학전공,사회・복지학 | 사회복지학,True,사회복지학전공,True,keep_duplicate_canonical_low_risk,"두 canonical이 가운뎃점(·/・) 표기 차이만 있는 사실상 동일 개념 — 어느 쪽이 선택되든 의미상 오류 아님. 단, 참조표 자체의 canonical 중복은 별도 정리 필요(이번 배치 범위 밖)"
+회계세무학과,회계・세무 | 회계세무,True,회계세무학과 | 회계 · 세무학과,True,keep_duplicate_canonical_low_risk,"두 canonical이 가운뎃점(·/・) 표기 차이만 있는 사실상 동일 개념 — 어느 쪽이 선택되든 의미상 오류 아님. 단, 참조표 자체의 canonical 중복은 별도 정리 필요(이번 배치 범위 밖)"
+호텔관광경영학과,호텔・관광경영 | 호텔관광경영,True,호텔관광경영학과,True,keep_duplicate_canonical_low_risk,"두 canonical이 가운뎃점(·/・) 표기 차이만 있는 사실상 동일 개념 — 어느 쪽이 선택되든 의미상 오류 아님. 단, 참조표 자체의 canonical 중복은 별도 정리 필요(이번 배치 범위 밖)"
+기계자동차공학과,기계・자동차공 | 기계자동차공,True,기계자동차공학과,True,keep_duplicate_canonical_low_risk,"두 canonical이 가운뎃점(·/・) 표기 차이만 있는 사실상 동일 개념 — 어느 쪽이 선택되든 의미상 오류 아님. 단, 참조표 자체의 canonical 중복은 별도 정리 필요(이번 배치 범위 밖)"
+조선해양공학과,조선·해양공 | 조선해양공,True,조선해양공학과,True,keep_duplicate_canonical_low_risk,"두 canonical이 가운뎃점(·/・) 표기 차이만 있는 사실상 동일 개념 — 어느 쪽이 선택되든 의미상 오류 아님. 단, 참조표 자체의 canonical 중복은 별도 정리 필요(이번 배치 범위 밖)"
+만화애니메이션학과,만화・애니메이션 | 만화애니메이션,True,만화·애니메이션학과 | 만화애니메이션학과,True,keep_duplicate_canonical_low_risk,"두 canonical이 가운뎃점(·/・) 표기 차이만 있는 사실상 동일 개념 — 어느 쪽이 선택되든 의미상 오류 아님. 단, 참조표 자체의 canonical 중복은 별도 정리 필요(이번 배치 범위 밖)"
+전자전기공학과,전자·전기공 | 전자전기공,True,전자전기공학과,True,keep_duplicate_canonical_low_risk,"두 canonical이 가운뎃점(·/・) 표기 차이만 있는 사실상 동일 개념 — 어느 쪽이 선택되든 의미상 오류 아님. 단, 참조표 자체의 canonical 중복은 별도 정리 필요(이번 배치 범위 밖)"
+전자전기공학부,전자·전기공 | 전자전기공,True,전자전기공학부 | 전자 · 전기공학부,True,keep_duplicate_canonical_low_risk,"두 canonical이 가운뎃점(·/・) 표기 차이만 있는 사실상 동일 개념 — 어느 쪽이 선택되든 의미상 오류 아님. 단, 참조표 자체의 canonical 중복은 별도 정리 필요(이번 배치 범위 밖)"
+소방안전학부,소방・안전 | 소방안전,True,소방안전학부,True,keep_duplicate_canonical_low_risk,"두 canonical이 가운뎃점(·/・) 표기 차이만 있는 사실상 동일 개념 — 어느 쪽이 선택되든 의미상 오류 아님. 단, 참조표 자체의 canonical 중복은 별도 정리 필요(이번 배치 범위 밖)"
+외식조리학과,외식・조리 | 외식조리,True,외식조리학과,True,keep_duplicate_canonical_low_risk,"두 canonical이 가운뎃점(·/・) 표기 차이만 있는 사실상 동일 개념 — 어느 쪽이 선택되든 의미상 오류 아님. 단, 참조표 자체의 canonical 중복은 별도 정리 필요(이번 배치 범위 밖)"
+시각영상디자인학과,시각・영상디자인 | 시각영상디자인,True,시각영상디자인학과 | 시각·영상디자인학과,True,keep_duplicate_canonical_low_risk,"두 canonical이 가운뎃점(·/・) 표기 차이만 있는 사실상 동일 개념 — 어느 쪽이 선택되든 의미상 오류 아님. 단, 참조표 자체의 canonical 중복은 별도 정리 필요(이번 배치 범위 밖)"
+미디어콘텐츠학과,미디어&콘텐츠 | 미디어콘텐츠,True,미디어콘텐츠학과,True,keep_duplicate_canonical_low_risk,"두 canonical이 가운뎃점(·/・) 표기 차이만 있는 사실상 동일 개념 — 어느 쪽이 선택되든 의미상 오류 아님. 단, 참조표 자체의 canonical 중복은 별도 정리 필요(이번 배치 범위 밖)"
+아동가족학과,아동・가족 | 아동가족,True,아동가족학과 | 아동·가족학과,True,keep_duplicate_canonical_low_risk,"두 canonical이 가운뎃점(·/・) 표기 차이만 있는 사실상 동일 개념 — 어느 쪽이 선택되든 의미상 오류 아님. 단, 참조표 자체의 canonical 중복은 별도 정리 필요(이번 배치 범위 밖)"
+환경에너지공학과,환경・에너지공 | 환경에너지공,True,환경에너지공학과,True,keep_duplicate_canonical_low_risk,"두 canonical이 가운뎃점(·/・) 표기 차이만 있는 사실상 동일 개념 — 어느 쪽이 선택되든 의미상 오류 아님. 단, 참조표 자체의 canonical 중복은 별도 정리 필요(이번 배치 범위 밖)"
+컴퓨터소프트웨어공학과,컴퓨터・소프트웨어공 | 컴퓨터소프트웨어공,True,컴퓨터소프트웨어공학과,True,keep_duplicate_canonical_low_risk,"두 canonical이 가운뎃점(·/・) 표기 차이만 있는 사실상 동일 개념 — 어느 쪽이 선택되든 의미상 오류 아님. 단, 참조표 자체의 canonical 중복은 별도 정리 필요(이번 배치 범위 밖)"
+전자정보통신공학과,전자·정보통신공 | 전자정보통신공,True,전자정보통신공학과 | 전자·정보통신공학과,True,keep_duplicate_canonical_low_risk,"두 canonical이 가운뎃점(·/・) 표기 차이만 있는 사실상 동일 개념 — 어느 쪽이 선택되든 의미상 오류 아님. 단, 참조표 자체의 canonical 중복은 별도 정리 필요(이번 배치 범위 밖)"
+프랑스언어문화학과,프랑스언어・문화 | 프랑스언어문화,True,프랑스언어·문화학과 | 프랑스언어문화학과,True,keep_duplicate_canonical_low_risk,"두 canonical이 가운뎃점(·/・) 표기 차이만 있는 사실상 동일 개념 — 어느 쪽이 선택되든 의미상 오류 아님. 단, 참조표 자체의 canonical 중복은 별도 정리 필요(이번 배치 범위 밖)"
+웹툰애니메이션학과,웹툰・애니메이션 | 웹툰애니메이션,True,웹툰애니메이션학과,True,keep_duplicate_canonical_low_risk,"두 canonical이 가운뎃점(·/・) 표기 차이만 있는 사실상 동일 개념 — 어느 쪽이 선택되든 의미상 오류 아님. 단, 참조표 자체의 canonical 중복은 별도 정리 필요(이번 배치 범위 밖)"
+독일언어문화학과,독일언어・문화 | 독일언어문화,True,독일언어·문화학과 | 독일언어문화학과,True,keep_duplicate_canonical_low_risk,"두 canonical이 가운뎃점(·/・) 표기 차이만 있는 사실상 동일 개념 — 어느 쪽이 선택되든 의미상 오류 아님. 단, 참조표 자체의 canonical 중복은 별도 정리 필요(이번 배치 범위 밖)"
+경찰소방학과,경찰・소방 | 경찰소방,True,경찰소방학과,True,keep_duplicate_canonical_low_risk,"두 canonical이 가운뎃점(·/・) 표기 차이만 있는 사실상 동일 개념 — 어느 쪽이 선택되든 의미상 오류 아님. 단, 참조표 자체의 canonical 중복은 별도 정리 필요(이번 배치 범위 밖)"
+스페인어중남미학과,스페인어・중남미 | 스페인어중남미,True,스페인어중남미학과,True,keep_duplicate_canonical_low_risk,"두 canonical이 가운뎃점(·/・) 표기 차이만 있는 사실상 동일 개념 — 어느 쪽이 선택되든 의미상 오류 아님. 단, 참조표 자체의 canonical 중복은 별도 정리 필요(이번 배치 범위 밖)"
+역사문화콘텐츠학과,역사·문화콘텐츠 | 역사문화콘텐츠,True,역사·문화콘텐츠학과,True,keep_duplicate_canonical_low_risk,"두 canonical이 가운뎃점(·/・) 표기 차이만 있는 사실상 동일 개념 — 어느 쪽이 선택되든 의미상 오류 아님. 단, 참조표 자체의 canonical 중복은 별도 정리 필요(이번 배치 범위 밖)"
+에너지전기공학과,에너지・전기공 | 에너지전기공,True,에너지·전기공학과 | 에너지전기공학과,True,keep_duplicate_canonical_low_risk,"두 canonical이 가운뎃점(·/・) 표기 차이만 있는 사실상 동일 개념 — 어느 쪽이 선택되든 의미상 오류 아님. 단, 참조표 자체의 canonical 중복은 별도 정리 필요(이번 배치 범위 밖)"
+외식조리제과제빵학과,외식조리・제과제빵 | 외식조리제과제빵,True,외식조리·제과제빵학과,True,keep_duplicate_canonical_low_risk,"두 canonical이 가운뎃점(·/・) 표기 차이만 있는 사실상 동일 개념 — 어느 쪽이 선택되든 의미상 오류 아님. 단, 참조표 자체의 canonical 중복은 별도 정리 필요(이번 배치 범위 밖)"
+부동산지적학과,부동산・지적 | 부동산지적,True,부동산지적학과,True,keep_duplicate_canonical_low_risk,"두 canonical이 가운뎃점(·/・) 표기 차이만 있는 사실상 동일 개념 — 어느 쪽이 선택되든 의미상 오류 아님. 단, 참조표 자체의 canonical 중복은 별도 정리 필요(이번 배치 범위 밖)"
+경영회계학부,경영·회계 | 경영회계,True,경영 · 회계학부,True,keep_duplicate_canonical_low_risk,"두 canonical이 가운뎃점(·/・) 표기 차이만 있는 사실상 동일 개념 — 어느 쪽이 선택되든 의미상 오류 아님. 단, 참조표 자체의 canonical 중복은 별도 정리 필요(이번 배치 범위 밖)"
+산업정보시스템공학과,산업・정보시스템공 | 산업정보시스템공,True,산업 · 정보시스템공학과 | 산업정보시스템공학과,True,keep_duplicate_canonical_low_risk,"두 canonical이 가운뎃점(·/・) 표기 차이만 있는 사실상 동일 개념 — 어느 쪽이 선택되든 의미상 오류 아님. 단, 참조표 자체의 canonical 중복은 별도 정리 필요(이번 배치 범위 밖)"
+서비스디자인공학과,서비스・디자인공 | 서비스디자인공,True,서비스 · 디자인공학과,True,keep_duplicate_canonical_low_risk,"두 canonical이 가운뎃점(·/・) 표기 차이만 있는 사실상 동일 개념 — 어느 쪽이 선택되든 의미상 오류 아님. 단, 참조표 자체의 canonical 중복은 별도 정리 필요(이번 배치 범위 밖)"
+정보컴퓨터공학부컴퓨터공학전공,정보·컴퓨터공컴퓨터공학 | 정보컴퓨터공컴퓨터공학,True,정보컴퓨터공학부 ( 컴퓨터공학전공 ),True,keep_duplicate_canonical_low_risk,"두 canonical이 가운뎃점(·/・) 표기 차이만 있는 사실상 동일 개념 — 어느 쪽이 선택되든 의미상 오류 아님. 단, 참조표 자체의 canonical 중복은 별도 정리 필요(이번 배치 범위 밖)"
+청소년교육상담학과,청소년교육・상담 | 청소년교육상담,True,청소년교육·상담학과,True,keep_duplicate_canonical_low_risk,"두 canonical이 가운뎃점(·/・) 표기 차이만 있는 사실상 동일 개념 — 어느 쪽이 선택되든 의미상 오류 아님. 단, 참조표 자체의 canonical 중복은 별도 정리 필요(이번 배치 범위 밖)"
+언어치료청각재활학과,언어치료·청각재활 | 언어치료청각재활,True,언어치료청각재활학과,True,keep_duplicate_canonical_low_risk,"두 canonical이 가운뎃점(·/・) 표기 차이만 있는 사실상 동일 개념 — 어느 쪽이 선택되든 의미상 오류 아님. 단, 참조표 자체의 canonical 중복은 별도 정리 필요(이번 배치 범위 밖)"
+아동가족상담학과,아동・가족상담 | 아동가족상담,True,아동·가족상담학과,True,keep_duplicate_canonical_low_risk,"두 canonical이 가운뎃점(·/・) 표기 차이만 있는 사실상 동일 개념 — 어느 쪽이 선택되든 의미상 오류 아님. 단, 참조표 자체의 canonical 중복은 별도 정리 필요(이번 배치 범위 밖)"
+미생물분자생명과학과,미생물・분자생명과 | 미생물분자생명과,True,미생물 · 분자생명과학과,True,keep_duplicate_canonical_low_risk,"두 canonical이 가운뎃점(·/・) 표기 차이만 있는 사실상 동일 개념 — 어느 쪽이 선택되든 의미상 오류 아님. 단, 참조표 자체의 canonical 중복은 별도 정리 필요(이번 배치 범위 밖)"
+아동청소년학과,아동・청소년 | 아동청소년,True,아동청소년학과,True,keep_duplicate_canonical_low_risk,"두 canonical이 가운뎃점(·/・) 표기 차이만 있는 사실상 동일 개념 — 어느 쪽이 선택되든 의미상 오류 아님. 단, 참조표 자체의 canonical 중복은 별도 정리 필요(이번 배치 범위 밖)"
+건축인테리어디자인학과,건축・인테리어디자인 | 건축인테리어디자인,True,건축 ・ 인테리어디자인학과,True,keep_duplicate_canonical_low_risk,"두 canonical이 가운뎃점(·/・) 표기 차이만 있는 사실상 동일 개념 — 어느 쪽이 선택되든 의미상 오류 아님. 단, 참조표 자체의 canonical 중복은 별도 정리 필요(이번 배치 범위 밖)"
+반도체신소재공학과,반도체・신소재공 | 반도체신소재공,True,반도체신소재공학과,True,keep_duplicate_canonical_low_risk,"두 canonical이 가운뎃점(·/・) 표기 차이만 있는 사실상 동일 개념 — 어느 쪽이 선택되든 의미상 오류 아님. 단, 참조표 자체의 canonical 중복은 별도 정리 필요(이번 배치 범위 밖)"
+e비즈니스학과,e-비즈니스 | e비즈니스,True,e- 비즈니스학과,True,keep_duplicate_canonical_low_risk,"두 canonical이 가운뎃점(·/・) 표기 차이만 있는 사실상 동일 개념 — 어느 쪽이 선택되든 의미상 오류 아님. 단, 참조표 자체의 canonical 중복은 별도 정리 필요(이번 배치 범위 밖)"
+건축토목환경공학부,건축·토목·환경공 | 건축토목환경공,True,건축 · 토목 · 환경공학부,True,keep_duplicate_canonical_low_risk,"두 canonical이 가운뎃점(·/・) 표기 차이만 있는 사실상 동일 개념 — 어느 쪽이 선택되든 의미상 오류 아님. 단, 참조표 자체의 canonical 중복은 별도 정리 필요(이번 배치 범위 밖)"
+체육학부체육학전공,체육 | 체육체육학,True,체육학부 ( 체육학전공 ),False,needs_manual_decision,같은 대학 안에 두 canonical이 모두 실존하거나(경북대 체육/체육체육학 등) 근거 불충분 — 도메인 전문가 확인 필요
+건축,건축 | 건축),False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+법학부법학전공,법 | 법법학,False,,False,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+경찰행정,경찰・행정 | 경찰행정,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+음악학부관현악전공,음악 | 음악관현악,False,,False,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+음악학부성악전공,음악 | 음악성악,False,,False,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+소프트웨어,소프트웨어 | 소프트웨어),False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+소프트웨어학부소프트웨어전공,소프트웨어 | 소프트웨어소프트웨어,False,,False,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+디자인학부산업디자인전공,디자인 | 디자인산업디자인,False,,False,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+사회복지학,사회・복지학 | 사회복지학,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+미술학부서양화전공,미술 | 미술서양화,False,,False,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+미술학부한국화전공,미술 | 미술한국화,False,,False,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+회계세무,회계・세무 | 회계세무,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+공연예술학부실용음악전공,공연예술 | 공연예술실용음악,False,,False,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+호텔관광경영,호텔・관광경영 | 호텔관광경영,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+기계자동차공,기계・자동차공 | 기계자동차공,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+조선해양공,조선·해양공 | 조선해양공,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+ai소프트웨어,AI・소프트웨어 | AI소프트웨어,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+만화애니메이션,만화・애니메이션 | 만화애니메이션,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+연극영화,연극・영화 | 연극영화,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+연극영화전공,연극・영화 | 연극영화,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+전자전기공,전자·전기공 | 전자전기공,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+소방안전,소방・안전 | 소방안전,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+아동보육,아동·보육 | 아동보육,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+아동보육전공,아동·보육 | 아동보육,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+외식조리,외식・조리 | 외식조리,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+도시계획부동산,도시계획・부동산 | 도시계획부동산,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+도시계획부동산학과,도시계획・부동산 | 도시계획부동산,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+시각영상디자인,시각・영상디자인 | 시각영상디자인,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+시각영상디자인전공,시각・영상디자인 | 시각영상디자인,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+미디어콘텐츠,미디어&콘텐츠 | 미디어콘텐츠,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+관현악,관・현악 | 관현악,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+관현악전공,관・현악 | 관현악,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+호텔관광,호텔・관광 | 호텔관광,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+아동가족,아동・가족 | 아동가족,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+환경에너지공,환경・에너지공 | 환경에너지공,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+컴퓨터소프트웨어공,컴퓨터・소프트웨어공 | 컴퓨터소프트웨어공,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+복지경영,복지・경영 | 복지경영,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+복지경영학과,복지・경영 | 복지경영,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+컴퓨터정보통신공학부정보통신공학전공,컴퓨터정보통신공 | 컴퓨터정보통신공정보통신공학,False,,False,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+토목환경공학,토목・환경공학 | 토목환경공학,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+토목환경공학전공,토목・환경공학 | 토목환경공학,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+전자정보통신공,전자·정보통신공 | 전자정보통신공,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+프랑스언어문화,프랑스언어・문화 | 프랑스언어문화,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+건축토목공,건축·토목공 | 건축・토목공 | 건축토목공,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+건축토목공학과,건축·토목공 | 건축토목공,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+웹툰애니메이션,웹툰・애니메이션 | 웹툰애니메이션,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+나노신소재공,나노・신소재공 | 나노신소재공,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+독일언어문화,독일언어・문화 | 독일언어문화,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+역사문화학,역사・문화학 | 역사문화학,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+역사문화학전공,역사・문화학 | 역사문화학,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+기계로봇공,기계・로봇공 | 기계로봇공,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+기계로봇공학과,기계・로봇공 | 기계로봇공,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+경찰소방,경찰・소방 | 경찰소방,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+스페인어중남미,스페인어・중남미 | 스페인어중남미,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+역사문화콘텐츠,역사·문화콘텐츠 | 역사문화콘텐츠,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+역사문화콘텐츠학부,역사·문화콘텐츠 | 역사문화콘텐츠,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+ai빅데이터,AI・빅데이터 | AI빅데이터,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+에너지전기공,에너지・전기공 | 에너지전기공,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+한국어다문화,한국어・다문화 | 한국어다문화,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+문화미디어,문화・미디어 | 문화미디어,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+문화미디어전공,문화・미디어 | 문화미디어,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+외식조리제과제빵,외식조리・제과제빵 | 외식조리제과제빵,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+반도체전자공,반도체・전자공 | 반도체전자공,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+통계데이터사이언스,통계・데이터사이언스 | 통계데이터사이언스,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+부동산지적,부동산・지적 | 부동산지적,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+사회복지상담심리,사회복지·상담심리 | 사회복지상담심리,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+아동복지상담,아동・복지상담 | 아동복지상담,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+아동복지상담학과,아동・복지상담 | 아동복지상담,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+경영회계,경영·회계 | 경영회계,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+미술디자인,미술·디자인 | 미술・디자인,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+전기정보공,전기・정보공 | 전기정보공,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+조리서비스경영,조리・서비스경영 | 조리서비스경영,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+드론로봇융합,드론・로봇융합 | 드론로봇융합,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+드론로봇융합학과,드론・로봇융합 | 드론로봇융합,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+산업정보시스템공,산업・정보시스템공 | 산업정보시스템공,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+국제통상금융투자,국제통상·금융투자 | 국제통상・금융투자,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+에너지신소재화학공,에너지신소재・화학공 | 에너지신소재화학공,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+행정경찰공공,행정・경찰공공 | 행정경찰공공,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+세무회계금융,세무・회계・금융 | 세무회계금융,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+세무회계금융학과,세무・회계・금융 | 세무회계금융,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+정치국제,정치・국제 | 정치국제,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+정치국제학과,정치・국제 | 정치국제,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+정보통신전자공,정보통신・전자공 | 정보통신전자공,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+물리천문,물리·천문 | 물리천문,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+서비스디자인공,서비스・디자인공 | 서비스디자인공,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+법경찰,법・경찰 | 법경찰,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+법경찰학과,법・경찰 | 법경찰,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+정보컴퓨터공컴퓨터공학,정보·컴퓨터공컴퓨터공학 | 정보컴퓨터공컴퓨터공학,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+청소년교육상담,청소년교육・상담 | 청소년교육상담,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+언어치료청각재활,언어치료·청각재활 | 언어치료청각재활,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+시각영상디자인과,시각・영상디자인과 | 시각영상디자인과,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+섬유패션디자인,섬유・패션디자인 | 섬유패션디자인,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+섬유패션디자인학과,섬유・패션디자인 | 섬유패션디자인,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+아동가족상담,아동・가족상담 | 아동가족상담,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+미생물분자생명과,미생물・분자생명과 | 미생물분자생명과,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+정치사회학부정치외교학전공,정치・사회정치외교학 | 정치사회,False,,False,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+중국어문문화,중국어문·문화 | 중국어문・문화,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+중국어문문화학과,중국어문·문화 | 중국어문・문화,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+아동청소년,아동・청소년 | 아동청소년,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+아동사회복지,아동・사회복지 | 아동사회복지,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+kculture,K-Culture | K-culture,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+kculture학과,K-Culture | K-culture,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+동화한국어문화,동화∙한국어문화 | 동화・한국어문화,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+ai컴퓨터공,AI・컴퓨터공 | AI컴퓨터공,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+ai컴퓨터공학과,AI・컴퓨터공 | AI컴퓨터공,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+반도체디스플레이,반도체・디스플레이 | 반도체디스플레이,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+반도체디스플레이학과,반도체・디스플레이 | 반도체디스플레이,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+호텔컨벤션경영,호텔・컨벤션경영 | 호텔컨벤션경영,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+호텔컨벤션경영학과,호텔・컨벤션경영 | 호텔컨벤션경영,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+k뷰티,K-뷰티 | K뷰티,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+건축인테리어디자인,건축・인테리어디자인 | 건축인테리어디자인,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+방송영상콘텐츠,방송·영상콘텐츠 | 방송・영상콘텐츠,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+금융세무,금융・세무 | 금융세무,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+뇌인지과,뇌・인지과 | 뇌인지과,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+호텔컨벤션,호텔·컨벤션 | 호텔컨벤션,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+반도체신소재공,반도체・신소재공 | 반도체신소재공,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+e비즈니스,e-비즈니스 | e비즈니스,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음
+건축토목환경공,건축·토목·환경공 | 건축토목환경공,False,,True,keep_dormant_not_observed,admission raw 데이터에 등장하지 않아 현재 매칭에 영향 없음 — 우선순위 낮음

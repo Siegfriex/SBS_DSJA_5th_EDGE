@@ -1,0 +1,6 @@
+﻿phase,title,notebook_target,main_frame,tasks,decision_needed,output
+Phase 1,파생변수 정의,P2_G0.ipynb,df_department,"지원경쟁률, 입학률, 외국인유학생비중, 졸업자/재적생, 교원1인당 재적생 생성",분모 0일 때 파생비율 NULL 처리 원칙 확정,25_derived_metric_profile.csv
+Phase 2,분포/이상값 EDA,P2_G0.ipynb,df_department,"학위과정, 학제, 시도, 대계열별 분포와 상위 outlier 점검",상위 극단값을 원자료 유지/별도 주석/분석 제외 중 선택,figures + outlier tables
+Phase 3,교원 총합 보정 EDA,P2_G0.ipynb,df_faculty_total,소속학과없음 교원 수치를 포함한 학교/시도/학위과정별 교원 합계 산출,교원 지표는 학과별 평균과 총합을 분리 보고,faculty_total_summary.csv
+Phase 4,기사/보고서용 질문 후보,P2_G0.ipynb 또는 별도 hypothesis notebook,df_department,"지역별 경쟁 강도, 계열별 외국인유학생 집중, 교원 대비 학생 부담 등 질문 후보 생성",보도/분석 질문 2~3개 선택,claim_evidence_matrix.csv
+Phase 5,최종 분석 프레임 동결,final notebook,frozen analysis CSVs,검증된 CSV만 로드하는 clean notebook 작성,최종 채택 지표와 제외 기준 확정,clean report notebook + figures

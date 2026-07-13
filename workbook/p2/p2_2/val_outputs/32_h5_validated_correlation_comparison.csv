@@ -1,0 +1,2 @@
+﻿validation_run_id,analysis_status,outcome,spearman_rho_with_a_rate,p_value,n,note
+VAL_20260712_151256,not_run_gate_not_ready,official_employment_rate_pct_vs_graduate_school_rate_pct,,,0,Gate5 cohort alignment is not PASS; 2024 admission is not used as cohort-aligned outcome predictor.

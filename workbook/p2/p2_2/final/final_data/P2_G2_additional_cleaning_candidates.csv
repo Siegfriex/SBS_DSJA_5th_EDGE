@@ -1,0 +1,9 @@
+﻿category,column,issue,recommended_action,risk,status,count
+applied_fix,학제,사이버대학 계열 값이 남아있음,학제에 사이버 포함 행 제거,낮음 - 기존 사용자 삭제 의도와 일치,applied,5
+drop_candidate,주야구분,전체 값이 주간으로 고정,분석/모델링용이면 제거 가능,낮음 - 필터링 조건을 파일명/메타데이터에 남기면 됨,decision_needed,1
+drop_candidate,is_no_department_placeholder,전체 False로 고정,제거 가능,낮음 - placeholder 제거 완료 후 정보량 없음,decision_needed,1
+drop_candidate,연도,전체 2024로 고정,"단년 모델링용이면 제거, 출처 표기용이면 유지",중간 - 연도 결합/추적 예정이면 유지,decision_needed,1
+drop_or_keep_candidate,대학원구분,비대학원 행은 구조적 NULL이고 대학원구분_clean 이진값과 일부 중복,"이진 모델링만 하면 제거, 대학원대학/부설대학원 구분 필요하면 유지",중간 - 대학원 유형 분석이면 필요,decision_needed,8260
+drop_candidate,대계열_clean/중계열_clean/소계열_clean,원 컬럼과 값이 완전히 동일,원 컬럼 또는 clean 컬럼 중 한 벌만 유지,낮음 - 둘 중 하나만 지우면 됨,decision_needed,3
+model_exclude_candidate,주소/우편번호/전화번호/팩스번호/홈페이지,"식별/연락처 성격, 일부 결측 존재","통계/모델링 입력에서는 제외, 학교 식별용 원본에는 유지",중간 - 연락처 기반 학교 검증이 필요하면 유지,decision_needed,4070
+sparse_numeric_candidate,정원외_입학정원_학부,0 비율이 99% 이상,결측으로 바꾸지 말고 희소 변수로 표시하거나 파생변수화,높음 - 0은 실제 0일 가능성이 높아 NULL 처리 금지,decision_needed,15642

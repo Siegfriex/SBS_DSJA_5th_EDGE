@@ -1,0 +1,5 @@
+﻿figure_id,article_question,figure_path,data,preprocessing,caption,misconception_to_avoid
+H1,상위권 대학일수록 A비율이 높은가,figures/h1_rank_vs_a_rate_2024.png,university_analysis_table_2024.csv,"2024년 정규 1·2학기, 캠퍼스/중복 순위 제외",2024년 순위 숫자가 작을수록 A비율이 높은 방향의 상관을 보인다.,대학 순위가 A비율을 인과적으로 높인다고 쓰지 않는다.
+H2,학점포기제 O 대학의 A비율이 높은가,figures/h2_credit_forfeit_box_2024.png,university_analysis_table_2024.csv,"정책 파일의 순위 컬럼 제거, O/X만 병합",학점포기제 O/X의 A비율 차이는 서열 프록시 대비 작거나 불안정한지 확인한다.,학점포기제와 재수강제도를 같은 제도로 묶어 단정하지 않는다.
+H3,서열 대비 A를 적게 주는 대학의 취업성과 패턴,figures/h3_a_residual_employment_2024.png,university_analysis_table_2024.csv,A비율~상위도 회귀 잔차를 생성하고 취업성과와 비교,잔차가 음수인 대학은 같은 서열 프록시에서 예상되는 A비율보다 낮은 대학이다.,낮은 A비율이 취업성과를 만들었다고 인과 서술하지 않는다.
+D1,학과계열별 A비율 차이는 어느 정도인가,figures/department_major_group_a_rate_2024.png,department_analysis_table_2024.csv,대학-학과별 1·2학기 A비율 산술평균,학과 확장 분석은 전공계열 차이를 함께 확인해야 한다.,수천 개 학과 행을 독립 대학 표본처럼 해석하지 않는다.

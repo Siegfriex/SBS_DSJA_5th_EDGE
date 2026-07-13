@@ -1,0 +1,21 @@
+﻿block,title,path,exists,bytes,checkpoint
+V1,피처 성격·결측 행렬,figures/enhanced_missing_feature_matrix_2024.png,True,80813,변수별 측정수준과 결측률을 먼저 확인한다.
+V2,기술통계 행렬: 타겟과 보조타겟 분포,figures/enhanced_numeric_distribution_grid_2024.png,True,262043,"평균, 중앙값, IQR, 극단값이 같은 이야기를 하는지 본다."
+V3,Spearman 상관 행렬,figures/enhanced_spearman_correlation_heatmap_2024.png,True,242405,순위형 변수는 Pearson보다 Spearman 해석을 우선한다.
+V4,변수-타겟 추세선 패널,figures/enhanced_target_trendline_panel_2024.png,True,338406,추세선보다 점의 산포와 이상치를 같이 본다.
+V5,100% 성적구성 누적막대,figures/enhanced_grade_100pct_stacked_bars_2024.png,True,145526,A비율 차이가 B/C/D/F 구성 이동과 같이 나타나는지 확인한다.
+V6,범주형·순서형 그룹 효과 행렬,figures/enhanced_categorical_target_effect_heatmap_2024.png,True,96647,"p값, 효과크기, 표본수를 같이 본다."
+V7,3D PCA 대학별 다변량 위치,figures/enhanced_pca_3d_university_feature_space_2024.png,True,300672,PCA 입력에 A비율 자체가 들어가지 않았는지 확인한다.
+V7-부록,PCA PC1 loading bar,figures/enhanced_pca_pc1_loading_bar_2024.png,True,69850,PC축 해석은 loading 표와 함께 읽는다.
+H1-Baseline,대학순위 프록시와 A비율,figures/h1_rank_vs_a_rate_2024.png,True,136426,기존 순위 프록시 baseline이며 실제 입결 주 분석과 구분한다.
+H2-Baseline,학점포기제 O/X와 A비율,figures/h2_credit_forfeit_box_2024.png,True,48607,O/X 단순 차이는 정책 강도까지 의미하지 않는다.
+H3-Baseline,순위 대비 A잔차와 취업성과,figures/h3_a_residual_employment_2024.png,True,116317,잔차는 후속 취재 후보 신호이지 원인 측정치가 아니다.
+Actual H1,실제 70% cut 백분위와 학과 A비율,figures/actual_admission_2024/actual_h1_selectivity_vs_a_rate_2024.png,True,334812,`raw_percentile_70cut` 0~100 정제값만 사용한다.
+Actual H1-Within,같은 대학 내부 입결 편차와 A비율 편차,figures/actual_admission_2024/actual_h1_within_university_centered_2024.png,True,237324,대학 고정효과/within 해석은 대학 간 효과와 분리한다.
+Actual H2,학점포기제 O/X별 학과 A비율 분포,figures/actual_admission_2024/actual_h2_credit_forfeit_department_distribution_2024.png,True,119355,학점포기제는 대학 단위 변수라 학과 단위 표본수를 과대해석하지 않는다.
+Actual Crosswalk,모집단위-학점학과 매핑 funnel,figures/actual_admission_2024/actual_crosswalk_mapping_funnel_2024.png,True,74455,exact/alias 포함과 검토·제외 대상을 분리한다.
+V9-A,수치형·순서형 검정 heatmap,figures/deep_contrast_2024/deep_v9_numeric_ordinal_test_heatmap_2024.png,True,297508,"Spearman rho, p값, n, OLS 기울기를 같이 본다."
+V9-B,범주형·이진형 효과 행렬,figures/deep_contrast_2024/deep_v10_categorical_binary_effect_matrix_2024.png,True,219542,Mann-Whitney/Hedges g 또는 Kruskal/epsilon²로 변수 유형별 검정을 분리한다.
+V11,H1 실제 입결/대학 내 비교 대시보드,figures/deep_contrast_2024/deep_v11_h1_actual_within_contrast_dashboard_2024.png,True,678928,전체 추세와 같은 대학 내부 추세를 같은 결론으로 섞지 않는다.
+V12,H2/H3 정책·잔차·성과 대조 대시보드,figures/deep_contrast_2024/deep_v12_h2_h3_policy_residual_outcome_dashboard_2024.png,True,569897,취업성과와 진학성과를 분리해 본다.
+V13,구성비·매핑품질 대시보드,figures/deep_contrast_2024/deep_v13_grade_composition_crosswalk_dashboard_2024.png,True,298282,100% 구성비와 crosswalk 품질을 함께 확인한다.

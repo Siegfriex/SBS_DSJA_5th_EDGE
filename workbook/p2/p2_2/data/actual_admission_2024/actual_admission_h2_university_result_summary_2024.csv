@@ -1,0 +1,4 @@
+﻿model,term,coef,se,p,n,universities,effect_size_hedges_g,note,adj_r2
+H2-University Welch,credit_forfeit_bin O-X,-2.868598120680552,,0.30279198448651123,33,33,-0.34706593011504433,대학 단위: 실제 학과 입결 중앙값 요약 전 집단 차이.,
+H2-University Mann-Whitney U,credit_forfeit_bin O-X,,,0.37215999848634584,33,33,,대학 단위 비모수 보조 검정.,
+H2-University OLS HC3 actual selectivity controlled,credit_forfeit_bin,-4.32911122703865,2.9600078231713405,0.1539931809529873,33,33,,통제: 대학별 실제 학과 입결 중앙값. 표준오차: HC3.,0.13913784931014794

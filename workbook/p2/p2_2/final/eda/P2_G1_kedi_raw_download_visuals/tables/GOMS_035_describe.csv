@@ -1,0 +1,2 @@
+﻿topic_id,file_name,measure_type,count,mean,std,min,25%,50%,75%,max
+GOMS_035,GOMS_035_직업별_주당_평균_근로시간2016_mean.xls,mean,250.0,46.958400000000005,3.1741598262232538,36.9,45.225,47.25,48.9,57.1

@@ -1,0 +1,11 @@
+﻿check,result,value
+before_shape,True,34969 rows x 132 cols
+removed_non_day_rows,True,19237
+removed_cyber_university_rows_after_day_filter,True,0
+dropped_columns,True,"학교상태, analysis_unit_type"
+graduate_clean_binary_values,True,"{0: np.int64(8265), 1: np.int64(7467)}"
+all_remaining_daytime,True,{'주간': 15732}
+cyber_university_remaining,True,0
+removed_columns_absent,True,absent
+after_shape,True,15732 rows x 130 cols
+utf8_sig_bom,True,utf-8-sig

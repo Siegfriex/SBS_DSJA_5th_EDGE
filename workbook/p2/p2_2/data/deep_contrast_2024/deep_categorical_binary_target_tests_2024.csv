@@ -1,0 +1,13 @@
+﻿feature,feature_type,target,test,stat,p,effect_metric,effect_size,n,groups,lowest_median_group,highest_median_group,median_gap_high_low,direction
+score_comparability_tier,nominal_quality,a_rate_pct,Mann-Whitney U,61265.0,8.683403204636015e-09,Hedges g,1.0869495436598289,1186,2,Tier B,Tier A,15.047136236090168,Tier A - Tier B
+major_group_top,nominal,a_rate_pct,Kruskal-Wallis,86.68574418389335,7.414531776353024e-14,epsilon_squared,0.06446826591473027,1186,12,경영경제,교육,11.594662797652852,multi-group
+selectivity_quartile,ordinal_category,a_rate_pct,Kruskal-Wallis,40.79025539321856,7.244482810318632e-09,epsilon_squared,0.03197145126329827,1186,4,Q1 낮음,Q4 높음,5.202792250554488,multi-group
+grade_size_quartile,ordinal_category,a_rate_pct,Kruskal-Wallis,8.446137979658033,0.03763742890261069,epsilon_squared,0.0046075617425194865,1186,4,대규모,소규모,2.491560168175795,multi-group
+credit_forfeit_label,binary_nominal,a_rate_pct,Kruskal-Wallis,5.206373925245316,0.07403724788470588,epsilon_squared,0.002710375253799929,1186,3,결측,O,5.038583696303242,multi-group
+mapping_cardinality,nominal_quality,a_rate_pct,Mann-Whitney U,20490.0,0.003339453096409029,Hedges g,-0.523441981049892,1186,2,many_admission_to_one_grade,one_to_one,3.508114235426092,many_admission_to_one_grade - one_to_one
+score_comparability_tier,nominal_quality,a_rate_residual_actual_selectivity_pctp,Mann-Whitney U,59499.0,2.500259907382037e-07,Hedges g,0.8952339263548551,1186,2,Tier B,Tier A,11.009118168072284,Tier A - Tier B
+selectivity_quartile,ordinal_category,a_rate_residual_actual_selectivity_pctp,Kruskal-Wallis,22.80639966561921,4.431446231951264e-05,epsilon_squared,0.01675668330424637,1186,4,Q3,Q4 높음,2.541183335846462,multi-group
+credit_forfeit_label,binary_nominal,a_rate_residual_actual_selectivity_pctp,Kruskal-Wallis,3.1388819607650476,0.20816151620870255,epsilon_squared,0.0009627066447718069,1186,3,결측,X,1.9034912207404986,multi-group
+major_group_top,nominal,a_rate_residual_actual_selectivity_pctp,Kruskal-Wallis,5.048296358847892,0.9288050841301444,epsilon_squared,0.0,1186,12,사회복지상담심리,건축토목환경,2.589447896421195,multi-group
+grade_size_quartile,ordinal_category,a_rate_residual_actual_selectivity_pctp,Kruskal-Wallis,1.1520613730067453,0.7645234067158482,epsilon_squared,0.0,1186,4,소규모,중대,0.9474234884809432,multi-group
+mapping_cardinality,nominal_quality,a_rate_residual_actual_selectivity_pctp,Mann-Whitney U,23566.0,0.1071087672175345,Hedges g,-0.30206966719302963,1186,2,many_admission_to_one_grade,one_to_one,2.8736704731630667,many_admission_to_one_grade - one_to_one

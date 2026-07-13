@@ -1,0 +1,7 @@
+﻿raw_column,numeric_column,raw_present_n,converted_n,conversion_rate_among_present,failed_present_n,failed_examples
+raw_recruitment_n,recruitment_n_num,2879,2736,0.9503299756860021,143,"[""말레이·인도네시아어과"", ""아랍어과"", ""태국어과"", ""베트남어과"", ""인도어과"", ""터키·아제르바이잔어과"", ""페르시아어·이란학과"", ""몽골어과"", ""중국언어문화학부"", ""일본언어문화학부""]"
+raw_competition_rate,competition_rate_num,2879,2879,1.0,0,[]
+raw_additional_rank,additional_admit_last_rank_num,2862,2717,0.9493361285814116,145,"[""중어중문학과"", ""영어영문학과"", ""독어독문학과"", ""불어불문학과"", ""노어노문학과"", ""사학과"", ""철학과"", ""문헌정보학과"", ""심리학과"", ""경제학부""]"
+raw_score_70cut,univ_score_70cut_num,2593,2591,0.9992286926340147,2,"[""Θ""]"
+raw_score_max,univ_score_max_num,2516,2516,1.0,0,[]
+raw_percentile_70cut,percentile_70cut_num,2517,2487,0.9880810488676997,30,"[""Θ"", ""철학과"", ""국사학과"", ""심리학과"", ""사회학과"", ""법학과"", ""경제학과"", ""행정학과"", ""의류학과"", ""아동학과""]"

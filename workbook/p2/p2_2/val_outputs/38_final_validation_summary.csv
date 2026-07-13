@@ -1,0 +1,44 @@
+﻿validation_run_id,section,metric,value
+VAL_20260712_151256,A,Notebook 경로,/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_2/h1_h2_measurement_validation.ipynb
+VAL_20260712_151256,A,실행 모드,prepare_review
+VAL_20260712_151256,A,실행 성공 여부,success
+VAL_20260712_151256,A,val_outputs 경로,/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_2/val_outputs
+VAL_20260712_151256,B,기존 Tier A 수,104
+VAL_20260712_151256,B,검증 후 Tier A 수,2415
+VAL_20260712_151256,B,Tier B1 수,0
+VAL_20260712_151256,B,Tier B2 수,0
+VAL_20260712_151256,B,환산점수 오분류 수,43
+VAL_20260712_151256,B,unknown numeric 수,0
+VAL_20260712_151256,C,전체 alias pair,1755
+VAL_20260712_151256,C,자동통과,167
+VAL_20260712_151256,C,수동통과,0
+VAL_20260712_151256,C,거절,0
+VAL_20260712_151256,C,미확정,1859
+VAL_20260712_151256,C,감사표본 오류율,
+VAL_20260712_151256,D,Gold 대학 수,0
+VAL_20260712_151256,D,Silver 대학 수,0
+VAL_20260712_151256,D,제외 대학 수,37
+VAL_20260712_151256,D,median unit coverage,0.03333333333333333
+VAL_20260712_151256,D,median seat coverage,0.027644230769230768
+VAL_20260712_151256,D,median grade coverage,0.012726062116070278
+VAL_20260712_151256,E,확대 전 공식 입결 행,2415
+VAL_20260712_151256,E,확대 후 공식 입결 행,2415
+VAL_20260712_151256,E,확대 전 대학 수,37
+VAL_20260712_151256,E,확대 후 대학 수,37
+VAL_20260712_151256,F,과거 입결 확보 대학 수,0
+VAL_20260712_151256,F,과거 입결 확보 학과 수,0
+VAL_20260712_151256,F,2개년 이상 확보 비율,0
+VAL_20260712_151256,F,cohort alignment PASS 수,0
+VAL_20260712_151256,G,H1 기존 결과 → 검증 결과,"[{""validation_run_id"":""VAL_20260712_151256"",""sample_name"":""A_existing_tier_ab_unverified"",""analysis_status"":""baseline_reference_only"",""rows"":1186,""universities"":35,""departments"":528,""preconditions"":""{\""gate1_metric_ready\"": false, \""gate2_mapping_ready\"": false, \""gate3_coverage_ready\"": false, \""gate4_official_ready\"": false}"",""spearman_rho"":null,""spearman_p"":null,""kendall_tau"":null,""kendall_p"":null,""analysis_n"":1186},{""validation_run_id"":""VAL_20260712_151256"",""sample_name"":""B_validated_tier_A"",""analysis_status"":""not_run_gate_not_ready"",""rows"":0,""universities"":0,""departments"":0,""preconditions"":""{\""gate1_metric_ready\"": false, \""gate2_mapping_ready\"": false, \""gate3_coverage_ready\"": false, \""gate4_official_ready\"": false}"",""spearman_rho"":null,""spearman_p"":null,""kendall_tau"":null,""kendall_p"":null,""analysis_n"":0},{""validation_run_id"":""VAL_20260712_151256"",""sample_name"":""C_validated_tier_A_B1"",""analysis_status"":""not_run_gate_not_ready"",""rows"":0,""universities"":0,""departments"":0,""preconditions"":""{\""gate1_metric_ready\"": false, \""gate2_mapping_ready\"": false, \""gate3_coverage_ready\"": false, \""gate4_official_ready\"": false}"",""spearman_rho"":null,""spearman_p"":null,""kendall_tau"":null,""kendall_p"":null,""analysis_n"":0},{""validation_run_id"":""VAL_20260712_151256"",""sample_name"":""D_gold_exact_only"",""analysis_status"":""not_run_gate_not_ready"",""rows"":0,""universities"":0,""departments"":0,""preconditions"":""{\""gate1_metric_ready\"": false, \""gate2_mapping_ready\"": false, \""gate3_coverage_ready\"": false, \""gate4_official_ready\"": false}"",""spearman_rho"":null,""spearman_p"":null,""kendall_tau"":null,""kendall_p"":null,""analysis_n"":0},{""validation_run_id"":""VAL_20260712_151256"",""sample_name"":""E_gold_exact_validated_alias"",""analysis_status"":""not_run_gate_not_ready"",""rows"":0,""universities"":0,""departments"":0,""preconditions"":""{\""gate1_metric_ready\"": false, \""gate2_mapping_ready\"": false, \""gate3_coverage_ready\"": false, \""gate4_official_ready\"": false}"",""spearman_rho"":null,""spearman_p"":null,""kendall_tau"":null,""kendall_p"":null,""analysis_n"":0}]"
+VAL_20260712_151256,G,H5 기존 결과 → 검증 결과,"[{""validation_run_id"":""VAL_20260712_151256"",""analysis_status"":""not_run_gate_not_ready"",""outcome"":""official_employment_rate_pct_vs_graduate_school_rate_pct"",""spearman_rho_with_a_rate"":null,""p_value"":null,""n"":0,""note"":""Gate5 cohort alignment is not PASS; 2024 admission is not used as cohort-aligned outcome predictor.""}]"
+VAL_20260712_151256,G,H6 기존 결과 → 검증 결과,"[{""validation_run_id"":""VAL_20260712_151256"",""analysis_status"":""not_run_gate_not_ready"",""method"":""leave_one_university_out_cross_fitting"",""rows"":0,""note"":""Not computed because metric\/mapping\/coverage\/cohort gates are not fully ready.""}]"
+VAL_20260712_151256,G,H7 기존 결과 → 검증 결과,"[{""validation_run_id"":""VAL_20260712_151256"",""analysis_status"":""not_run_gate_not_ready"",""model"":""linear_quadratic_spline_lowess"",""rows"":0,""universities"":0,""aic"":null,""adjusted_r2"":null,""turning_point_inside_observed_range"":null,""note"":""Not computed until validation gates pass.""}]"
+VAL_20260712_151256,H,Gate 1,NOT_READY
+VAL_20260712_151256,H,Gate 2,NOT_READY
+VAL_20260712_151256,H,Gate 3,NOT_READY
+VAL_20260712_151256,H,Gate 4,NOT_READY
+VAL_20260712_151256,H,Gate 5,NOT_READY
+VAL_20260712_151256,H,최종 분석 readiness,NOT_READY
+VAL_20260712_151256,I,수동검토 필요: 05_metric_definition_manual_review_queue.csv,354
+VAL_20260712_151256,I,수동검토 필요: 10_alias_manual_review_queue.csv,1859
+VAL_20260712_151256,I,코호트 보강 필요: 22_historical_crawl_seed_2018_2021.csv,152

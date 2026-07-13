@@ -1,0 +1,36 @@
+﻿validation_run_id,timestamp,gate,event,status,rows,note
+VAL_20260712_151256,2026-07-12T15:12:58,Gate0,input_inventory,PASS,12,missing=[]
+VAL_20260712_151256,2026-07-12T15:12:59,Gate0,load_existing_pipeline,PASS,11,
+VAL_20260712_151256,2026-07-12T15:12:59,Gate0,freeze_existing_baseline,PASS,34,
+VAL_20260712_151256,2026-07-12T15:12:59,Gate1,metric_context_extraction,PASS,3096,
+VAL_20260712_151256,2026-07-12T15:12:59,Gate1,metric_type_auto_classification,PASS,3096,
+VAL_20260712_151256,2026-07-12T15:12:59,Gate1,metric_manual_review_queue,PASS,354,decision template is not overwritten if it already exists
+VAL_20260712_151256,2026-07-12T15:12:59,Gate1,apply_metric_manual_decisions,PASS,0,RUN_MODE=prepare_review
+VAL_20260712_151256,2026-07-12T15:12:59,Gate1,build_validated_metric_table,NOT_READY,3096,
+VAL_20260712_151256,2026-07-12T15:13:01,Gate2,alias_pair_inventory,PASS,1755,
+VAL_20260712_151256,2026-07-12T15:13:01,Gate2,alias_auto_audit,PASS,2026,
+VAL_20260712_151256,2026-07-12T15:13:01,Gate2,alias_manual_review_queue,PASS,1859,alias_pairs=1061; min_sample=213
+VAL_20260712_151256,2026-07-12T15:13:01,Gate2,apply_alias_manual_decisions,PASS,0,RUN_MODE=prepare_review
+VAL_20260712_151256,2026-07-12T15:13:01,Gate2,build_validated_crosswalk,NOT_READY,167,primary_unresolved=1239
+VAL_20260712_151256,2026-07-12T15:13:01,Gate3,university_unit_coverage,PASS,37,
+VAL_20260712_151256,2026-07-12T15:13:01,Gate3,university_seat_coverage,PASS,25,
+VAL_20260712_151256,2026-07-12T15:13:01,Gate3,university_grade_coverage,PASS,37,
+VAL_20260712_151256,2026-07-12T15:13:01,Gate3,coverage_bias_diagnostics,NOT_READY,4,
+VAL_20260712_151256,2026-07-12T15:13:02,Gate4,official_sample_expansion_seed,PASS,1859,
+VAL_20260712_151256,2026-07-12T15:13:02,Gate4,official_source_collection,NOT_READY,38,offline run did not collect new official documents
+VAL_20260712_151256,2026-07-12T15:13:02,Gate4,official_source_parsing,CONDITIONAL_PASS,2415,
+VAL_20260712_151256,2026-07-12T15:13:02,Gate4,expanded_metric_validation,NOT_READY,4,
+VAL_20260712_151256,2026-07-12T15:13:02,Gate5,historical_cohort_seed,PASS,152,
+VAL_20260712_151256,2026-07-12T15:13:02,Gate5,historical_official_collection,NOT_READY,0,historical official admission data not collected in prepare_review
+VAL_20260712_151256,2026-07-12T15:13:02,Gate5,historical_crosswalk,NOT_READY,0,2024 crosswalk was not blindly reused for older cohorts
+VAL_20260712_151256,2026-07-12T15:13:02,Gate5,build_cohort_selectivity,NOT_READY,0,
+VAL_20260712_151256,2026-07-12T15:13:02,Gate6,build_validated_h1_sample,NOT_READY,0,
+VAL_20260712_151256,2026-07-12T15:13:02,Gate6,build_validated_outcome_sample,NOT_READY,0,
+VAL_20260712_151256,2026-07-12T15:13:02,Gate6,build_validation_exclusion_registry,PASS,2432,
+VAL_20260712_151256,2026-07-12T15:13:02,Gate7,rerun_h1,NOT_READY,5,No validated H1 is computed unless gates pass
+VAL_20260712_151256,2026-07-12T15:13:02,Gate7,rerun_h5,NOT_READY,1,
+VAL_20260712_151256,2026-07-12T15:13:02,Gate7,rerun_h6,NOT_READY,1,
+VAL_20260712_151256,2026-07-12T15:13:02,Gate7,rerun_h7,NOT_READY,1,
+VAL_20260712_151256,2026-07-12T15:13:02,Final,validation_gate_summary,NOT_READY,9,
+VAL_20260712_151256,2026-07-12T15:13:02,Final,export_all_csv,PASS,39,
+VAL_20260712_151256,2026-07-12T15:13:02,Final,final_output_check,PASS,39,

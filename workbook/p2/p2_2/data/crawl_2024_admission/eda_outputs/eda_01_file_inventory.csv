@@ -1,0 +1,6 @@
+﻿file_name,absolute_path,exists,file_size_bytes,modified_at,sha256,html_file_count,html_total_size,html_zero_byte_count,duplicate_sha256_count
+00_crawl_seed_university_2024.csv,/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_2/data/crawl_2024_admission/00_crawl_seed_university_2024.csv,True,6428.0,2026-07-10T13:00:25,e9b26b12a45b4639144d9fd26d9c477d747d6dc3fc63273d44435851b75efb2e,,,,
+01_crawl_source_registry.csv,/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_2/data/crawl_2024_admission/01_crawl_source_registry.csv,True,22492.0,2026-07-10T13:00:35,71cb64b6d65b572ffaa2d863a90df8f16f3acb214a3da39b6120921299130ec5,,,,
+02_admission_result_raw_2024.parquet,/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_2/data/crawl_2024_admission/02_admission_result_raw_2024.parquet,True,203093.0,2026-07-10T13:00:35,c0c005379abea4cd6fb101969f6c2e76d6e51e6b437468e21d604cd4dee4e682,,,,
+02_admission_result_raw_2024.csv,/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_2/data/crawl_2024_admission/02_admission_result_raw_2024.csv,True,1578623.0,2026-07-10T13:00:35,667be6581b71d685dab21b0952855b0b6c4dbc73d162a88b9a2be584350c68ec,,,,
+raw_html/,/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_2/data/crawl_2024_admission/raw_html,True,,2026-07-10T12:03:41,,51.0,89473850.0,0.0,0.0

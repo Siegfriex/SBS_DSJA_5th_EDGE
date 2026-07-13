@@ -1,0 +1,4 @@
+﻿column,exists_in_source,raw_non_null_n,zero_n,nonzero_n,drop_scope,drop_reason
+시간강사_계,True,35431,35431,0,analysis_df_only,전 행 0인 시간강사 컬럼이므로 본 EDA 분석 변수에서 제거
+시간강사_남,True,35431,35431,0,analysis_df_only,전 행 0인 시간강사 컬럼이므로 본 EDA 분석 변수에서 제거
+시간강사_여,True,35431,35431,0,analysis_df_only,전 행 0인 시간강사 컬럼이므로 본 EDA 분석 변수에서 제거

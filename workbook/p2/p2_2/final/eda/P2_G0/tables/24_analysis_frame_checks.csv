@@ -1,0 +1,7 @@
+﻿check,result,value
+time_lecturer_removed_from_analysis_total,True,removed
+department_rows_exclude_placeholder,True,0
+placeholder_rows_count,True,462
+department_plus_placeholder_equals_total,True,34969 + 462 = 35431
+graduate_type_true_missing_in_graduate_course,True,0
+taxonomy_true_missing_in_department_rows,True,0

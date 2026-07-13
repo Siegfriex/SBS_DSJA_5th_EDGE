@@ -1,0 +1,5 @@
+﻿score_comparability_tier,score_comparability_note,row_n,university_n,recruitment_unit_n,percentile_available_rate,numeric_warn_or_fail_rate
+Tier A,70% 백분위와 핵심 수치가 있어 잠정 주 분석 후보,104,2,96,1.0,0.0
+Tier B,70% 백분위는 있으나 전형/품질/핵심필드 검토 필요,2599,46,1156,1.0,0.19661408233936128
+Tier C,대학 환산점수 비율만 있어 대학 간 직접비교 제한,35,5,18,0.0,0.8
+Tier D,입결 점수 필드 부족,574,16,249,0.0,0.25609756097560976

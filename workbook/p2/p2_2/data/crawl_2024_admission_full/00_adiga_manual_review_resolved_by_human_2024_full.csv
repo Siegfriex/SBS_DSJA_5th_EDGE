@@ -1,0 +1,12 @@
+﻿학교명,search_query,candidate_count,decision,decision_note,chosen_adiga_code,chosen_adiga_label,manual_review_required
+건양대학교,건양대학교,2,manual_review,후보 2건 — 캠퍼스 신호 없음,,,True
+경동대학교,경동대학교,3,manual_review,후보 3건 — 캠퍼스 신호 없음,,,True
+경인교육대학교,경인교육대학교,1,manual_review,단일 후보 + 대학명 본체 일치 | 동일 code 중복 매핑으로 수동검토 전환,256.0,경인교육대학교[본교],True
+경인교육대학교_제2캠퍼스,경인교육대학교,1,excluded_no_separate_adiga_code,"ADIGA가 본교와 별도 캠퍼스 코드를 제공하지 않음(0000256과 동일) — 중복크롤링 방지 위해 제외, 사람 확인",256.0,경인교육대학교[본교],True
+국립경국대학교,국립경국대학교,0,manual_review,검색 결과 없음,,,True
+신한대학교,신한대학교,2,manual_review,후보 2건 — 캠퍼스 신호 없음,,,True
+안양대학교,안양대학교,2,manual_review,후보 2건 — 캠퍼스 신호 없음,,,True
+영산대학교(해운대),영산대학교,2,manual_review,캠퍼스 신호로도 후보 2건(확정신호 0건) — 불확실,,,True
+예원예술대학교,예원예술대학교,2,manual_review,후보 2건 — 캠퍼스 신호 없음,,,True
+을지대학교,을지대학교,3,manual_review,후보 3건 — 캠퍼스 신호 없음,,,True
+인천가톨릭대학교,인천가톨릭대학교,2,manual_review,후보 2건 — 캠퍼스 신호 없음,,,True

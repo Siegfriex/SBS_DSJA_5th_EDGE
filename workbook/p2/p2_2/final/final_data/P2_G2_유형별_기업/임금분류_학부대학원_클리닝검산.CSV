@@ -1,0 +1,18 @@
+﻿check,value,status
+degree_rows,14,PASS
+degree_columns,66,INFO
+degree_null_cells,0,PASS
+removed_columns_absent,True,PASS
+degree_binary_values,"{0: 7, 1: 7}",PASS
+target_prefix_columns_absent,True,PASS
+log_transform_columns_absent,True,PASS
+quartile_columns,23,PASS
+quartile_null_cells,0,PASS
+company_competitive_residual_max_abs,0.0,PASS
+salary_bucket_residual_max_abs,0.0,PASS
+cert_rate_max_rounding_residual,0.047569444444441444,PASS
+cert_nonholder_residual_max_abs,0.0,PASS
+cert_missing_rate_residual_max_abs,0.0,PASS
+cert_per_subject_residual_max_abs,0.0,PASS
+industry_joined,False,PASS
+job_cert_joined,False,PASS
