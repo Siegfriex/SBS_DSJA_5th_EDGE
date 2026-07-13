@@ -1,0 +1,6 @@
+question,finding,evidence,risk,next_action
+P3 residual handoff,READY,"coverage=7,592, coverage_rate=1.000",locked-test R2 is low; residual is not a pure causal shock,use as topology signal with warning
+P4 employment signal,WEAK_EXTERNAL_GAIN,OOF residual employment locked-test MAE improvement=+0.000277,slope and out-of-sample gain diverge,avoid strong employment-performance claim
+P4 progression signal,STRONGER_THAN_EMPLOYMENT,OOF residual D=+1.022%p,"progression reflects selection and aspiration, not only educational value",frame as progression alignment
+RAW_A vs OOF residual,NEAR_EQUIVALENT_IN_P4,"max delta=7.582e-10, raw-resid corr=0.927",overclaiming residual as new independent information,keep equivalence warning in P6
+P2-Q/P3-Q branch,BLOCKED,BLOCKED_FEATURE_CONTRACT,admission/selectivity feature contract not approved,do not merge Q branch into confirmatory result
