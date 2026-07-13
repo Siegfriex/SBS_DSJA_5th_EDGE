@@ -1,0 +1,9 @@
+﻿metric,raw_excel_column,d01_column,raw_excel_sum,d01_sum,d01_minus_raw_excel,old_15727_csv_sum,d01_minus_old_15727_csv,conservation_status,old_csv_difference_class
+admission capacity,입학정원_학부_계,admission_capacity_n,570994.0,570994.0,0.0,172239.0,398755.0,PASS,scope_restored_from_raw_excel
+recruitment,모집인원_학부_계,recruitment_n,730121.0,730121.0,0.0,198196.0,531925.0,PASS,scope_restored_from_raw_excel
+applicants,지원자_전체_계,applicants_n,4313143.0,4313143.0,0.0,1741880.0,2571263.0,PASS,scope_restored_from_raw_excel
+admits,입학자_전체_계,admits_n,705185.0,705185.0,0.0,276449.0,428736.0,PASS,scope_restored_from_raw_excel
+enrolled students,재적생_전체_계,enrolled_students_n,3007242.0,3007242.0,0.0,1174581.0,1832661.0,PASS,scope_restored_from_raw_excel
+graduates,졸업자_전체,graduates_n,634899.0,634899.0,0.0,231967.0,402932.0,PASS,scope_restored_from_raw_excel
+fulltime faculty,전임교원_계,fulltime_faculty_n,86859.0,86859.0,0.0,43123.0,43736.0,PASS,scope_restored_from_raw_excel
+nonfulltime faculty,비전임교원_계,nonfulltime_faculty_n,141428.0,141428.0,0.0,64141.0,77287.0,PASS,scope_restored_from_raw_excel

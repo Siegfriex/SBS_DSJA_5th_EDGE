@@ -1,0 +1,6 @@
+﻿sample_id,registry_usable_rows_n,actual_usable_rows_n,registry_with_structure_n,actual_with_structure_n,registry_train_n,actual_train_n,registry_val_n,actual_val_n,registry_test_n,actual_test_n,registry_actual_mismatch_n,status
+GRADE_ALL,10099,10099,8561,8561,7417,7417,1504,1504,1178,1178,0,PASS
+GRADE_SELECTIVITY,3707,3707,3198,3198,2760,2760,585,585,362,362,0,PASS
+EMPLOYMENT_HEALTH,7389,7389,6270,6270,5428,5428,1121,1121,840,840,0,PASS
+PROGRESSION_GRADSCHOOL,7498,7498,6366,6366,5499,5499,1141,1141,858,858,0,PASS
+JOINT_EMP_PROG,7389,7389,6270,6270,5428,5428,1121,1121,840,840,0,PASS

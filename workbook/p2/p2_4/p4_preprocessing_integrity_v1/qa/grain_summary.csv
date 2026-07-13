@@ -1,0 +1,10 @@
+﻿metric,value
+row_n,10242
+school_n,200
+campus_n,452
+department_entity_n,10222
+year_n,1
+same_dept_uid_multi_school_n,0
+same_dept_uid_multi_campus_n,2
+school_dept_name_multi_entity_n,40
+degree_course_non_null_n,8561

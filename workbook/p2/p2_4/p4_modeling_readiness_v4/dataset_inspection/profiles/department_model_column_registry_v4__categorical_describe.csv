@@ -1,0 +1,21 @@
+﻿column,dtype,count,missing_n,missing_pct,nunique,top,freq,top_pct,sample_values
+column,str,151,0,0.0,151,analysis_year,1,0.6622516556291391,analysis_year | outcome_row_id | school_name_raw | school_name_base_raw | school_name_std
+dtype_actual,str,151,0,0.0,10,Float32,57,37.74834437086093,Int16 | str | string | boolean | Float32
+semantic_role,str,151,0,0.0,16,major7_historical_context,28,18.543046357615893,identifier_or_label | stratification_feature | policy_feature | selectivity_feature | target_candidate_or_phase_signal
+feature_block,str,151,0,0.0,12,QUALITY,33,21.85430463576159,K | S0 | POLICY | Q | GRADE
+measurement_level,str,151,0,0.0,5,department,44,29.13907284768212,department | school_department | row_quality | major7_year | major7
+grain,str,151,0,0.0,1,analysis_year + school_uid + campus_uid + dept_uid + outcome_row_id,151,100.0,analysis_year + school_uid + campus_uid + dept_uid + outcome_row_id
+unit,str,151,0,0.0,10,percent,35,23.178807947019866,id_or_label | category | flag | percent | metadata
+source_dataset,str,151,0,0.0,5,D01_v2,51,33.77483443708609,D01_v2 | D02_v2 | D03_v2 | D04_v2 | D07_HANDOFF
+source_column,str,151,0,0.0,150,row_qa_status,2,1.3245033112582782,analysis_year | outcome_row_id | school_name_raw | school_name_base_raw | school_name_std
+derivation_formula,str,53,98,64.90066225165563,12,major_group_7 keyed historical GOMS recent profile merge,28,18.543046357615893,applicants_n / recruitment_n where recruitment_n > 0 | admits_n / recruitment_n where recruitment_n > 0 | admits_n / applicants_n where applicants_n > 0 | leave_students_n / enrolled_students_n * 100 where enrolled_students_n > 0 | female_students_n / enrolled_students_n * 100 where enrolled_students_n > 0
+null_policy,str,151,0,0.0,5,"identifier/metadata; nulls audited, not imputed",53,35.099337748344375,"identifier/metadata; nulls audited, not imputed | feature candidate; impute only inside train-fitted preprocessing | target candidate; null means target not observed for that phase | count/denominator candidate; null not imputed before split | context; null means major7 context unavailable; no full-data imputation"
+zero_policy,str,151,0,0.0,4,not numeric or not applicable,86,56.95364238410596,not numeric or not applicable | False/0 is a valid category | 0 is valid if source definition allows; range audited | observed 0 is a true zero; denominator use requires >0 check
+is_identifier,bool,151,0,0.0,2,False,124,82.11920529801324,True | False
+is_target_candidate,bool,151,0,0.0,2,False,139,92.05298013245033,False | True
+is_denominator,bool,151,0,0.0,2,False,136,90.06622516556291,False | True
+is_context,bool,151,0,0.0,2,True,80,52.980132450331126,False | True
+is_quality_metadata,bool,151,0,0.0,2,False,118,78.1456953642384,False | True
+model_default_active,bool,151,0,0.0,2,False,78,51.65562913907284,False | True
+review_required,bool,151,0,0.0,2,False,138,91.3907284768212,False | True
+notes,str,151,0,0.0,12,candidate_feature_or_context,111,73.50993377483444,candidate_feature_or_context | identifier_label_or_qa_metadata | Base school-name label; not a model feature. | Raw department-field label; not a model feature. | Standardized department-field label; not a model feature.

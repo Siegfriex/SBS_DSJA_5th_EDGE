@@ -1,0 +1,4 @@
+﻿timestamp,decision,value,reason
+2026-07-13T01:51:50.443051+00:00,active_contract_selected,workbook/p2/p2_3/p4_handoff_candidate/shared/mart_department_model_base_2024.parquet,candidate lock ready_for_p4=true; D08 SHA matches manifest and baseline
+2026-07-13T01:51:50.443051+00:00,source_notebook_not_executed,workbook/p2/p2_4/p2_G4_source_parquet_csv_eda.ipynb,notebook writes source_eda; cleaning audit must write only p4_cleaning_handoff_v3
+2026-07-13T01:51:50.443051+00:00,count_binomial_status,NOT_AVAILABLE,no numerator/denominator count pair found for grade/employment/retention/progression

@@ -1,0 +1,8 @@
+﻿column,dtype,count,missing_n,missing_pct,nunique,top,freq,top_pct,sample_values
+model_id,str,32,0,0.0,18,P1_STRUCTURE,2,6.25,P1_STRUCTURE | P1_SELECTIVITY | P2_S | P2_Q | P3_S
+sample_id,str,32,0,0.0,12,P4_JOINT_STRUCTURE_READY,4,12.5,P1_STRUCTURE_READY | P1_SELECTIVITY_READY | P2_STRUCTURE_READY | P2_SELECTIVITY_READY | P3_STRUCTURE_READY
+target,str,32,0,0.0,3,a_rate_pct,12,37.5,a_rate_pct | health_employment_rate_pct | graduate_school_progression_rate_pct
+coding,str,32,0,0.0,2,treatment,18,56.25,onehot_full | treatment
+status,str,32,0,0.0,3,WARN,14,43.75,WARN | PASS | PENDING_UPSTREAM_RESIDUAL
+constant_columns,str,14,18,56.25,1,degree_course_대학과정,14,43.75,degree_course_대학과정
+recommended_action,str,18,14,43.75,2,Use treatment coding for linear models.,14,43.75,Use treatment coding for linear models. | Generate required OOF grade residual before fitting this spec.

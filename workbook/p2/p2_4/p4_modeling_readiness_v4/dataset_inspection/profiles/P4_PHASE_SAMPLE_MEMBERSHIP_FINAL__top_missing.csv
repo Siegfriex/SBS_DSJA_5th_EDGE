@@ -1,0 +1,4 @@
+﻿rank,position,column,dtype,non_null_n,missing_n,missing_pct,nunique,unique_ratio,is_all_null,is_constant,is_identifier_candidate,top_value_share
+1,7,school_type,string,8561,1681,16.412809998047255,5,0.0005840439201027917,False,False,False,0.8127318883030658
+2,8,region_sido,string,8561,1681,16.412809998047255,17,0.001985749328349492,False,False,True,0.16412809998047256
+3,6,major_group_7,str,10099,143,1.3962116774067566,7,0.0006931379344489553,False,False,False,0.25795743018941614

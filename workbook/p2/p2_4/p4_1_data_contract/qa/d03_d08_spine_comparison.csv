@@ -1,0 +1,13 @@
+﻿check,actual,expected,status
+D03 row count,10242,10242,PASS
+D08 row count,10242,10242,PASS
+D03 outcome_row_id duplicate,0,0,PASS
+D08 outcome_row_id duplicate,0,0,PASS
+P4 raw outcome composite key duplicate,0,0,PASS
+D08 carried headcount UID composite duplicate,18,tracked as WARN only,WARN
+D03 to D08 lost rows,0,0,PASS
+D08 extra rows over D03,0,0,PASS
+D03-D08 order changed,False,False,PASS
+D03-D08 outcome value mismatch cells,0,0,PASS
+P4 key null cells,0,0,PASS
+D08 inf/-inf cells,0,0,PASS

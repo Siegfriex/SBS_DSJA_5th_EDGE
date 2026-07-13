@@ -1,0 +1,10 @@
+﻿column,dtype,count,missing_n,missing_pct,nunique,top,freq,top_pct,sample_values
+model_id,str,18,0,0.0,18,P1_STRUCTURE,1,5.555555555555555,P1_STRUCTURE | P1_SELECTIVITY | P2_S | P2_Q | P3_S
+phase,str,18,0,0.0,5,P4_E,6,33.33333333333333,P1 | P2 | P3 | P4_E | P4_P
+sample_id,str,18,0,0.0,12,P4_E_STRUCTURE_READY,2,11.11111111111111,P1_STRUCTURE_READY | P1_SELECTIVITY_READY | P2_STRUCTURE_READY | P2_SELECTIVITY_READY | P3_STRUCTURE_READY
+target,str,18,0,0.0,3,a_rate_pct,6,33.33333333333333,a_rate_pct | health_employment_rate_pct | graduate_school_progression_rate_pct
+allowed_blocks,str,18,0,0.0,2,B+POLICY+S0,9,50.0,B+POLICY+S0 | B+POLICY+Q+S0
+grade_signal_role,str,18,0,0.0,4,same_time_grade_signal,8,44.44444444444444,same_time_alignment_noncausal | same_time_controls | same_time_grade_signal | oof_grade_signal
+availability,str,18,0,0.0,2,available,14,77.77777777777779,available | pending_residual
+missing_required_features,str,4,14,77.77777777777779,2,grade_residual_structure_oof,2,11.11111111111111,grade_residual_structure_oof | grade_residual_selectivity_oof
+status,str,18,0,0.0,2,READY,14,77.77777777777779,READY | PENDING_UPSTREAM_RESIDUAL

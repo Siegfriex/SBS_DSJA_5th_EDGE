@@ -1,0 +1,3 @@
+﻿preprocessor,status,train_shape,validation_shape,test_transform_shape,numeric_input_n,categorical_input_n,transformed_feature_n,nan_n_sample,inf_n_sample
+linear_scaled,PASS,"(7529, 176)","(1514, 176)","(1199, 176)",53,6,176,0,0
+tree_unscaled,PASS,"(7529, 176)","(1514, 176)","(1199, 176)",53,6,176,0,0

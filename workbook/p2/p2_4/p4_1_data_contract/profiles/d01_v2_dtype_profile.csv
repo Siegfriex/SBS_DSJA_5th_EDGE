@@ -1,0 +1,8 @@
+﻿dataset,dtype,column_count,rows,columns,key_columns,key_duplicate_rows,full_duplicate_rows,missing_cells
+D01_v2,int64,109,34969,186,,,0,144867
+D01_v2,string,26,34969,186,,,0,144867
+D01_v2,str,24,34969,186,,,0,144867
+D01_v2,Int32,13,34969,186,,,0,144867
+D01_v2,Float32,10,34969,186,,,0,144867
+D01_v2,boolean,3,34969,186,,,0,144867
+D01_v2,Int16,1,34969,186,,,0,144867

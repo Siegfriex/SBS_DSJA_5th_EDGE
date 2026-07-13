@@ -1,0 +1,4 @@
+sample_id,row_n,registry_row_n,school_n,registry_school_n,train_n,registry_train_n,validation_n,registry_validation_n,test_n,registry_test_n,target_non_null_n,row_id_hash
+P4_E_STRUCTURE_READY,5600,5600,185,185,4080,4080,871,871,649,649,5600,3f7f76bc4e1a9680052b996b012021d36ccf3374fa182f0140a97d7c507f4192
+P4_P_STRUCTURE_READY,5674,5674,194,194,4129,4129,884,884,661,661,5674,6625f4fcb391ac2e7d9a3001be72425a2dd4f0f6e03ef4d8bbf3f577d08a8b2e
+P4_JOINT_STRUCTURE_READY,5600,5600,185,185,4080,4080,871,871,649,649,5600,3f7f76bc4e1a9680052b996b012021d36ccf3374fa182f0140a97d7c507f4192

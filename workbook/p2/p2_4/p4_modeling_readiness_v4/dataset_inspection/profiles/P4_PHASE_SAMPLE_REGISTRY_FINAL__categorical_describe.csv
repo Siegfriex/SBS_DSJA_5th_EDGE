@@ -1,0 +1,4 @@
+﻿column,dtype,count,missing_n,missing_pct,nunique,top,freq,top_pct,sample_values
+sample_id,str,12,0,0.0,12,P1_STRUCTURE_READY,1,8.333333333333332,P1_STRUCTURE_READY | P1_SELECTIVITY_READY | P2_STRUCTURE_READY | P2_SELECTIVITY_READY | P3_STRUCTURE_READY
+row_id_hash,str,12,0,0.0,6,31b2ad6cfd737f45fcc2428c7354dfb76929bceeb9a3bdfadcf66d4a1b09c9e6,3,25.0,31b2ad6cfd737f45fcc2428c7354dfb76929bceeb9a3bdfadcf66d4a1b09c9e6 | ba507054b4fdbf198835ab9031f2d96fa3ec543b389a9bbc821b9592183e6af1 | 864a2537e35494e94735bd777a3db0f6d78213fe4bffbabf458f36ed7fb6fb2f | ae80c878bd544fcc721bd6fda90bde287de48a7e7be79565c11b43d60ecbd229 | 5436cdb1b8b99f325aa93cc6f6f9a47e70c82140a8922022eeb2b7a9d03be3ea
+status,str,12,0,0.0,1,READY,12,100.0,READY

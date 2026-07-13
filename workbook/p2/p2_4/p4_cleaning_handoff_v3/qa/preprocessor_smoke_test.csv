@@ -1,0 +1,2 @@
+﻿preprocessor,target,sample_id,status,train_n,validation_n,test_n,numeric_input_n,categorical_input_n,transformed_feature_n,validation_r2_smoke,test_target_read,test_transform_shape
+train_only_linear_scaled,a_rate_pct,P2_SELECTIVITY_READY,PASS,2355,522,321,9,10,270,-0.04432472976914337,False,"(321, 270)"

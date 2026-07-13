@@ -1,0 +1,12 @@
+{
+  "python": "3.12.3",
+  "platform": "Linux-6.18.33.2-microsoft-standard-WSL2-x86_64-with-glibc2.39",
+  "pandas": "3.0.3",
+  "numpy": "2.5.0",
+  "statsmodels": "0.14.6",
+  "working_directory": "/home/sieg/projects-wsl/SBS_dataScience",
+  "git_commit": "5b1a3d54266d881a839ad9a3cec750da66e94bc7",
+  "execution_timestamp_utc": "2026-07-13T06:29:22.053715+00:00",
+  "notebook_path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/p2_grade_formation_v1_strict/p2_grade_formation_strict.ipynb",
+  "output_root": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/p2_grade_formation_v1_strict"
+}

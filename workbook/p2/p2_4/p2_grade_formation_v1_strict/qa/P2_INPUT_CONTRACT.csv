@@ -1,0 +1,8 @@
+input,path,exists,shape,sha256
+strict_d08,workbook/p2/p2_4/source_eda/strict_clean_v1/mart_department_model_base_2024_strict_drop.parquet,True,"(7592, 151)",5f56e375fd1c0474a5e55652859ae007e2f45becd6d3350ee4c82e21fab8df9b
+phase_sample_registry,workbook/p2/p2_4/p4_modeling_readiness_v4/artifacts/P4_PHASE_SAMPLE_REGISTRY_FINAL.csv,True,"(12, 12)",d518bab363399a31037590a2cb285f2a76e88318f5d25bf93ac365441f48e611
+phase_sample_membership,workbook/p2/p2_4/p4_modeling_readiness_v4/data/P4_PHASE_SAMPLE_MEMBERSHIP_FINAL.parquet,True,"(7592, 21)",c6504fd04c918ce33439462f7b277aa8ae4363f185ef93210fcc761f01e9fb46
+manual_feature_registry,workbook/p2/p2_4/source_eda/human_handoff_packet/03_MODEL_INPUT/manual_approved_feature_registry.csv,True,"(198, 11)",2cdb7797c4619c625fc6a171710970b7691446f4d62cae9accd2ab5c68f15051
+target_denylist,workbook/p2/p2_4/p4_modeling_readiness_v4/qa/P4_TARGET_SPECIFIC_DENYLIST_FINAL.csv,True,"(16, 3)",97435cb3a6b20b490ce2ce7e65160414517aee5b472f8ef8040d91de9f868895
+p4_readiness_status,workbook/p2/p2_4/p4_modeling_readiness_v4/reports/P4_FINAL_MODELING_READINESS.json,True,"(29, None)",fd8c33ddd2999a59f82a9c24f08a9db9073112c9aad5176b3f6e54659723f99a
+strict_target_counts,workbook/p2/p2_4/source_eda/strict_clean_v1/strict_target_sample_counts.csv,True,"(6, 7)",dde484367e1849b34a28b17e99381f59c04c94fb549d78390e720fbe3d905517

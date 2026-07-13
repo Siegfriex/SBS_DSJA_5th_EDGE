@@ -1,0 +1,12 @@
+﻿position,column,dtype,non_null_n,missing_n,missing_pct,nunique,unique_ratio,is_all_null,is_constant,is_identifier_candidate,top_value_share
+1,status,str,1,0,0.0,1,1.0,False,True,False,1.0
+2,outer_train_schools,int64,1,0,0.0,1,1.0,False,True,False,1.0
+3,outer_validation_schools,int64,1,0,0.0,1,1.0,False,True,True,1.0
+4,inner_folds,int64,1,0,0.0,1,1.0,False,True,False,1.0
+5,selected_alpha,float64,1,0,0.0,1,1.0,False,True,False,1.0
+6,raw_feature_count,int64,1,0,0.0,1,1.0,False,True,True,1.0
+7,encoded_dimensions,int64,1,0,0.0,1,1.0,False,True,False,1.0
+8,prediction_n,int64,1,0,0.0,1,1.0,False,True,False,1.0
+9,nan_prediction_n,int64,1,0,0.0,1,1.0,False,True,False,1.0
+10,outer_validation_mse,float64,1,0,0.0,1,1.0,False,True,True,1.0
+11,inner_score_json,str,1,0,0.0,1,1.0,False,True,False,1.0

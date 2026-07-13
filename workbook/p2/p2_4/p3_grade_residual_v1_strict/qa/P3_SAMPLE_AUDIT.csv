@@ -1,0 +1,3 @@
+sample_id,row_n,registry_row_n,school_n,registry_school_n,train_n,registry_train_n,validation_n,registry_validation_n,test_n,registry_test_n,target_non_null_n,row_id_hash
+P3_STRUCTURE_READY,7592,7592,197,197,5534,5534,1168,1168,890,890,7592,2e3fb7557ee894b50542591376211ec84817501cd7b4122ae529914192741af4
+P3_SELECTIVITY_READY,3119,3119,146,146,2293,2293,514,514,312,312,3119,1a0e36bb24d7e7f894897503bf0baf2c36f9b8710978b9fc7d4b818b242c4924

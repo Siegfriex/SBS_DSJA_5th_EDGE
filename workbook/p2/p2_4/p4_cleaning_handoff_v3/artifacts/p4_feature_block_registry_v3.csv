@@ -1,0 +1,14 @@
+﻿feature_block,column_count,model_default_active_n,target_candidate_n,denominator_n,review_required_n
+B,5,5,0,0,0
+C24,15,13,0,0,2
+DENOM,15,15,0,15,0
+EMP,2,0,2,0,2
+GOMS,28,26,0,0,0
+GRADE,3,0,3,0,3
+K,24,0,0,0,0
+OTHER,7,0,0,0,7
+POLICY,1,1,0,0,0
+PROG,6,0,6,0,6
+Q,4,3,1,0,0
+QUALITY,29,0,0,0,0
+S0,12,10,0,0,0

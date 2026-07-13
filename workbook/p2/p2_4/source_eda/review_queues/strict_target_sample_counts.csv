@@ -1,0 +1,7 @@
+﻿target_candidate,strict_target_keep_n,total_n,common_structural_drop_n,target_missing_drop_n,target_extreme_small_denom_drop_n,strict_target_drop_n
+a_rate_pct,7592,10242,2650,0,236,2650
+cd_rate_pct,7592,10242,2650,0,297,2650
+f_rate_pct,7592,10242,2650,0,683,2650
+graduate_school_progression_rate_pct,5674,10242,2650,2655,346,4568
+health_employment_rate_pct,5600,10242,2650,2765,190,4642
+selectivity_proxy_pct,3119,10242,2650,6505,0,7123

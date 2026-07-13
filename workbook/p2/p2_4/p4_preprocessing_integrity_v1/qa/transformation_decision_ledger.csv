@@ -1,0 +1,6 @@
+﻿rule_id,action,scope,reason
+NO_IMPUTATION,none,all data,preprocessing integrity only; imputation deferred to fold-local modeling
+NO_ENCODING,none,categorical variables,one-hot encoding is modeling preprocessing and is not run here
+DERIVE_PROPORTIONS,derive,rate pct columns,deterministic pct/100 with reconciliation
+DUPLICATE_CONFLICT_NOT_MODEL_ALLOWED,ledger exclusion from primary clean marts,conflict rows model_allowed=False,existing audited conflict ledger
+COUNT_READY_NOT_OBSERVED,mark not_observed,grade/retention/progression counts,required numerator/denominator columns are absent

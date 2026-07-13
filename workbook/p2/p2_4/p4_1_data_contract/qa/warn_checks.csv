@@ -1,0 +1,2 @@
+﻿check,actual,expected,status,audit_item,key,duplicate_rows
+D08 carried headcount UID composite duplicate,18,tracked as WARN only,WARN,,,

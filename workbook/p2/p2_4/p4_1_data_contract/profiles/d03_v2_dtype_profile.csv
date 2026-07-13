@@ -1,0 +1,11 @@
+﻿dataset,dtype,column_count,rows,columns,key_columns,key_duplicate_rows,full_duplicate_rows,missing_cells
+D03_v2,string,34,10242,108,,,0,115389
+D03_v2,Float32,22,10242,108,,,0,115389
+D03_v2,str,20,10242,108,,,0,115389
+D03_v2,Int32,13,10242,108,,,0,115389
+D03_v2,boolean,8,10242,108,,,0,115389
+D03_v2,bool,6,10242,108,,,0,115389
+D03_v2,Int16,2,10242,108,,,0,115389
+D03_v2,category,1,10242,108,,,0,115389
+D03_v2,float64,1,10242,108,,,0,115389
+D03_v2,int64,1,10242,108,,,0,115389

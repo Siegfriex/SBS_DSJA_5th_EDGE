@@ -1,0 +1,13 @@
+﻿sample_id,strict_target_sample_rule,before_conflict_exclusion_n,after_conflict_exclusion_n,excluded_conflict_n,excluded_conflict_outcome_row_ids,check,status,message
+P1_STRUCTURE_READY,strict_target_keep by target_candidate; no recovery of strict-dropped rows,5600.0,5600.0,0.0,,,,
+P1_SELECTIVITY_READY,strict_target_keep by target_candidate; no recovery of strict-dropped rows,2355.0,2355.0,0.0,,,,
+P2_STRUCTURE_READY,strict_target_keep by target_candidate; no recovery of strict-dropped rows,7592.0,7592.0,0.0,,,,
+P2_SELECTIVITY_READY,strict_target_keep by target_candidate; no recovery of strict-dropped rows,3119.0,3119.0,0.0,,,,
+P3_STRUCTURE_READY,strict_target_keep by target_candidate; no recovery of strict-dropped rows,7592.0,7592.0,0.0,,,,
+P3_SELECTIVITY_READY,strict_target_keep by target_candidate; no recovery of strict-dropped rows,3119.0,3119.0,0.0,,,,
+P4_E_STRUCTURE_READY,strict_target_keep by target_candidate; no recovery of strict-dropped rows,5600.0,5600.0,0.0,,,,
+P4_P_STRUCTURE_READY,strict_target_keep by target_candidate; no recovery of strict-dropped rows,5674.0,5674.0,0.0,,,,
+P4_JOINT_STRUCTURE_READY,strict_target_keep by target_candidate; no recovery of strict-dropped rows,5600.0,5600.0,0.0,,,,
+P4_E_SELECTIVITY_READY,strict_target_keep by target_candidate; no recovery of strict-dropped rows,2355.0,2355.0,0.0,,,,
+P4_P_SELECTIVITY_READY,strict_target_keep by target_candidate; no recovery of strict-dropped rows,2376.0,2376.0,0.0,,,,
+P4_JOINT_SELECTIVITY_READY,strict_target_keep by target_candidate; no recovery of strict-dropped rows,2355.0,2355.0,0.0,,,,

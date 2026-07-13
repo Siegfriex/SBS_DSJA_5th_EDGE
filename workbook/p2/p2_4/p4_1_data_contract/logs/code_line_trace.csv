@@ -1,0 +1,13 @@
+﻿agent,script,function_or_cell,script_line_start,script_line_end
+P2-G4 Local Agent 1,scripts/p2_g4_1_data_contract_local1.py,collect_manifest_artifacts,296,364
+P2-G4 Local Agent 1,scripts/p2_g4_1_data_contract_local1.py,load_candidate_tables,367,386
+P2-G4 Local Agent 1,scripts/p2_g4_1_data_contract_local1.py,gate1_d01_profile,397,509
+P2-G4 Local Agent 1,scripts/p2_g4_1_data_contract_local1.py,gate2_spine,534,657
+P2-G4 Local Agent 1,scripts/p2_g4_1_data_contract_local1.py,gate3_structure_matching,660,748
+P2-G4 Local Agent 1,scripts/p2_g4_1_data_contract_local1.py,gate4_major_mapping,751,831
+P2-G4 Local Agent 1,scripts/p2_g4_1_data_contract_local1.py,gate5_local2_lineage,834,900
+P2-G4 Local Agent 1,scripts/p2_g4_1_data_contract_local1.py,gate6_splits_samples,918,1017
+P2-G4 Local Agent 1,scripts/p2_g4_1_data_contract_local1.py,gate7_registries,1020,1075
+P2-G4 Local Agent 1,scripts/p2_g4_1_data_contract_local1.py,final_status,1279,1300
+P2-G4 Local Agent 1,scripts/p2_g4_1_data_contract_local1.py,write_data_cards,1078,1154
+P2-G4 Local Agent 1,scripts/p2_g4_1_data_contract_local1.py,write_logs,1157,1276

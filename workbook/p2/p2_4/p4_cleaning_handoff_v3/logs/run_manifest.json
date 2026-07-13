@@ -1,0 +1,13 @@
+{
+  "started_at": "2026-07-13T01:51:50.443051+00:00",
+  "finished_at": "2026-07-13T01:52:14.221424+00:00",
+  "python": "/home/sieg/projects-wsl/SBS_dataScience/.venv/bin/python",
+  "python_version": "3.12.3 (main, Jun 19 2026, 12:46:00) [GCC 13.3.0]",
+  "platform": "Linux-6.18.33.2-microsoft-standard-WSL2-x86_64-with-glibc2.39",
+  "cwd": "/home/sieg/projects-wsl/SBS_dataScience",
+  "source_notebook": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/p2_G4_source_parquet_csv_eda.ipynb",
+  "source_notebook_sha256": "be052fd39c0ba7979e5767885b81f614f511ce704478729c995c6cea0ec6117a",
+  "active_contract": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/p4_handoff_candidate/shared/mart_department_model_base_2024.parquet",
+  "active_contract_sha256": "598b68b31b5358dfd23839d4c138cc64838d05876b7791980b376c0453f29962",
+  "output_root": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/p4_cleaning_handoff_v3"
+}

@@ -1,0 +1,529 @@
+{
+  "created_at": "2026-07-13T06:30:02.319789+00:00",
+  "output_root": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/p2_grade_formation_v1_strict",
+  "notebook_path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/p2_grade_formation_v1_strict/p2_grade_formation_strict.ipynb",
+  "lineage_inputs": [
+    {
+      "path": "workbook/p2/p2_4/source_eda/strict_clean_v1/mart_department_model_base_2024_strict_drop.parquet",
+      "shape": [
+        7592,
+        151
+      ],
+      "size_bytes": 1565423,
+      "sha256": "5f56e375fd1c0474a5e55652859ae007e2f45becd6d3350ee4c82e21fab8df9b",
+      "mtime": "2026-07-13T11:10:43.122172"
+    },
+    {
+      "path": "workbook/p2/p2_4/p4_modeling_readiness_v4/artifacts/P4_PHASE_SAMPLE_REGISTRY_FINAL.csv",
+      "shape": [
+        12,
+        12
+      ],
+      "size_bytes": 1667,
+      "sha256": "d518bab363399a31037590a2cb285f2a76e88318f5d25bf93ac365441f48e611",
+      "mtime": "2026-07-13T14:06:03.312332"
+    },
+    {
+      "path": "workbook/p2/p2_4/p4_modeling_readiness_v4/data/P4_PHASE_SAMPLE_MEMBERSHIP_FINAL.parquet",
+      "shape": [
+        7592,
+        21
+      ],
+      "size_bytes": 198537,
+      "sha256": "c6504fd04c918ce33439462f7b277aa8ae4363f185ef93210fcc761f01e9fb46",
+      "mtime": "2026-07-13T14:06:03.317337"
+    },
+    {
+      "path": "workbook/p2/p2_4/source_eda/human_handoff_packet/03_MODEL_INPUT/manual_approved_feature_registry.csv",
+      "shape": [
+        198,
+        11
+      ],
+      "size_bytes": 29026,
+      "sha256": "2cdb7797c4619c625fc6a171710970b7691446f4d62cae9accd2ab5c68f15051",
+      "mtime": "2026-07-13T13:29:07.567287"
+    },
+    {
+      "path": "workbook/p2/p2_4/p4_modeling_readiness_v4/qa/P4_TARGET_SPECIFIC_DENYLIST_FINAL.csv",
+      "shape": [
+        16,
+        3
+      ],
+      "size_bytes": 1091,
+      "sha256": "97435cb3a6b20b490ce2ce7e65160414517aee5b472f8ef8040d91de9f868895",
+      "mtime": "2026-07-13T14:06:03.324084"
+    },
+    {
+      "path": "workbook/p2/p2_4/p4_modeling_readiness_v4/reports/P4_FINAL_MODELING_READINESS.json",
+      "shape": [
+        29,
+        null
+      ],
+      "size_bytes": 1323,
+      "sha256": "fd8c33ddd2999a59f82a9c24f08a9db9073112c9aad5176b3f6e54659723f99a",
+      "mtime": "2026-07-13T14:06:13.175691"
+    },
+    {
+      "path": "workbook/p2/p2_4/source_eda/strict_clean_v1/strict_target_sample_counts.csv",
+      "shape": [
+        6,
+        7
+      ],
+      "size_bytes": 440,
+      "sha256": "dde484367e1849b34a28b17e99381f59c04c94fb549d78390e720fbe3d905517",
+      "mtime": "2026-07-13T11:10:43.878331"
+    }
+  ],
+  "outputs": [
+    {
+      "path": "workbook/p2/p2_4/p2_grade_formation_v1_strict/artifacts/P2_BLOCK_INCREMENTAL_VALUE.csv",
+      "shape": [
+        6,
+        8
+      ],
+      "size_bytes": 540,
+      "sha256": "6e37f6858845fa06deeb7f2754165ed102694e45282a9b365fabf61e2ababf75",
+      "mtime": "2026-07-13T15:29:29.126278"
+    },
+    {
+      "path": "workbook/p2/p2_4/p2_grade_formation_v1_strict/artifacts/P2_FEATURE_SET_BY_SPEC.csv",
+      "shape": [
+        107,
+        3
+      ],
+      "size_bytes": 3886,
+      "sha256": "1cd5d51d1c7767db8c6c4f829d1125390f4221af04bc2a36341742e8a5b4c637",
+      "mtime": "2026-07-13T15:29:23.244325"
+    },
+    {
+      "path": "workbook/p2/p2_4/p2_grade_formation_v1_strict/artifacts/P2_FRACTIONAL_LOGIT_SENSITIVITY.csv",
+      "shape": [
+        38,
+        8
+      ],
+      "size_bytes": 5155,
+      "sha256": "3a0fc34658887da6a93dec7d3184004350df30af7c76f0565606c42b20e995a5",
+      "mtime": "2026-07-13T15:29:30.815700"
+    },
+    {
+      "path": "workbook/p2/p2_4/p2_grade_formation_v1_strict/artifacts/P2_GAM_SPLINE_COMPARISON.csv",
+      "shape": [
+        5,
+        9
+      ],
+      "size_bytes": 634,
+      "sha256": "56f05ada9de95b821f1ed58c4b24cbb2a296e1fcbb7d535069f23dfe158204c8",
+      "mtime": "2026-07-13T15:29:29.928957"
+    },
+    {
+      "path": "workbook/p2/p2_4/p2_grade_formation_v1_strict/artifacts/P2_GROUPK_FOLD_CV_METRICS.csv",
+      "shape": [
+        5,
+        5
+      ],
+      "size_bytes": 379,
+      "sha256": "d7ec5b7186455ffe3fc5b386b5a9bd31aad79e1684824817440aca8ea44e1e8f",
+      "mtime": "2026-07-13T15:29:29.115792"
+    },
+    {
+      "path": "workbook/p2/p2_4/p2_grade_formation_v1_strict/artifacts/P2_JOINT_WALD_TESTS.csv",
+      "shape": [
+        17,
+        5
+      ],
+      "size_bytes": 1049,
+      "sha256": "2039c45e4572d6dbd96640b54f937c5e373528b528a3ad35eb3bba505bfed93f",
+      "mtime": "2026-07-13T15:29:27.415498"
+    },
+    {
+      "path": "workbook/p2/p2_4/p2_grade_formation_v1_strict/artifacts/P2_LOCKED_TEST_PERFORMANCE.csv",
+      "shape": [
+        5,
+        7
+      ],
+      "size_bytes": 599,
+      "sha256": "88d9633f7f6be9b4772b4d8b896fb2041524d2f95c0a6f26e8c607ce50e2df5e",
+      "mtime": "2026-07-13T15:29:27.416135"
+    },
+    {
+      "path": "workbook/p2/p2_4/p2_grade_formation_v1_strict/artifacts/P2_MIXEDLM_VARIANCE_COMPONENTS.csv",
+      "shape": [
+        2,
+        9
+      ],
+      "size_bytes": 296,
+      "sha256": "c30551fb29c8261cbb92bba8e61dddee4abbb8d2cbc77d42476dddaa559fb1b9",
+      "mtime": "2026-07-13T15:29:30.814300"
+    },
+    {
+      "path": "workbook/p2/p2_4/p2_grade_formation_v1_strict/artifacts/P2_MODEL_SPEC_REGISTRY.csv",
+      "shape": [
+        12,
+        15
+      ],
+      "size_bytes": 1575,
+      "sha256": "528736618649cb09b5e26920908bea32871158c946e773c530c63c714a0ab371",
+      "mtime": "2026-07-13T15:29:27.409034"
+    },
+    {
+      "path": "workbook/p2/p2_4/p2_grade_formation_v1_strict/artifacts/P2_OLS_COEFFICIENTS.csv",
+      "shape": [
+        139,
+        16
+      ],
+      "size_bytes": 35040,
+      "sha256": "b0cd495756cd1877d467c8287d499fb4397c7643a0bcf32dfa2e07d7f2cc67ab",
+      "mtime": "2026-07-13T15:29:27.412071"
+    },
+    {
+      "path": "workbook/p2/p2_4/p2_grade_formation_v1_strict/artifacts/P2_SCHOOL_FE_SENSITIVITY.csv",
+      "shape": [
+        30,
+        7
+      ],
+      "size_bytes": 3798,
+      "sha256": "2873a97f1f7764f52f5c2f537158d29ccde8fbffff453706b3d393bb4c1fa332",
+      "mtime": "2026-07-13T15:29:30.815086"
+    },
+    {
+      "path": "workbook/p2/p2_4/p2_grade_formation_v1_strict/artifacts/P2_TARGET_PROFILE.csv",
+      "shape": [
+        2,
+        16
+      ],
+      "size_bytes": 497,
+      "sha256": "a4ef07a75af1cf039bdc7a912506fb9652ea76f8520d67651614d6fc28589401",
+      "mtime": "2026-07-13T15:29:23.022620"
+    },
+    {
+      "path": "workbook/p2/p2_4/p2_grade_formation_v1_strict/artifacts/P2_TO_P3_FEATURE_MATRIX_SCHEMA.json",
+      "shape": [
+        11
+      ],
+      "size_bytes": 2607,
+      "sha256": "2bbc7d64784b7b530d57bb6a2096d14cb11c5879f41a5208f9ff3b02f4bdddcb",
+      "mtime": "2026-07-13T15:29:30.855180"
+    },
+    {
+      "path": "workbook/p2/p2_4/p2_grade_formation_v1_strict/data/P2_SELECTIVITY_FRAME.parquet",
+      "shape": [
+        3119,
+        172
+      ],
+      "size_bytes": 802205,
+      "sha256": "a6fb657ddbdbb186c185dbf967e2f72c135ff69cdf06df13cf320396e02cc4e0",
+      "mtime": "2026-07-13T15:29:22.359835"
+    },
+    {
+      "path": "workbook/p2/p2_4/p2_grade_formation_v1_strict/data/P2_STRUCTURE_FRAME.parquet",
+      "shape": [
+        7592,
+        172
+      ],
+      "size_bytes": 1713435,
+      "sha256": "d26836c8545eae5a9ebaee4ab27a33db711ec549c4a479d18dc4b1bc171107d8",
+      "mtime": "2026-07-13T15:29:22.332953"
+    },
+    {
+      "path": "workbook/p2/p2_4/p2_grade_formation_v1_strict/figures/P2_GAM_P2-S4_log_enrolled_students.png",
+      "shape": null,
+      "size_bytes": 52793,
+      "sha256": "b68da05336aa62d717f4898472d36b28f313086e52f9b34c132467199dc01097",
+      "mtime": "2026-07-13T15:29:29.645553"
+    },
+    {
+      "path": "workbook/p2/p2_4/p2_grade_formation_v1_strict/figures/P2_GAM_P2-S4_log_graduates.png",
+      "shape": null,
+      "size_bytes": 53042,
+      "sha256": "14955d01d9b96382a483ced2ff2be72244d34acc00f469c6e69de9c520f95883",
+      "mtime": "2026-07-13T15:29:29.915687"
+    },
+    {
+      "path": "workbook/p2/p2_4/p2_grade_formation_v1_strict/figures/P2_GAM_P2-S4_student_faculty_ratio.png",
+      "shape": null,
+      "size_bytes": 47656,
+      "sha256": "df23a53b0f4ae0d6b6b7759623eb127259e4ddd1b8d0a17c66119090d082f26c",
+      "mtime": "2026-07-13T15:29:29.414568"
+    },
+    {
+      "path": "workbook/p2/p2_4/p2_grade_formation_v1_strict/logs/execution_environment.json",
+      "shape": [
+        10
+      ],
+      "size_bytes": 608,
+      "sha256": "cad53f9c53ea3879c89ffd4a339c6a9e360b96c937070e2da147f223826bce8a",
+      "mtime": "2026-07-13T15:29:22.054263"
+    },
+    {
+      "path": "workbook/p2/p2_4/p2_grade_formation_v1_strict/logs/execution_stderr.log",
+      "shape": null,
+      "size_bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "mtime": "2026-07-13T15:29:22.054538"
+    },
+    {
+      "path": "workbook/p2/p2_4/p2_grade_formation_v1_strict/logs/execution_stdout.log",
+      "shape": null,
+      "size_bytes": 31,
+      "sha256": "804d6c76f03e02a4cc8a76b6c3a8eba8352bc02f23d251ba02bacb2916ab553c",
+      "mtime": "2026-07-13T15:29:22.054538"
+    },
+    {
+      "path": "workbook/p2/p2_4/p2_grade_formation_v1_strict/p2_grade_formation_strict.ipynb",
+      "shape": null,
+      "size_bytes": 303969,
+      "sha256": "1e2588b6c0d41601b513f6a891acbe2079a97e40edcf09c771c760685b161bdd",
+      "mtime": "2026-07-13T15:29:31.904535"
+    },
+    {
+      "path": "workbook/p2/p2_4/p2_grade_formation_v1_strict/qa/P2_DESIGN_MATRIX_RANK.csv",
+      "shape": [
+        5,
+        10
+      ],
+      "size_bytes": 1376,
+      "sha256": "a59ea64238dc050a08c46c5b89a50fda7fff8ac48f66f452803f5359090af9a0",
+      "mtime": "2026-07-13T15:29:27.413969"
+    },
+    {
+      "path": "workbook/p2/p2_4/p2_grade_formation_v1_strict/qa/P2_FEATURE_CONTRACT_DIFF.csv",
+      "shape": [
+        119,
+        11
+      ],
+      "size_bytes": 11219,
+      "sha256": "5094d5e0b89d12e0a4e6bf97f64da4388deb53da480eb8e1a8cbc71c21f88924",
+      "mtime": "2026-07-13T15:29:22.465702"
+    },
+    {
+      "path": "workbook/p2/p2_4/p2_grade_formation_v1_strict/qa/P2_GROUPK_FOLD_CV_FOLDS.csv",
+      "shape": [
+        25,
+        5
+      ],
+      "size_bytes": 1337,
+      "sha256": "53f17e1608ca997675898367327e54cc7c6018221bf185153439c97984d342cd",
+      "mtime": "2026-07-13T15:29:29.116317"
+    },
+    {
+      "path": "workbook/p2/p2_4/p2_grade_formation_v1_strict/qa/P2_INPUT_CONTRACT.csv",
+      "shape": [
+        7,
+        5
+      ],
+      "size_bytes": 1355,
+      "sha256": "d95f503a34593db75fd72ad02468cc27bd64faeb09aca117667ba707a6e7e4d7",
+      "mtime": "2026-07-13T15:29:22.187567"
+    },
+    {
+      "path": "workbook/p2/p2_4/p2_grade_formation_v1_strict/qa/P2_LOG_DERIVATION_AUDIT.csv",
+      "shape": [
+        2,
+        5
+      ],
+      "size_bytes": 224,
+      "sha256": "988766da5af8b6810f0cd0c5322fa7fe76091e0955786f9052ca5263aaa0f17d",
+      "mtime": "2026-07-13T15:29:23.155730"
+    },
+    {
+      "path": "workbook/p2/p2_4/p2_grade_formation_v1_strict/qa/P2_MODEL_DIAGNOSTICS.csv",
+      "shape": [
+        12,
+        4
+      ],
+      "size_bytes": 568,
+      "sha256": "fc2b22be38cfc618378de9ee1984daebb42a047fa0ee842174134a57f7667f8c",
+      "mtime": "2026-07-13T15:29:30.853066"
+    },
+    {
+      "path": "workbook/p2/p2_4/p2_grade_formation_v1_strict/qa/P2_OUTLIER_LINEAGE_AUDIT.csv",
+      "shape": [
+        240,
+        25
+      ],
+      "size_bytes": 49110,
+      "sha256": "a351cdb303c6985d4310cda3ff9ef66bccebdd273b091a852f47955904fb934f",
+      "mtime": "2026-07-13T15:29:23.222968"
+    },
+    {
+      "path": "workbook/p2/p2_4/p2_grade_formation_v1_strict/qa/P2_SAMPLE_AUDIT.csv",
+      "shape": [
+        2,
+        17
+      ],
+      "size_bytes": 519,
+      "sha256": "095974caa3ca55499a07d0af381feb981a2e7f8a07c35191451e25913fbd6cdc",
+      "mtime": "2026-07-13T15:29:22.288514"
+    },
+    {
+      "path": "workbook/p2/p2_4/p2_grade_formation_v1_strict/qa/P2_SELECTIVITY_CATEGORICAL_DESCRIBE.csv",
+      "shape": [
+        93,
+        4
+      ],
+      "size_bytes": 3559,
+      "sha256": "46ba03a580f644c2237ab7440b6c729870eeca227e478d8e4e71809fb509eae5",
+      "mtime": "2026-07-13T15:29:23.004375"
+    },
+    {
+      "path": "workbook/p2/p2_4/p2_grade_formation_v1_strict/qa/P2_SELECTIVITY_MAJOR7_N.csv",
+      "shape": [
+        7,
+        3
+      ],
+      "size_bytes": 108,
+      "sha256": "5f495fc240847bba604d31dfcafa5fadfed8a0ea3f6692033e3258915e264cfe",
+      "mtime": "2026-07-13T15:29:23.005676"
+    },
+    {
+      "path": "workbook/p2/p2_4/p2_grade_formation_v1_strict/qa/P2_SELECTIVITY_NUMERIC_DESCRIBE.csv",
+      "shape": [
+        79,
+        13
+      ],
+      "size_bytes": 14009,
+      "sha256": "90c4b227292c756dbcba83abac21f613174e41405db9c39e5a05b7b3eb9ce68e",
+      "mtime": "2026-07-13T15:29:22.950080"
+    },
+    {
+      "path": "workbook/p2/p2_4/p2_grade_formation_v1_strict/qa/P2_SELECTIVITY_SCHOOL_N.csv",
+      "shape": [
+        146,
+        3
+      ],
+      "size_bytes": 3184,
+      "sha256": "0f650832afb4d1ac13b2295eee6407811118d3ff4989b3556dc30af06f37ff95",
+      "mtime": "2026-07-13T15:29:23.006000"
+    },
+    {
+      "path": "workbook/p2/p2_4/p2_grade_formation_v1_strict/qa/P2_SELECTIVITY_SELECTION_AUDIT.csv",
+      "shape": [
+        39,
+        9
+      ],
+      "size_bytes": 2697,
+      "sha256": "8b4e5993af91a6427b146f58a666075a503f9161b3ca2c9c3361880176be7d75",
+      "mtime": "2026-07-13T15:29:23.140070"
+    },
+    {
+      "path": "workbook/p2/p2_4/p2_grade_formation_v1_strict/qa/P2_SELECTIVITY_TOP_MISSING.csv",
+      "shape": [
+        50,
+        3
+      ],
+      "size_bytes": 1563,
+      "sha256": "e0950d2cb6c0df14c58513abbc4c88e417d3aefa5a87669e003a334e45ed1e2f",
+      "mtime": "2026-07-13T15:29:23.005377"
+    },
+    {
+      "path": "workbook/p2/p2_4/p2_grade_formation_v1_strict/qa/P2_STRUCTURE_CATEGORICAL_DESCRIBE.csv",
+      "shape": [
+        93,
+        4
+      ],
+      "size_bytes": 3591,
+      "sha256": "359b32bcb828171bb4aea026990177977f2de0f8386551d0a9e1b99ebfc78d96",
+      "mtime": "2026-07-13T15:29:22.716392"
+    },
+    {
+      "path": "workbook/p2/p2_4/p2_grade_formation_v1_strict/qa/P2_STRUCTURE_MAJOR7_N.csv",
+      "shape": [
+        7,
+        3
+      ],
+      "size_bytes": 116,
+      "sha256": "5df20ce8f415fc11b8a066ba6c3de1686dcf8c8af87d9392dbbd814a8c5162c0",
+      "mtime": "2026-07-13T15:29:22.717080"
+    },
+    {
+      "path": "workbook/p2/p2_4/p2_grade_formation_v1_strict/qa/P2_STRUCTURE_NUMERIC_DESCRIBE.csv",
+      "shape": [
+        79,
+        13
+      ],
+      "size_bytes": 13928,
+      "sha256": "9b0d7aa6befc085064346f7888344bf1a37cbcd0c9f7578ee9486505aad0eb02",
+      "mtime": "2026-07-13T15:29:22.627745"
+    },
+    {
+      "path": "workbook/p2/p2_4/p2_grade_formation_v1_strict/qa/P2_STRUCTURE_SCHOOL_N.csv",
+      "shape": [
+        197,
+        3
+      ],
+      "size_bytes": 4333,
+      "sha256": "3bf60386eb58687edbf19c37210ed031829db0cb26d805d1cce06578cf347d13",
+      "mtime": "2026-07-13T15:29:22.717371"
+    },
+    {
+      "path": "workbook/p2/p2_4/p2_grade_formation_v1_strict/qa/P2_STRUCTURE_TOP_MISSING.csv",
+      "shape": [
+        50,
+        3
+      ],
+      "size_bytes": 1594,
+      "sha256": "6c3d7b8e80b2901c0987c1cf694de48133614d5c4dd5ced1ec77013eb31a209e",
+      "mtime": "2026-07-13T15:29:22.716771"
+    },
+    {
+      "path": "workbook/p2/p2_4/p2_grade_formation_v1_strict/qa/P2_TEST_USAGE_AUDIT.csv",
+      "shape": [
+        5,
+        7
+      ],
+      "size_bytes": 599,
+      "sha256": "88d9633f7f6be9b4772b4d8b896fb2041524d2f95c0a6f26e8c607ce50e2df5e",
+      "mtime": "2026-07-13T15:29:27.416840"
+    },
+    {
+      "path": "workbook/p2/p2_4/p2_grade_formation_v1_strict/qa/P2_VIF_TOP30.csv",
+      "shape": [
+        117,
+        3
+      ],
+      "size_bytes": 5308,
+      "sha256": "8b6e21ad09aa62065f235ea2bac73ffd19668f41bef55b017aa7b235570850ea",
+      "mtime": "2026-07-13T15:29:27.414649"
+    },
+    {
+      "path": "workbook/p2/p2_4/p2_grade_formation_v1_strict/reports/P2_GRADE_FORMATION_REPORT.md",
+      "shape": null,
+      "size_bytes": 5978,
+      "sha256": "27d0721a7e33ec12005ef30e856f6316a1184d5bb545018b45aae9976093eee3",
+      "mtime": "2026-07-13T15:29:30.910055"
+    },
+    {
+      "path": "workbook/p2/p2_4/p2_grade_formation_v1_strict/reports/P2_GRADE_FORMATION_STATUS.json",
+      "shape": [
+        27
+      ],
+      "size_bytes": 2407,
+      "sha256": "c2e2d63c1863820c08efadf752701b8f7902f6a7fa959b57c6900c8024e4d658",
+      "mtime": "2026-07-13T15:29:30.910253"
+    },
+    {
+      "path": "workbook/p2/p2_4/p2_grade_formation_v1_strict/reports/P2_INTERPRETATION_GUARDRAILS.csv",
+      "shape": [
+        4,
+        2
+      ],
+      "size_bytes": 433,
+      "sha256": "3a9ceea50d858402abcc1ee34b8204c17c34503d841130eeb04c8f6799c5d91b",
+      "mtime": "2026-07-13T15:29:30.855817"
+    }
+  ],
+  "required_hashes": {
+    "strict_d08_sha256": "5f56e375fd1c0474a5e55652859ae007e2f45becd6d3350ee4c82e21fab8df9b",
+    "sample_registry_sha256": "d518bab363399a31037590a2cb285f2a76e88318f5d25bf93ac365441f48e611",
+    "structure_frame_sha256": "d26836c8545eae5a9ebaee4ab27a33db711ec549c4a479d18dc4b1bc171107d8",
+    "selectivity_frame_sha256": "a6fb657ddbdbb186c185dbf967e2f72c135ff69cdf06df13cf320396e02cc4e0",
+    "ols_coefficients_sha256": "b0cd495756cd1877d467c8287d499fb4397c7643a0bcf32dfa2e07d7f2cc67ab",
+    "handoff_sha256": "2bbc7d64784b7b530d57bb6a2096d14cb11c5879f41a5208f9ff3b02f4bdddcb",
+    "notebook_sha256": "1e2588b6c0d41601b513f6a891acbe2079a97e40edcf09c771c760685b161bdd"
+  },
+  "notebook_validation": {
+    "nbformat_valid": true,
+    "code_cells_compiled": true,
+    "error_outputs": 0
+  }
+}

@@ -1,0 +1,15 @@
+# Count Denominator Data Card
+
+COUNT_READY is evaluated independently from 2024 stored-rate model readiness.
+
+| readiness_id | ready | required_pair | candidate_columns | usable_n | status | reason |
+| --- | --- | --- | --- | --- | --- | --- |
+| GRADE_COUNT_READY | False | a_grade_students_n + graded_students_n | A비율\|학점포기제유무 | 0 | NOT_AVAILABLE | No source numerator/denominator pair is present in D08/D01/D02/D03/source registry. |
+| EMPLOYMENT_COUNT_READY | False | initial_employed_n + employment_eligible_n | employment_rate_pct\|goms_recent_employment_rate_pct\|goms_recent_self_employed_pct\|has_employment\|health_employment_rate_pct\|건보가입취업률\|전체취업률 | 0 | NOT_AVAILABLE | No source numerator/denominator pair is present in D08/D01/D02/D03/source registry. |
+| RETENTION_1_COUNT_READY | False | retained_1_n + initial_employed_n | employment_rate_pct\|goms_recent_employment_rate_pct\|goms_recent_self_employed_pct\|has_employment\|health_employment_rate_pct\|건보가입취업률\|전체취업률 | 0 | NOT_AVAILABLE | No source numerator/denominator pair is present in D08/D01/D02/D03/source registry. |
+| RETENTION_2_COUNT_READY | False | retained_2_n + initial_employed_n | employment_rate_pct\|goms_recent_employment_rate_pct\|goms_recent_self_employed_pct\|has_employment\|health_employment_rate_pct\|건보가입취업률\|전체취업률 | 0 | NOT_AVAILABLE | No source numerator/denominator pair is present in D08/D01/D02/D03/source registry. |
+| RETENTION_3_COUNT_READY | False | retained_3_n + initial_employed_n | employment_rate_pct\|goms_recent_employment_rate_pct\|goms_recent_self_employed_pct\|has_employment\|health_employment_rate_pct\|건보가입취업률\|전체취업률 | 0 | NOT_AVAILABLE | No source numerator/denominator pair is present in D08/D01/D02/D03/source registry. |
+| RETENTION_4_COUNT_READY | False | retained_4_n + initial_employed_n | employment_rate_pct\|goms_recent_employment_rate_pct\|goms_recent_self_employed_pct\|has_employment\|health_employment_rate_pct\|건보가입취업률\|전체취업률 | 0 | NOT_AVAILABLE | No source numerator/denominator pair is present in D08/D01/D02/D03/source registry. |
+| PROGRESSION_COUNT_READY | False | graduate_school_progressors_n + graduates_n | domestic_progression_rate_pct\|graduate_school_progression_rate_pct\|graduates_n\|has_progression\|is_undergraduate_candidate\|log_graduates\|overseas_progression_rate_pct\|progression_rate_pct\|university_progression_rate_pct\|vocational_college_progression_rate_pct\|국내진학률\|국외진학률\|대학원진학률\|대학진학률\|전문대학진학률\|전체진학률\|졸업자_남\|졸업자_박사_계\|졸업자_박사_남\|졸업자_박사_여\|졸업자_석사_계\|졸업자_석사_남\|졸업자_석사_여\|졸업자_전체\|졸업자_전체_여 | 0 | NOT_AVAILABLE | No source numerator/denominator pair is present in D08/D01/D02/D03/source registry. |
+| P4_2024_RATE_MODEL_READY | True | stored rates only | a_rate_pct\|health_employment_rate_pct\|graduate_school_progression_rate_pct | 10242 | READY | Stored 2024 rate targets/signals are available; count binomial readiness is independent. |
+| P4_COUNT_BINOMIAL_READY | False | phase-specific numerator and denominator counts |  | 0 | NOT_AVAILABLE | Count numerator/denominator pairs are not in active handoff. |

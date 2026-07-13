@@ -1,0 +1,8 @@
+﻿check,actual,expected,status
+bridge row count,10242,10242,PASS
+bridge outcome_row_id duplicate,0,0,PASS
+candidate_count>=2 auto-confirmed,0,0,PASS
+campus conflict auto-confirmed,0,0,PASS
+manual_pending included in high confidence,0,0,PASS
+unmatched rows deleted from D08,0,0,PASS
+structural_match_eligible formula mismatch,0,0,PASS

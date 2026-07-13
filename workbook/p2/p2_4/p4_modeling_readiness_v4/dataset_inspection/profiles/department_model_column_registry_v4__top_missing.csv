@@ -1,0 +1,4 @@
+﻿rank,position,column,dtype,non_null_n,missing_n,missing_pct,nunique,unique_ratio,is_all_null,is_constant,is_identifier_candidate,top_value_share
+1,10,derivation_formula,str,53,98,64.90066225165563,12,0.22641509433962265,False,False,False,0.6490066225165563
+2,13,valid_min,float64,92,59,39.0728476821192,41,0.44565217391304346,False,False,True,0.39072847682119205
+3,14,valid_max,float64,92,59,39.0728476821192,63,0.6847826086956522,False,False,True,0.39072847682119205

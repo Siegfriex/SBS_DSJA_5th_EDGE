@@ -1,0 +1,7 @@
+﻿check,actual,expected,status
+allowed major_group_7 code violations,0.0,0,PASS
+major high/medium rate >=97%,0.9860378832259324,>=0.97,PASS
+ambiguous+unknown <=3%,0.013962116774067565,<=0.03,PASS
+inherited D01 major mismatch,0.0,0,PASS
+major_context_eligible formula mismatch,0.0,0,PASS
+ambiguous/unknown rows included in major samples,0.0,0,PASS

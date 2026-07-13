@@ -1,0 +1,5 @@
+﻿issue_type,allowed_human_decisions,agent_default_decision,required_decision_detail,downstream_action_after_decision
+bridge_design_required,keep_D05_excluded|design_bridge_and_aggregate|drop_D05_scope,keep_D05_excluded,"design_bridge 선택 시 직무분류->계열/학과 매핑키, 집계 수준, 중복 처리 규칙을 적는다.",D05를 직접 조인하지 않고 bridge 설계가 승인된 뒤에만 feature로 편입한다.
+historical_2023_target_unavailable,exclude_2023_target|provide_2023_source|drop_2023_extension,exclude_2023_target,"provide_2023_source 선택 시 해당 타깃 컬럼을 채울 원천 파일과 산식, 결측 허용 기준을 적는다.",2023 확장 분석에서 해당 타깃을 제외하거나 원천 보강 후 2023 샘플을 재생성한다.
+missing_panel_source,keep_panel_blocked|build_panel_sources|drop_panel_track,keep_panel_blocked,"build_panel_sources 선택 시 panel parquet 생성 책임자, 파일 경로, key grain을 적는다.",panel/transition 모델링 트랙을 막거나 panel parquet 생성 후 readiness를 재실행한다.
+source_unavailable_all_null,exclude_from_features|rebuild_source|defer,exclude_from_features,"rebuild_source 선택 시 실제 원천 파일 경로, 생성식, 기대 non-null 기준을 적는다.","feature registry에서 해당 변수를 제외하거나, 원천 재생성 뒤 D08/registry를 재빌드한다."

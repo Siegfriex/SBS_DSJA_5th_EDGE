@@ -1,0 +1,3 @@
+﻿column,dtype,count,missing_n,missing_pct,nunique,top,freq,top_pct,sample_values
+key,str,24,0,0.0,24,overall_status,1,4.166666666666666,overall_status | P1_MODELING_STATUS | P2_S_MODELING_STATUS | P2_Q_MODELING_STATUS | P3_S_MODELING_STATUS
+value,object,24,0,0.0,11,READY_WITH_WARNINGS,12,50.0,READY_WITH_WARNINGS | READY | PENDING_TASK_MATRIX | NOT_AVAILABLE | False

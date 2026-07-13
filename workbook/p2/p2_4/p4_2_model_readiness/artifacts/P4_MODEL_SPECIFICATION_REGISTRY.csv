@@ -1,0 +1,6 @@
+﻿specification,feature_before_encoding_n,intended_use,test_policy
+SPEC_FE,30,diagnostic/model candidate,test transform only until final locked evaluation
+SPEC_CTX24,40,diagnostic/model candidate,test transform only until final locked evaluation
+SPEC_GOMS,53,diagnostic/model candidate,test transform only until final locked evaluation
+SPEC_INTERACTION,67,diagnostic/model candidate,test transform only until final locked evaluation
+SPEC_MAJOR_PLUS_CTX24_GOMS_DIAGNOSTIC,42,diagnostic/model candidate,test transform only until final locked evaluation

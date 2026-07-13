@@ -1,0 +1,12 @@
+﻿column,dtype,count,missing_n,missing_pct,nunique,top,freq,top_pct,sample_values
+model_id,str,250,0,0.0,18,P1_SELECTIVITY,17,6.800000000000001,P1_STRUCTURE | P1_SELECTIVITY | P2_S | P2_Q | P3_S
+phase,str,250,0,0.0,5,P4_E,84,33.6,P1 | P2 | P3 | P4_E | P4_P
+sample_id,str,250,0,0.0,12,P4_E_SELECTIVITY_READY,32,12.8,P1_STRUCTURE_READY | P1_SELECTIVITY_READY | P2_STRUCTURE_READY | P2_SELECTIVITY_READY | P3_STRUCTURE_READY
+target,str,250,0,0.0,3,health_employment_rate_pct,84,33.6,a_rate_pct | health_employment_rate_pct | graduate_school_progression_rate_pct
+feature,str,250,0,0.0,20,campus_branch,18,7.199999999999999,campus_branch | credit_forfeit_flag | degree_course | female_student_share_pct | fulltime_faculty_share_pct
+feature_block,str,250,0,0.0,8,S0,90,36.0,S0 | POLICY | B | PROG | EMP
+feature_role,str,250,0,0.0,2,control,234,93.60000000000001,control | grade_signal
+included_in_contract,bool,250,0,0.0,1,True,250,100.0,True
+reason,str,250,0,0.0,7,allowed_block_S0,90,36.0,allowed_block_S0 | allowed_block_POLICY | allowed_block_B | same_time_alignment_noncausal | allowed_block_Q
+source_decision,str,246,4,1.6,2,INCLUDE,234,93.60000000000001,INCLUDE | EXCLUDE
+source_decision_reason,str,246,4,1.6,5,allowed_S0_source_feature,90,36.0,allowed_S0_source_feature | allowed_POLICY_source_feature | allowed_B_source_feature | target_or_outcome_signal_only_phase_specific | allowed_Q_source_feature

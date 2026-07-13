@@ -1,0 +1,241 @@
+outcome_row_id,school_uid,school_name_raw,dept_name_raw,major_group_7,split,student_faculty_ratio,enrolled_students_n,fulltime_faculty_n,nonfulltime_faculty_n,numerator,denominator,zero_denominator,saved_ratio,recalculated_ratio,abs_diff,ratio_column,formula_note,tail,competition_ratio,applicants_n,recruitment_n,admission_yield_ratio,admits_n,admit_per_applicant_ratio
+OC2024_02854,SCH_65cc323b97e2,극동대학교,AI컴퓨터공학과,ENG,train,0.0,0,6,0,0,6,False,0.0,0.0,0.0,student_faculty_ratio,enrolled / (fulltime + nonfulltime faculty),low30,,,,,,
+OC2024_02871,SCH_65cc323b97e2,극동대학교,사회복지학과,SOC,train,0.0,0,4,31,0,35,False,0.0,0.0,0.0,student_faculty_ratio,enrolled / (fulltime + nonfulltime faculty),low30,,,,,,
+OC2024_02889,SCH_65cc323b97e2,극동대학교,해킹보안학과,ENG,train,0.0,0,4,14,0,18,False,0.0,0.0,0.0,student_faculty_ratio,enrolled / (fulltime + nonfulltime faculty),low30,,,,,,
+OC2024_03193,SCH_a1df1d1acdd7,대구가톨릭대학교,뷰티케어전공,ART,train,0.0,0,0,1,0,1,False,0.0,0.0,0.0,student_faculty_ratio,enrolled / (fulltime + nonfulltime faculty),low30,,,,,,
+OC2024_03251,SCH_a1df1d1acdd7,대구가톨릭대학교,창업경영학과,SOC,train,0.0,0,0,5,0,5,False,0.0,0.0,0.0,student_faculty_ratio,enrolled / (fulltime + nonfulltime faculty),low30,,,,,,
+OC2024_03424,SCH_bcfc477eeec3,대구한의대학교,부동산개발학과,SOC,train,0.0,0,0,5,0,5,False,0.0,0.0,0.0,student_faculty_ratio,enrolled / (fulltime + nonfulltime faculty),low30,,,,,,
+OC2024_03501,SCH_bcfc477eeec3,대구한의대학교,화장품학과,ENG,train,0.0,0,13,1,0,14,False,0.0,0.0,0.0,student_faculty_ratio,enrolled / (fulltime + nonfulltime faculty),low30,,,,,,
+OC2024_04118,SCH_d7cf6b01676b,동신대학교,관광경영학과,SOC,val,0.0,0,3,3,0,6,False,0.0,0.0,0.0,student_faculty_ratio,enrolled / (fulltime + nonfulltime faculty),low30,,,,,,
+OC2024_04166,SCH_d7cf6b01676b,동신대학교,호텔경영학과,SOC,val,0.0,0,3,1,0,4,False,0.0,0.0,0.0,student_faculty_ratio,enrolled / (fulltime + nonfulltime faculty),low30,,,,,,
+OC2024_04373,SCH_854da99e21e4,동의대학교,부동산개발경영학전공,SOC,train,0.0,0,3,8,0,11,False,0.0,0.0,0.0,student_faculty_ratio,enrolled / (fulltime + nonfulltime faculty),low30,,,,,,
+OC2024_04377,SCH_854da99e21e4,동의대학교,뷰티비즈니스학전공,ART,train,0.0,0,1,0,0,1,False,0.0,0.0,0.0,student_faculty_ratio,enrolled / (fulltime + nonfulltime faculty),low30,,,,,,
+OC2024_04571,SCH_1a904381ffad,목원대학교,만화・애니메이션과,ART,val,0.0,0,0,1,0,1,False,0.0,0.0,0.0,student_faculty_ratio,enrolled / (fulltime + nonfulltime faculty),low30,,,,,,
+OC2024_04629,SCH_1a904381ffad,목원대학교,피아노과,ART,val,0.0,0,0,1,0,1,False,0.0,0.0,0.0,student_faculty_ratio,enrolled / (fulltime + nonfulltime faculty),low30,,,,,,
+OC2024_04899,SCH_11d126dc8b6c,부산외국어대학교,국제개발협력전공,SOC,train,0.0,0,1,1,0,2,False,0.0,0.0,0.0,student_faculty_ratio,enrolled / (fulltime + nonfulltime faculty),low30,,,,,,
+OC2024_06790,SCH_8c0fe037a811,연세대학교,통합디자인학과,ART,train,0.0,0,7,27,0,34,False,0.0,0.0,0.0,student_faculty_ratio,enrolled / (fulltime + nonfulltime faculty),low30,,,,,,
+OC2024_08740,SCH_d439accb1575,초당대학교,글로벌비즈니스학과,SOC,test,0.0,0,2,0,0,2,False,0.0,0.0,0.0,student_faculty_ratio,enrolled / (fulltime + nonfulltime faculty),low30,,,,,,
+OC2024_08741,SCH_d439accb1575,초당대학교,글로벌실버케어학과,SOC,test,0.0,0,1,0,0,1,False,0.0,0.0,0.0,student_faculty_ratio,enrolled / (fulltime + nonfulltime faculty),low30,,,,,,
+OC2024_09706,SCH_81665d02aae8,한신대학교,AI・SW학,ENG,train,0.0,0,24,14,0,38,False,0.0,0.0,0.0,student_faculty_ratio,enrolled / (fulltime + nonfulltime faculty),low30,,,,,,
+OC2024_04036,SCH_27d295400b39,동서대학교,Global Business Administration학과,SOC,train,0.14285715,2,8,6,2,14,False,0.14285715,0.14285714285714285,6.3862119481505886e-09,student_faculty_ratio,enrolled / (fulltime + nonfulltime faculty),low30,,,,,,
+OC2024_07267,SCH_89ea5df237fb,울산대학교,의학전공,MED,test,0.18472064,162,649,228,162,877,False,0.18472064,0.1847206385404789,3.1263553690319412e-09,student_faculty_ratio,enrolled / (fulltime + nonfulltime faculty),low30,,,,,,
+OC2024_04955,SCH_11d126dc8b6c,부산외국어대학교,컴퓨터공학전공,ENG,train,0.2,2,3,7,2,10,False,0.2,0.2,2.980232227667301e-09,student_faculty_ratio,enrolled / (fulltime + nonfulltime faculty),low30,,,,,,
+OC2024_00222,SCH_f11056a7ff4e,가톨릭대학교_제2캠퍼스,의학과,MED,val,0.22026181,387,903,854,387,1757,False,0.22026181,0.22026180990324418,2.306838831067637e-09,student_faculty_ratio,enrolled / (fulltime + nonfulltime faculty),low30,,,,,,
+OC2024_04039,SCH_27d295400b39,동서대학교,Korean Language and Business학과,HUM,train,0.22222222,2,6,3,2,9,False,0.22222222,0.2222222222222222,1.6556845894299954e-09,student_faculty_ratio,enrolled / (fulltime + nonfulltime faculty),low30,,,,,,
+OC2024_03234,SCH_a1df1d1acdd7,대구가톨릭대학교,음악학과,ART,train,0.27142859,19,7,63,19,70,False,0.27142859,0.2714285714285714,1.3623918826421999e-08,student_faculty_ratio,enrolled / (fulltime + nonfulltime faculty),low30,,,,,,
+OC2024_05805,SCH_3475d2320701,성균관대학교,의학과,MED,val,0.2948929,179,496,111,179,607,False,0.2948929,0.29489291598023065,8.837591491950292e-09,student_faculty_ratio,enrolled / (fulltime + nonfulltime faculty),low30,,,,,,
+OC2024_08773,SCH_517472e0016a,추계예술대학교,국제학부(예술),ART,val,0.36,9,4,21,9,25,False,0.36,0.36,1.4305114759416426e-08,student_faculty_ratio,enrolled / (fulltime + nonfulltime faculty),low30,,,,,,
+OC2024_09170,SCH_65e8bd521a40,한국교원대학교,교육학과,EDU,train,0.47126436,41,19,68,41,87,False,0.47126436,0.47126436781609193,5.480886855480094e-09,student_faculty_ratio,enrolled / (fulltime + nonfulltime faculty),low30,,,,,,
+OC2024_04720,SCH_73f8f76d428c,배재대학교,피아노과,ART,train,0.47619048,10,0,21,10,21,False,0.47619048,0.47619047619047616,1.4191582353717536e-09,student_faculty_ratio,enrolled / (fulltime + nonfulltime faculty),low30,,,,,,
+OC2024_05404,SCH_165830225e7c,서울대학교,의학과,MED,train,0.5004177,599,446,751,599,1197,False,0.5004177,0.5004177109440268,1.5934408237328057e-09,student_faculty_ratio,enrolled / (fulltime + nonfulltime faculty),low30,,,,,,
+OC2024_01645,SCH_2bbd7221f5f5,고려대학교,의학과,MED,train,0.50541514,420,419,412,420,831,False,0.50541514,0.5054151624548736,2.0872384598469296e-08,student_faculty_ratio,enrolled / (fulltime + nonfulltime faculty),low30,,,,,,
+OC2024_09217,SCH_a25c104d5945,한국방송통신대학교,사회복지학과,SOC,train,1613.5,9681,6,0,9681,6,False,1613.5,1613.5,0.0,student_faculty_ratio,enrolled / (fulltime + nonfulltime faculty),high30,,,,,,
+OC2024_09228,SCH_a25c104d5945,한국방송통신대학교,컴퓨터과학과,ENG,train,1191.4546,13106,8,3,13106,11,False,1191.4546,1191.4545454545455,4.438920450411388e-05,student_faculty_ratio,enrolled / (fulltime + nonfulltime faculty),high30,,,,,,
+OC2024_09224,SCH_a25c104d5945,한국방송통신대학교,유아교육과,EDU,train,741.5714,10382,8,6,10382,14,False,741.5714,741.5714285714286,1.7438616055187595e-05,student_faculty_ratio,enrolled / (fulltime + nonfulltime faculty),high30,,,,,,
+OC2024_09206,SCH_a25c104d5945,한국방송통신대학교,경영학과,SOC,train,624.61536,8120,7,6,8120,13,False,624.61536,624.6153846153846,2.817007214162004e-05,student_faculty_ratio,enrolled / (fulltime + nonfulltime faculty),high30,,,,,,
+OC2024_09215,SCH_a25c104d5945,한국방송통신대학교,법학과,SOC,train,608.25,7299,8,4,7299,12,False,608.25,608.25,0.0,student_faculty_ratio,enrolled / (fulltime + nonfulltime faculty),high30,,,,,,
+OC2024_02845,SCH_e4fe3edfd86a,국민대학교,지능형반도체융합전자전공,ENG,test,572.0,572,0,1,572,1,False,572.0,572.0,0.0,student_faculty_ratio,enrolled / (fulltime + nonfulltime faculty),high30,,,,,,
+OC2024_09211,SCH_a25c104d5945,한국방송통신대학교,농학과,NAT,train,566.2308,7361,7,6,7361,13,False,566.2308,566.2307692307693,4.695011966759921e-06,student_faculty_ratio,enrolled / (fulltime + nonfulltime faculty),high30,,,,,,
+OC2024_09223,SCH_a25c104d5945,한국방송통신대학교,영어영문학과,HUM,train,531.75,8508,8,8,8508,16,False,531.75,531.75,0.0,student_faculty_ratio,enrolled / (fulltime + nonfulltime faculty),high30,,,,,,
+OC2024_09229,SCH_a25c104d5945,한국방송통신대학교,통계・데이터과학과,NAT,train,507.625,4061,6,2,4061,8,False,507.625,507.625,0.0,student_faculty_ratio,enrolled / (fulltime + nonfulltime faculty),high30,,,,,,
+OC2024_09227,SCH_a25c104d5945,한국방송통신대학교,청소년교육과,EDU,train,440.22223,3962,8,1,3962,9,False,440.22223,440.22222222222223,6.781684021461842e-06,student_faculty_ratio,enrolled / (fulltime + nonfulltime faculty),high30,,,,,,
+OC2024_09214,SCH_a25c104d5945,한국방송통신대학교,미디어영상학과,ART,train,397.8,3978,7,3,3978,10,False,397.8,397.8,1.2207031261368684e-05,student_faculty_ratio,enrolled / (fulltime + nonfulltime faculty),high30,,,,,,
+OC2024_09225,SCH_a25c104d5945,한국방송통신대학교,일본학과,HUM,train,373.1,3731,8,2,3731,10,False,373.1,373.1,6.1035156022626325e-06,student_faculty_ratio,enrolled / (fulltime + nonfulltime faculty),high30,,,,,,
+OC2024_09270,SCH_7d9bb36723df,한국외국어대학교,Global Business & Technology전공,SOC,train,373.0,373,0,1,373,1,False,373.0,373.0,0.0,student_faculty_ratio,enrolled / (fulltime + nonfulltime faculty),high30,,,,,,
+OC2024_03640,SCH_92c3fefdaf92,덕성여자대학교,과학기술대학,NAT,train,366.0,366,1,0,366,1,False,366.0,366.0,0.0,student_faculty_ratio,enrolled / (fulltime + nonfulltime faculty),high30,,,,,,
+OC2024_09209,SCH_a25c104d5945,한국방송통신대학교,교육학과,EDU,train,353.6154,4597,8,5,4597,13,False,353.6154,353.61538461538464,2.3475059833799605e-06,student_faculty_ratio,enrolled / (fulltime + nonfulltime faculty),high30,,,,,,
+OC2024_09216,SCH_a25c104d5945,한국방송통신대학교,보건환경학과,MED,train,349.4,3494,7,3,3494,10,False,349.4,349.4,6.1035156022626325e-06,student_faculty_ratio,enrolled / (fulltime + nonfulltime faculty),high30,,,,,,
+OC2024_09213,SCH_a25c104d5945,한국방송통신대학교,문화교양학과,HUM,train,347.0909,3818,6,5,3818,11,False,347.0909,347.09090909090907,2.7743253099288268e-06,student_faculty_ratio,enrolled / (fulltime + nonfulltime faculty),high30,,,,,,
+OC2024_03139,SCH_8444343be410,단국대학교_제2캠퍼스,환경자원경제학과,SOC,train,334.0,334,0,1,334,1,False,334.0,334.0,0.0,student_faculty_ratio,enrolled / (fulltime + nonfulltime faculty),high30,,,,,,
+OC2024_09210,SCH_a25c104d5945,한국방송통신대학교,국어국문학과,HUM,train,301.07693,3914,7,6,3914,13,False,301.07693,301.0769230769231,1.173753003058664e-05,student_faculty_ratio,enrolled / (fulltime + nonfulltime faculty),high30,,,,,,
+OC2024_05406,SCH_165830225e7c,서울대학교,의예과,MED,train,294.0,294,0,1,294,1,False,294.0,294.0,0.0,student_faculty_ratio,enrolled / (fulltime + nonfulltime faculty),high30,,,,,,
+OC2024_00421,SCH_193517d15ce2,강원대학교,회계학전공,SOC,train,279.0,558,0,2,558,2,False,279.0,279.0,0.0,student_faculty_ratio,enrolled / (fulltime + nonfulltime faculty),high30,,,,,,
+OC2024_09208,SCH_a25c104d5945,한국방송통신대학교,관광학과,SOC,train,269.66666,1618,6,0,1618,6,False,269.66666,269.6666666666667,1.0172526060614473e-05,student_faculty_ratio,enrolled / (fulltime + nonfulltime faculty),high30,,,,,,
+OC2024_09226,SCH_a25c104d5945,한국방송통신대학교,중어중문학과,HUM,train,263.6154,3427,8,5,3427,13,False,263.6154,263.61538461538464,2.3475059833799605e-06,student_faculty_ratio,enrolled / (fulltime + nonfulltime faculty),high30,,,,,,
+OC2024_08084,SCH_a10fc19c8426,전주대학교,경기지도학과,ART,train,251.0,251,0,1,251,1,False,251.0,251.0,0.0,student_faculty_ratio,enrolled / (fulltime + nonfulltime faculty),high30,,,,,,
+OC2024_09205,SCH_a25c104d5945,한국방송통신대학교,간호학과,MED,train,238.11111,2143,6,3,2143,9,False,238.11111,238.11111111111111,3.390842010730921e-06,student_faculty_ratio,enrolled / (fulltime + nonfulltime faculty),high30,,,,,,
+OC2024_05403,SCH_165830225e7c,서울대학교,응용생물화학부,NAT,train,230.0,230,0,1,230,1,False,230.0,230.0,0.0,student_faculty_ratio,enrolled / (fulltime + nonfulltime faculty),high30,,,,,,
+OC2024_07679,SCH_4f65591a9e9d,인천대학교,메카트로닉스공학과,ENG,train,228.0,228,0,1,228,1,False,228.0,228.0,0.0,student_faculty_ratio,enrolled / (fulltime + nonfulltime faculty),high30,,,,,,
+OC2024_05053,SCH_470c77611164,상명대학교_제2캠퍼스,디자인학부,ART,train,227.0,227,0,1,227,1,False,227.0,227.0,0.0,student_faculty_ratio,enrolled / (fulltime + nonfulltime faculty),high30,,,,,,
+OC2024_00128,SCH_f0a7062f14b7,가톨릭관동대학교,스포츠건강관리학전공,ART,test,220.0,220,0,1,220,1,False,220.0,220.0,0.0,student_faculty_ratio,enrolled / (fulltime + nonfulltime faculty),high30,,,,,,
+OC2024_04167,SCH_d7cf6b01676b,동신대학교,호텔관광경영학과,SOC,val,217.0,217,1,0,217,1,False,217.0,217.0,0.0,student_faculty_ratio,enrolled / (fulltime + nonfulltime faculty),high30,,,,,,
+OC2024_05482,SCH_893fafa4d1ec,서울신학대학교,IT융합소프트웨어학과,ENG,val,,,,,0,43,False,0.0,0.0,0.0,competition_ratio,applicants / recruitment,low30,0.0,0,43,,,
+OC2024_05483,SCH_893fafa4d1ec,서울신학대학교,관광경영학과,SOC,val,,,,,0,32,False,0.0,0.0,0.0,competition_ratio,applicants / recruitment,low30,0.0,0,32,,,
+OC2024_05484,SCH_893fafa4d1ec,서울신학대학교,교회음악과,ART,val,,,,,0,49,False,0.0,0.0,0.0,competition_ratio,applicants / recruitment,low30,0.0,0,49,,,
+OC2024_05485,SCH_893fafa4d1ec,서울신학대학교,글로벌경영학과,SOC,val,,,,,0,34,False,0.0,0.0,0.0,competition_ratio,applicants / recruitment,low30,0.0,0,34,,,
+OC2024_05488,SCH_893fafa4d1ec,서울신학대학교,사회복지학과,SOC,val,,,,,0,48,False,0.0,0.0,0.0,competition_ratio,applicants / recruitment,low30,0.0,0,48,,,
+OC2024_05489,SCH_893fafa4d1ec,서울신학대학교,신학과,HUM,val,,,,,0,53,False,0.0,0.0,0.0,competition_ratio,applicants / recruitment,low30,0.0,0,53,,,
+OC2024_05490,SCH_893fafa4d1ec,서울신학대학교,실용음악과,ART,val,,,,,0,37,False,0.0,0.0,0.0,competition_ratio,applicants / recruitment,low30,0.0,0,37,,,
+OC2024_05491,SCH_893fafa4d1ec,서울신학대학교,아동보육학과,EDU,val,,,,,0,47,False,0.0,0.0,0.0,competition_ratio,applicants / recruitment,low30,0.0,0,47,,,
+OC2024_05495,SCH_893fafa4d1ec,서울신학대학교,일본어문화콘텐츠학과,HUM,val,,,,,0,34,False,0.0,0.0,0.0,competition_ratio,applicants / recruitment,low30,0.0,0,34,,,
+OC2024_05497,SCH_893fafa4d1ec,서울신학대학교,중국언어문화콘텐츠학과,HUM,val,,,,,0,33,False,0.0,0.0,0.0,competition_ratio,applicants / recruitment,low30,0.0,0,33,,,
+OC2024_06698,SCH_8c0fe037a811,연세대학교,건축학(5년제),ENG,train,,,,,0,38,False,0.0,0.0,0.0,competition_ratio,applicants / recruitment,low30,0.0,0,38,,,
+OC2024_06920,SCH_d9b848d6dac0,영남대학교,음악학부,ART,train,,,,,0,94,False,0.0,0.0,0.0,competition_ratio,applicants / recruitment,low30,0.0,0,94,,,
+OC2024_06939,SCH_d9b848d6dac0,영남대학교,체육학부,ART,train,,,,,0,82,False,0.0,0.0,0.0,competition_ratio,applicants / recruitment,low30,0.0,0,82,,,
+OC2024_07026,SCH_514dc1eff29d,영산선학대학교,원불교학부,HUM,train,,,,,3,52,False,0.057692308,0.057692307692307696,2.865607889868116e-10,competition_ratio,applicants / recruitment,low30,0.057692308,3,52,,,
+OC2024_09227,SCH_a25c104d5945,한국방송통신대학교,청소년교육과,EDU,train,,,,,244,3113,False,0.07838098,0.07838098297462255,3.3770540391886428e-09,competition_ratio,applicants / recruitment,low30,0.07838098,244,3113,,,
+OC2024_09231,SCH_a25c104d5945,한국방송통신대학교,행정학과,SOC,train,,,,,146,1840,False,0.07934783,0.07934782608695652,4.535136016725616e-10,competition_ratio,applicants / recruitment,low30,0.07934783,146,1840,,,
+OC2024_09226,SCH_a25c104d5945,한국방송통신대학교,중어중문학과,HUM,train,,,,,300,3594,False,0.08347245,0.08347245409015025,1.0323842891679647e-09,competition_ratio,applicants / recruitment,low30,0.08347245,300,3594,,,
+OC2024_09212,SCH_a25c104d5945,한국방송통신대학교,무역학과,SOC,train,,,,,114,1143,False,0.09973753,0.09973753280839895,3.7155126197951915e-10,competition_ratio,applicants / recruitment,low30,0.09973753,114,1143,,,
+OC2024_09209,SCH_a25c104d5945,한국방송통신대학교,교육학과,EDU,train,,,,,317,2996,False,0.105807744,0.10580774365821095,3.083684835258893e-10,competition_ratio,applicants / recruitment,low30,0.105807744,317,2996,,,
+OC2024_09208,SCH_a25c104d5945,한국방송통신대학교,관광학과,SOC,train,,,,,220,1882,False,0.11689692,0.11689691817215728,1.733982096796538e-09,competition_ratio,applicants / recruitment,low30,0.11689692,220,1882,,,
+OC2024_09218,SCH_a25c104d5945,한국방송통신대학교,생활과학부,NAT,train,,,,,578,4815,False,0.120041534,0.12004153686396678,2.5593479419105947e-09,competition_ratio,applicants / recruitment,low30,0.120041534,578,4815,,,
+OC2024_09230,SCH_a25c104d5945,한국방송통신대학교,프랑스언어문화학과,HUM,train,,,,,130,801,False,0.16229713,0.16229712858926343,1.041779051913494e-09,competition_ratio,applicants / recruitment,low30,0.16229713,130,801,,,
+OC2024_09216,SCH_a25c104d5945,한국방송통신대학교,보건환경학과,MED,train,,,,,308,1689,False,0.18235642,0.18235642391947898,6.740371316649174e-09,competition_ratio,applicants / recruitment,low30,0.18235642,308,1689,,,
+OC2024_09206,SCH_a25c104d5945,한국방송통신대학교,경영학과,SOC,train,,,,,887,4674,False,0.18977322,0.1897732135216089,3.321996150384976e-09,competition_ratio,applicants / recruitment,low30,0.18977322,887,4674,,,
+OC2024_09210,SCH_a25c104d5945,한국방송통신대학교,국어국문학과,HUM,train,,,,,517,2685,False,0.19255121,0.1925512104283054,9.434628078786034e-11,competition_ratio,applicants / recruitment,low30,0.19255121,517,2685,,,
+OC2024_09223,SCH_a25c104d5945,한국방송통신대학교,영어영문학과,HUM,train,,,,,917,4750,False,0.19305263,0.19305263157894736,3.017877281408232e-09,competition_ratio,applicants / recruitment,low30,0.19305263,917,4750,,,
+OC2024_09207,SCH_a25c104d5945,한국방송통신대학교,경제학과,SOC,train,,,,,256,1284,False,0.19937694,0.19937694704049844,6.313264550028563e-09,competition_ratio,applicants / recruitment,low30,0.19937694,256,1284,,,
+OC2024_05250,SCH_55457aeb7b89,서경대학교,물류유통경영학과,SOC,train,,,,,6,30,False,0.2,0.2,2.980232227667301e-09,competition_ratio,applicants / recruitment,low30,0.2,6,30,,,
+OC2024_09225,SCH_a25c104d5945,한국방송통신대학교,일본학과,HUM,train,,,,,589,2899,False,0.2031735,0.20317350810624354,4.826557570281054e-09,competition_ratio,applicants / recruitment,low30,0.2031735,589,2899,,,
+OC2024_09215,SCH_a25c104d5945,한국방송통신대학교,법학과,SOC,train,,,,,736,3583,False,0.20541446,0.20541445715880546,1.9505008719278294e-09,competition_ratio,applicants / recruitment,low30,0.20541446,736,3583,,,
+OC2024_09251,SCH_f035f77086f3,한국예술종합학교,연기과,ART,test,,,,,5144,37,False,139.02702,139.02702702702703,3.711597344135953e-06,competition_ratio,applicants / recruitment,high30,139.02702,5144,37,,,
+OC2024_07784,SCH_4c7509a6907c,인하대학교,의예과,MED,train,,,,,6322,52,False,121.57692,121.57692307692308,3.521259017702505e-06,competition_ratio,applicants / recruitment,high30,121.57692,6322,52,,,
+OC2024_09904,SCH_7b0a75e6cfe5,한양대학교(ERICA)_분교,실용음악학과,ART,val,,,,,3009,33,False,91.181816,91.18181818181819,2.0807439682357654e-06,competition_ratio,applicants / recruitment,high30,91.181816,3009,33,,,
+OC2024_00203,SCH_f11056a7ff4e,가톨릭대학교,약학과,MED,val,,,,,2797,35,False,79.91428,79.91428571428571,1.961844304787519e-06,competition_ratio,applicants / recruitment,high30,79.91428,2797,35,,,
+OC2024_05264,SCH_55457aeb7b89,서경대학교,연기전공,ART,train,,,,,2278,30,False,75.933334,75.93333333333334,1.0172526003771054e-06,competition_ratio,applicants / recruitment,high30,75.933334,2278,30,,,
+OC2024_02817,SCH_e4fe3edfd86a,국민대학교,연극전공,ART,test,,,,,1537,21,False,73.190475,73.19047619047619,7.266090022994831e-07,competition_ratio,applicants / recruitment,high30,73.190475,1537,21,,,
+OC2024_05799,SCH_3475d2320701,성균관대학교,연기예술학과,ART,val,,,,,2109,29,False,72.72414,72.72413793103448,1.578495414378267e-06,competition_ratio,applicants / recruitment,high30,72.72414,2109,29,,,
+OC2024_06136,SCH_ecb0409798f9,수원대학교,연기예술,ART,train,,,,,1817,27,False,67.296295,67.29629629629629,1.1302806655066888e-06,competition_ratio,applicants / recruitment,high30,67.296295,1817,27,,,
+OC2024_06002,SCH_fa66da814b2a,세종대학교,영화예술학과,ART,val,,,,,2986,46,False,64.91304,64.91304347826087,3.3171280620081234e-06,competition_ratio,applicants / recruitment,high30,64.91304,2986,46,,,
+OC2024_03757,SCH_ade07091689d,동국대학교,약학과,MED,train,,,,,2211,35,False,63.17143,63.17142857142857,1.089913510554652e-07,competition_ratio,applicants / recruitment,high30,63.17143,2211,35,,,
+OC2024_00746,SCH_15cbf59a6287,경기대학교_제2캠퍼스,연기학과,ART,train,,,,,1576,25,False,63.04,63.04,9.155273446026513e-07,competition_ratio,applicants / recruitment,high30,63.04,1576,25,,,
+OC2024_00061,SCH_e46f0f22fdd7,가천대학교,연기예술학과,ART,train,,,,,1765,32,False,55.15625,55.15625,0.0,competition_ratio,applicants / recruitment,high30,55.15625,1765,32,,,
+OC2024_05839,SCH_f759dc0a8ccd,성신여자대학교,미디어영상연기학과,ART,train,,,,,1191,22,False,54.136364,54.13636363636363,3.4679066374110334e-07,competition_ratio,applicants / recruitment,high30,54.136364,1191,22,,,
+OC2024_05797,SCH_3475d2320701,성균관대학교,약학과,MED,val,,,,,4099,76,False,53.93421,53.93421052631579,1.204641243646165e-06,competition_ratio,applicants / recruitment,high30,53.93421,4099,76,,,
+OC2024_00223,SCH_f11056a7ff4e,가톨릭대학교_제2캠퍼스,의예과,MED,val,,,,,5084,96,False,52.958332,52.958333333333336,1.2715657575768091e-06,competition_ratio,applicants / recruitment,high30,52.958332,5084,96,,,
+OC2024_07201,SCH_08825e789819,울산과학기술원,반도체공학과,ENG,train,,,,,2074,40,False,51.85,51.85,1.5258789076710855e-06,competition_ratio,applicants / recruitment,high30,51.85,2074,40,,,
+OC2024_02821,SCH_e4fe3edfd86a,국민대학교,영화전공,ART,test,,,,,1029,20,False,51.45,51.45,7.629394502828291e-07,competition_ratio,applicants / recruitment,high30,51.45,1029,20,,,
+OC2024_08364,SCH_0a0f2352484e,조선대학교,자연과학계열,NAT,train,,,,,248,5,False,49.6,49.6,1.5258789076710855e-06,competition_ratio,applicants / recruitment,high30,49.6,248,5,,,
+OC2024_00083,SCH_e46f0f22fdd7,가천대학교,클라우드공학과,ENG,train,,,,,1393,30,False,46.433334,46.43333333333333,1.0172526074825328e-06,competition_ratio,applicants / recruitment,high30,46.433334,1393,30,,,
+OC2024_07663,SCH_4f65591a9e9d,인천대학교,공연예술학과,ART,train,,,,,1457,32,False,45.53125,45.53125,0.0,competition_ratio,applicants / recruitment,high30,45.53125,1457,32,,,
+OC2024_01059,SCH_215dd5d7b724,경북대학교,치의예과,MED,val,,,,,2726,60,False,45.433334,45.43333333333333,1.0172526074825328e-06,competition_ratio,applicants / recruitment,high30,45.433334,2726,60,,,
+OC2024_08481,SCH_c4deb88e2c2a,중앙대학교,약학부,MED,test,,,,,5891,131,False,44.969467,44.969465648854964,1.5142309734983428e-06,competition_ratio,applicants / recruitment,high30,44.969467,5891,131,,,
+OC2024_08256,SCH_e623714dcb5f,제주대학교,약학과,MED,val,,,,,1474,33,False,44.666668,44.666666666666664,1.2715657575768091e-06,competition_ratio,applicants / recruitment,high30,44.666668,1474,33,,,
+OC2024_09819,SCH_7b0a75e6cfe5,한양대학교,글로벌한국학전공,HUM,val,,,,,357,8,False,44.625,44.625,0.0,competition_ratio,applicants / recruitment,high30,44.625,357,8,,,
+OC2024_09239,SCH_f035f77086f3,한국예술종합학교,극작과,SOC,test,,,,,522,12,False,43.5,43.5,0.0,competition_ratio,applicants / recruitment,high30,43.5,522,12,,,
+OC2024_00744,SCH_15cbf59a6287,경기대학교_제2캠퍼스,애니메이션학과,ART,train,,,,,1120,27,False,41.48148,41.48148148148148,1.8367060903301535e-06,competition_ratio,applicants / recruitment,high30,41.48148,1120,27,,,
+OC2024_06333,SCH_8c30e6ac4fbd,숭실대학교,예술창작학부 영화예술전공,ART,train,,,,,1655,40,False,41.375,41.375,0.0,competition_ratio,applicants / recruitment,high30,41.375,1655,40,,,
+OC2024_09272,SCH_7d9bb36723df,한국외국어대학교,Language & AI융합전공 | Language & AI융합전공 | Language & AI융합학부,ENG,train,,,,,1997,49,False,40.7551,40.755102040816325,1.7905721847455425e-06,competition_ratio,applicants / recruitment,high30,40.7551,1997,49,,,
+OC2024_01405,SCH_c82adbe73aeb,경희대학교,PostModern음악학과,ART,train,,,,,1785,44,False,40.56818,40.56818181818182,1.733953304494662e-06,competition_ratio,applicants / recruitment,high30,40.56818,1785,44,,,
+OC2024_09866,SCH_7b0a75e6cfe5,한양대학교,철학과,HUM,val,,,,,756,19,False,39.789474,39.78947368421053,8.030941600623009e-07,competition_ratio,applicants / recruitment,high30,39.789474,756,19,,,
+OC2024_02994,SCH_bcc7b61d775b,남부대학교,한국어학과,HUM,train,,,,,0,1,False,0.0,0.0,0.0,admission_yield_ratio,admits / recruitment,low30,,,1,0.0,0,
+OC2024_06698,SCH_8c0fe037a811,연세대학교,건축학(5년제),ENG,train,,,,,0,38,False,0.0,0.0,0.0,admission_yield_ratio,admits / recruitment,low30,,,38,0.0,0,
+OC2024_06882,SCH_d9b848d6dac0,영남대학교,독일언어문화전공,HUM,train,,,,,0,30,False,0.0,0.0,0.0,admission_yield_ratio,admits / recruitment,low30,,,30,0.0,0,
+OC2024_06900,SCH_d9b848d6dac0,영남대학교,소프트웨어융합전공,ENG,train,,,,,0,63,False,0.0,0.0,0.0,admission_yield_ratio,admits / recruitment,low30,,,63,0.0,0,
+OC2024_06915,SCH_d9b848d6dac0,영남대학교,영어통번역전공,HUM,train,,,,,0,26,False,0.0,0.0,0.0,admission_yield_ratio,admits / recruitment,low30,,,26,0.0,0,
+OC2024_06922,SCH_d9b848d6dac0,영남대학교,응용중국어통번역전공,HUM,train,,,,,0,29,False,0.0,0.0,0.0,admission_yield_ratio,admits / recruitment,low30,,,29,0.0,0,
+OC2024_06930,SCH_d9b848d6dac0,영남대학교,정보통신공학전공,ENG,train,,,,,0,87,False,0.0,0.0,0.0,admission_yield_ratio,admits / recruitment,low30,,,87,0.0,0,
+OC2024_06947,SCH_d9b848d6dac0,영남대학교,프랑스어문전공,HUM,train,,,,,0,30,False,0.0,0.0,0.0,admission_yield_ratio,admits / recruitment,low30,,,30,0.0,0,
+OC2024_03381,SCH_74c22c88d3ac,대구예술대학교,디지털융합디자인전공,ART,train,,,,,1,46,False,0.02173913,0.021739130434782608,4.04922859131851e-10,admission_yield_ratio,admits / recruitment,low30,,,46,0.02173913,1,
+OC2024_02350,SCH_f52ce678f2b3,국립목포대학교,첨단운송기계시스템학과,ENG,train,,,,,1,30,False,0.033333335,0.03333333333333333,1.7384688064114862e-09,admission_yield_ratio,admits / recruitment,low30,,,30,0.033333335,1,
+OC2024_07026,SCH_514dc1eff29d,영산선학대학교,원불교학부,HUM,train,,,,,2,52,False,0.03846154,0.038461538461538464,1.4328039588118457e-09,admission_yield_ratio,admits / recruitment,low30,,,52,0.03846154,2,
+OC2024_09231,SCH_a25c104d5945,한국방송통신대학교,행정학과,SOC,train,,,,,110,1840,False,0.05978261,0.059782608695652176,6.47876571835404e-10,admission_yield_ratio,admits / recruitment,low30,,,1840,0.05978261,110,
+OC2024_09227,SCH_a25c104d5945,한국방송통신대학교,청소년교육과,EDU,train,,,,,190,3113,False,0.06103437,0.061034371988435594,1.7746885697111914e-09,admission_yield_ratio,admits / recruitment,low30,,,3113,0.06103437,190,
+OC2024_09226,SCH_a25c104d5945,한국방송통신대학교,중어중문학과,HUM,train,,,,,242,3594,False,0.06733444,0.06733444629938787,2.9686230973435812e-09,admission_yield_ratio,admits / recruitment,low30,,,3594,0.06733444,242,
+OC2024_09212,SCH_a25c104d5945,한국방송통신대학교,무역학과,SOC,train,,,,,91,1143,False,0.07961505,0.07961504811898512,9.451742721822143e-10,admission_yield_ratio,admits / recruitment,low30,,,1143,0.07961505,91,
+OC2024_09209,SCH_a25c104d5945,한국방송통신대학교,교육학과,EDU,train,,,,,249,2996,False,0.08311082,0.08311081441922563,2.3575268404130156e-09,admission_yield_ratio,admits / recruitment,low30,,,2996,0.08311082,249,
+OC2024_09208,SCH_a25c104d5945,한국방송통신대학교,관광학과,SOC,train,,,,,173,1882,False,0.09192348,0.09192348565356004,2.9374765120326884e-09,admission_yield_ratio,admits / recruitment,low30,,,1882,0.09192348,173,
+OC2024_09218,SCH_a25c104d5945,한국방송통신대학교,생활과학부,NAT,train,,,,,467,4815,False,0.09698857,0.09698857736240914,3.6920218687841455e-09,admission_yield_ratio,admits / recruitment,low30,,,4815,0.09698857,467,
+OC2024_04131,SCH_d7cf6b01676b,동신대학교,배터리공학과,ENG,val,,,,,3,30,False,0.1,0.1,1.4901161138336505e-09,admission_yield_ratio,admits / recruitment,low30,,,30,0.1,3,
+OC2024_06396,SCH_55c52db9765e,신경주대학교,호텔경영학과,SOC,train,,,,,4,40,False,0.1,0.1,1.4901161138336505e-09,admission_yield_ratio,admits / recruitment,low30,,,40,0.1,4,
+OC2024_09230,SCH_a25c104d5945,한국방송통신대학교,프랑스언어문화학과,HUM,train,,,,,89,801,False,0.11111111,0.1111111111111111,8.278422947149977e-10,admission_yield_ratio,admits / recruitment,low30,,,801,0.11111111,89,
+OC2024_09949,SCH_d9cc9b5ef13c,협성대학교,성악전공,ART,train,,,,,1,9,False,0.11111111,0.1111111111111111,8.278422947149977e-10,admission_yield_ratio,admits / recruitment,low30,,,9,0.11111111,1,
+OC2024_03389,SCH_74c22c88d3ac,대구예술대학교,애니웹툰학부,ART,train,,,,,16,133,False,0.120300755,0.12030075187969924,3.0250477678350762e-09,admission_yield_ratio,admits / recruitment,low30,,,133,0.120300755,16,
+OC2024_09216,SCH_a25c104d5945,한국방송통신대학교,보건환경학과,MED,train,,,,,237,1689,False,0.14031972,0.14031971580817051,4.1024511288068055e-09,admission_yield_ratio,admits / recruitment,low30,,,1689,0.14031972,237,
+OC2024_09206,SCH_a25c104d5945,한국방송통신대학교,경영학과,SOC,train,,,,,683,4674,False,0.1461275,0.14612751390671802,6.816149478172662e-09,admission_yield_ratio,admits / recruitment,low30,,,4674,0.1461275,683,
+OC2024_09223,SCH_a25c104d5945,한국방송통신대학교,영어영문학과,HUM,train,,,,,705,4750,False,0.14842105,0.14842105263157895,3.513536961374797e-09,admission_yield_ratio,admits / recruitment,low30,,,4750,0.14842105,705,
+OC2024_01926,SCH_fa153e645e1e,광주여자대학교,식품영양학과,NAT,train,,,,,3,20,False,0.15,0.15,5.960464483090178e-09,admission_yield_ratio,admits / recruitment,low30,,,20,0.15,3,
+OC2024_08748,SCH_d439accb1575,초당대학교,소방행정학과,SOC,test,,,,,3,20,False,0.15,0.15,5.960464483090178e-09,admission_yield_ratio,admits / recruitment,low30,,,20,0.15,3,
+OC2024_10017,SCH_3a9f2002a350,호남대학교,정보통신공학과,ENG,val,,,,,3,20,False,0.15,0.15,5.960464483090178e-09,admission_yield_ratio,admits / recruitment,low30,,,20,0.15,3,
+OC2024_09207,SCH_a25c104d5945,한국방송통신대학교,경제학과,SOC,train,,,,,198,1284,False,0.1542056,0.1542056074766355,2.088947820277909e-09,admission_yield_ratio,admits / recruitment,low30,,,1284,0.1542056,198,
+OC2024_08364,SCH_0a0f2352484e,조선대학교,자연과학계열,NAT,train,,,,,72,5,False,14.4,14.4,3.8146972691777137e-07,admission_yield_ratio,admits / recruitment,high30,,,5,14.4,72,
+OC2024_06917,SCH_d9b848d6dac0,영남대학교,유럽언어문화학부,HUM,train,,,,,67,7,False,9.571428,9.571428571428571,2.7247837586230617e-07,admission_yield_ratio,admits / recruitment,high30,,,7,9.571428,67,
+OC2024_09984,SCH_3a9f2002a350,호남대학교,문화예술체육대학,ART,val,,,,,58,16,False,3.625,3.625,0.0,admission_yield_ratio,admits / recruitment,high30,,,16,3.625,58,
+OC2024_07262,SCH_89ea5df237fb,울산대학교,음악학부,ART,test,,,,,8,3,False,2.6666667,2.6666666666666665,7.947285984855057e-08,admission_yield_ratio,admits / recruitment,high30,,,3,2.6666667,8,
+OC2024_09958,SCH_d9cc9b5ef13c,협성대학교,실용음악전공,ART,train,,,,,28,13,False,2.1538463,2.1538461538461537,1.1003934430320328e-07,admission_yield_ratio,admits / recruitment,high30,,,13,2.1538463,28,
+OC2024_02764,SCH_ed1a93cb5155,국립한밭대학교,회계세무부동산학과,SOC,train,,,,,40,20,False,2.0,2.0,0.0,admission_yield_ratio,admits / recruitment,high30,,,20,2.0,40,
+OC2024_08612,SCH_b8901e036949,청운대학교,경영학과,SOC,test,,,,,98,49,False,2.0,2.0,0.0,admission_yield_ratio,admits / recruitment,high30,,,49,2.0,98,
+OC2024_06697,SCH_8c0fe037a811,연세대학교,건축공학(4년제),ENG,train,,,,,79,42,False,1.8809524,1.880952380952381,2.2706531321858847e-08,admission_yield_ratio,admits / recruitment,high30,,,42,1.8809524,79,
+OC2024_04563,SCH_1a904381ffad,목원대학교,글로벌비즈니스학과,SOC,val,,,,,44,24,False,1.8333334,1.8333333333333333,3.9736429924275285e-08,admission_yield_ratio,admits / recruitment,high30,,,24,1.8333334,44,
+OC2024_02752,SCH_ed1a93cb5155,국립한밭대학교,전기시스템공학과,ENG,train,,,,,19,11,False,1.7272727,1.7272727272727273,2.1674416261774354e-08,admission_yield_ratio,admits / recruitment,high30,,,11,1.7272727,19,
+OC2024_05232,SCH_55457aeb7b89,서경대학교,광고홍보영상학과,SOC,train,,,,,45,30,False,1.5,1.5,0.0,admission_yield_ratio,admits / recruitment,high30,,,30,1.5,45,
+OC2024_06622,SCH_c417cf41afe0,아주대학교,문화콘텐츠학과,HUM,test,,,,,45,30,False,1.5,1.5,0.0,admission_yield_ratio,admits / recruitment,high30,,,30,1.5,45,
+OC2024_03747,SCH_ade07091689d,동국대학교,사회언론정보학부 미디어커뮤니케이션학전공,SOC,train,,,,,83,56,False,1.4821428,1.4821428571428572,5.108969558520471e-08,admission_yield_ratio,admits / recruitment,high30,,,56,1.4821428,83,
+OC2024_05226,SCH_55457aeb7b89,서경대학교,경영학부,SOC,train,,,,,142,96,False,1.4791666,1.4791666666666667,3.9736429924275285e-08,admission_yield_ratio,admits / recruitment,high30,,,96,1.4791666,142,
+OC2024_09122,SCH_2b2d636286f0,한경국립대학교,토목공학전공,ENG,test,,,,,31,21,False,1.4761904,1.4761904761904763,2.838316426334586e-08,admission_yield_ratio,admits / recruitment,high30,,,21,1.4761904,31,
+OC2024_01872,SCH_6a3a99a48782,광주대학교,보건행정학부,SOC,train,,,,,66,45,False,1.4666667,1.4666666666666666,3.178914398382915e-08,admission_yield_ratio,admits / recruitment,high30,,,45,1.4666667,66,
+OC2024_02748,SCH_ed1a93cb5155,국립한밭대학교,응용소프트웨어학과,ENG,train,,,,,17,12,False,1.4166666,1.4166666666666667,3.9736429924275285e-08,admission_yield_ratio,admits / recruitment,high30,,,12,1.4166666,17,
+OC2024_08476,SCH_c4deb88e2c2a,중앙대학교,생명과학과,NAT,test,,,,,65,47,False,1.3829787,1.3829787234042554,4.565462163874656e-08,admission_yield_ratio,admits / recruitment,high30,,,47,1.3829787,65,
+OC2024_08632,SCH_b8901e036949,청운대학교,컴퓨터공학과,ENG,test,,,,,69,50,False,1.38,1.38,4.76837147544984e-09,admission_yield_ratio,admits / recruitment,high30,,,50,1.38,69,
+OC2024_08763,SCH_5d6eedf02da5,총신대학교,사회복지학과,SOC,train,,,,,45,33,False,1.3636364,1.3636363636363635,1.083720824190948e-08,admission_yield_ratio,admits / recruitment,high30,,,33,1.3636364,45,
+OC2024_03764,SCH_ade07091689d,동국대학교,영화영상학과,ART,train,,,,,64,47,False,1.3617021,1.3617021276595744,4.3118253634233383e-08,admission_yield_ratio,admits / recruitment,high30,,,47,1.3617021,64,
+OC2024_01857,SCH_6a3a99a48782,광주대학교,경영학과,SOC,train,,,,,42,31,False,1.3548387,1.3548387096774193,1.922730485937052e-08,admission_yield_ratio,admits / recruitment,high30,,,31,1.3548387,42,
+OC2024_03723,SCH_ade07091689d,동국대학교,광고홍보학과,SOC,train,,,,,78,58,False,1.3448275,1.3448275862068966,5.343864706297552e-08,admission_yield_ratio,admits / recruitment,high30,,,58,1.3448275,78,
+OC2024_01904,SCH_6a3a99a48782,광주대학교,한국어교육과,EDU,train,,,,,4,3,False,1.3333334,1.3333333333333333,3.9736429924275285e-08,admission_yield_ratio,admits / recruitment,high30,,,3,1.3333334,4,
+OC2024_08497,SCH_c4deb88e2c2a,중앙대학교,화학과,NAT,test,,,,,49,37,False,1.3243244,1.3243243243243243,4.510621764985956e-08,admission_yield_ratio,admits / recruitment,high30,,,37,1.3243244,49,
+OC2024_08489,SCH_c4deb88e2c2a,중앙대학교,응용통계학과,NAT,test,,,,,46,35,False,1.3142858,1.3142857142857143,4.0871756423754846e-08,admission_yield_ratio,admits / recruitment,high30,,,35,1.3142858,46,
+OC2024_02732,SCH_ed1a93cb5155,국립한밭대학교,기계소재융합시스템공학과,ENG,train,,,,,26,20,False,1.3,1.3,4.768371586472142e-08,admission_yield_ratio,admits / recruitment,high30,,,20,1.3,26,
+OC2024_05595,SCH_d0774c2b8283,서원대학교,웹툰콘텐츠학과,ART,train,,,,,51,40,False,1.275,1.275,2.3841857821338408e-08,admission_yield_ratio,admits / recruitment,high30,,,40,1.275,51,
+OC2024_07201,SCH_08825e789819,울산과학기술원,반도체공학과,ENG,train,,,,,51,40,False,1.275,1.275,2.3841857821338408e-08,admission_yield_ratio,admits / recruitment,high30,,,40,1.275,51,
+OC2024_06617,SCH_c417cf41afe0,아주대학교,국어국문학과,HUM,test,,,,,42,33,False,1.2727273,1.2727272727272727,2.1674416261774354e-08,admission_yield_ratio,admits / recruitment,high30,,,33,1.2727273,42,
+OC2024_00669,SCH_708f797d9c02,건양대학교_제2캠퍼스,의학과,MED,test,,,,,0,1549,False,0.0,0.0,0.0,admit_per_applicant_ratio,admits / applicants,low30,,1549,,,0,0.0
+OC2024_02994,SCH_bcc7b61d775b,남부대학교,한국어학과,HUM,train,,,,,0,3,False,0.0,0.0,0.0,admit_per_applicant_ratio,admits / applicants,low30,,3,,,0,0.0
+OC2024_04736,SCH_31969f1e134f,백석대학교,문화예술학부 피아노전공,ART,train,,,,,0,1,False,0.0,0.0,0.0,admit_per_applicant_ratio,admits / applicants,low30,,1,,,0,0.0
+OC2024_06868,SCH_d9b848d6dac0,영남대학교,관현악전공,ART,train,,,,,0,72,False,0.0,0.0,0.0,admit_per_applicant_ratio,admits / applicants,low30,,72,,,0,0.0
+OC2024_06870,SCH_d9b848d6dac0,영남대학교,국악및작곡전공,ART,train,,,,,0,69,False,0.0,0.0,0.0,admit_per_applicant_ratio,admits / applicants,low30,,69,,,0,0.0
+OC2024_06882,SCH_d9b848d6dac0,영남대학교,독일언어문화전공,HUM,train,,,,,0,162,False,0.0,0.0,0.0,admit_per_applicant_ratio,admits / applicants,low30,,162,,,0,0.0
+OC2024_06885,SCH_d9b848d6dac0,영남대학교,무용학전공,ART,train,,,,,0,66,False,0.0,0.0,0.0,admit_per_applicant_ratio,admits / applicants,low30,,66,,,0,0.0
+OC2024_06898,SCH_d9b848d6dac0,영남대학교,성악전공,ART,train,,,,,0,45,False,0.0,0.0,0.0,admit_per_applicant_ratio,admits / applicants,low30,,45,,,0,0.0
+OC2024_06900,SCH_d9b848d6dac0,영남대학교,소프트웨어융합전공,ENG,train,,,,,0,363,False,0.0,0.0,0.0,admit_per_applicant_ratio,admits / applicants,low30,,363,,,0,0.0
+OC2024_06915,SCH_d9b848d6dac0,영남대학교,영어통번역전공,HUM,train,,,,,0,117,False,0.0,0.0,0.0,admit_per_applicant_ratio,admits / applicants,low30,,117,,,0,0.0
+OC2024_06922,SCH_d9b848d6dac0,영남대학교,응용중국어통번역전공,HUM,train,,,,,0,209,False,0.0,0.0,0.0,admit_per_applicant_ratio,admits / applicants,low30,,209,,,0,0.0
+OC2024_06930,SCH_d9b848d6dac0,영남대학교,정보통신공학전공,ENG,train,,,,,0,399,False,0.0,0.0,0.0,admit_per_applicant_ratio,admits / applicants,low30,,399,,,0,0.0
+OC2024_06940,SCH_d9b848d6dac0,영남대학교,체육학전공,ART,train,,,,,0,440,False,0.0,0.0,0.0,admit_per_applicant_ratio,admits / applicants,low30,,440,,,0,0.0
+OC2024_06947,SCH_d9b848d6dac0,영남대학교,프랑스어문전공,HUM,train,,,,,0,147,False,0.0,0.0,0.0,admit_per_applicant_ratio,admits / applicants,low30,,147,,,0,0.0
+OC2024_06948,SCH_d9b848d6dac0,영남대학교,피아노전공,ART,train,,,,,0,86,False,0.0,0.0,0.0,admit_per_applicant_ratio,admits / applicants,low30,,86,,,0,0.0
+OC2024_09205,SCH_a25c104d5945,한국방송통신대학교,간호학과,MED,train,,,,,0,665,False,0.0,0.0,0.0,admit_per_applicant_ratio,admits / applicants,low30,,665,,,0,0.0
+OC2024_09220,SCH_a25c104d5945,한국방송통신대학교,생활과학부 식품영양학전공,NAT,train,,,,,0,659,False,0.0,0.0,0.0,admit_per_applicant_ratio,admits / applicants,low30,,659,,,0,0.0
+OC2024_09311,SCH_7d9bb36723df,한국외국어대학교,사학과,HUM,train,,,,,0,261,False,0.0,0.0,0.0,admit_per_applicant_ratio,admits / applicants,low30,,261,,,0,0.0
+OC2024_09323,SCH_7d9bb36723df,한국외국어대학교,언어인지과학과,HUM,train,,,,,0,262,False,0.0,0.0,0.0,admit_per_applicant_ratio,admits / applicants,low30,,262,,,0,0.0
+OC2024_09355,SCH_7d9bb36723df,한국외국어대학교,철학과,HUM,train,,,,,0,234,False,0.0,0.0,0.0,admit_per_applicant_ratio,admits / applicants,low30,,234,,,0,0.0
+OC2024_09251,SCH_f035f77086f3,한국예술종합학교,연기과,ART,test,,,,,38,5144,False,0.0073872474,0.007387247278382581,1.2383838312451934e-10,admit_per_applicant_ratio,admits / applicants,low30,,5144,,,38,0.0073872474
+OC2024_07784,SCH_4c7509a6907c,인하대학교,의예과,MED,train,,,,,52,6322,False,0.008225245,0.008225245175577349,2.2568588838034476e-10,admit_per_applicant_ratio,admits / applicants,low30,,6322,,,52,0.008225245
+OC2024_09904,SCH_7b0a75e6cfe5,한양대학교(ERICA)_분교,실용음악학과,ART,val,,,,,33,3009,False,0.010967099,0.010967098703888335,4.0391357966629293e-10,admit_per_applicant_ratio,admits / applicants,low30,,3009,,,33,0.010967099
+OC2024_00203,SCH_f11056a7ff4e,가톨릭대학교,약학과,MED,val,,,,,35,2797,False,0.0125134075,0.012513407222023596,2.8402508296665463e-10,admit_per_applicant_ratio,admits / applicants,low30,,2797,,,35,0.0125134075
+OC2024_05264,SCH_55457aeb7b89,서경대학교,연기전공,ART,train,,,,,30,2278,False,0.013169447,0.013169446883230905,7.686068621837183e-11,admit_per_applicant_ratio,admits / applicants,low30,,2278,,,30,0.013169447
+OC2024_05799,SCH_3475d2320701,성균관대학교,연기예술학과,ART,val,,,,,28,2109,False,0.0132764345,0.013276434329065908,1.744297848521592e-10,admit_per_applicant_ratio,admits / applicants,low30,,2109,,,28,0.0132764345
+OC2024_02817,SCH_e4fe3edfd86a,국민대학교,연극전공,ART,test,,,,,21,1537,False,0.01366298,0.013662979830839297,1.0725055045457399e-10,admit_per_applicant_ratio,admits / applicants,low30,,1537,,,21,0.01366298
+OC2024_06136,SCH_ecb0409798f9,수원대학교,연기예술,ART,train,,,,,27,1817,False,0.014859659,0.014859658778205834,1.1225076770871034e-10,admit_per_applicant_ratio,admits / applicants,low30,,1817,,,27,0.014859659
+OC2024_06002,SCH_fa66da814b2a,세종대학교,영화예술학과,ART,val,,,,,46,2986,False,0.015405225,0.015405224380442064,2.5575502653196747e-10,admit_per_applicant_ratio,admits / applicants,low30,,2986,,,46,0.015405225
+OC2024_03757,SCH_ade07091689d,동국대학교,약학과,MED,train,,,,,35,2211,False,0.015829941,0.015829941203075532,5.475890227368829e-11,admit_per_applicant_ratio,admits / applicants,low30,,2211,,,35,0.015829941
+OC2024_06876,SCH_d9b848d6dac0,영남대학교,글로벌통번역학부,HUM,train,,,,,55,42,False,1.3095238,1.3095238095238095,1.1353265660929424e-08,admit_per_applicant_ratio,admits / applicants,high30,,42,,,55,1.3095238
+OC2024_06917,SCH_d9b848d6dac0,영남대학교,유럽언어문화학부,HUM,train,,,,,67,66,False,1.0151515,1.0151515151515151,1.4449610841182903e-08,admit_per_applicant_ratio,admits / applicants,high30,,66,,,67,1.0151515
+OC2024_01393,SCH_1f0dbf8ca0ee,경일대학교,전기전자융합학과,ENG,test,,,,,15,15,False,1.0,1.0,0.0,admit_per_applicant_ratio,admits / applicants,high30,,15,,,15,1.0
+OC2024_05250,SCH_55457aeb7b89,서경대학교,물류유통경영학과,SOC,train,,,,,6,6,False,1.0,1.0,0.0,admit_per_applicant_ratio,admits / applicants,high30,,6,,,6,1.0
+OC2024_06319,SCH_8c30e6ac4fbd,숭실대학교,벤처경영학과,SOC,train,,,,,4,4,False,1.0,1.0,0.0,admit_per_applicant_ratio,admits / applicants,high30,,4,,,4,1.0
+OC2024_06321,SCH_8c30e6ac4fbd,숭실대학교,복지경영학과,SOC,train,,,,,5,5,False,1.0,1.0,0.0,admit_per_applicant_ratio,admits / applicants,high30,,5,,,5,1.0
+OC2024_06350,SCH_8c30e6ac4fbd,숭실대학교,혁신경영학과,SOC,train,,,,,12,12,False,1.0,1.0,0.0,admit_per_applicant_ratio,admits / applicants,high30,,12,,,12,1.0
+OC2024_06425,SCH_f20a031e8dce,신라대학교,기업경영학과,SOC,train,,,,,7,7,False,1.0,1.0,0.0,admit_per_applicant_ratio,admits / applicants,high30,,7,,,7,1.0
+OC2024_07281,SCH_89ea5df237fb,울산대학교,한국어문학전공,HUM,test,,,,,2,2,False,1.0,1.0,0.0,admit_per_applicant_ratio,admits / applicants,high30,,2,,,2,1.0
+OC2024_07406,SCH_f38e74825865,유원대학교,간호학과,MED,train,,,,,84,84,False,1.0,1.0,0.0,admit_per_applicant_ratio,admits / applicants,high30,,84,,,84,1.0
+OC2024_07418,SCH_f38e74825865,유원대학교,물리치료학과,MED,train,,,,,35,35,False,1.0,1.0,0.0,admit_per_applicant_ratio,admits / applicants,high30,,35,,,35,1.0
+OC2024_07425,SCH_f38e74825865,유원대학교,보건행정학과,SOC,train,,,,,20,20,False,1.0,1.0,0.0,admit_per_applicant_ratio,admits / applicants,high30,,20,,,20,1.0
+OC2024_07430,SCH_f38e74825865,유원대학교,사회복지학부,SOC,train,,,,,90,90,False,1.0,1.0,0.0,admit_per_applicant_ratio,admits / applicants,high30,,90,,,90,1.0
+OC2024_07435,SCH_f38e74825865,유원대학교,스포츠학부,ART,train,,,,,40,40,False,1.0,1.0,0.0,admit_per_applicant_ratio,admits / applicants,high30,,40,,,40,1.0
+OC2024_07438,SCH_f38e74825865,유원대학교,와인사이언스학과,NAT,train,,,,,20,20,False,1.0,1.0,0.0,admit_per_applicant_ratio,admits / applicants,high30,,20,,,20,1.0
+OC2024_07441,SCH_f38e74825865,유원대학교,응급구조학과,MED,train,,,,,30,30,False,1.0,1.0,0.0,admit_per_applicant_ratio,admits / applicants,high30,,30,,,30,1.0
+OC2024_07447,SCH_f38e74825865,유원대학교,치위생학과,MED,train,,,,,31,31,False,1.0,1.0,0.0,admit_per_applicant_ratio,admits / applicants,high30,,31,,,31,1.0
+OC2024_07735,SCH_4c7509a6907c,인하대학교,KLC학과,HUM,train,,,,,3,3,False,1.0,1.0,0.0,admit_per_applicant_ratio,admits / applicants,high30,,3,,,3,1.0
+OC2024_06032,SCH_fa66da814b2a,세종대학교,호텔외식비즈니스학과,SOC,val,,,,,26,27,False,0.962963,0.9629629629629629,2.207579441471097e-08,admit_per_applicant_ratio,admits / applicants,high30,,27,,,26,0.962963
+OC2024_04710,SCH_73f8f76d428c,배재대학교,직무한국어번역,HUM,train,,,,,37,39,False,0.94871795,0.9487179487179487,3.056648489874192e-09,admit_per_applicant_ratio,admits / applicants,high30,,39,,,37,0.94871795
+OC2024_06357,SCH_55c52db9765e,신경주대학교,AI융합미디어창업학과,ART,train,,,,,40,43,False,0.9302326,0.9302325581395349,2.6336936076454265e-08,admit_per_applicant_ratio,admits / applicants,high30,,43,,,40,0.9302326
+OC2024_09135,SCH_d4b90d7a1e57,한국공학대학교,글로벌융합공학과,ENG,train,,,,,24,26,False,0.9230769,0.9230769230769231,4.584972623788985e-09,admit_per_applicant_ratio,admits / applicants,high30,,26,,,24,0.9230769
+OC2024_01371,SCH_1f0dbf8ca0ee,경일대학교,기계자동화융합학과,ENG,test,,,,,40,44,False,0.90909094,0.9090909090909091,2.7093020382729094e-08,admit_per_applicant_ratio,admits / applicants,high30,,44,,,40,0.90909094
+OC2024_06091,SCH_406e2951a18f,송원대학교,한국어교육과,EDU,test,,,,,39,43,False,0.90697676,0.9069767441860465,1.5247699880482912e-08,admit_per_applicant_ratio,admits / applicants,high30,,43,,,39,0.90697676
+OC2024_07118,SCH_a70179c6531f,우석대학교,스마트관광학과,SOC,val,,,,,29,32,False,0.90625,0.90625,0.0,admit_per_applicant_ratio,admits / applicants,high30,,32,,,29,0.90625
+OC2024_06257,SCH_6dcfa062fdf0,순천향대학교,산업경영공학과,ENG,train,,,,,9,10,False,0.9,0.9,2.384185793236071e-08,admit_per_applicant_ratio,admits / applicants,high30,,10,,,9,0.9
+OC2024_09198,SCH_d49a078a4713,한국기술교육대학교,기전융합공학과,ENG,train,,,,,35,39,False,0.8974359,0.8974358974358975,6.113296868726081e-09,admit_per_applicant_ratio,admits / applicants,high30,,39,,,35,0.8974359
+OC2024_09197,SCH_d49a078a4713,한국기술교육대학교,기계설계공학과,ENG,train,,,,,26,29,False,0.8965517,0.896551724137931,4.11066514161007e-09,admit_per_applicant_ratio,admits / applicants,high30,,29,,,26,0.8965517
+OC2024_06358,SCH_55c52db9765e,신경주대학교,AI전기자동차학과,ENG,train,,,,,40,45,False,0.8888889,0.8888888888888888,6.622738357719982e-09,admit_per_applicant_ratio,admits / applicants,high30,,45,,,40,0.8888889
+OC2024_07111,SCH_a70179c6531f,우석대학교,산림조경원예학과,NAT,val,,,,,50,57,False,0.877193,0.8771929824561403,8.3655641303082e-09,admit_per_applicant_ratio,admits / applicants,high30,,57,,,50,0.877193

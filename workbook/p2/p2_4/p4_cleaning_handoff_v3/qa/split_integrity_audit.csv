@@ -1,0 +1,7 @@
+﻿check,actual,status
+school_split_leakage,0,PASS
+school_split_schools,200,PASS
+membership_row_count,10242,PASS
+rows_split_train,7529,INFO
+rows_split_val,1514,INFO
+rows_split_test,1199,INFO

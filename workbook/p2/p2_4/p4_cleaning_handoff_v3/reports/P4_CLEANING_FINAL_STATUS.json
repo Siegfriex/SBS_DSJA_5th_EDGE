@@ -1,0 +1,22 @@
+{
+  "overall_status": "P4_CLEANING_READY_WITH_WARNINGS",
+  "contract_status": "READY",
+  "rate_model_status": "READY",
+  "count_binomial_status": "NOT_AVAILABLE",
+  "phase_registry_status": "READY",
+  "sample_status": "READY",
+  "split_status": "READY",
+  "preprocessing_status": "READY",
+  "panel_status": "PENDING_FUTURE_DATA",
+  "fail_count": 0,
+  "warn_count": 26,
+  "active_d08_shape": [
+    10242,
+    151
+  ],
+  "active_d08_sha256": "598b68b31b5358dfd23839d4c138cc64838d05876b7791980b376c0453f29962",
+  "active_d08_path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/p4_handoff_candidate/shared/mart_department_model_base_2024.parquet",
+  "active_all_null_feature_n": 0,
+  "critical_manifest_hash_fail_n": 0,
+  "metadata_manifest_hash_warn_n": 1
+}

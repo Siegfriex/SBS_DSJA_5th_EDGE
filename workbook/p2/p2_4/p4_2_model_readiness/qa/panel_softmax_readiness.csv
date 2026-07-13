@@ -1,0 +1,3 @@
+﻿panel_artifact,path,exists,sha256,status
+mart_department_panel_2023_2025,workbook/p2/p2_3/p4_handoff_candidate/shared/mart_department_panel_2023_2025.parquet,False,,BLOCKED_PANEL_DATA
+mart_A_rate_transition_2023_2025,workbook/p2/p2_3/p4_handoff_candidate/shared/mart_A_rate_transition_2023_2025.parquet,False,,BLOCKED_PANEL_DATA

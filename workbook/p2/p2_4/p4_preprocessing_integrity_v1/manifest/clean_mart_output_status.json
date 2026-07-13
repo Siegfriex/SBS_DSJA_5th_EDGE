@@ -1,0 +1,37 @@
+{
+  "p2_structure_ready_2024.parquet": {
+    "status": "CREATED",
+    "rows": 8561,
+    "reason": "sample_P2_STRUCTURE_READY"
+  },
+  "p2_selectivity_ready_2024.parquet": {
+    "status": "CREATED",
+    "rows": 3198,
+    "reason": "sample_P2_SELECTIVITY_READY"
+  },
+  "p4_employment_rate_ready_2024.parquet": {
+    "status": "CREATED",
+    "rows": 6270,
+    "reason": "sample_P4_E_STRUCTURE_READY"
+  },
+  "p4_progression_rate_ready_2024.parquet": {
+    "status": "CREATED",
+    "rows": 6366,
+    "reason": "sample_P4_P_STRUCTURE_READY"
+  },
+  "p4_joint_rate_ready_2024.parquet": {
+    "status": "CREATED",
+    "rows": 6270,
+    "reason": "sample_P4_JOINT_STRUCTURE_READY"
+  },
+  "retention_count_ready_2024.parquet": {
+    "status": "NOT_AVAILABLE",
+    "rows": 0,
+    "reason": "retention numerator/denominator columns not observed"
+  },
+  "progression_count_ready_2024.parquet": {
+    "status": "NOT_AVAILABLE",
+    "rows": 0,
+    "reason": "graduate_school_progressors_n not observed"
+  }
+}

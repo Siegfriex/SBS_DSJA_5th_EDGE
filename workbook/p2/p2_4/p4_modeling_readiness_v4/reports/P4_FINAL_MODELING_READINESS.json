@@ -1,0 +1,37 @@
+{
+  "overall_status": "READY_WITH_WARNINGS",
+  "P1_MODELING_STATUS": "READY_WITH_WARNINGS",
+  "P2_S_MODELING_STATUS": "READY_WITH_WARNINGS",
+  "P2_Q_MODELING_STATUS": "READY_WITH_WARNINGS",
+  "P3_S_MODELING_STATUS": "READY_WITH_WARNINGS",
+  "P3_Q_MODELING_STATUS": "READY_WITH_WARNINGS",
+  "P4_E_STRUCTURE_STATUS": "READY_WITH_WARNINGS",
+  "P4_P_STRUCTURE_STATUS": "READY_WITH_WARNINGS",
+  "P4_JOINT_STRUCTURE_STATUS": "READY_WITH_WARNINGS",
+  "P4_E_SELECTIVITY_STATUS": "READY_WITH_WARNINGS",
+  "P4_P_SELECTIVITY_STATUS": "READY_WITH_WARNINGS",
+  "P4_JOINT_SELECTIVITY_STATUS": "READY_WITH_WARNINGS",
+  "P5_2024_EXPLORATORY_STATUS": "READY",
+  "P7_STATUS": "PENDING_TASK_MATRIX",
+  "P8_STATUS": "NOT_AVAILABLE",
+  "rank_block": false,
+  "sample_block": false,
+  "pending_residual_spec_n": 4,
+  "created_at": "2026-07-13T05:06:13.174377+00:00",
+  "active_d08_sha256": "5f56e375fd1c0474a5e55652859ae007e2f45becd6d3350ee4c82e21fab8df9b",
+  "active_d08_shape": [
+    7592,
+    151
+  ],
+  "active_d08_policy": "strict_clean_manual_approved",
+  "manual_approved_feature_registry_shape": [
+    198,
+    11
+  ],
+  "manual_approved_p4_use_true_n": 131,
+  "target_specific_keep_blocked_n": 16,
+  "input_file_n": 13,
+  "duplicate_conflict_excluded_row_n": 0,
+  "strict_deleted_rows_preserved_n": 2650,
+  "OTHER_after_resolution": 0
+}

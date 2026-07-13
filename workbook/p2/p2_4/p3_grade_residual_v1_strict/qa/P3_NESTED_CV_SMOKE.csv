@@ -1,0 +1,2 @@
+rank,encoded_n,constant_cols,duplicate_cols,status,sample_n
+36,36,"['major_group_7___OTHER__', 'school_type___OTHER__', 'region_sido___OTHER__', 'campus_branch___OTHER__', 'credit_forfeit_flag___OTHER__']","['international_student_share_pct__missing==female_student_share_pct__missing', 'leave_rate_pct__missing==female_student_share_pct__missing', 'fulltime_faculty_share_pct__missing==student_faculty_ratio__missing']",READY,1000

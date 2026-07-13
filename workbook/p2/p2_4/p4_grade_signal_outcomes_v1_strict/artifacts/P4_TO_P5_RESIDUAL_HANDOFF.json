@@ -1,0 +1,11 @@
+{
+  "created_at": "2026-07-13T07:42:52.541358+00:00",
+  "p3_full_residual_path": "workbook/p2/p2_4/p3_grade_residual_v1_strict/data/P3_STRUCTURE_GRADE_RESIDUAL_FULL.parquet",
+  "p3_full_residual_sha256": "d8decd39dca42ccd0dc194fa3813ba0036541098eea08ddfb64627f6fc6cb8cc",
+  "p3_nopolicy_residual_path": "workbook/p2/p2_4/p3_grade_residual_v1_strict/data/P3_STRUCTURE_GRADE_RESIDUAL_NOPOLICY.parquet",
+  "p3_nopolicy_residual_sha256": "dc5675d941b17108997e63adb550f6f223911892085cf481f1875ec2799fb7c3",
+  "recommended_p5_signals": [
+    "RAW_A",
+    "OOF_RESIDUAL_FULL"
+  ]
+}

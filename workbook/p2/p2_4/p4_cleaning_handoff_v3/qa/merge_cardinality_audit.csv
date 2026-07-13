@@ -1,0 +1,6 @@
+﻿merge_name,left,right,keys,validate,left_rows,right_rows,merged_rows,left_row_conserved,right_key_unique,unmatched_n,manual_review_n,campus_conflict_n,status,reason
+D02_to_bridge_headcount,D02,bridge_outcome_headcount,outcome_row_id,one_to_one,10242,10242,10242,True,True,0,1681.0,236.0,PASS,
+bridge_to_D01_headcount,bridge_outcome_headcount,D01,headcount_row_id,many_to_one,10242,34969,10242,True,True,1681,1681.0,236.0,PASS,
+D02_to_major7_bridge,D02,bridge_department_major7,outcome_row_id,one_to_one,10242,10242,10242,True,True,0,,,PASS,
+D08_to_sample_membership,D08,sample_membership,outcome_row_id,one_to_one,10242,10242,10242,True,True,0,1681.0,236.0,PASS,
+D08_to_school_split,D08,school_split,school_uid,many_to_one,10242,200,10242,True,True,0,1681.0,236.0,PASS,

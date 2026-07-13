@@ -1,0 +1,22 @@
+﻿sample_id,eligibility_expression,total_n,exclusion_n,exclusion_reasons
+GRADE_ALL,a_rate_pct.notna & has_major_group_7_high_medium,10099,143,missing required target/context/selectivity or major7 sample exclusion
+GRADE_SELECTIVITY,GRADE_ALL & selectivity_proxy_pct.notna,3707,6535,missing required target/context/selectivity or major7 sample exclusion
+EMPLOYMENT_HEALTH,health_employment_rate_pct.notna & has_major_group_7_high_medium,7389,2853,missing required target/context/selectivity or major7 sample exclusion
+PROGRESSION_GRADSCHOOL,graduate_school_progression_rate_pct.notna & has_major_group_7_high_medium,7498,2744,missing required target/context/selectivity or major7 sample exclusion
+JOINT_EMP_PROG,EMPLOYMENT_HEALTH & PROGRESSION_GRADSCHOOL,7389,2853,missing required target/context/selectivity or major7 sample exclusion
+GRADE_STRUCTURE,GRADE_ALL & has_structure_context,8561,1681,missing required target/context/selectivity or major7 sample exclusion
+GRADE_SELECTIVITY_STRUCTURE,GRADE_SELECTIVITY & has_structure_context,3198,7044,missing required target/context/selectivity or major7 sample exclusion
+JOINT_EMP_PROG_STRUCTURE,JOINT_EMP_PROG & has_structure_context,6270,3972,missing required target/context/selectivity or major7 sample exclusion
+JOINT_EMP_PROG_SELECTIVITY,JOINT_EMP_PROG & selectivity_proxy_pct.notna,2805,7437,missing required target/context/selectivity or major7 sample exclusion
+P1_SIGNAL_ALIGNMENT_CORE,"a_rate_pct, health_employment_rate_pct, graduate_school_progression_rate_pct all observed",7389,2853,missing required target/context/selectivity or major7 sample exclusion
+P1_SIGNAL_ALIGNMENT_SELECTIVITY,P1_SIGNAL_ALIGNMENT_CORE & selectivity_proxy_pct.notna,2805,7437,missing required target/context/selectivity or major7 sample exclusion
+P2_STRUCTURE_READY,GRADE_ALL & has_structure_context,8561,1681,missing required target/context/selectivity or major7 sample exclusion
+P2_SELECTIVITY_READY,GRADE_SELECTIVITY & has_structure_context,3198,7044,missing required target/context/selectivity or major7 sample exclusion
+P3_STRUCTURE_READY,P2_STRUCTURE_READY,8561,1681,missing required target/context/selectivity or major7 sample exclusion
+P3_SELECTIVITY_READY,P2_SELECTIVITY_READY,3198,7044,missing required target/context/selectivity or major7 sample exclusion
+P4_STRUCTURE_READY,(health employment or gradschool progression observed) & has_structure_context,6366,3876,missing required target/context/selectivity or major7 sample exclusion
+P4_SELECTIVITY_READY,P4_STRUCTURE_READY & selectivity_proxy_pct.notna,2439,7803,missing required target/context/selectivity or major7 sample exclusion
+COUNT_RETENTION_READY,requires retained_k_n and denominator counts; not available,0,10242,count numerator/denominator not available
+COUNT_PROGRESSION_READY,requires progressor numerator and denominator counts; not available,0,10242,count numerator/denominator not available
+TYPE_READY,requires P3/P4 residual-derived type labels,0,10242,pending residual/type labels
+PANEL_READY,requires 2023/2025 panel data,0,10242,future/panel years not available

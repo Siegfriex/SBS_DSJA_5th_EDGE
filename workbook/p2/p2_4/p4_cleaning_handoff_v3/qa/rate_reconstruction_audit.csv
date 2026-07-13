@@ -1,0 +1,7 @@
+﻿target_rate,numerator_column,denominator_column,usable_pair,audited_n,max_abs_difference_pp,tolerance_pp,status,reason
+a_rate_pct,,,False,0,,,NOT_AVAILABLE,No contracted numerator/denominator pair found in active handoff.
+cd_rate_pct,,,False,0,,,NOT_AVAILABLE,No contracted numerator/denominator pair found in active handoff.
+f_rate_pct,,,False,0,,,NOT_AVAILABLE,No contracted numerator/denominator pair found in active handoff.
+employment_rate_pct,,,False,0,,,NOT_AVAILABLE,No contracted numerator/denominator pair found in active handoff.
+health_employment_rate_pct,,,False,0,,,NOT_AVAILABLE,No contracted numerator/denominator pair found in active handoff.
+graduate_school_progression_rate_pct,,,False,0,,,NOT_AVAILABLE,No contracted numerator/denominator pair found in active handoff.

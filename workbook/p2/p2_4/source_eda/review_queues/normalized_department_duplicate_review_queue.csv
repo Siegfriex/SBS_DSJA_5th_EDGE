@@ -1,0 +1,9 @@
+﻿outcome_row_id,school_name_raw,campus_name_raw_x,dept_name_raw,school_uid,campus_uid,dept_uid,match_method,human_name_duplicate_decision,canonical_dept_name,merge_or_keep_separate,reviewer_note
+OC2024_06719,연세대학교,,문화・미디어전공,SCH_8c0fe037a811,CAM_367571cb81eb,DEP_b18217983866,manual_pending,,,,
+OC2024_06721,연세대학교,,문화미디어전공,SCH_8c0fe037a811,CAM_367571cb81eb,DEP_b18217983866,manual_pending,,,,
+OC2024_07093,우석대학교,,건축・인테리어디자인학과,SCH_a70179c6531f,CAM_43df7208b37c,DEP_a6fa296a6e7e,manual_pending,,,,
+OC2024_07094,우석대학교,,건축인테리어디자인학과,SCH_a70179c6531f,CAM_43df7208b37c,DEP_a6fa296a6e7e,manual_pending,,,,
+OC2024_08822,충남대학교,,미생물・분자생명과학과,SCH_822e5c0ba179,CAM_b3984d1a9914,DEP_eb13903b31fd,manual_pending,,,,
+OC2024_08823,충남대학교,,미생물분자생명과학과,SCH_822e5c0ba179,CAM_b3984d1a9914,DEP_eb13903b31fd,manual_pending,,,,
+OC2024_09486,한남대학교,,토목・환경공학전공,SCH_b87e76b8f78a,CAM_f1cc66bf9cca,DEP_1e8ebec67414,manual_pending,,,,
+OC2024_09487,한남대학교,,토목환경공학전공,SCH_b87e76b8f78a,CAM_f1cc66bf9cca,DEP_1e8ebec67414,manual_pending,,,,

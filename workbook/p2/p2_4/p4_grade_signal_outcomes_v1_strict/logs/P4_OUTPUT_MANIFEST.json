@@ -1,0 +1,400 @@
+{
+  "created_at": "2026-07-13T07:42:52.581183+00:00",
+  "output_root": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/p4_grade_signal_outcomes_v1_strict",
+  "notebook_path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/p4_grade_signal_outcomes_v1_strict/p4_grade_signal_outcomes_strict.ipynb",
+  "lineage_inputs": [
+    {
+      "path": "workbook/p2/p2_4/source_eda/strict_clean_v1/mart_department_model_base_2024_strict_drop.parquet",
+      "shape": [
+        7592,
+        151
+      ],
+      "size_bytes": 1565423,
+      "sha256": "5f56e375fd1c0474a5e55652859ae007e2f45becd6d3350ee4c82e21fab8df9b",
+      "mtime": "2026-07-13T11:10:43.122172"
+    },
+    {
+      "path": "workbook/p2/p2_4/p4_modeling_readiness_v4/data/P4_PHASE_SAMPLE_MEMBERSHIP_FINAL.parquet",
+      "shape": [
+        7592,
+        21
+      ],
+      "size_bytes": 198537,
+      "sha256": "c6504fd04c918ce33439462f7b277aa8ae4363f185ef93210fcc761f01e9fb46",
+      "mtime": "2026-07-13T14:06:03.317337"
+    },
+    {
+      "path": "workbook/p2/p2_4/p4_modeling_readiness_v4/artifacts/P4_PHASE_SAMPLE_REGISTRY_FINAL.csv",
+      "shape": [
+        12,
+        12
+      ],
+      "size_bytes": 1667,
+      "sha256": "d518bab363399a31037590a2cb285f2a76e88318f5d25bf93ac365441f48e611",
+      "mtime": "2026-07-13T14:06:03.312332"
+    },
+    {
+      "path": "workbook/p2/p2_4/source_eda/human_handoff_packet/03_MODEL_INPUT/manual_approved_feature_registry.csv",
+      "shape": [
+        198,
+        11
+      ],
+      "size_bytes": 29026,
+      "sha256": "2cdb7797c4619c625fc6a171710970b7691446f4d62cae9accd2ab5c68f15051",
+      "mtime": "2026-07-13T13:29:07.567287"
+    },
+    {
+      "path": "workbook/p2/p2_4/p4_modeling_readiness_v4/qa/P4_TARGET_SPECIFIC_DENYLIST_FINAL.csv",
+      "shape": [
+        16,
+        3
+      ],
+      "size_bytes": 1091,
+      "sha256": "97435cb3a6b20b490ce2ce7e65160414517aee5b472f8ef8040d91de9f868895",
+      "mtime": "2026-07-13T14:06:03.324084"
+    },
+    {
+      "path": "workbook/p2/p2_4/p2_grade_formation_v1_strict/reports/P2_GRADE_FORMATION_STATUS.json",
+      "shape": [
+        30
+      ],
+      "size_bytes": 2696,
+      "sha256": "fa48e5d973cec5868a8983e424f56e6fc5d2d999a072a6538072b9ee06cd1943",
+      "mtime": "2026-07-13T15:30:02.428352"
+    },
+    {
+      "path": "workbook/p2/p2_4/p2_grade_formation_v1_strict/artifacts/P2_TO_P3_FEATURE_MATRIX_SCHEMA.json",
+      "shape": [
+        11
+      ],
+      "size_bytes": 2607,
+      "sha256": "2bbc7d64784b7b530d57bb6a2096d14cb11c5879f41a5208f9ff3b02f4bdddcb",
+      "mtime": "2026-07-13T15:29:30.855180"
+    },
+    {
+      "path": "workbook/p2/p2_4/source_eda/strict_clean_v1/strict_target_sample_membership.csv",
+      "shape": [
+        61452,
+        7
+      ],
+      "size_bytes": 3911786,
+      "sha256": "29bf19120774e7d0a86e1c6b6892d012832f3fd6fd5dbed5e6a752e8f2e0e61c",
+      "mtime": "2026-07-13T11:10:43.876487"
+    },
+    {
+      "path": "workbook/p2/p2_4/source_eda/strict_clean_v1/strict_target_sample_counts.csv",
+      "shape": [
+        6,
+        7
+      ],
+      "size_bytes": 440,
+      "sha256": "dde484367e1849b34a28b17e99381f59c04c94fb549d78390e720fbe3d905517",
+      "mtime": "2026-07-13T11:10:43.878331"
+    },
+    {
+      "path": "workbook/p2/p2_4/p3_grade_residual_v1_strict/data/P3_STRUCTURE_GRADE_RESIDUAL_FULL.parquet",
+      "shape": [
+        7592,
+        10
+      ],
+      "size_bytes": 325286,
+      "sha256": "d8decd39dca42ccd0dc194fa3813ba0036541098eea08ddfb64627f6fc6cb8cc",
+      "mtime": "2026-07-13T16:28:14.925210"
+    },
+    {
+      "path": "workbook/p2/p2_4/p3_grade_residual_v1_strict/data/P3_STRUCTURE_GRADE_RESIDUAL_NOPOLICY.parquet",
+      "shape": [
+        7592,
+        10
+      ],
+      "size_bytes": 325442,
+      "sha256": "dc5675d941b17108997e63adb550f6f223911892085cf481f1875ec2799fb7c3",
+      "mtime": "2026-07-13T16:28:15.561977"
+    },
+    {
+      "path": "workbook/p2/p2_4/p4_grade_signal_outcomes_v1_strict/artifacts/P4_TO_P5_RESIDUAL_HANDOFF.json",
+      "shape": [
+        6
+      ],
+      "size_bytes": 574,
+      "sha256": "601c352366a4cd45ac1575daf2836a99dff4711a3f76c8dd9be13b3418790c78",
+      "mtime": "2026-07-13T16:42:52.542426"
+    }
+  ],
+  "outputs": [
+    {
+      "path": "workbook/p2/p2_4/p4_grade_signal_outcomes_v1_strict/artifacts/P4_AME_RESULTS.csv",
+      "shape": [
+        12,
+        4
+      ],
+      "size_bytes": 905,
+      "sha256": "c22a1320846ff8b7b70f826723fbd9c6bdfc2c7204675bf97803249064e299a6",
+      "mtime": "2026-07-13T16:42:35.931753"
+    },
+    {
+      "path": "workbook/p2/p2_4/p4_grade_signal_outcomes_v1_strict/artifacts/P4_BOOTSTRAP_CI.csv",
+      "shape": [
+        6,
+        7
+      ],
+      "size_bytes": 702,
+      "sha256": "895ae24d96cc7fca45ffe6cac9c6a70d01b84f857f34702355e731ef4d1fc561",
+      "mtime": "2026-07-13T16:42:52.378957"
+    },
+    {
+      "path": "workbook/p2/p2_4/p4_grade_signal_outcomes_v1_strict/artifacts/P4_BOOTSTRAP_DISTRIBUTION.parquet",
+      "shape": [
+        2000,
+        8
+      ],
+      "size_bytes": 55711,
+      "sha256": "446d4d97888282f64fb46cafe6c263413e2b4d52995aa4f20b483178f88d5b6e",
+      "mtime": "2026-07-13T16:42:52.368140"
+    },
+    {
+      "path": "workbook/p2/p2_4/p4_grade_signal_outcomes_v1_strict/artifacts/P4_BOOTSTRAP_PILOT_DISTRIBUTION.parquet",
+      "shape": [
+        400,
+        8
+      ],
+      "size_bytes": 14506,
+      "sha256": "8b3c874e034d443131e474a2b27505033c68af0af46212bbed8a9f7061d39f9e",
+      "mtime": "2026-07-13T16:42:42.083559"
+    },
+    {
+      "path": "workbook/p2/p2_4/p4_grade_signal_outcomes_v1_strict/artifacts/P4_COEFFICIENT_RESULTS.csv",
+      "shape": [
+        12,
+        30
+      ],
+      "size_bytes": 6642,
+      "sha256": "b2616250f7bb118a5f4bc53580faee907c184df1797cbdaf59a3fcf960888991",
+      "mtime": "2026-07-13T16:42:35.930729"
+    },
+    {
+      "path": "workbook/p2/p2_4/p4_grade_signal_outcomes_v1_strict/artifacts/P4_EMPLOYMENT_PROGRESSION_DIFFERENCE.csv",
+      "shape": [
+        3,
+        4
+      ],
+      "size_bytes": 322,
+      "sha256": "edd9a409cf8a8935c420e4fad7c1727c5a523917c675657981d8331ee929650c",
+      "mtime": "2026-07-13T16:42:52.403274"
+    },
+    {
+      "path": "workbook/p2/p2_4/p4_grade_signal_outcomes_v1_strict/artifacts/P4_INCREMENTAL_VALUE.csv",
+      "shape": [
+        4,
+        8
+      ],
+      "size_bytes": 706,
+      "sha256": "78f4c814c8c1d78f2602b90379afe13d70e7a5ec9a923720fc3b6aff3300ccc6",
+      "mtime": "2026-07-13T16:42:39.898204"
+    },
+    {
+      "path": "workbook/p2/p2_4/p4_grade_signal_outcomes_v1_strict/artifacts/P4_LOCKED_TEST_METRICS.csv",
+      "shape": [
+        12,
+        10
+      ],
+      "size_bytes": 2212,
+      "sha256": "304b3525a7e75413af168714f5afcea6a17c31c3b30052d1d19e2876f5213f9a",
+      "mtime": "2026-07-13T16:42:35.932828"
+    },
+    {
+      "path": "workbook/p2/p2_4/p4_grade_signal_outcomes_v1_strict/artifacts/P4_MODEL_SPEC_REGISTRY.csv",
+      "shape": [
+        12,
+        4
+      ],
+      "size_bytes": 953,
+      "sha256": "5e2e48c8c89e481a0a8d882546a2d6757285cfda1f2235f21e53a09dbdcaa202",
+      "mtime": "2026-07-13T16:42:33.278582"
+    },
+    {
+      "path": "workbook/p2/p2_4/p4_grade_signal_outcomes_v1_strict/artifacts/P4_OLS_SENSITIVITY.csv",
+      "shape": [
+        6,
+        30
+      ],
+      "size_bytes": 3328,
+      "sha256": "764ec2d6268ed36268c2036648e1a7856aa831253510cfb4871e7b4a55c9fb46",
+      "mtime": "2026-07-13T16:42:35.951232"
+    },
+    {
+      "path": "workbook/p2/p2_4/p4_grade_signal_outcomes_v1_strict/artifacts/P4_TARGET_PROFILE.csv",
+      "shape": [
+        2,
+        10
+      ],
+      "size_bytes": 333,
+      "sha256": "3c7083e9cefcf93c89bcd28f7647bc0ff6b34673e0067ebfb42c0a07feab9dff",
+      "mtime": "2026-07-13T16:42:33.238569"
+    },
+    {
+      "path": "workbook/p2/p2_4/p4_grade_signal_outcomes_v1_strict/artifacts/P4_TO_P5_RESIDUAL_HANDOFF.json",
+      "shape": [
+        6
+      ],
+      "size_bytes": 574,
+      "sha256": "601c352366a4cd45ac1575daf2836a99dff4711a3f76c8dd9be13b3418790c78",
+      "mtime": "2026-07-13T16:42:52.542426"
+    },
+    {
+      "path": "workbook/p2/p2_4/p4_grade_signal_outcomes_v1_strict/data/P4_STRUCTURE_EMPLOYMENT_FRAME.parquet",
+      "shape": [
+        5600,
+        173
+      ],
+      "size_bytes": 1516276,
+      "sha256": "7599e34a84689a09c73f9f4cd2c68c82797a79598663b2aa810392e8325bbd8c",
+      "mtime": "2026-07-13T16:42:33.063880"
+    },
+    {
+      "path": "workbook/p2/p2_4/p4_grade_signal_outcomes_v1_strict/data/P4_STRUCTURE_JOINT_FRAME.parquet",
+      "shape": [
+        5600,
+        174
+      ],
+      "size_bytes": 1526710,
+      "sha256": "111b7600289e4dbc121745fb8aba1803f7b20dd49d63dbecb842c09ebe8f3028",
+      "mtime": "2026-07-13T16:42:33.153921"
+    },
+    {
+      "path": "workbook/p2/p2_4/p4_grade_signal_outcomes_v1_strict/data/P4_STRUCTURE_PROGRESSION_FRAME.parquet",
+      "shape": [
+        5674,
+        173
+      ],
+      "size_bytes": 1533933,
+      "sha256": "5bf05e6f04fc3171543cb2affcdf30adf1212978cf3757eb70d03214535fc256",
+      "mtime": "2026-07-13T16:42:33.107234"
+    },
+    {
+      "path": "workbook/p2/p2_4/p4_grade_signal_outcomes_v1_strict/figures/P4_AME_SIGNAL_SUMMARY.png",
+      "shape": null,
+      "size_bytes": 54913,
+      "sha256": "150d348b2c8ae6c33106b2b47069ee48ac6b85c3e3adb5db92e79a8aa6bd505d",
+      "mtime": "2026-07-13T16:42:52.531756"
+    },
+    {
+      "path": "workbook/p2/p2_4/p4_grade_signal_outcomes_v1_strict/p4_grade_signal_outcomes_strict.ipynb",
+      "shape": null,
+      "size_bytes": 158492,
+      "sha256": "2788ef81cc54686e76adddbb09abd6f023340816c898a353002a9690b30453b9",
+      "mtime": "2026-07-13T16:28:52.447941"
+    },
+    {
+      "path": "workbook/p2/p2_4/p4_grade_signal_outcomes_v1_strict/qa/P4_END_TO_END_FOLD_AUDIT.csv",
+      "shape": [
+        20,
+        14
+      ],
+      "size_bytes": 4709,
+      "sha256": "f1fd5864af34ba8784670e2ccd694ce7644c10d40c06723e32b35e6c27017c9b",
+      "mtime": "2026-07-13T16:42:39.892237"
+    },
+    {
+      "path": "workbook/p2/p2_4/p4_grade_signal_outcomes_v1_strict/qa/P4_INPUT_CONTRACT_AUDIT.csv",
+      "shape": [
+        11,
+        5
+      ],
+      "size_bytes": 2082,
+      "sha256": "c653bb6361d3248f3bbdb513836e8bd23eede9bcf42290c39d8007abcf36f4b2",
+      "mtime": "2026-07-13T16:42:32.863885"
+    },
+    {
+      "path": "workbook/p2/p2_4/p4_grade_signal_outcomes_v1_strict/qa/P4_MODEL_DIAGNOSTICS.csv",
+      "shape": [
+        13,
+        9
+      ],
+      "size_bytes": 1791,
+      "sha256": "7ec7079ed567f90483cd2750ace81180bfd1c7fd9ef8ae180053ad62d656f251",
+      "mtime": "2026-07-13T16:42:52.445247"
+    },
+    {
+      "path": "workbook/p2/p2_4/p4_grade_signal_outcomes_v1_strict/qa/P4_MULTIPLE_TEST_CORRECTION.csv",
+      "shape": [
+        12,
+        5
+      ],
+      "size_bytes": 1050,
+      "sha256": "49431e6ff02ca564665d9f5b983af01eeed9586dd5d1762057bcd37390641006",
+      "mtime": "2026-07-13T16:42:52.415406"
+    },
+    {
+      "path": "workbook/p2/p2_4/p4_grade_signal_outcomes_v1_strict/qa/P4_PROGRESSION_TWO_PART_PROFILE.csv",
+      "shape": [
+        7,
+        3
+      ],
+      "size_bytes": 209,
+      "sha256": "36df5989f5fbcd03041cb7c73933669d1170a5edbe9bb721718b6dece44c45c4",
+      "mtime": "2026-07-13T16:42:35.967176"
+    },
+    {
+      "path": "workbook/p2/p2_4/p4_grade_signal_outcomes_v1_strict/qa/P4_SAMPLE_AUDIT.csv",
+      "shape": [
+        3,
+        13
+      ],
+      "size_bytes": 580,
+      "sha256": "f75a1e595c9012bc6c71fbefdbbc19fa52216d70ade5a0954466991a8da8818e",
+      "mtime": "2026-07-13T16:42:33.217271"
+    },
+    {
+      "path": "workbook/p2/p2_4/p4_grade_signal_outcomes_v1_strict/qa/P4_SIGNAL_COVERAGE_AUDIT.csv",
+      "shape": [
+        9,
+        6
+      ],
+      "size_bytes": 690,
+      "sha256": "1929dd5610ff0ead96cc284fce91b2b652c43293a912f34ab488eeffdbefe28c",
+      "mtime": "2026-07-13T16:42:33.259143"
+    },
+    {
+      "path": "workbook/p2/p2_4/p4_grade_signal_outcomes_v1_strict/qa/P4_WITHIN_RAW_EQUIVALENCE_AUDIT.csv",
+      "shape": [
+        4,
+        5
+      ],
+      "size_bytes": 931,
+      "sha256": "f9c400e0a77d047967c3af78fce1f274b8267669d337ca11c0a1a4cb4412fbf2",
+      "mtime": "2026-07-13T16:42:52.442488"
+    },
+    {
+      "path": "workbook/p2/p2_4/p4_grade_signal_outcomes_v1_strict/reports/P4_GRADE_SIGNAL_OUTCOME_REPORT.md",
+      "shape": null,
+      "size_bytes": 7335,
+      "sha256": "304000771146941e12e59581d3980e8856099ea75f53a80fa61ce4f50bd867e1",
+      "mtime": "2026-07-13T16:42:52.565626"
+    },
+    {
+      "path": "workbook/p2/p2_4/p4_grade_signal_outcomes_v1_strict/reports/P4_GRADE_SIGNAL_OUTCOME_STATUS.json",
+      "shape": [
+        23
+      ],
+      "size_bytes": 1249,
+      "sha256": "3154d3163000f2f474887f275b31f309a0752b2d0449294ab9d507a04d4f12cd",
+      "mtime": "2026-07-13T16:42:52.558129"
+    }
+  ],
+  "required_hashes": {
+    "strict_d08": "5f56e375fd1c0474a5e55652859ae007e2f45becd6d3350ee4c82e21fab8df9b",
+    "sample_membership": "c6504fd04c918ce33439462f7b277aa8ae4363f185ef93210fcc761f01e9fb46",
+    "sample_registry": "d518bab363399a31037590a2cb285f2a76e88318f5d25bf93ac365441f48e611",
+    "manual_feature_registry": "2cdb7797c4619c625fc6a171710970b7691446f4d62cae9accd2ab5c68f15051",
+    "target_denylist": "97435cb3a6b20b490ce2ce7e65160414517aee5b472f8ef8040d91de9f868895",
+    "p2_status": "fa48e5d973cec5868a8983e424f56e6fc5d2d999a072a6538072b9ee06cd1943",
+    "p2_handoff": "2bbc7d64784b7b530d57bb6a2096d14cb11c5879f41a5208f9ff3b02f4bdddcb",
+    "strict_target_membership": "29bf19120774e7d0a86e1c6b6892d012832f3fd6fd5dbed5e6a752e8f2e0e61c",
+    "strict_target_counts": "dde484367e1849b34a28b17e99381f59c04c94fb549d78390e720fbe3d905517",
+    "p3_full_residual": "d8decd39dca42ccd0dc194fa3813ba0036541098eea08ddfb64627f6fc6cb8cc",
+    "p3_nopolicy_residual": "dc5675d941b17108997e63adb550f6f223911892085cf481f1875ec2799fb7c3",
+    "p4_handoff": "601c352366a4cd45ac1575daf2836a99dff4711a3f76c8dd9be13b3418790c78"
+  },
+  "status_path": "workbook/p2/p2_4/p4_grade_signal_outcomes_v1_strict/reports/P4_GRADE_SIGNAL_OUTCOME_STATUS.json"
+}

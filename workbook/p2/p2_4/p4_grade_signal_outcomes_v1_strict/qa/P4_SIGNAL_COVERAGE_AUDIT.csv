@@ -1,0 +1,10 @@
+frame,grade_signal,column,row_n,non_null_n,coverage_rate
+employment,RAW_A,a_rate_10pp,5600,5600,1.0
+employment,OOF_RESIDUAL_FULL,grade_residual_structure_full_oof_10pp,5600,5600,1.0
+employment,OOF_RESIDUAL_NOPOLICY,grade_residual_structure_nopolicy_oof_10pp,5600,5600,1.0
+progression,RAW_A,a_rate_10pp,5674,5674,1.0
+progression,OOF_RESIDUAL_FULL,grade_residual_structure_full_oof_10pp,5674,5674,1.0
+progression,OOF_RESIDUAL_NOPOLICY,grade_residual_structure_nopolicy_oof_10pp,5674,5674,1.0
+joint,RAW_A,a_rate_10pp,5600,5600,1.0
+joint,OOF_RESIDUAL_FULL,grade_residual_structure_full_oof_10pp,5600,5600,1.0
+joint,OOF_RESIDUAL_NOPOLICY,grade_residual_structure_nopolicy_oof_10pp,5600,5600,1.0

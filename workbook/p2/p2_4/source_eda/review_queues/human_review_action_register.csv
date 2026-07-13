@@ -1,0 +1,9 @@
+﻿id,status,action,rows,artifact,note
+STRICT-001,agent_applied,drop structurally unresolved rows,1681,workbook/p2/p2_4/source_eda/strict_clean_v1/strict_deleted_rows_detail.csv,manual_pending/unmatched/non-ok row_qa rows are excluded from strict analysis base
+STRICT-002,agent_applied,drop campus conflict rows,236,workbook/p2/p2_4/source_eda/strict_clean_v1/strict_deleted_rows_detail.csv,campus_conflict_flag rows are excluded pending alias/campus policy rebuild
+STRICT-003,agent_applied,drop unresolved major_group_7 rows,143,workbook/p2/p2_4/source_eda/strict_clean_v1/strict_deleted_rows_detail.csv,ambiguous/unknown/low confidence major labels are excluded
+STRICT-004,agent_applied,drop duplicate key/name rows,36,workbook/p2/p2_4/source_eda/strict_clean_v1/strict_deleted_rows_detail.csv,duplicate carried D08 key and normalized department duplicate rows are excluded
+STRICT-005,agent_applied,drop small-denominator 0/100 percent extreme rows,941,workbook/p2/p2_4/source_eda/strict_clean_v1/strict_deleted_rows_detail.csv,extreme ratio with graduates<=5 or enrolled_students<=20 is excluded under strict policy
+STRICT-006,agent_applied,exclude target-missing rows per target sample,11925,workbook/p2/p2_4/source_eda/strict_clean_v1/strict_target_sample_membership.csv,target missing is not imputed; it is deleted from the relevant target sample
+STRICT-007,agent_applied,write target-specific leakage denylist,16,workbook/p2/p2_4/source_eda/strict_clean_v1/target_feature_exclusion_policy.csv,leakage FAIL pairs are blocked at target-model level
+HUMAN-001,human_required,decide truly missing/source-unavailable items,13,workbook/p2/p2_4/source_eda/strict_clean_v1/human_required_after_strict_drop.csv,cannot be solved by row deletion; needs source rebuild or analysis exclusion decision

@@ -1,0 +1,10 @@
+﻿model_family,readiness,n_rows_train,n_schools_train,n_features_before_encoding,n_features_after_encoding,rows_per_parameter,minimum_school_cluster_size,median_school_cluster_size,singleton_schools
+OLS_cluster,READY,7529,140,69,130,57.91538461538462,1,48.5,7
+MixedLM,READY,7529,140,69,130,57.91538461538462,1,48.5,7
+School_fixed_effects,READY,7529,140,69,130,57.91538461538462,1,48.5,7
+GAM,OPTIONAL_PACKAGE_CHECK,7529,140,69,130,57.91538461538462,1,48.5,7
+Ridge,READY,7529,140,69,130,57.91538461538462,1,48.5,7
+Elastic_Net,READY,7529,140,69,130,57.91538461538462,1,48.5,7
+Gradient_Boosting,READY,7529,140,69,130,57.91538461538462,1,48.5,7
+Context_interaction,READY,7529,140,69,130,57.91538461538462,1,48.5,7
+Softmax_panel,BLOCKED_PANEL_DATA,7529,140,69,130,57.91538461538462,1,48.5,7

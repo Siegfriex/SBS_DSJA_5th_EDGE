@@ -1,0 +1,88 @@
+﻿rule_id,column,rule_type,severity,reason
+YEAR_1900_2100_ALLOWLIST,analysis_year,year,FAIL,explicit year allowlist only
+YEAR_1900_2100_ALLOWLIST,goms_profile_end_year,year,FAIL,explicit year allowlist only
+YEAR_1900_2100_ALLOWLIST,goms_profile_start_year,year,FAIL,explicit year allowlist only
+PCT_0_100,a_rate_pct,percentage,FAIL,percentage must be 0..100
+PCT_0_100,cd_rate_pct,percentage,FAIL,percentage must be 0..100
+PCT_0_100,ctx24_cert_rate_pct,percentage,FAIL,percentage must be 0..100
+PCT_0_100,ctx24_income_300plus_pct,percentage,FAIL,percentage must be 0..100
+PCT_0_100,ctx24_income_400plus_pct,percentage,FAIL,percentage must be 0..100
+PCT_0_100,ctx24_industry_top3_pct,percentage,FAIL,percentage must be 0..100
+PCT_0_100,ctx24_large_company_pct,percentage,FAIL,percentage must be 0..100
+PCT_0_100,ctx24_large_mid_company_pct,percentage,FAIL,percentage must be 0..100
+PCT_0_100,ctx24_mid_company_pct,percentage,FAIL,percentage must be 0..100
+PCT_0_100,ctx24_public_nonprofit_pct,percentage,FAIL,percentage must be 0..100
+PCT_0_100,ctx24_small_company_pct,percentage,FAIL,percentage must be 0..100
+PCT_0_100,domestic_progression_rate_pct,percentage,FAIL,percentage must be 0..100
+PCT_0_100,employment_rate_pct,percentage,FAIL,percentage must be 0..100
+PCT_0_100,f_rate_pct,percentage,FAIL,percentage must be 0..100
+PCT_0_100,female_student_share_pct,percentage,FAIL,percentage must be 0..100
+PCT_0_100,fulltime_faculty_share_pct,percentage,FAIL,percentage must be 0..100
+PCT_0_100,goms_latest_2019_firm_300plus_pct,percentage,FAIL,percentage must be 0..100
+PCT_0_100,goms_latest_2019_permanent_pct,percentage,FAIL,percentage must be 0..100
+PCT_0_100,goms_recent_employment_rate_pct,percentage,FAIL,percentage must be 0..100
+PCT_0_100,goms_recent_firm_300plus_pct,percentage,FAIL,percentage must be 0..100
+PCT_0_100,goms_recent_industry_top3_pct,percentage,FAIL,percentage must be 0..100
+PCT_0_100,goms_recent_permanent_pct,percentage,FAIL,percentage must be 0..100
+PCT_0_100,goms_recent_professional_highskill_pct,percentage,FAIL,percentage must be 0..100
+PCT_0_100,goms_recent_public_nonprofit_pct,percentage,FAIL,percentage must be 0..100
+PCT_0_100,goms_recent_self_employed_pct,percentage,FAIL,percentage must be 0..100
+PCT_0_100,goms_recent_unstable_pct,percentage,FAIL,percentage must be 0..100
+PCT_0_100,graduate_school_progression_rate_pct,percentage,FAIL,percentage must be 0..100
+PCT_0_100,health_employment_rate_pct,percentage,FAIL,percentage must be 0..100
+PCT_0_100,international_student_share_pct,percentage,FAIL,percentage must be 0..100
+PCT_0_100,leave_rate_pct,percentage,FAIL,percentage must be 0..100
+PCT_0_100,overseas_progression_rate_pct,percentage,FAIL,percentage must be 0..100
+PCT_0_100,progression_rate_pct,percentage,FAIL,percentage must be 0..100
+PCT_0_100,selectivity_proxy_pct,percentage,FAIL,percentage must be 0..100
+PCT_0_100,university_progression_rate_pct,percentage,FAIL,percentage must be 0..100
+PCT_0_100,vocational_college_progression_rate_pct,percentage,FAIL,percentage must be 0..100
+COUNT_NONNEGATIVE,admission_capacity_n,count,FAIL,count must be integer-like and non-negative
+COUNT_NONNEGATIVE,admits_n,count,FAIL,count must be integer-like and non-negative
+COUNT_NONNEGATIVE,applicants_n,count,FAIL,count must be integer-like and non-negative
+COUNT_NONNEGATIVE,ctx24_reference_sample_n,count,FAIL,count must be integer-like and non-negative
+COUNT_NONNEGATIVE,doctoral_students_n,count,FAIL,count must be integer-like and non-negative
+COUNT_NONNEGATIVE,enrolled_students_n,count,FAIL,count must be integer-like and non-negative
+COUNT_NONNEGATIVE,female_students_n,count,FAIL,count must be integer-like and non-negative
+COUNT_NONNEGATIVE,fulltime_faculty_n,count,FAIL,count must be integer-like and non-negative
+COUNT_NONNEGATIVE,goms_profile_years_n,count,FAIL,count must be integer-like and non-negative
+COUNT_NONNEGATIVE,goms_source_years_observed,count,FAIL,count must be integer-like and non-negative
+COUNT_NONNEGATIVE,graduates_n,count,FAIL,count must be integer-like and non-negative
+COUNT_NONNEGATIVE,international_students_n,count,FAIL,count must be integer-like and non-negative
+COUNT_NONNEGATIVE,leave_students_n,count,FAIL,count must be integer-like and non-negative
+COUNT_NONNEGATIVE,major7_candidate_count,count,FAIL,count must be integer-like and non-negative
+COUNT_NONNEGATIVE,masters_students_n,count,FAIL,count must be integer-like and non-negative
+COUNT_NONNEGATIVE,nonfulltime_faculty_n,count,FAIL,count must be integer-like and non-negative
+COUNT_NONNEGATIVE,recruitment_n,count,FAIL,count must be integer-like and non-negative
+RATIO_NONNEGATIVE,admission_yield_ratio,ratio,FAIL,ratio must be non-negative
+RATIO_NONNEGATIVE,admit_per_applicant_ratio,ratio,FAIL,ratio must be non-negative
+RATIO_NONNEGATIVE,competition_ratio,ratio,FAIL,ratio must be non-negative
+RATIO_NONNEGATIVE,ctx24_cert_per_person,ratio,FAIL,ratio must be non-negative
+RATIO_NONNEGATIVE,ctx24_industry_hhi,ratio,FAIL,ratio must be non-negative
+RATIO_NONNEGATIVE,goms_recent_hourly_income_proxy,ratio,FAIL,ratio must be non-negative
+RATIO_NONNEGATIVE,goms_recent_industry_hhi,ratio,FAIL,ratio must be non-negative
+RATIO_NONNEGATIVE,student_faculty_ratio,ratio,FAIL,ratio must be non-negative
+BOOLEAN_TRUE_FALSE_NA,campus_conflict_flag,boolean,FAIL,boolean may only be True/False/NA
+BOOLEAN_TRUE_FALSE_NA,credit_forfeit_flag,boolean,FAIL,boolean may only be True/False/NA
+BOOLEAN_TRUE_FALSE_NA,degree_course_conflict_flag,boolean,FAIL,boolean may only be True/False/NA
+BOOLEAN_TRUE_FALSE_NA,forbidden_modifier_conflict_flag,boolean,FAIL,boolean may only be True/False/NA
+BOOLEAN_TRUE_FALSE_NA,goms_year_over_year_review_flag,boolean,FAIL,boolean may only be True/False/NA
+BOOLEAN_TRUE_FALSE_NA,grain_review_needed,boolean,FAIL,boolean may only be True/False/NA
+BOOLEAN_TRUE_FALSE_NA,has_employment,boolean,FAIL,boolean may only be True/False/NA
+BOOLEAN_TRUE_FALSE_NA,has_major_group_7_high_medium,boolean,FAIL,boolean may only be True/False/NA
+BOOLEAN_TRUE_FALSE_NA,has_progression,boolean,FAIL,boolean may only be True/False/NA
+BOOLEAN_TRUE_FALSE_NA,has_selectivity,boolean,FAIL,boolean may only be True/False/NA
+BOOLEAN_TRUE_FALSE_NA,has_structure_context,boolean,FAIL,boolean may only be True/False/NA
+BOOLEAN_TRUE_FALSE_NA,headcount_match_flag,boolean,FAIL,boolean may only be True/False/NA
+BOOLEAN_TRUE_FALSE_NA,major7_review_needed,boolean,FAIL,boolean may only be True/False/NA
+BOOLEAN_TRUE_FALSE_NA,major_conflict_flag,boolean,FAIL,boolean may only be True/False/NA
+BOOLEAN_TRUE_FALSE_NA,review_needed,boolean,FAIL,boolean may only be True/False/NA
+PRIMARY_ID_NOT_EMPTY,campus_uid,id,FAIL,primary ID cannot be null or empty string
+PRIMARY_ID_NOT_EMPTY,dept_uid,id,FAIL,primary ID cannot be null or empty string
+OPTIONAL_LINEAGE_ID_NULL_LEDGER,headcount_grain_uid,id,WARN,optional lineage ID may be null when source grain is unavailable; ledger only
+OPTIONAL_LINEAGE_ID_NULL_LEDGER,headcount_row_id,id,WARN,optional lineage ID may be null when source grain is unavailable; ledger only
+OPTIONAL_LINEAGE_ID_NULL_LEDGER,kedi_dept_code,id,WARN,optional lineage ID may be null when source grain is unavailable; ledger only
+PRIMARY_ID_NOT_EMPTY,outcome_row_id,id,FAIL,primary ID cannot be null or empty string
+PRIMARY_ID_NOT_EMPTY,school_uid,id,FAIL,primary ID cannot be null or empty string
+CONTEXT_NAMING_CONTEXT_ONLY,goms_recent_employment_rate_pct,context_label,WARN,context variable uses outcome-like name; registry must mark C24/GOMS context
+CONTEXT_NAMING_CONTEXT_ONLY,goms_recent_mean_income_10kkrw,context_label,WARN,context variable uses outcome-like name; registry must mark C24/GOMS context

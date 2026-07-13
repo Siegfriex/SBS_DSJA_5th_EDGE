@@ -1,0 +1,23 @@
+# P4 Cleaning Data Card
+
+## Active Contract
+
+- active path: `workbook/p2/p2_3/p4_handoff_candidate/shared/mart_department_model_base_2024.parquet`
+- shape: `10242 x 151`
+- SHA256: `598b68b31b5358dfd23839d4c138cc64838d05876b7791980b376c0453f29962`
+- grain: `analysis_year + school_uid + campus_uid + dept_uid + outcome_row_id`
+- full-grain duplicate extra rows: `0`
+- department-grain duplicate extra rows without outcome id: `18`
+
+## Baseline Reconciliation
+
+| metric | expected | actual | difference | status | evidence_path | explanation |
+| --- | --- | --- | --- | --- | --- | --- |
+| D08 shape | 10242x151 | 10242x151 |  | PASS | /home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/p4_cleaning_handoff_v3/qa/d08_key_grain_audit.csv | matches previous audit baseline |
+| D08 SHA256 | 598b68b31b5358dfd23839d4c138cc64838d05876b7791980b376c0453f29962 | 598b68b31b5358dfd23839d4c138cc64838d05876b7791980b376c0453f29962 |  | PASS | /home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/p4_cleaning_handoff_v3/qa/d08_key_grain_audit.csv | matches previous audit baseline |
+| P4 composite duplicate rows | 0 | 0 | 0.0 | PASS | /home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/p4_cleaning_handoff_v3/qa/d08_key_grain_audit.csv | matches previous audit baseline |
+| carried headcount UID duplicate rows | 18 | 14 | -4.0 | UNEXPLAINED_DRIFT | /home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/p4_cleaning_handoff_v3/qa/d08_key_grain_audit.csv | current recomputation separates full department-grain duplicate extra rows (18) from repeated non-null headcount UID extra rows (14). |
+| structure high-confidence rows | 8561 | 8561 | 0.0 | PASS | /home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/p4_cleaning_handoff_v3/qa/d08_key_grain_audit.csv | matches previous audit baseline |
+| major7 high/medium rows | 10099 | 10099 | 0.0 | PASS | /home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/p4_cleaning_handoff_v3/qa/d08_key_grain_audit.csv | matches previous audit baseline |
+| school split schools | 200 | 200 | 0.0 | PASS | /home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/p4_cleaning_handoff_v3/qa/d08_key_grain_audit.csv | matches previous audit baseline |
+| manifest audit rows | 37 | 37 | 0.0 | PASS | /home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/p4_cleaning_handoff_v3/qa/d08_key_grain_audit.csv | matches previous audit baseline |

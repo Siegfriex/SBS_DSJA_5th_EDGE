@@ -1,0 +1,5 @@
+source,metric,max_abs_raw_minus_residual,allclose,reason
+end_to_end_cv,iv_deviance,2.282073419124231e-10,False,"Residual equals raw A minus fitted P3 controls; with the same controls in a linear P4 design, RAW_A and residual span the same one-dimensional added information."
+end_to_end_cv,iv_brier,3.377730213582897e-11,True,"Residual equals raw A minus fitted P3 controls; with the same controls in a linear P4 design, RAW_A and residual span the same one-dimensional added information."
+end_to_end_cv,iv_mae,8.366750348098861e-11,True,"Residual equals raw A minus fitted P3 controls; with the same controls in a linear P4 design, RAW_A and residual span the same one-dimensional added information."
+bootstrap_fast_generated_regressor,ame,7.581794792682617e-10,True,"Residual equals raw A minus fitted P3 controls; with the same controls in a linear P4 design, RAW_A and residual span the same one-dimensional added information."

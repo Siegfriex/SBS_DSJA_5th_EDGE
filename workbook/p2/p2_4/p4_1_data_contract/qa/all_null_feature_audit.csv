@@ -1,0 +1,3 @@
+﻿feature_set_id,column,p4_use,exists_in_d08,d08_all_null
+CTX24_WAGE_DISABLED_ALL_NULL,ctx24_industry_top3_pct,False,True,True
+CTX24_WAGE_DISABLED_ALL_NULL,ctx24_industry_hhi,False,True,True

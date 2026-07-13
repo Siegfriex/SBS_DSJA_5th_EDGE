@@ -1,0 +1,88 @@
+{
+  "legacy_d08": {
+    "path": "workbook/p2/p2_3/p4_handoff_candidate/shared/mart_department_model_base_2024.parquet",
+    "exists": true,
+    "shape": "10242 x 151",
+    "sha256": "598b68b31b5358dfd23839d4c138cc64838d05876b7791980b376c0453f29962"
+  },
+  "strict_clean_d08": {
+    "path": "workbook/p2/p2_4/source_eda/strict_clean_v1/mart_department_model_base_2024_strict_drop.parquet",
+    "exists": true,
+    "shape": "7592 x 151",
+    "sha256": "5f56e375fd1c0474a5e55652859ae007e2f45becd6d3350ee4c82e21fab8df9b"
+  },
+  "strict_target_sample_membership": {
+    "path": "workbook/p2/p2_4/source_eda/strict_clean_v1/strict_target_sample_membership.csv",
+    "exists": true,
+    "shape": "61452 x 7",
+    "sha256": "29bf19120774e7d0a86e1c6b6892d012832f3fd6fd5dbed5e6a752e8f2e0e61c"
+  },
+  "manual_feature_registry": {
+    "path": "workbook/p2/p2_4/source_eda/human_handoff_packet/03_MODEL_INPUT/manual_approved_feature_registry.csv",
+    "exists": true,
+    "shape": "198 x 11",
+    "sha256": "2cdb7797c4619c625fc6a171710970b7691446f4d62cae9accd2ab5c68f15051"
+  },
+  "manual_scope_policy": {
+    "path": "workbook/p2/p2_4/source_eda/human_handoff_packet/03_MODEL_INPUT/manual_approved_scope_policy.json",
+    "exists": true,
+    "shape": "json_keys=5",
+    "sha256": "a54746950e43af33ad666b405c401f4f1a2f6fef9e35045016cf3f3d27e242ad"
+  },
+  "manual_target_policy": {
+    "path": "workbook/p2/p2_4/source_eda/human_handoff_packet/03_MODEL_INPUT/manual_approved_target_and_scope_policy.csv",
+    "exists": true,
+    "shape": "32 x 7",
+    "sha256": "c3f56647cc63135dd74609ed4b0436d0058655fc0e82354691b276a067d5b389"
+  },
+  "manual_policy": {
+    "all_null_context_features": {
+      "columns": [
+        "ctx24_industry_hhi",
+        "ctx24_industry_top3_pct"
+      ],
+      "decision": "exclude_from_features"
+    },
+    "panel_track": {
+      "decision": "drop_panel_track",
+      "artifacts": [
+        "mart_department_panel_2023_2025",
+        "mart_A_rate_transition_2023_2025"
+      ]
+    },
+    "d05_job_cert": {
+      "decision": "drop_D05_scope",
+      "columns": 35
+    },
+    "historical_2023_targets": {
+      "decision": "exclude_2023_target",
+      "columns": [
+        "domestic_progression_rate_pct",
+        "graduate_school_progression_rate_pct",
+        "health_employment_rate_pct",
+        "overseas_progression_rate_pct",
+        "progression_rate_pct",
+        "selectivity_proxy_pct",
+        "university_progression_rate_pct",
+        "vocational_college_progression_rate_pct"
+      ]
+    },
+    "target_leakage": {
+      "decision": "keep_blocked",
+      "pairs": 16
+    },
+    "deleted_rows": {
+      "decision": "no_deleted_rows_recovered",
+      "rows": 2650
+    }
+  },
+  "manual_approved_feature_counts": {
+    "true": 131,
+    "false": 67
+  },
+  "manual_scope_decision_counts": {
+    "inherit_strict_global_policy": 159,
+    "drop_D05_scope_manual_review": 35,
+    "exclude_from_features_manual_all_null": 4
+  }
+}

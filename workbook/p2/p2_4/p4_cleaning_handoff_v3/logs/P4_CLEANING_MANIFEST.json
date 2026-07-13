@@ -1,0 +1,710 @@
+{
+  "created_at": "2026-07-13T01:52:14.320180+00:00",
+  "output_root": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/p4_cleaning_handoff_v3",
+  "files": [
+    {
+      "label": "context_variable_registry.csv",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/p4_cleaning_handoff_v3/artifacts/context_variable_registry.csv",
+      "relative_path": "workbook/p2/p2_4/p4_cleaning_handoff_v3/artifacts/context_variable_registry.csv",
+      "exists": true,
+      "size_bytes": 13876,
+      "sha256": "f3617a85ce3ad94f389a48287910508314eb831897de76ff7256af7ae5076d00",
+      "mtime": "2026-07-13T10:52:12.348251",
+      "shape": [
+        80,
+        8
+      ],
+      "row_count": 80,
+      "column_count": 8,
+      "shape_error": null
+    },
+    {
+      "label": "count_readiness_registry.csv",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/p4_cleaning_handoff_v3/artifacts/count_readiness_registry.csv",
+      "relative_path": "workbook/p2/p2_4/p4_cleaning_handoff_v3/artifacts/count_readiness_registry.csv",
+      "exists": true,
+      "size_bytes": 3004,
+      "sha256": "354ee4d570dd17f447ef4202e53a6938d7d264aff0393d2272613ae3ea8cd271",
+      "mtime": "2026-07-13T10:52:12.382133",
+      "shape": [
+        9,
+        7
+      ],
+      "row_count": 9,
+      "column_count": 7,
+      "shape_error": null
+    },
+    {
+      "label": "department_model_column_registry_v3.csv",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/p4_cleaning_handoff_v3/artifacts/department_model_column_registry_v3.csv",
+      "relative_path": "workbook/p2/p2_4/p4_cleaning_handoff_v3/artifacts/department_model_column_registry_v3.csv",
+      "exists": true,
+      "size_bytes": 58509,
+      "sha256": "e3c487f617eb7159fc9412cd35f994dd0292c2adb8a4ddde64971f93b50721ba",
+      "mtime": "2026-07-13T10:52:12.339491",
+      "shape": [
+        151,
+        22
+      ],
+      "row_count": 151,
+      "column_count": 22,
+      "shape_error": null
+    },
+    {
+      "label": "model_sample_registry_v3.csv",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/p4_cleaning_handoff_v3/artifacts/model_sample_registry_v3.csv",
+      "relative_path": "workbook/p2/p2_4/p4_cleaning_handoff_v3/artifacts/model_sample_registry_v3.csv",
+      "exists": true,
+      "size_bytes": 5348,
+      "sha256": "f75891b369bac6c6a7caaf466dc8834097a1f739597ab0c5938f1494962e9eb7",
+      "mtime": "2026-07-13T10:52:12.842394",
+      "shape": [
+        21,
+        16
+      ],
+      "row_count": 21,
+      "column_count": 16,
+      "shape_error": null
+    },
+    {
+      "label": "p4_feature_block_registry_v3.csv",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/p4_cleaning_handoff_v3/artifacts/p4_feature_block_registry_v3.csv",
+      "relative_path": "workbook/p2/p2_4/p4_cleaning_handoff_v3/artifacts/p4_feature_block_registry_v3.csv",
+      "exists": true,
+      "size_bytes": 305,
+      "sha256": "eef2288cd188aa4749a331aaa72a33af974d8a5e30e30655726f9f041d46deaa",
+      "mtime": "2026-07-13T10:52:12.347041",
+      "shape": [
+        13,
+        6
+      ],
+      "row_count": 13,
+      "column_count": 6,
+      "shape_error": null
+    },
+    {
+      "label": "p4_phase_model_contract.csv",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/p4_cleaning_handoff_v3/artifacts/p4_phase_model_contract.csv",
+      "relative_path": "workbook/p2/p2_4/p4_cleaning_handoff_v3/artifacts/p4_phase_model_contract.csv",
+      "exists": true,
+      "size_bytes": 256448,
+      "sha256": "7fc5ce256c6772531c6aabbe52cb6c142d7328947816051bd5125205bc1188c2",
+      "mtime": "2026-07-13T10:52:12.413993",
+      "shape": [
+        1661,
+        10
+      ],
+      "row_count": 1661,
+      "column_count": 10,
+      "shape_error": null
+    },
+    {
+      "label": "target_feature_eligibility_matrix.csv",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/p4_cleaning_handoff_v3/artifacts/target_feature_eligibility_matrix.csv",
+      "relative_path": "workbook/p2/p2_4/p4_cleaning_handoff_v3/artifacts/target_feature_eligibility_matrix.csv",
+      "exists": true,
+      "size_bytes": 256448,
+      "sha256": "7fc5ce256c6772531c6aabbe52cb6c142d7328947816051bd5125205bc1188c2",
+      "mtime": "2026-07-13T10:52:12.420157",
+      "shape": [
+        1661,
+        10
+      ],
+      "row_count": 1661,
+      "column_count": 10,
+      "shape_error": null
+    },
+    {
+      "label": "model_sample_membership_v3.parquet",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/p4_cleaning_handoff_v3/data/model_sample_membership_v3.parquet",
+      "relative_path": "workbook/p2/p2_4/p4_cleaning_handoff_v3/data/model_sample_membership_v3.parquet",
+      "exists": true,
+      "size_bytes": 284962,
+      "sha256": "f60135c62c3c8e9187624661434b3c45908653c4b980ed56f171a3778b0e842d",
+      "mtime": "2026-07-13T10:52:12.849876",
+      "shape": [
+        10242,
+        30
+      ],
+      "row_count": 10242,
+      "column_count": 30,
+      "shape_error": null
+    },
+    {
+      "label": "P4_CLEANING_MANIFEST.json",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/p4_cleaning_handoff_v3/logs/P4_CLEANING_MANIFEST.json",
+      "relative_path": "workbook/p2/p2_4/p4_cleaning_handoff_v3/logs/P4_CLEANING_MANIFEST.json",
+      "exists": true,
+      "size_bytes": 25770,
+      "sha256": "3745bcb8666611ab9e8f5cbfd4281e9fe867ed372a3e339c98221096dc964588",
+      "mtime": "2026-07-13T10:52:14.275251",
+      "shape": [
+        3,
+        null
+      ],
+      "row_count": 3,
+      "column_count": null,
+      "shape_error": null
+    },
+    {
+      "label": "decision_log.csv",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/p4_cleaning_handoff_v3/logs/decision_log.csv",
+      "relative_path": "workbook/p2/p2_4/p4_cleaning_handoff_v3/logs/decision_log.csv",
+      "exists": true,
+      "size_bytes": 600,
+      "sha256": "6aa7f3246251063085cb9cc5283ac0b3d337becaefd3c66d1364b34856b2d72e",
+      "mtime": "2026-07-13T10:52:14.220795",
+      "shape": [
+        3,
+        4
+      ],
+      "row_count": 3,
+      "column_count": 4,
+      "shape_error": null
+    },
+    {
+      "label": "input_file_inventory.json",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/p4_cleaning_handoff_v3/logs/input_file_inventory.json",
+      "relative_path": "workbook/p2/p2_4/p4_cleaning_handoff_v3/logs/input_file_inventory.json",
+      "exists": true,
+      "size_bytes": 13503,
+      "sha256": "210b2b3ebe6d146e069a90ca7d14f19ec2c7793fbfcd73e9fb1a58d6e7f16df0",
+      "mtime": "2026-07-13T10:52:11.854724",
+      "shape": [
+        2,
+        null
+      ],
+      "row_count": 2,
+      "column_count": null,
+      "shape_error": null
+    },
+    {
+      "label": "run_manifest.json",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/p4_cleaning_handoff_v3/logs/run_manifest.json",
+      "relative_path": "workbook/p2/p2_4/p4_cleaning_handoff_v3/logs/run_manifest.json",
+      "exists": true,
+      "size_bytes": 940,
+      "sha256": "0bd9a81f541ad842f63765832dcf2bce502d74d7599cc8e590c5fb7ba30516b8",
+      "mtime": "2026-07-13T10:52:14.224715",
+      "shape": [
+        11,
+        null
+      ],
+      "row_count": 11,
+      "column_count": null,
+      "shape_error": null
+    },
+    {
+      "label": "transformation_log.csv",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/p4_cleaning_handoff_v3/logs/transformation_log.csv",
+      "relative_path": "workbook/p2/p2_4/p4_cleaning_handoff_v3/logs/transformation_log.csv",
+      "exists": true,
+      "size_bytes": 495,
+      "sha256": "9da46cecb01ef3d591b8536d97cacb93215ac58180ffe68fb8c4492771eb54ae",
+      "mtime": "2026-07-13T10:52:14.221398",
+      "shape": [
+        3,
+        4
+      ],
+      "row_count": 3,
+      "column_count": 4,
+      "shape_error": null
+    },
+    {
+      "label": "d08_rows_by_major7.csv",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/p4_cleaning_handoff_v3/profiles/d08_rows_by_major7.csv",
+      "relative_path": "workbook/p2/p2_4/p4_cleaning_handoff_v3/profiles/d08_rows_by_major7.csv",
+      "exists": true,
+      "size_bytes": 88,
+      "sha256": "3903b76d27e527f403000c7f9bae3909b9a528de542fcad66a60a152ca0e1f3a",
+      "mtime": "2026-07-13T10:52:11.950087",
+      "shape": [
+        8,
+        2
+      ],
+      "row_count": 8,
+      "column_count": 2,
+      "shape_error": null
+    },
+    {
+      "label": "d08_rows_by_school.csv",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/p4_cleaning_handoff_v3/profiles/d08_rows_by_school.csv",
+      "relative_path": "workbook/p2/p2_4/p4_cleaning_handoff_v3/profiles/d08_rows_by_school.csv",
+      "exists": true,
+      "size_bytes": 7807,
+      "sha256": "d86bc06e9b86dda9bf863378b88d1e10e7c282227a2fb440f423c5590a02d15b",
+      "mtime": "2026-07-13T10:52:11.949003",
+      "shape": [
+        200,
+        3
+      ],
+      "row_count": 200,
+      "column_count": 3,
+      "shape_error": null
+    },
+    {
+      "label": "sample_composition_by_major7.csv",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/p4_cleaning_handoff_v3/profiles/sample_composition_by_major7.csv",
+      "relative_path": "workbook/p2/p2_4/p4_cleaning_handoff_v3/profiles/sample_composition_by_major7.csv",
+      "exists": true,
+      "size_bytes": 12056,
+      "sha256": "b0764e3901ba2ff40cdd58708f9ec8922b37e85332904edff03532f3b19741e0",
+      "mtime": "2026-07-13T10:52:12.855686",
+      "shape": [
+        357,
+        4
+      ],
+      "row_count": 357,
+      "column_count": 4,
+      "shape_error": null
+    },
+    {
+      "label": "sample_composition_by_school_type.csv",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/p4_cleaning_handoff_v3/profiles/sample_composition_by_school_type.csv",
+      "relative_path": "workbook/p2/p2_4/p4_cleaning_handoff_v3/profiles/sample_composition_by_school_type.csv",
+      "exists": true,
+      "size_bytes": 7243,
+      "sha256": "71d0ed09c25d42ab60aff785000b1dda17d4e04522ea7aa4ebca09d916fb1a5b",
+      "mtime": "2026-07-13T10:52:12.856192",
+      "shape": [
+        176,
+        4
+      ],
+      "row_count": 176,
+      "column_count": 4,
+      "shape_error": null
+    },
+    {
+      "label": "baseline_reconciliation.csv",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/p4_cleaning_handoff_v3/qa/baseline_reconciliation.csv",
+      "relative_path": "workbook/p2/p2_4/p4_cleaning_handoff_v3/qa/baseline_reconciliation.csv",
+      "exists": true,
+      "size_bytes": 1742,
+      "sha256": "58426f940fe820bb643296ca7a5640b032c9281374ec556c9d3a9080743da052",
+      "mtime": "2026-07-13T10:52:14.193893",
+      "shape": [
+        8,
+        7
+      ],
+      "row_count": 8,
+      "column_count": 7,
+      "shape_error": null
+    },
+    {
+      "label": "carried_headcount_uid_duplicate_rows.csv",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/p4_cleaning_handoff_v3/qa/carried_headcount_uid_duplicate_rows.csv",
+      "relative_path": "workbook/p2/p2_4/p4_cleaning_handoff_v3/qa/carried_headcount_uid_duplicate_rows.csv",
+      "exists": true,
+      "size_bytes": 19455,
+      "sha256": "9130e2aeac3812d87f9325fdaf5f04288edc7d696d5d9f98a841f78b6203676f",
+      "mtime": "2026-07-13T10:52:12.024552",
+      "shape": [
+        36,
+        21
+      ],
+      "row_count": 36,
+      "column_count": 21,
+      "shape_error": null
+    },
+    {
+      "label": "context_grain_audit.csv",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/p4_cleaning_handoff_v3/qa/context_grain_audit.csv",
+      "relative_path": "workbook/p2/p2_4/p4_cleaning_handoff_v3/qa/context_grain_audit.csv",
+      "exists": true,
+      "size_bytes": 4915,
+      "sha256": "3aaabb7042202aa085bc22b12fed632749515365a46bc48eb30c491c96ce3cb2",
+      "mtime": "2026-07-13T10:52:13.268207",
+      "shape": [
+        43,
+        8
+      ],
+      "row_count": 43,
+      "column_count": 8,
+      "shape_error": null
+    },
+    {
+      "label": "count_arithmetic_integrity.csv",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/p4_cleaning_handoff_v3/qa/count_arithmetic_integrity.csv",
+      "relative_path": "workbook/p2/p2_4/p4_cleaning_handoff_v3/qa/count_arithmetic_integrity.csv",
+      "exists": true,
+      "size_bytes": 1214,
+      "sha256": "32b016120680b39fbfc217bc6dba0eaf8c516d2c2083c99cce6570807771c6e2",
+      "mtime": "2026-07-13T10:52:12.377567",
+      "shape": [
+        21,
+        4
+      ],
+      "row_count": 21,
+      "column_count": 4,
+      "shape_error": null
+    },
+    {
+      "label": "count_denominator_inventory.csv",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/p4_cleaning_handoff_v3/qa/count_denominator_inventory.csv",
+      "relative_path": "workbook/p2/p2_4/p4_cleaning_handoff_v3/qa/count_denominator_inventory.csv",
+      "exists": true,
+      "size_bytes": 16393,
+      "sha256": "e5f98113264ea1d5cce968e3864651295b71a13e2e087804023e23c47af09ae4",
+      "mtime": "2026-07-13T10:52:12.372057",
+      "shape": [
+        72,
+        13
+      ],
+      "row_count": 72,
+      "column_count": 13,
+      "shape_error": null
+    },
+    {
+      "label": "d08_key_grain_audit.csv",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/p4_cleaning_handoff_v3/qa/d08_key_grain_audit.csv",
+      "relative_path": "workbook/p2/p2_4/p4_cleaning_handoff_v3/qa/d08_key_grain_audit.csv",
+      "exists": true,
+      "size_bytes": 696,
+      "sha256": "73041962f25c2971f597021cb3c233f3b814f37ccb18a764cfc46037688e46c0",
+      "mtime": "2026-07-13T10:52:11.946824",
+      "shape": [
+        16,
+        4
+      ],
+      "row_count": 16,
+      "column_count": 4,
+      "shape_error": null
+    },
+    {
+      "label": "derived_formula_reconstruction.csv",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/p4_cleaning_handoff_v3/qa/derived_formula_reconstruction.csv",
+      "relative_path": "workbook/p2/p2_4/p4_cleaning_handoff_v3/qa/derived_formula_reconstruction.csv",
+      "exists": true,
+      "size_bytes": 1163,
+      "sha256": "4c64021289618d58b469179e47f6a5b34946d5a0b16bb24d97975bb591e00be5",
+      "mtime": "2026-07-13T10:52:13.237251",
+      "shape": [
+        8,
+        7
+      ],
+      "row_count": 8,
+      "column_count": 7,
+      "shape_error": null
+    },
+    {
+      "label": "leakage_fail_reclassification.csv",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/p4_cleaning_handoff_v3/qa/leakage_fail_reclassification.csv",
+      "relative_path": "workbook/p2/p2_4/p4_cleaning_handoff_v3/qa/leakage_fail_reclassification.csv",
+      "exists": true,
+      "size_bytes": 2548,
+      "sha256": "1979fc0d12969734faa34af3e9c09b32a246bc7077412babedfd3dcbbc148ab3",
+      "mtime": "2026-07-13T10:52:12.423824",
+      "shape": [
+        16,
+        7
+      ],
+      "row_count": 16,
+      "column_count": 7,
+      "shape_error": null
+    },
+    {
+      "label": "manifest_integrity_audit_v3.csv",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/p4_cleaning_handoff_v3/qa/manifest_integrity_audit_v3.csv",
+      "relative_path": "workbook/p2/p2_4/p4_cleaning_handoff_v3/qa/manifest_integrity_audit_v3.csv",
+      "exists": true,
+      "size_bytes": 14576,
+      "sha256": "3a79eeae68cfd948f8336c8f6f477c41b7e25caf17ee980dddcced7a7984f65c",
+      "mtime": "2026-07-13T10:52:11.851454",
+      "shape": [
+        37,
+        16
+      ],
+      "row_count": 37,
+      "column_count": 16,
+      "shape_error": null
+    },
+    {
+      "label": "merge_cardinality_audit.csv",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/p4_cleaning_handoff_v3/qa/merge_cardinality_audit.csv",
+      "relative_path": "workbook/p2/p2_4/p4_cleaning_handoff_v3/qa/merge_cardinality_audit.csv",
+      "exists": true,
+      "size_bytes": 773,
+      "sha256": "afaeee233e704973332ee841a52d43da4063c0963806bedb245c07b1d125b619",
+      "mtime": "2026-07-13T10:52:12.115824",
+      "shape": [
+        5,
+        15
+      ],
+      "row_count": 5,
+      "column_count": 15,
+      "shape_error": null
+    },
+    {
+      "label": "missingness_selection_audit.csv",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/p4_cleaning_handoff_v3/qa/missingness_selection_audit.csv",
+      "relative_path": "workbook/p2/p2_4/p4_cleaning_handoff_v3/qa/missingness_selection_audit.csv",
+      "exists": true,
+      "size_bytes": 9736,
+      "sha256": "86545d3b8fb33466d622a945993c77f7fb551a5e14becc0af87f2991ba15a9c9",
+      "mtime": "2026-07-13T10:52:12.930170",
+      "shape": [
+        152,
+        7
+      ],
+      "row_count": 152,
+      "column_count": 7,
+      "shape_error": null
+    },
+    {
+      "label": "parent_headcount_reuse_audit.csv",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/p4_cleaning_handoff_v3/qa/parent_headcount_reuse_audit.csv",
+      "relative_path": "workbook/p2/p2_4/p4_cleaning_handoff_v3/qa/parent_headcount_reuse_audit.csv",
+      "exists": true,
+      "size_bytes": 8007,
+      "sha256": "c28c7e7912cf3dcda9ef19c7f10be77493f9c63f6907cec22631518c23ef2b3e",
+      "mtime": "2026-07-13T10:52:12.025719",
+      "shape": [
+        18,
+        13
+      ],
+      "row_count": 18,
+      "column_count": 13,
+      "shape_error": null
+    },
+    {
+      "label": "preprocessor_smoke_test.csv",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/p4_cleaning_handoff_v3/qa/preprocessor_smoke_test.csv",
+      "relative_path": "workbook/p2/p2_4/p4_cleaning_handoff_v3/qa/preprocessor_smoke_test.csv",
+      "exists": true,
+      "size_bytes": 308,
+      "sha256": "2d442c8b5a22c4370ce1b4acf3fa9894430484cdb8a26100c1d66e301ab39d2b",
+      "mtime": "2026-07-13T10:52:14.189895",
+      "shape": [
+        1,
+        13
+      ],
+      "row_count": 1,
+      "column_count": 13,
+      "shape_error": null
+    },
+    {
+      "label": "rate_reconstruction_audit.csv",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/p4_cleaning_handoff_v3/qa/rate_reconstruction_audit.csv",
+      "relative_path": "workbook/p2/p2_4/p4_cleaning_handoff_v3/qa/rate_reconstruction_audit.csv",
+      "exists": true,
+      "size_bytes": 792,
+      "sha256": "ee17db157a9a037a06e1a3f5e646f0b4bf0b4ec5c295e80e92d79a010929359b",
+      "mtime": "2026-07-13T10:52:12.377889",
+      "shape": [
+        6,
+        9
+      ],
+      "row_count": 6,
+      "column_count": 9,
+      "shape_error": null
+    },
+    {
+      "label": "sample_flow_sequential.csv",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/p4_cleaning_handoff_v3/qa/sample_flow_sequential.csv",
+      "relative_path": "workbook/p2/p2_4/p4_cleaning_handoff_v3/qa/sample_flow_sequential.csv",
+      "exists": true,
+      "size_bytes": 3080,
+      "sha256": "8f883b6ff9f77ec4c4d5bb58ad07ee3cfea799111cd393f460795bfca26ee15d",
+      "mtime": "2026-07-13T10:52:12.855299",
+      "shape": [
+        21,
+        5
+      ],
+      "row_count": 21,
+      "column_count": 5,
+      "shape_error": null
+    },
+    {
+      "label": "sample_registry_reconciliation.csv",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/p4_cleaning_handoff_v3/qa/sample_registry_reconciliation.csv",
+      "relative_path": "workbook/p2/p2_4/p4_cleaning_handoff_v3/qa/sample_registry_reconciliation.csv",
+      "exists": true,
+      "size_bytes": 234,
+      "sha256": "73b7276340d59d58430a1c545f4b3d24e0425abcd2e65726d6fd7aa52d5f4bd1",
+      "mtime": "2026-07-13T10:52:12.854440",
+      "shape": [
+        5,
+        5
+      ],
+      "row_count": 5,
+      "column_count": 5,
+      "shape_error": null
+    },
+    {
+      "label": "selectivity_observed_vs_missing.csv",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/p4_cleaning_handoff_v3/qa/selectivity_observed_vs_missing.csv",
+      "relative_path": "workbook/p2/p2_4/p4_cleaning_handoff_v3/qa/selectivity_observed_vs_missing.csv",
+      "exists": true,
+      "size_bytes": 606,
+      "sha256": "139b8c713a3b350910762512ff15d21ad320c239dff636300641eea8a47a6401",
+      "mtime": "2026-07-13T10:52:12.929609",
+      "shape": [
+        2,
+        12
+      ],
+      "row_count": 2,
+      "column_count": 12,
+      "shape_error": null
+    },
+    {
+      "label": "split_integrity_audit.csv",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/p4_cleaning_handoff_v3/qa/split_integrity_audit.csv",
+      "relative_path": "workbook/p2/p2_4/p4_cleaning_handoff_v3/qa/split_integrity_audit.csv",
+      "exists": true,
+      "size_bytes": 191,
+      "sha256": "828c5dfcca39b7edf532a868d55077cf96057087e0c80337c01605613d103964",
+      "mtime": "2026-07-13T10:52:13.279673",
+      "shape": [
+        6,
+        3
+      ],
+      "row_count": 6,
+      "column_count": 3,
+      "shape_error": null
+    },
+    {
+      "label": "target_leakage_audit_by_phase.csv",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/p4_cleaning_handoff_v3/qa/target_leakage_audit_by_phase.csv",
+      "relative_path": "workbook/p2/p2_4/p4_cleaning_handoff_v3/qa/target_leakage_audit_by_phase.csv",
+      "exists": true,
+      "size_bytes": 5778,
+      "sha256": "460718776978168fb812a2a134dc7641d41077e31ba7451dbe9b1b4c4ea23939",
+      "mtime": "2026-07-13T10:52:12.423549",
+      "shape": [
+        31,
+        11
+      ],
+      "row_count": 31,
+      "column_count": 11,
+      "shape_error": null
+    },
+    {
+      "label": "value_range_audit.csv",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/p4_cleaning_handoff_v3/qa/value_range_audit.csv",
+      "relative_path": "workbook/p2/p2_4/p4_cleaning_handoff_v3/qa/value_range_audit.csv",
+      "exists": true,
+      "size_bytes": 4231,
+      "sha256": "20966cf250240e8c65e2460c7a26e8957300571e8f395bc24d6186c236909001",
+      "mtime": "2026-07-13T10:52:13.220289",
+      "shape": [
+        108,
+        4
+      ],
+      "row_count": 108,
+      "column_count": 4,
+      "shape_error": null
+    },
+    {
+      "label": "COUNT_DENOMINATOR_DATA_CARD.md",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/p4_cleaning_handoff_v3/reports/COUNT_DENOMINATOR_DATA_CARD.md",
+      "relative_path": "workbook/p2/p2_4/p4_cleaning_handoff_v3/reports/COUNT_DENOMINATOR_DATA_CARD.md",
+      "exists": true,
+      "size_bytes": 3372,
+      "sha256": "fc7e8b27d4e4b10ca8ead67a175546fa60e315b768a78ab166ff5c735fc66329",
+      "mtime": "2026-07-13T10:52:14.207326",
+      "shape": [
+        15,
+        null
+      ],
+      "row_count": 15,
+      "column_count": null,
+      "shape_error": null
+    },
+    {
+      "label": "P4_CLEANING_DATA_CARD.md",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/p4_cleaning_handoff_v3/reports/P4_CLEANING_DATA_CARD.md",
+      "relative_path": "workbook/p2/p2_4/p4_cleaning_handoff_v3/reports/P4_CLEANING_DATA_CARD.md",
+      "exists": true,
+      "size_bytes": 2386,
+      "sha256": "528cf3ffa5acabebebca5adba4be4e640ccf16882bf58840c78e13b4070d93e3",
+      "mtime": "2026-07-13T10:52:14.205301",
+      "shape": [
+        23,
+        null
+      ],
+      "row_count": 23,
+      "column_count": null,
+      "shape_error": null
+    },
+    {
+      "label": "P4_CLEANING_FINAL_REPORT.md",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/p4_cleaning_handoff_v3/reports/P4_CLEANING_FINAL_REPORT.md",
+      "relative_path": "workbook/p2/p2_4/p4_cleaning_handoff_v3/reports/P4_CLEANING_FINAL_REPORT.md",
+      "exists": true,
+      "size_bytes": 2967,
+      "sha256": "3399b3268b9f2c9227e2f87f6dd8e54842362e6a304b9bd4fa3727f979832317",
+      "mtime": "2026-07-13T10:52:14.219869",
+      "shape": [
+        52,
+        null
+      ],
+      "row_count": 52,
+      "column_count": null,
+      "shape_error": null
+    },
+    {
+      "label": "P4_CLEANING_FINAL_STATUS.json",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/p4_cleaning_handoff_v3/reports/P4_CLEANING_FINAL_STATUS.json",
+      "relative_path": "workbook/p2/p2_4/p4_cleaning_handoff_v3/reports/P4_CLEANING_FINAL_STATUS.json",
+      "exists": true,
+      "size_bytes": 767,
+      "sha256": "75bbcb1f3bd8d3d92f4843bcf21248da009ce47d5a24191c3e3fade393388e00",
+      "mtime": "2026-07-13T10:52:14.219991",
+      "shape": [
+        17,
+        null
+      ],
+      "row_count": 17,
+      "column_count": null,
+      "shape_error": null
+    },
+    {
+      "label": "P4_PHASE_DATA_CONTRACT.md",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/p4_cleaning_handoff_v3/reports/P4_PHASE_DATA_CONTRACT.md",
+      "relative_path": "workbook/p2/p2_4/p4_cleaning_handoff_v3/reports/P4_PHASE_DATA_CONTRACT.md",
+      "exists": true,
+      "size_bytes": 723,
+      "sha256": "0af40c3fd7e0e277697ce493e89453e13dea648c694dc1a923bb1c5abca9353a",
+      "mtime": "2026-07-13T10:52:14.213652",
+      "shape": [
+        17,
+        null
+      ],
+      "row_count": 17,
+      "column_count": null,
+      "shape_error": null
+    },
+    {
+      "label": "P4_UNRESOLVED_ISSUES.md",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/p4_cleaning_handoff_v3/reports/P4_UNRESOLVED_ISSUES.md",
+      "relative_path": "workbook/p2/p2_4/p4_cleaning_handoff_v3/reports/P4_UNRESOLVED_ISSUES.md",
+      "exists": true,
+      "size_bytes": 826,
+      "sha256": "c8e844dd733af58ad010a4ad0f46c3ff80134068422d4a6c903b5445bf4cff49",
+      "mtime": "2026-07-13T10:52:14.216584",
+      "shape": [
+        8,
+        null
+      ],
+      "row_count": 8,
+      "column_count": null,
+      "shape_error": null
+    },
+    {
+      "label": "PARENT_HEADCOUNT_REUSE_EXPLANATION.md",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/p4_cleaning_handoff_v3/reports/PARENT_HEADCOUNT_REUSE_EXPLANATION.md",
+      "relative_path": "workbook/p2/p2_4/p4_cleaning_handoff_v3/reports/PARENT_HEADCOUNT_REUSE_EXPLANATION.md",
+      "exists": true,
+      "size_bytes": 9442,
+      "sha256": "8b27f13bb4cc6007a778d4299b49d319c5e6ffd4d822248954fb95548401c6f3",
+      "mtime": "2026-07-13T10:52:14.206692",
+      "shape": [
+        30,
+        null
+      ],
+      "row_count": 30,
+      "column_count": null,
+      "shape_error": null
+    }
+  ]
+}

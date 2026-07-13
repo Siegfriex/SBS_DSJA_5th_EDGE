@@ -1,0 +1,6 @@
+variable,model_id,status,linear_aic,spline_aic,delta_aic_spline_minus_linear,effective_degrees_of_freedom,figure,branch
+student_faculty_ratio,P2-S4,READY,54001.831574515,53978.26745544945,-23.564119065551495,5.0,P2_GAM_P2-S4_student_faculty_ratio.png,P2-S
+log_enrolled_students,P2-S4,READY,54001.831574515,54001.89935903792,0.06778452291473513,5.0,P2_GAM_P2-S4_log_enrolled_students.png,P2-S
+log_graduates,P2-S4,READY,54001.831574515,53980.41828168341,-21.413292831595754,5.0,P2_GAM_P2-S4_log_graduates.png,P2-S
+selectivity_proxy_pct,P2-Q4,BLOCKED_FEATURE_CONTRACT,,,,,,P2-Q
+competition_ratio,P2-Q4,BLOCKED_FEATURE_CONTRACT,,,,,,P2-Q

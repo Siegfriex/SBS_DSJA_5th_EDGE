@@ -1,0 +1,352 @@
+{
+  "active_contract": {
+    "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/p4_handoff_candidate/shared/mart_department_model_base_2024.parquet",
+    "selection_reason": "P4_CANDIDATE_HANDOFF_LOCK.ready_for_p4=true and shared D08 matches manifest/expected SHA; shared registries are byte-identical to local1 copies.",
+    "notebook_context": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/p2_G4_source_parquet_csv_eda.ipynb",
+    "notebook_sha256": "be052fd39c0ba7979e5767885b81f614f511ce704478729c995c6cea0ec6117a"
+  },
+  "variant_comparison": [
+    {
+      "label": "shared/P4_HANDOFF_MANIFEST.json",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/p4_handoff_candidate/shared/P4_HANDOFF_MANIFEST.json",
+      "relative_path": "workbook/p2/p2_3/p4_handoff_candidate/shared/P4_HANDOFF_MANIFEST.json",
+      "exists": true,
+      "size_bytes": 67404,
+      "sha256": "b9ea9528b24630f15be8913012b40df81692d16e849120bb825f29ef35c01661",
+      "mtime": "2026-07-12T21:47:51.874951",
+      "shape": [
+        29,
+        null
+      ],
+      "row_count": 29,
+      "column_count": null,
+      "shape_error": null,
+      "candidate_file": "P4_HANDOFF_MANIFEST.json",
+      "variant": "shared"
+    },
+    {
+      "label": "local1/P4_HANDOFF_MANIFEST.json",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/p4_handoff_candidate/local1/P4_HANDOFF_MANIFEST.json",
+      "relative_path": "workbook/p2/p2_3/p4_handoff_candidate/local1/P4_HANDOFF_MANIFEST.json",
+      "exists": true,
+      "size_bytes": 67404,
+      "sha256": "b9ea9528b24630f15be8913012b40df81692d16e849120bb825f29ef35c01661",
+      "mtime": "2026-07-12T21:47:51.873354",
+      "shape": [
+        29,
+        null
+      ],
+      "row_count": 29,
+      "column_count": null,
+      "shape_error": null,
+      "candidate_file": "P4_HANDOFF_MANIFEST.json",
+      "variant": "local1"
+    },
+    {
+      "label": "shared/mart_department_model_base_2024.parquet",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/p4_handoff_candidate/shared/mart_department_model_base_2024.parquet",
+      "relative_path": "workbook/p2/p2_3/p4_handoff_candidate/shared/mart_department_model_base_2024.parquet",
+      "exists": true,
+      "size_bytes": 2103297,
+      "sha256": "598b68b31b5358dfd23839d4c138cc64838d05876b7791980b376c0453f29962",
+      "mtime": "2026-07-12T21:47:51.507501",
+      "shape": [
+        10242,
+        151
+      ],
+      "row_count": 10242,
+      "column_count": 151,
+      "shape_error": null,
+      "candidate_file": "mart_department_model_base_2024.parquet",
+      "variant": "shared"
+    },
+    {
+      "label": "p2_3_shared/mart_department_model_base_2024.parquet",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/shared/mart_department_model_base_2024.parquet",
+      "relative_path": "workbook/p2/p2_3/shared/mart_department_model_base_2024.parquet",
+      "exists": true,
+      "size_bytes": 1386259,
+      "sha256": "e7021282447ef1c993dcfe552d61738a2a4f990fddb1d7b85676c9d5a10cdb01",
+      "mtime": "2026-07-12T21:42:11.201992",
+      "shape": [
+        10242,
+        131
+      ],
+      "row_count": 10242,
+      "column_count": 131,
+      "shape_error": null,
+      "candidate_file": "mart_department_model_base_2024.parquet",
+      "variant": "p2_3_shared"
+    },
+    {
+      "label": "shared/dim_school_split.csv",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/p4_handoff_candidate/shared/dim_school_split.csv",
+      "relative_path": "workbook/p2/p2_3/p4_handoff_candidate/shared/dim_school_split.csv",
+      "exists": true,
+      "size_bytes": 10962,
+      "sha256": "85c2c851ddcfd02d5ead41dbd9424124e4ef1993347842c031e487e8f2a13583",
+      "mtime": "2026-07-12T21:47:51.513828",
+      "shape": [
+        200,
+        6
+      ],
+      "row_count": 200,
+      "column_count": 6,
+      "shape_error": null,
+      "candidate_file": "dim_school_split.csv",
+      "variant": "shared"
+    },
+    {
+      "label": "local1/dim_school_split.csv",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/p4_handoff_candidate/local1/dim_school_split.csv",
+      "relative_path": "workbook/p2/p2_3/p4_handoff_candidate/local1/dim_school_split.csv",
+      "exists": true,
+      "size_bytes": 10962,
+      "sha256": "85c2c851ddcfd02d5ead41dbd9424124e4ef1993347842c031e487e8f2a13583",
+      "mtime": "2026-07-12T21:47:51.438810",
+      "shape": [
+        200,
+        6
+      ],
+      "row_count": 200,
+      "column_count": 6,
+      "shape_error": null,
+      "candidate_file": "dim_school_split.csv",
+      "variant": "local1"
+    },
+    {
+      "label": "p2_3_shared/dim_school_split.csv",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/shared/dim_school_split.csv",
+      "relative_path": "workbook/p2/p2_3/shared/dim_school_split.csv",
+      "exists": true,
+      "size_bytes": 10962,
+      "sha256": "85c2c851ddcfd02d5ead41dbd9424124e4ef1993347842c031e487e8f2a13583",
+      "mtime": "2026-07-12T21:42:11.280415",
+      "shape": [
+        200,
+        6
+      ],
+      "row_count": 200,
+      "column_count": 6,
+      "shape_error": null,
+      "candidate_file": "dim_school_split.csv",
+      "variant": "p2_3_shared"
+    },
+    {
+      "label": "shared/model_sample_registry.csv",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/p4_handoff_candidate/shared/model_sample_registry.csv",
+      "relative_path": "workbook/p2/p2_3/p4_handoff_candidate/shared/model_sample_registry.csv",
+      "exists": true,
+      "size_bytes": 1641,
+      "sha256": "b3389c0051d9b9eeca555f43cd8194d99574c2444df68cd8273232f7f9a553f8",
+      "mtime": "2026-07-12T21:47:51.515308",
+      "shape": [
+        5,
+        12
+      ],
+      "row_count": 5,
+      "column_count": 12,
+      "shape_error": null,
+      "candidate_file": "model_sample_registry.csv",
+      "variant": "shared"
+    },
+    {
+      "label": "local1/model_sample_registry.csv",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/p4_handoff_candidate/local1/model_sample_registry.csv",
+      "relative_path": "workbook/p2/p2_3/p4_handoff_candidate/local1/model_sample_registry.csv",
+      "exists": true,
+      "size_bytes": 1641,
+      "sha256": "b3389c0051d9b9eeca555f43cd8194d99574c2444df68cd8273232f7f9a553f8",
+      "mtime": "2026-07-12T21:47:51.439257",
+      "shape": [
+        5,
+        12
+      ],
+      "row_count": 5,
+      "column_count": 12,
+      "shape_error": null,
+      "candidate_file": "model_sample_registry.csv",
+      "variant": "local1"
+    },
+    {
+      "label": "p2_3_shared/model_sample_registry.csv",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/shared/model_sample_registry.csv",
+      "relative_path": "workbook/p2/p2_3/shared/model_sample_registry.csv",
+      "exists": true,
+      "size_bytes": 1279,
+      "sha256": "9971a62aa8c3dbb59a79a17cd557d18e4445a2ba9b0581d902329b15bef18d28",
+      "mtime": "2026-07-12T21:42:11.280979",
+      "shape": [
+        5,
+        7
+      ],
+      "row_count": 5,
+      "column_count": 7,
+      "shape_error": null,
+      "candidate_file": "model_sample_registry.csv",
+      "variant": "p2_3_shared"
+    },
+    {
+      "label": "shared/model_sample_membership.parquet",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/p4_handoff_candidate/shared/model_sample_membership.parquet",
+      "relative_path": "workbook/p2/p2_3/p4_handoff_candidate/shared/model_sample_membership.parquet",
+      "exists": true,
+      "size_bytes": 97788,
+      "sha256": "ef7eb73a35e9a058959747272d1b1e832622c415adeb363754dcb0fcb507c830",
+      "mtime": "2026-07-12T21:47:51.522709",
+      "shape": [
+        10242,
+        17
+      ],
+      "row_count": 10242,
+      "column_count": 17,
+      "shape_error": null,
+      "candidate_file": "model_sample_membership.parquet",
+      "variant": "shared"
+    },
+    {
+      "label": "local1/model_sample_membership.parquet",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/p4_handoff_candidate/local1/model_sample_membership.parquet",
+      "relative_path": "workbook/p2/p2_3/p4_handoff_candidate/local1/model_sample_membership.parquet",
+      "exists": true,
+      "size_bytes": 97788,
+      "sha256": "ef7eb73a35e9a058959747272d1b1e832622c415adeb363754dcb0fcb507c830",
+      "mtime": "2026-07-12T21:47:51.445404",
+      "shape": [
+        10242,
+        17
+      ],
+      "row_count": 10242,
+      "column_count": 17,
+      "shape_error": null,
+      "candidate_file": "model_sample_membership.parquet",
+      "variant": "local1"
+    },
+    {
+      "label": "shared/department_model_column_registry.csv",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/p4_handoff_candidate/shared/department_model_column_registry.csv",
+      "relative_path": "workbook/p2/p2_3/p4_handoff_candidate/shared/department_model_column_registry.csv",
+      "exists": true,
+      "size_bytes": 14689,
+      "sha256": "5871ec9ae36dd0e078eed403c67322784e3880d2fa82849671be45a6d252e126",
+      "mtime": "2026-07-12T21:47:51.527611",
+      "shape": [
+        198,
+        6
+      ],
+      "row_count": 198,
+      "column_count": 6,
+      "shape_error": null,
+      "candidate_file": "department_model_column_registry.csv",
+      "variant": "shared"
+    },
+    {
+      "label": "local1/department_model_column_registry.csv",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/p4_handoff_candidate/local1/department_model_column_registry.csv",
+      "relative_path": "workbook/p2/p2_3/p4_handoff_candidate/local1/department_model_column_registry.csv",
+      "exists": true,
+      "size_bytes": 14689,
+      "sha256": "5871ec9ae36dd0e078eed403c67322784e3880d2fa82849671be45a6d252e126",
+      "mtime": "2026-07-12T21:47:51.448498",
+      "shape": [
+        198,
+        6
+      ],
+      "row_count": 198,
+      "column_count": 6,
+      "shape_error": null,
+      "candidate_file": "department_model_column_registry.csv",
+      "variant": "local1"
+    },
+    {
+      "label": "p2_3_shared/department_model_column_registry.csv",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/shared/department_model_column_registry.csv",
+      "relative_path": "workbook/p2/p2_3/shared/department_model_column_registry.csv",
+      "exists": true,
+      "size_bytes": 28264,
+      "sha256": "b3e12ca60152a7db19930157f85908b45b3523dc400c08d0cc500bb110d78d47",
+      "mtime": "2026-07-12T21:42:11.281661",
+      "shape": [
+        178,
+        6
+      ],
+      "row_count": 178,
+      "column_count": 6,
+      "shape_error": null,
+      "candidate_file": "department_model_column_registry.csv",
+      "variant": "p2_3_shared"
+    },
+    {
+      "label": "shared/p4_feature_set_registry.csv",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/p4_handoff_candidate/shared/p4_feature_set_registry.csv",
+      "relative_path": "workbook/p2/p2_3/p4_handoff_candidate/shared/p4_feature_set_registry.csv",
+      "exists": true,
+      "size_bytes": 588,
+      "sha256": "776c7072444b5abee02f9a20942ca24cff5ec5c684593299a2c8c43dbf7a6529",
+      "mtime": "2026-07-12T21:47:51.528370",
+      "shape": [
+        4,
+        7
+      ],
+      "row_count": 4,
+      "column_count": 7,
+      "shape_error": null,
+      "candidate_file": "p4_feature_set_registry.csv",
+      "variant": "shared"
+    },
+    {
+      "label": "local1/p4_feature_set_registry.csv",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/p4_handoff_candidate/local1/p4_feature_set_registry.csv",
+      "relative_path": "workbook/p2/p2_3/p4_handoff_candidate/local1/p4_feature_set_registry.csv",
+      "exists": true,
+      "size_bytes": 588,
+      "sha256": "776c7072444b5abee02f9a20942ca24cff5ec5c684593299a2c8c43dbf7a6529",
+      "mtime": "2026-07-12T21:47:51.448969",
+      "shape": [
+        4,
+        7
+      ],
+      "row_count": 4,
+      "column_count": 7,
+      "shape_error": null,
+      "candidate_file": "p4_feature_set_registry.csv",
+      "variant": "local1"
+    },
+    {
+      "label": "shared/p4_target_candidate_registry.csv",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/p4_handoff_candidate/shared/p4_target_candidate_registry.csv",
+      "relative_path": "workbook/p2/p2_3/p4_handoff_candidate/shared/p4_target_candidate_registry.csv",
+      "exists": true,
+      "size_bytes": 715,
+      "sha256": "3e48aaea329c4df989af2e078635fd7d7cd1677d5afd6c99d5f106e6313b5247",
+      "mtime": "2026-07-12T21:47:51.528855",
+      "shape": [
+        6,
+        4
+      ],
+      "row_count": 6,
+      "column_count": 4,
+      "shape_error": null,
+      "candidate_file": "p4_target_candidate_registry.csv",
+      "variant": "shared"
+    },
+    {
+      "label": "local1/p4_target_candidate_registry.csv",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/p4_handoff_candidate/local1/p4_target_candidate_registry.csv",
+      "relative_path": "workbook/p2/p2_3/p4_handoff_candidate/local1/p4_target_candidate_registry.csv",
+      "exists": true,
+      "size_bytes": 715,
+      "sha256": "3e48aaea329c4df989af2e078635fd7d7cd1677d5afd6c99d5f106e6313b5247",
+      "mtime": "2026-07-12T21:47:51.449273",
+      "shape": [
+        6,
+        4
+      ],
+      "row_count": 6,
+      "column_count": 4,
+      "shape_error": null,
+      "candidate_file": "p4_target_candidate_registry.csv",
+      "variant": "local1"
+    }
+  ]
+}

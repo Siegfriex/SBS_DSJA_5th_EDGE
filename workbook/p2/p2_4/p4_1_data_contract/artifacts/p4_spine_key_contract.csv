@@ -1,0 +1,6 @@
+﻿key_column,source,role
+analysis_year,D08.analysis_year,year axis
+p4_school_uid,raw exact school_name_raw,outcome school identity
+p4_campus_uid,raw exact school_name_raw + campus_name_raw_x,outcome campus identity
+p4_dept_uid,raw exact school_name_raw + campus_name_raw_x + dept_name_raw,outcome department identity
+outcome_row_id,D02/D03/D08,stable row identity and final tie-breaker

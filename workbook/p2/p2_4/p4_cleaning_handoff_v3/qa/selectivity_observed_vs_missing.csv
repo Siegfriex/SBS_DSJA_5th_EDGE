@@ -1,0 +1,3 @@
+﻿has_selectivity,rows,school_n,a_rate_pct_mean,a_rate_pct_median,a_rate_pct_non_null_n,health_employment_rate_pct_mean,health_employment_rate_pct_median,health_employment_rate_pct_non_null_n,graduate_school_progression_rate_pct_mean,graduate_school_progression_rate_pct_median,graduate_school_progression_rate_pct_non_null_n
+False,6505,196,42.31235122680664,40.35074996948242,6505,52.23081588745117,52.380950927734375,4652,7.125559329986572,1.0204081535339355,4737
+True,3737,151,40.70650863647461,39.040470123291016,3737,53.40836715698242,53.52112579345703,2825,9.618688583374023,3.8218111991882324,2850

@@ -1,0 +1,15 @@
+﻿position,column,dtype,non_null_n,missing_n,missing_pct,nunique,unique_ratio,is_all_null,is_constant,is_identifier_candidate,top_value_share
+1,group_id,str,36,0,0.0,18,0.5,False,False,True,0.05555555555555555
+2,classification,str,36,0,0.0,3,0.08333333333333333,False,False,False,0.7777777777777778
+3,dept_uid,str,36,0,0.0,18,0.5,False,False,True,0.05555555555555555
+4,outcome_row_id,str,36,0,0.0,36,1.0,False,False,True,0.027777777777777776
+5,school,str,36,0,0.0,6,0.16666666666666666,False,False,False,0.4444444444444444
+6,campus,str,36,0,0.0,3,0.08333333333333333,False,False,False,0.5833333333333334
+7,department,str,36,0,0.0,19,0.5277777777777778,False,False,False,0.1111111111111111
+8,split,str,36,0,0.0,2,0.05555555555555555,False,False,False,0.9444444444444444
+9,active_sample_ids,str,36,0,0.0,8,0.2222222222222222,False,False,True,0.4166666666666667
+10,resolution,str,36,0,0.0,3,0.08333333333333333,False,False,False,0.7777777777777778
+11,model_allowed,bool,36,0,0.0,2,0.05555555555555555,False,False,False,0.7777777777777778
+12,weight_allowed,bool,36,0,0.0,1,0.027777777777777776,False,True,False,1.0
+13,denominator_allowed,bool,36,0,0.0,1,0.027777777777777776,False,True,False,1.0
+14,exclusion_reason,str,8,28,77.77777777777779,2,0.25,False,False,False,0.7777777777777778

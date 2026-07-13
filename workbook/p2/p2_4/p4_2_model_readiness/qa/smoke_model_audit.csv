@@ -1,0 +1,2 @@
+﻿smoke_model,target,status,fold_validation_n,test_target_read
+Ridge_first_groupfold,a_rate_pct,PASS,1809,False

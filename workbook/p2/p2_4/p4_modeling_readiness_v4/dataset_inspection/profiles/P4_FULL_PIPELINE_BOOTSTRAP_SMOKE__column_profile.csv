@@ -1,0 +1,12 @@
+﻿position,column,dtype,non_null_n,missing_n,missing_pct,nunique,unique_ratio,is_all_null,is_constant,is_identifier_candidate,top_value_share
+1,iteration,int64,3,0,0.0,3,1.0,False,False,False,0.3333333333333333
+2,status,str,3,0,0.0,1,0.3333333333333333,False,True,False,1.0
+3,school_resample_n,int64,3,0,0.0,1,0.3333333333333333,False,True,False,1.0
+4,unique_school_n,int64,3,0,0.0,3,1.0,False,False,False,0.3333333333333333
+5,bootstrap_row_n,int64,3,0,0.0,3,1.0,False,False,False,0.3333333333333333
+6,p3_crossfit_prediction_n,int64,3,0,0.0,3,1.0,False,False,False,0.3333333333333333
+7,p3_crossfit_nan_n,int64,3,0,0.0,1,0.3333333333333333,False,True,False,1.0
+8,p4_e_fit_n,int64,3,0,0.0,3,1.0,False,False,False,0.3333333333333333
+9,p4_p_fit_n,int64,3,0,0.0,3,1.0,False,False,False,0.3333333333333333
+10,p4_e_rmse_in_boot_smoke,float64,3,0,0.0,3,1.0,False,False,False,0.3333333333333333
+11,p4_p_rmse_in_boot_smoke,float64,3,0,0.0,3,1.0,False,False,False,0.3333333333333333

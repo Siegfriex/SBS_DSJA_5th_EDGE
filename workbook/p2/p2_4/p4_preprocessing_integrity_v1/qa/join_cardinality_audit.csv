@@ -1,0 +1,4 @@
+﻿left_dataset,right_dataset,join_key,expected_cardinality,actual_cardinality,left_row_count_before,right_row_count,output_row_count,row_expansion_factor,matched_rows,left_only_rows,right_only_rows,duplicate_key_count_left,duplicate_key_count_right,many_to_many,approved_many_to_many,match_method,match_confidence,review_needed,status
+D08,P4_PHASE_SAMPLE_MEMBERSHIP_FINAL,outcome_row_id,one_to_one,one_to_one,10242,10242,10242,1.0,10242,0,,0,0,False,False,exact/stable_key,stable_key,False,PASS
+D08,dim_school_split,school_uid,many_to_one,many_to_one,10242,200,10242,1.0,10242,0,,10235,0,False,False,exact/stable_key,stable_key,False,PASS
+D08_conflict_subset,P4_DUPLICATE_CONFLICT_RESOLUTION,outcome_row_id,many_to_one,one_to_one,36,10242,36,1.0,36,0,,0,0,False,False,exact/stable_key,stable_key,False,PASS

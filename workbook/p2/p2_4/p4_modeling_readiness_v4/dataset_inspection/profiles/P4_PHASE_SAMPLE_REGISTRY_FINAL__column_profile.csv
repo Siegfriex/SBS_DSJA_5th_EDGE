@@ -1,0 +1,12 @@
+﻿position,column,dtype,non_null_n,missing_n,missing_pct,nunique,unique_ratio,is_all_null,is_constant,is_identifier_candidate,top_value_share
+1,sample_id,str,12,0,0.0,12,1.0,False,False,True,0.08333333333333333
+2,row_n,int64,12,0,0.0,6,0.5,False,False,False,0.25
+3,school_n,int64,12,0,0.0,6,0.5,False,False,False,0.25
+4,campus_n,int64,12,0,0.0,6,0.5,False,False,False,0.25
+5,major7_n,int64,12,0,0.0,1,0.08333333333333333,False,True,False,1.0
+6,train_n,int64,12,0,0.0,6,0.5,False,False,False,0.25
+7,validation_n,int64,12,0,0.0,6,0.5,False,False,True,0.25
+8,test_n,int64,12,0,0.0,6,0.5,False,False,False,0.25
+9,excluded_conflict_n,int64,12,0,0.0,1,0.08333333333333333,False,True,False,1.0
+10,row_id_hash,str,12,0,0.0,6,0.5,False,False,True,0.25
+11,status,str,12,0,0.0,1,0.08333333333333333,False,True,False,1.0

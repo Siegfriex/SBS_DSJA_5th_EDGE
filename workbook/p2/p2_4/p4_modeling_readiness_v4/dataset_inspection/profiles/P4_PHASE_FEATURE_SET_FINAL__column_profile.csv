@@ -1,0 +1,12 @@
+﻿position,column,dtype,non_null_n,missing_n,missing_pct,nunique,unique_ratio,is_all_null,is_constant,is_identifier_candidate,top_value_share
+1,model_id,str,250,0,0.0,18,0.072,False,False,True,0.068
+2,phase,str,250,0,0.0,5,0.02,False,False,False,0.336
+3,sample_id,str,250,0,0.0,12,0.048,False,False,True,0.128
+4,target,str,250,0,0.0,3,0.012,False,False,False,0.336
+5,feature,str,250,0,0.0,20,0.08,False,False,False,0.072
+6,feature_block,str,250,0,0.0,8,0.032,False,False,False,0.36
+7,feature_role,str,250,0,0.0,2,0.008,False,False,False,0.936
+8,included_in_contract,bool,250,0,0.0,1,0.004,False,True,False,1.0
+9,reason,str,250,0,0.0,7,0.028,False,False,False,0.36
+10,source_decision,str,246,4,1.6,2,0.008130081300813009,False,False,False,0.936
+11,source_decision_reason,str,246,4,1.6,5,0.02032520325203252,False,False,False,0.36

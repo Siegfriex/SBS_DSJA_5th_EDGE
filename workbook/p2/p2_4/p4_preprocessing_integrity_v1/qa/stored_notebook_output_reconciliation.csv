@@ -1,0 +1,23 @@
+﻿label,status,shape_match_vs_stored_output,hash_match_vs_stored_output,detail
+mart_department_model_base_2024,MATCH,True,True,
+P4_PHASE_SAMPLE_MEMBERSHIP_FINAL,MATCH,True,True,
+P4_PHASE_SAMPLE_REGISTRY_FINAL,MATCH,True,True,
+department_model_column_registry_v4,MATCH,True,True,
+P4_PHASE_FEATURE_SET_FINAL,MATCH,True,True,
+P4_PHASE_MODEL_SPEC_FINAL,MATCH,True,True,
+P4_DUPLICATE_CONFLICT_RESOLUTION,MATCH,True,True,
+P4_TARGET_PROFILE_BY_PHASE,MATCH,True,True,
+P4_FINAL_MODELING_READINESS,MATCH,True,True,
+P4_MODELING_REVIEW_BUNDLE_MANIFEST,MATCH,True,True,
+P4_HANDOFF_MANIFEST,STALE_OUTPUT,,,label missing from stored notebook inventory
+dim_school_split,STALE_OUTPUT,,,label missing from stored notebook inventory
+shared_model_sample_membership,STALE_OUTPUT,,,label missing from stored notebook inventory
+shared_model_sample_registry,STALE_OUTPUT,,,label missing from stored notebook inventory
+shared_column_registry,STALE_OUTPUT,,,label missing from stored notebook inventory
+shared_feature_registry,STALE_OUTPUT,,,label missing from stored notebook inventory
+shared_target_registry,STALE_OUTPUT,,,label missing from stored notebook inventory
+cleaning_derived_formula_reconstruction,STALE_OUTPUT,,,label missing from stored notebook inventory
+cleaning_split_integrity_audit,STALE_OUTPUT,,,label missing from stored notebook inventory
+cleaning_target_leakage_audit_by_phase,STALE_OUTPUT,,,label missing from stored notebook inventory
+cleaning_count_denominator_inventory,STALE_OUTPUT,,,label missing from stored notebook inventory
+cleaning_context_grain_audit,STALE_OUTPUT,,,label missing from stored notebook inventory

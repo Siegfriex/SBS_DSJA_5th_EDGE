@@ -1,0 +1,2 @@
+﻿policy_id,decision,affected_rows,reason,evidence,reviewer,review_date,final_status
+DR-000,no_deleted_rows_recovered,2650,"strict 삭제 행은 구조 매칭 미해결, 캠퍼스 충돌, major_group_7 미확정, duplicate key/name, 소표본 0/100 극단 비율 중 하나 이상에 걸린 행이다. 복구할 개별 원천 증빙이 없으므로 전부 삭제 유지한다.",02_EVIDENCE/strict_deleted_rows_detail.csv,Codex DS manual review,2026-07-13,approved

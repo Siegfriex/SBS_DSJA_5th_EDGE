@@ -1,0 +1,32 @@
+/home/sieg/projects-wsl/SBS_dataScience/.venv/lib/python3.12/site-packages/sklearn/preprocessing/_encoders.py:262: UserWarning: Found unknown categories in columns [3, 4] during transform. These unknown categories will be encoded as all zeros
+  warnings.warn(msg, UserWarning)
+/home/sieg/projects-wsl/SBS_dataScience/.venv/lib/python3.12/site-packages/sklearn/preprocessing/_encoders.py:262: UserWarning: Found unknown categories in columns [3] during transform. These unknown categories will be encoded as all zeros
+  warnings.warn(msg, UserWarning)
+/home/sieg/projects-wsl/SBS_dataScience/.venv/lib/python3.12/site-packages/sklearn/preprocessing/_encoders.py:262: UserWarning: Found unknown categories in columns [3, 4] during transform. These unknown categories will be encoded as all zeros
+  warnings.warn(msg, UserWarning)
+/home/sieg/projects-wsl/SBS_dataScience/.venv/lib/python3.12/site-packages/sklearn/preprocessing/_encoders.py:262: UserWarning: Found unknown categories in columns [3] during transform. These unknown categories will be encoded as all zeros
+  warnings.warn(msg, UserWarning)
+/home/sieg/projects-wsl/SBS_dataScience/.venv/lib/python3.12/site-packages/sklearn/preprocessing/_encoders.py:262: UserWarning: Found unknown categories in columns [3, 4] during transform. These unknown categories will be encoded as all zeros
+  warnings.warn(msg, UserWarning)
+/home/sieg/projects-wsl/SBS_dataScience/.venv/lib/python3.12/site-packages/sklearn/preprocessing/_encoders.py:262: UserWarning: Found unknown categories in columns [3] during transform. These unknown categories will be encoded as all zeros
+  warnings.warn(msg, UserWarning)
+/home/sieg/projects-wsl/SBS_dataScience/.venv/lib/python3.12/site-packages/sklearn/preprocessing/_encoders.py:262: UserWarning: Found unknown categories in columns [3, 4] during transform. These unknown categories will be encoded as all zeros
+  warnings.warn(msg, UserWarning)
+/home/sieg/projects-wsl/SBS_dataScience/.venv/lib/python3.12/site-packages/sklearn/preprocessing/_encoders.py:262: UserWarning: Found unknown categories in columns [3] during transform. These unknown categories will be encoded as all zeros
+  warnings.warn(msg, UserWarning)
+/home/sieg/projects-wsl/SBS_dataScience/.venv/lib/python3.12/site-packages/sklearn/preprocessing/_encoders.py:262: UserWarning: Found unknown categories in columns [4] during transform. These unknown categories will be encoded as all zeros
+  warnings.warn(msg, UserWarning)
+/home/sieg/projects-wsl/SBS_dataScience/.venv/lib/python3.12/site-packages/sklearn/preprocessing/_encoders.py:262: UserWarning: Found unknown categories in columns [3] during transform. These unknown categories will be encoded as all zeros
+  warnings.warn(msg, UserWarning)
+/home/sieg/projects-wsl/SBS_dataScience/.venv/lib/python3.12/site-packages/sklearn/preprocessing/_encoders.py:262: UserWarning: Found unknown categories in columns [0, 4] during transform. These unknown categories will be encoded as all zeros
+  warnings.warn(msg, UserWarning)
+/home/sieg/projects-wsl/SBS_dataScience/.venv/lib/python3.12/site-packages/sklearn/preprocessing/_encoders.py:262: UserWarning: Found unknown categories in columns [4] during transform. These unknown categories will be encoded as all zeros
+  warnings.warn(msg, UserWarning)
+/home/sieg/projects-wsl/SBS_dataScience/.venv/lib/python3.12/site-packages/sklearn/preprocessing/_encoders.py:262: UserWarning: Found unknown categories in columns [3, 4] during transform. These unknown categories will be encoded as all zeros
+  warnings.warn(msg, UserWarning)
+/home/sieg/projects-wsl/SBS_dataScience/.venv/lib/python3.12/site-packages/sklearn/preprocessing/_encoders.py:262: UserWarning: Found unknown categories in columns [3] during transform. These unknown categories will be encoded as all zeros
+  warnings.warn(msg, UserWarning)
+/home/sieg/projects-wsl/SBS_dataScience/.venv/lib/python3.12/site-packages/sklearn/preprocessing/_encoders.py:262: UserWarning: Found unknown categories in columns [3] during transform. These unknown categories will be encoded as all zeros
+  warnings.warn(msg, UserWarning)
+/home/sieg/projects-wsl/SBS_dataScience/.venv/lib/python3.12/site-packages/sklearn/preprocessing/_encoders.py:262: UserWarning: Found unknown categories in columns [4] during transform. These unknown categories will be encoded as all zeros
+  warnings.warn(msg, UserWarning)

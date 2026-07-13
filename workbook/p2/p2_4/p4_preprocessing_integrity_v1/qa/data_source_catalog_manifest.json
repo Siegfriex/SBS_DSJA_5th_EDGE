@@ -1,0 +1,54 @@
+[
+  {
+    "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/p4_preprocessing_integrity_v1/qa/data_source_file_inventory.csv",
+    "relative_path": "workbook/p2/p2_4/p4_preprocessing_integrity_v1/qa/data_source_file_inventory.csv",
+    "size_bytes": 11465,
+    "shape": [
+      30,
+      11
+    ],
+    "loader": "utf-8-sig",
+    "sha256": "67f79d5ba4b62edc7231c8a67063730ace686aabba7f2325230af8cb4589b5a3"
+  },
+  {
+    "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/p4_preprocessing_integrity_v1/qa/data_source_catalog.csv",
+    "relative_path": "workbook/p2/p2_4/p4_preprocessing_integrity_v1/qa/data_source_catalog.csv",
+    "size_bytes": 8221,
+    "shape": [
+      9,
+      13
+    ],
+    "loader": "utf-8-sig",
+    "sha256": "524555d9ddfad44908fac25969d9732d410bc212c2089fecde4b2ebfd6df6db9"
+  },
+  {
+    "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/p4_preprocessing_integrity_v1/qa/data_source_column_catalog.csv",
+    "relative_path": "workbook/p2/p2_4/p4_preprocessing_integrity_v1/qa/data_source_column_catalog.csv",
+    "size_bytes": 40100,
+    "shape": [
+      151,
+      17
+    ],
+    "loader": "utf-8-sig",
+    "sha256": "1011ff9832bb2cd9d06ab289c9fd9be3ea7ab86803c699db5c609480f13815b7"
+  },
+  {
+    "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/p4_preprocessing_integrity_v1/qa/data_source_column_blocks.csv",
+    "relative_path": "workbook/p2/p2_4/p4_preprocessing_integrity_v1/qa/data_source_column_blocks.csv",
+    "size_bytes": 1392,
+    "shape": [
+      25,
+      5
+    ],
+    "loader": "utf-8-sig",
+    "sha256": "a82ed388090899b3f24fd8013084c1f4972b553448a4a0e87ac8f3471629c918"
+  },
+  {
+    "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/p4_preprocessing_integrity_v1/reports/DATA_SOURCE_CATALOG.md",
+    "relative_path": "workbook/p2/p2_4/p4_preprocessing_integrity_v1/reports/DATA_SOURCE_CATALOG.md",
+    "size_bytes": 23469,
+    "shape": null,
+    "loader": "unprofiled",
+    "sha256": "3a8b0fb285d7d01efd3b19d855525265bb1e94c48353205cae0079c37bd7ef85"
+  }
+]

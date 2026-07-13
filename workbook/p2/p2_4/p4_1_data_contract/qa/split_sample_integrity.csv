@@ -1,0 +1,5 @@
+﻿check,actual,expected,status
+school split leakage,0,0,PASS
+membership row count,10242,10242,PASS
+membership outcome_row_id duplicate,0,0,PASS
+sample registry actual mismatch rows,0,0,PASS

@@ -1,0 +1,11 @@
+﻿gate,cell,purpose
+Gate 0,main,P4-1 contract replication and stop rule
+Gate 1,main,target data cards and target visuals
+Gate 2,main,missingness selection bias diagnostics
+Gate 3,main,target leakage audit
+Gate 4,main,feature quality diagnostics
+Gate 5,main,"design matrix rank, redundancy, VIF"
+Gate 6,main,model feasibility matrix
+Gate 7,main,train-only preprocessor dry-run
+Gate 8,main,GroupKFold and smoke-fit readiness
+Final,main,readiness manifest and next notebook order

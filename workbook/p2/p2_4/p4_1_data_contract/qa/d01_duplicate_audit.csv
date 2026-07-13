@@ -1,0 +1,5 @@
+﻿audit_item,key,duplicate_rows,status
+canonical_grain_duplicate_rows,analysis_year|school_name_std|campus_name_std|day_evening_raw|degree_course|kedi_dept_code,0,PASS
+exact_duplicate_rows_raw_columns,all restored raw Excel columns excluding source_excel_row,0,PASS
+legacy_grain_duplicate_rows_without_day_degree,analysis_year|school_name_std|campus_name_std|kedi_dept_code,1,INFO
+lineage_missing_rows,source_excel_row/raw_row_lineage,0,PASS

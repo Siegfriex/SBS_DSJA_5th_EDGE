@@ -1,0 +1,5 @@
+﻿priority,issue_type,agent_default_decision,items
+P1,missing_panel_source,keep_panel_blocked,2
+P1,source_unavailable_all_null,exclude_from_features,2
+P2,bridge_design_required,keep_D05_excluded,1
+P2,historical_2023_target_unavailable,exclude_2023_target,8

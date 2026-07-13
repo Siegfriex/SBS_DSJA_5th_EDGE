@@ -1,0 +1,3 @@
+column,source_column,max_abs_diff,median_abs_diff,status
+log_enrolled_students,enrolled_students_n,4.337720316271998e-07,8.831316300472736e-08,PASS
+log_graduates,graduates_n,2.3839938734226962e-07,4.347748383537464e-08,PASS

@@ -1,0 +1,6 @@
+﻿derived_column,formula,source_columns,status
+a_rate_prop,a_rate_pct / 100,a_rate_pct,SAFE_DETERMINISTIC
+health_employment_rate_prop,health_employment_rate_pct / 100,health_employment_rate_pct,SAFE_DETERMINISTIC
+graduate_school_progression_prop,graduate_school_progression_rate_pct / 100,graduate_school_progression_rate_pct,SAFE_DETERMINISTIC
+log_enrolled_students_v1_recomputed,log1p(enrolled_students_n),enrolled_students_n,SAFE_DETERMINISTIC
+log_graduates_v1_recomputed,log1p(graduates_n),graduates_n,SAFE_DETERMINISTIC

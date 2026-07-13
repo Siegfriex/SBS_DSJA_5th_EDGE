@@ -1,0 +1,7 @@
+﻿check,actual,expected,status
+Local2 ready_for_local1,True,True,PASS
+manifest D07 hash equals actual,f44c6f9e7a7539361dce301686144780e0ce588deb929b625ebe811674bb621f,f44c6f9e7a7539361dce301686144780e0ce588deb929b625ebe811674bb621f,PASS
+actual D07 hash equals Local1 manifest input,f44c6f9e7a7539361dce301686144780e0ce588deb929b625ebe811674bb621f,f44c6f9e7a7539361dce301686144780e0ce588deb929b625ebe811674bb621f,PASS
+D07 row count,7,7,PASS
+D07 major key duplicate,0,0,PASS
+D07 to D08 goms exact mismatch cells,0,0,PASS

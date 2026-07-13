@@ -1,0 +1,4 @@
+﻿split,rows,schools
+test,1199,30
+train,7529,140
+val,1514,30

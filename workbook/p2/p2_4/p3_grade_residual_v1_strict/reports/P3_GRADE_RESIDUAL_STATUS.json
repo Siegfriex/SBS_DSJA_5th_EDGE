@@ -1,0 +1,29 @@
+{
+  "python": "3.12.3",
+  "platform": "Linux-6.18.33.2-microsoft-standard-WSL2-x86_64-with-glibc2.39",
+  "pandas": "3.0.3",
+  "numpy": "2.5.0",
+  "statsmodels": "0.14.6",
+  "working_directory": "/home/sieg/projects-wsl/SBS_dataScience",
+  "git_commit": "5b1a3d54266d881a839ad9a3cec750da66e94bc7",
+  "execution_timestamp_utc": "2026-07-13T07:28:13.327122+00:00",
+  "notebook_path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/p3_grade_residual_v1_strict/p3_grade_residual_strict.ipynb",
+  "output_root": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/p3_grade_residual_v1_strict",
+  "P3_INPUT_STATUS": "READY",
+  "P3_S_FULL_STATUS": "READY",
+  "P3_S_NOPOLICY_STATUS": "READY",
+  "P3_Q_STATUS": "BLOCKED_FEATURE_CONTRACT",
+  "P3_OOF_COVERAGE_STATUS": "READY",
+  "P3_TEST_STATUS": "READY",
+  "P3_OVERALL_STATUS": "READY_WITH_WARNINGS",
+  "strict_d08_sha256": "5f56e375fd1c0474a5e55652859ae007e2f45becd6d3350ee4c82e21fab8df9b",
+  "p2_handoff_sha256": "2bbc7d64784b7b530d57bb6a2096d14cb11c5879f41a5208f9ff3b02f4bdddcb",
+  "p3_full_residual_sha256": "d8decd39dca42ccd0dc194fa3813ba0036541098eea08ddfb64627f6fc6cb8cc",
+  "p3_nopolicy_residual_sha256": "dc5675d941b17108997e63adb550f6f223911892085cf481f1875ec2799fb7c3",
+  "notebook_sha256_after_run_all": "0bf83493654a3d235321b2c31d1a109473f06d095f76258a56e5ad891cf1663b",
+  "manifest_sha256_after_refresh": "0051630866ecace639cdbaa59d1cd8714053f5a1ff784103704625e41b5e86f3",
+  "notebook_validation": {
+    "nbformat_valid": true,
+    "error_outputs": 0
+  }
+}

@@ -1,0 +1,4 @@
+﻿iteration,status,school_resample_n,unique_school_n,bootstrap_row_n,p3_crossfit_prediction_n,p3_crossfit_nan_n,p4_e_fit_n,p4_p_fit_n,p4_e_rmse_in_boot_smoke,p4_p_rmse_in_boot_smoke
+1,PASS,185,114,5950,5950,0,5950,5950,15.173981363679513,10.514196172914678
+2,PASS,185,124,5443,5443,0,5443,5443,15.154807139162473,9.935101467813158
+3,PASS,185,122,5426,5426,0,5426,5426,15.1708231257462,10.457692829748867

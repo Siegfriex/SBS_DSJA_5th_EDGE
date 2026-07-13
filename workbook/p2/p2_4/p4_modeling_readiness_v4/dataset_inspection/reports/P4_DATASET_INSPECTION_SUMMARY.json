@@ -1,0 +1,17 @@
+{
+  "executed_at": "2026-07-13T02:54:20.425855+00:00",
+  "dataset_count": 16,
+  "fail_count": 0,
+  "warning_dataset_count": 12,
+  "anomaly_rows": 104,
+  "inventory_path": "workbook/p2/p2_4/p4_modeling_readiness_v4/dataset_inspection/qa/dataset_inventory_final.csv",
+  "all_missing_path": "workbook/p2/p2_4/p4_modeling_readiness_v4/dataset_inspection/qa/all_datasets_top_missing.csv",
+  "anomaly_path": "workbook/p2/p2_4/p4_modeling_readiness_v4/dataset_inspection/qa/all_dataset_anomalies.csv",
+  "phase_map_path": "workbook/p2/p2_4/p4_modeling_readiness_v4/dataset_inspection/qa/phase_data_map.csv",
+  "report_path": "workbook/p2/p2_4/p4_modeling_readiness_v4/dataset_inspection/reports/P4_DATASET_INSPECTION_REPORT.md",
+  "profile_file_count": 80,
+  "qa_file_count": 4,
+  "report_file_count": 2,
+  "environment_path": "workbook/p2/p2_4/p4_modeling_readiness_v4/dataset_inspection/logs/dataset_inspection_environment.json",
+  "run_manifest_path": "workbook/p2/p2_4/p4_modeling_readiness_v4/dataset_inspection/logs/dataset_inspection_run_manifest.json"
+}

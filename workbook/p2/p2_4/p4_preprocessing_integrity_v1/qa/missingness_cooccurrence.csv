@@ -1,0 +1,5 @@
+﻿column,a_rate_pct,health_employment_rate_pct,graduate_school_progression_rate_pct,selectivity_proxy_pct
+a_rate_pct,,,,
+health_employment_rate_pct,,1.0,0.972777110733708,0.044254702937869386
+graduate_school_progression_rate_pct,,0.972777110733708,1.0,0.037828139361960264
+selectivity_proxy_pct,,0.044254702937869386,0.037828139361960264,1.0

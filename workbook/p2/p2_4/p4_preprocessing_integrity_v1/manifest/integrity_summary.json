@@ -1,0 +1,93 @@
+{
+  "run_id": "20260713T044343Z_5b1a3d5",
+  "created_at": "2026-07-13T04:43:49.070695+00:00",
+  "final_status": "READY_WITH_WARNINGS",
+  "critical": {
+    "required_input_fail_n": 0,
+    "outcome_row_id_null_n": 0,
+    "outcome_row_id_duplicate_n": 0,
+    "exact_duplicate_n": 0,
+    "unapproved_many_to_many_n": 0,
+    "row_expansion_unexplained_n": 0,
+    "domain_fail_anomaly_n": 0,
+    "rate_reconciliation_fail_n": 0,
+    "sample_registry_mismatch_n": 0,
+    "school_split_leakage_n": 0,
+    "target_self_leakage_n": 0,
+    "active_id_metadata_feature_n": 0,
+    "unresolved_other_role_n": 0,
+    "active_all_null_feature_n": 0,
+    "row_lineage_missing_n": 0
+  },
+  "warning": {
+    "hash_or_shape_warning_n": 0,
+    "ledgered_duplicate_conflict_rows": 36,
+    "count_ready_not_observed_families": [
+      "GRADE",
+      "PROGRESSION",
+      "RETENTION"
+    ],
+    "high_missing_selectivity_n": 6505,
+    "major7_mapping_warn_n": 1
+  },
+  "environment": {
+    "run_id": "20260713T044343Z_5b1a3d5",
+    "utc_started_at": "2026-07-13T04:43:43.295882+00:00",
+    "utc_finished_at": "2026-07-13T04:43:49.064824+00:00",
+    "execution_seconds": 5.769,
+    "project_root": "/home/sieg/projects-wsl/SBS_dataScience",
+    "git_commit_full": "5b1a3d54266d881a839ad9a3cec750da66e94bc7",
+    "git_commit_short": "5b1a3d5",
+    "git_dirty": true,
+    "python_version": "3.12.3 (main, Jun 19 2026, 12:46:00) [GCC 13.3.0]",
+    "platform": "Linux-6.18.33.2-microsoft-standard-WSL2-x86_64-with-glibc2.39",
+    "pandas_version": "3.0.3",
+    "numpy_version": "2.5.0",
+    "pyarrow_version": "24.0.0",
+    "sklearn_version": "1.9.0",
+    "selected_notebook_path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/p4_modeling_readiness_v4/p2_G4_dataset_cell_inspection.ipynb",
+    "selected_notebook_sha256": "cf980e2962e6906853d49cf71c46d6062e07be897d23a72f01070f0e6bcc790b",
+    "random_seed_used": false,
+    "execution_command": "python workbook/p2/p2_4/p4_preprocessing_integrity_v1/run_preprocessing_integrity_v1.py",
+    "execution_success": true,
+    "warning_count": 5,
+    "error_count": 0
+  },
+  "clean_mart_outputs": {
+    "p2_structure_ready_2024.parquet": {
+      "status": "CREATED",
+      "rows": 8561,
+      "reason": "sample_P2_STRUCTURE_READY"
+    },
+    "p2_selectivity_ready_2024.parquet": {
+      "status": "CREATED",
+      "rows": 3198,
+      "reason": "sample_P2_SELECTIVITY_READY"
+    },
+    "p4_employment_rate_ready_2024.parquet": {
+      "status": "CREATED",
+      "rows": 6270,
+      "reason": "sample_P4_E_STRUCTURE_READY"
+    },
+    "p4_progression_rate_ready_2024.parquet": {
+      "status": "CREATED",
+      "rows": 6366,
+      "reason": "sample_P4_P_STRUCTURE_READY"
+    },
+    "p4_joint_rate_ready_2024.parquet": {
+      "status": "CREATED",
+      "rows": 6270,
+      "reason": "sample_P4_JOINT_STRUCTURE_READY"
+    },
+    "retention_count_ready_2024.parquet": {
+      "status": "NOT_AVAILABLE",
+      "rows": 0,
+      "reason": "retention numerator/denominator columns not observed"
+    },
+    "progression_count_ready_2024.parquet": {
+      "status": "NOT_AVAILABLE",
+      "rows": 0,
+      "reason": "graduate_school_progressors_n not observed"
+    }
+  }
+}

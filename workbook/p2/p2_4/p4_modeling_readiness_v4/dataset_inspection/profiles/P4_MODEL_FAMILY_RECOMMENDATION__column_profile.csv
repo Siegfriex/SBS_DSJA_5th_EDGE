@@ -1,0 +1,9 @@
+﻿position,column,dtype,non_null_n,missing_n,missing_pct,nunique,unique_ratio,is_all_null,is_constant,is_identifier_candidate,top_value_share
+1,target_family,str,8,0,0.0,3,0.375,False,False,False,0.375
+2,target,str,8,0,0.0,3,0.375,False,False,False,0.375
+3,model_family,str,8,0,0.0,7,0.875,False,False,False,0.25
+4,feasible,bool,8,0,0.0,1,0.125,False,True,False,1.0
+5,reason,str,8,0,0.0,8,1.0,False,False,False,0.125
+6,known_limitation,str,8,0,0.0,8,1.0,False,False,False,0.125
+7,required_preprocessing,str,8,0,0.0,7,0.875,False,False,False,0.25
+8,evaluation_metric,str,8,0,0.0,8,1.0,False,False,False,0.125

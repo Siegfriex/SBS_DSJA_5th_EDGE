@@ -1,0 +1,13 @@
+﻿column,non_null_n,min,max,range_violation_n,status
+selectivity_proxy_pct,3737,0.10000000149011612,100.0,0,PASS
+a_rate_pct,10242,0.0,100.0,0,PASS
+cd_rate_pct,10242,0.0,100.0,0,PASS
+f_rate_pct,10242,0.0,100.0,0,PASS
+employment_rate_pct,7477,0.0,100.0,0,PASS
+health_employment_rate_pct,7477,0.0,100.0,0,PASS
+progression_rate_pct,7587,0.0,100.0,0,PASS
+vocational_college_progression_rate_pct,7587,0.0,50.0,0,PASS
+university_progression_rate_pct,7587,0.0,25.0,0,PASS
+graduate_school_progression_rate_pct,7587,0.0,100.0,0,PASS
+domestic_progression_rate_pct,7587,0.0,100.0,0,PASS
+overseas_progression_rate_pct,7587,0.0,18.18181800842285,0,PASS

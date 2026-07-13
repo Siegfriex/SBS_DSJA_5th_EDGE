@@ -1,0 +1,6 @@
+﻿check,actual,expected,status
+D08 columns missing from column registry,0,0,PASS
+p4_use registry columns missing from D08,0,0,PASS
+target registry columns missing from D08,0,0,PASS
+unknown sample ids,0,0,PASS
+all-null active feature sets,0,0,PASS

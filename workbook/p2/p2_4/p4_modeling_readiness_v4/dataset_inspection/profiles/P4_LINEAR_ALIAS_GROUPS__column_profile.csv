@@ -1,0 +1,7 @@
+﻿position,column,dtype,non_null_n,missing_n,missing_pct,nunique,unique_ratio,is_all_null,is_constant,is_identifier_candidate,top_value_share
+1,model_id,str,56,0,0.0,14,0.25,False,False,True,0.07142857142857142
+2,coding,str,56,0,0.0,1,0.017857142857142856,False,True,False,1.0
+3,alias_type,str,56,0,0.0,1,0.017857142857142856,False,True,False,1.0
+4,group_id,str,56,0,0.0,56,1.0,False,False,True,0.017857142857142856
+5,encoded_features,str,56,0,0.0,32,0.5714285714285714,False,False,False,0.05357142857142857
+6,recommended_exclusion,str,56,0,0.0,1,0.017857142857142856,False,True,False,1.0

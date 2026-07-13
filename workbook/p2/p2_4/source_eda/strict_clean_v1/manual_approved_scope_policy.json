@@ -1,0 +1,47 @@
+{
+  "created_at": "2026-07-13T13:29:07",
+  "reviewer": "Codex DS manual review",
+  "review_date": "2026-07-13",
+  "modeling_default_input": "workbook/p2/p2_4/source_eda/strict_clean_v1/mart_department_model_base_2024_strict_drop.parquet",
+  "manual_policy": {
+    "all_null_context_features": {
+      "columns": [
+        "ctx24_industry_hhi",
+        "ctx24_industry_top3_pct"
+      ],
+      "decision": "exclude_from_features"
+    },
+    "panel_track": {
+      "decision": "drop_panel_track",
+      "artifacts": [
+        "mart_department_panel_2023_2025",
+        "mart_A_rate_transition_2023_2025"
+      ]
+    },
+    "d05_job_cert": {
+      "decision": "drop_D05_scope",
+      "columns": 35
+    },
+    "historical_2023_targets": {
+      "decision": "exclude_2023_target",
+      "columns": [
+        "domestic_progression_rate_pct",
+        "graduate_school_progression_rate_pct",
+        "health_employment_rate_pct",
+        "overseas_progression_rate_pct",
+        "progression_rate_pct",
+        "selectivity_proxy_pct",
+        "university_progression_rate_pct",
+        "vocational_college_progression_rate_pct"
+      ]
+    },
+    "target_leakage": {
+      "decision": "keep_blocked",
+      "pairs": 16
+    },
+    "deleted_rows": {
+      "decision": "no_deleted_rows_recovered",
+      "rows": 2650
+    }
+  }
+}

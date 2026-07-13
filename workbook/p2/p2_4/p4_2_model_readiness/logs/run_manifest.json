@@ -1,0 +1,112 @@
+{
+  "run_timestamp": "2026-07-13T14:13:14",
+  "agent": "P2-G4 Local Agent 2",
+  "notebook": "workbook/p2/p2_4/p2_G4_2.ipynb",
+  "contract_source_mode": "p2_3_candidate_handoff_user_override",
+  "contract_root": "workbook/p2/p2_3/p4_handoff_candidate",
+  "output_root": "workbook/p2/p2_4/p4_2_model_readiness",
+  "final_status": "MODELING_BLOCKED_CONTRACT",
+  "reason": "completed P4-2 readiness gates",
+  "fail_reasons": [
+    "Gate0 contract replication mismatch",
+    "target leakage FAIL 16"
+  ],
+  "warn_reasons": [
+    "rank deficiency observed in 5 design specs; this may be expected for context + major FE diagnostic"
+  ],
+  "test_protection": {
+    "test_target_model_selection": "forbidden",
+    "test_performance_calculation": "forbidden",
+    "test_feature_selection": "forbidden",
+    "test_transform_only_allowed": true
+  },
+  "python": "3.12.3 (main, Jun 19 2026, 12:46:00) [GCC 13.3.0]",
+  "platform": "Linux-6.18.33.2-microsoft-standard-WSL2-x86_64-with-glibc2.39",
+  "pandas": "3.0.3",
+  "numpy": "2.5.0",
+  "sklearn_available": true,
+  "sklearn_import_error": null,
+  "matplotlib_import_error": null,
+  "created_outputs": [
+    "workbook/p2/p2_4/p4_2_model_readiness/artifacts/P4_MODEL_FEASIBILITY_MATRIX.csv",
+    "workbook/p2/p2_4/p4_2_model_readiness/artifacts/P4_MODEL_SPECIFICATION_REGISTRY.csv",
+    "workbook/p2/p2_4/p4_2_model_readiness/artifacts/P4_PREPROCESSOR_CONTRACT.json",
+    "workbook/p2/p2_4/p4_2_model_readiness/artifacts/P4_TRANSFORMED_FEATURE_REGISTRY.csv",
+    "workbook/p2/p2_4/p4_2_model_readiness/figures/target_profile_employment_employment_rate_pct.png",
+    "workbook/p2/p2_4/p4_2_model_readiness/figures/target_profile_employment_health_employment_rate_pct.png",
+    "workbook/p2/p2_4/p4_2_model_readiness/figures/target_profile_grade_a_rate_pct.png",
+    "workbook/p2/p2_4/p4_2_model_readiness/figures/target_profile_progression_graduate_school_progression_rate_pct.png",
+    "workbook/p2/p2_4/p4_2_model_readiness/figures/target_profile_progression_progression_rate_pct.png",
+    "workbook/p2/p2_4/p4_2_model_readiness/logs/code_line_trace.csv",
+    "workbook/p2/p2_4/p4_2_model_readiness/logs/decision_log.jsonl",
+    "workbook/p2/p2_4/p4_2_model_readiness/logs/transformation_log.jsonl",
+    "workbook/p2/p2_4/p4_2_model_readiness/profiles/feature_quality_ctx24.csv",
+    "workbook/p2/p2_4/p4_2_model_readiness/profiles/feature_quality_goms.csv",
+    "workbook/p2/p2_4/p4_2_model_readiness/profiles/feature_quality_structure.csv",
+    "workbook/p2/p2_4/p4_2_model_readiness/profiles/target_profile_employment.csv",
+    "workbook/p2/p2_4/p4_2_model_readiness/profiles/target_profile_grade.csv",
+    "workbook/p2/p2_4/p4_2_model_readiness/profiles/target_profile_progression.csv",
+    "workbook/p2/p2_4/p4_2_model_readiness/qa/d08_key_duplicate_detail.csv",
+    "workbook/p2/p2_4/p4_2_model_readiness/qa/design_matrix_rank_audit.csv",
+    "workbook/p2/p2_4/p4_2_model_readiness/qa/group_cv_audit.csv",
+    "workbook/p2/p2_4/p4_2_model_readiness/qa/missingness_selection_audit.csv",
+    "workbook/p2/p2_4/p4_2_model_readiness/qa/p4_1_contract_replication.csv",
+    "workbook/p2/p2_4/p4_2_model_readiness/qa/panel_softmax_readiness.csv",
+    "workbook/p2/p2_4/p4_2_model_readiness/qa/preprocessor_dry_run.csv",
+    "workbook/p2/p2_4/p4_2_model_readiness/qa/smoke_model_audit.csv",
+    "workbook/p2/p2_4/p4_2_model_readiness/qa/target_leakage_audit.csv",
+    "workbook/p2/p2_4/p4_2_model_readiness/qa/unseen_category_audit.csv",
+    "workbook/p2/p2_4/p4_2_model_readiness/qa/vif_audit.csv",
+    "workbook/p2/p2_4/p4_2_model_readiness/reports/P4_MISSINGNESS_BIAS_REPORT.md",
+    "workbook/p2/p2_4/p4_2_model_readiness/reports/P4_MODEL_READINESS_SUMMARY.md",
+    "workbook/p2/p2_4/p4_2_model_readiness/reports/P4_MULTICOLLINEARITY_REPORT.md",
+    "workbook/p2/p2_4/p4_2_model_readiness/reports/P4_TARGET_DATA_CARDS.md"
+  ],
+  "d08_path": "workbook/p2/p2_3/p4_handoff_candidate/shared/mart_department_model_base_2024.parquet",
+  "d08_source_shape": [
+    10242,
+    151
+  ],
+  "analysis_frame_shape_after_membership": [
+    10242,
+    162
+  ],
+  "analysis_frame_shape_final_after_derived_flags": [
+    10242,
+    164
+  ],
+  "d08_sha256": "598b68b31b5358dfd23839d4c138cc64838d05876b7791980b376c0453f29962",
+  "key_duplicate": 18,
+  "split_leakage_school_count": 0,
+  "active_feature_count": 120,
+  "active_all_null_feature_count": 0,
+  "target_leakage_fail_count": 16,
+  "sample_registry_mismatch_count": 0,
+  "panel_status": [
+    {
+      "panel_artifact": "mart_department_panel_2023_2025",
+      "path": "workbook/p2/p2_3/p4_handoff_candidate/shared/mart_department_panel_2023_2025.parquet",
+      "exists": false,
+      "sha256": null,
+      "status": "BLOCKED_PANEL_DATA"
+    },
+    {
+      "panel_artifact": "mart_A_rate_transition_2023_2025",
+      "path": "workbook/p2/p2_3/p4_handoff_candidate/shared/mart_A_rate_transition_2023_2025.parquet",
+      "exists": false,
+      "sha256": null,
+      "status": "BLOCKED_PANEL_DATA"
+    }
+  ],
+  "next_notebook_order": [
+    "p2_G4_2.ipynb - current readiness gate",
+    "p4_2_grade_formation.ipynb - only after P4_MODELING_READY",
+    "p4_3_grade_leniency_oof.ipynb",
+    "p4_4_employment_progression.ipynb",
+    "p4_5_context_interactions.ipynb",
+    "p4_6_ml_benchmark.ipynb",
+    "p4_7_panel_fixed_effects.ipynb - only if panel_ready",
+    "p4_8_adam_softmax.ipynb - only if transition panel ready",
+    "p4_9_integrated_findings.ipynb"
+  ]
+}

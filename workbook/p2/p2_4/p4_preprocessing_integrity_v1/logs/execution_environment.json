@@ -1,0 +1,23 @@
+{
+  "run_id": "20260713T044343Z_5b1a3d5",
+  "utc_started_at": "2026-07-13T04:43:43.295882+00:00",
+  "utc_finished_at": "2026-07-13T04:43:49.064824+00:00",
+  "execution_seconds": 5.769,
+  "project_root": "/home/sieg/projects-wsl/SBS_dataScience",
+  "git_commit_full": "5b1a3d54266d881a839ad9a3cec750da66e94bc7",
+  "git_commit_short": "5b1a3d5",
+  "git_dirty": true,
+  "python_version": "3.12.3 (main, Jun 19 2026, 12:46:00) [GCC 13.3.0]",
+  "platform": "Linux-6.18.33.2-microsoft-standard-WSL2-x86_64-with-glibc2.39",
+  "pandas_version": "3.0.3",
+  "numpy_version": "2.5.0",
+  "pyarrow_version": "24.0.0",
+  "sklearn_version": "1.9.0",
+  "selected_notebook_path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/p4_modeling_readiness_v4/p2_G4_dataset_cell_inspection.ipynb",
+  "selected_notebook_sha256": "cf980e2962e6906853d49cf71c46d6062e07be897d23a72f01070f0e6bcc790b",
+  "random_seed_used": false,
+  "execution_command": "python workbook/p2/p2_4/p4_preprocessing_integrity_v1/run_preprocessing_integrity_v1.py",
+  "execution_success": true,
+  "warning_count": 5,
+  "error_count": 0
+}

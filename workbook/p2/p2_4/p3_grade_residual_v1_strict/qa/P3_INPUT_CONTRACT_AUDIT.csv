@@ -1,0 +1,10 @@
+name,path,exists,shape,sha256
+strict_d08,workbook/p2/p2_4/source_eda/strict_clean_v1/mart_department_model_base_2024_strict_drop.parquet,True,"[7592, 151]",5f56e375fd1c0474a5e55652859ae007e2f45becd6d3350ee4c82e21fab8df9b
+sample_membership,workbook/p2/p2_4/p4_modeling_readiness_v4/data/P4_PHASE_SAMPLE_MEMBERSHIP_FINAL.parquet,True,"[7592, 21]",c6504fd04c918ce33439462f7b277aa8ae4363f185ef93210fcc761f01e9fb46
+sample_registry,workbook/p2/p2_4/p4_modeling_readiness_v4/artifacts/P4_PHASE_SAMPLE_REGISTRY_FINAL.csv,True,"[12, 12]",d518bab363399a31037590a2cb285f2a76e88318f5d25bf93ac365441f48e611
+manual_feature_registry,workbook/p2/p2_4/source_eda/human_handoff_packet/03_MODEL_INPUT/manual_approved_feature_registry.csv,True,"[198, 11]",2cdb7797c4619c625fc6a171710970b7691446f4d62cae9accd2ab5c68f15051
+target_denylist,workbook/p2/p2_4/p4_modeling_readiness_v4/qa/P4_TARGET_SPECIFIC_DENYLIST_FINAL.csv,True,"[16, 3]",97435cb3a6b20b490ce2ce7e65160414517aee5b472f8ef8040d91de9f868895
+p2_status,workbook/p2/p2_4/p2_grade_formation_v1_strict/reports/P2_GRADE_FORMATION_STATUS.json,True,[30],fa48e5d973cec5868a8983e424f56e6fc5d2d999a072a6538072b9ee06cd1943
+p2_handoff,workbook/p2/p2_4/p2_grade_formation_v1_strict/artifacts/P2_TO_P3_FEATURE_MATRIX_SCHEMA.json,True,[11],2bbc7d64784b7b530d57bb6a2096d14cb11c5879f41a5208f9ff3b02f4bdddcb
+strict_target_membership,workbook/p2/p2_4/source_eda/strict_clean_v1/strict_target_sample_membership.csv,True,"[61452, 7]",29bf19120774e7d0a86e1c6b6892d012832f3fd6fd5dbed5e6a752e8f2e0e61c
+strict_target_counts,workbook/p2/p2_4/source_eda/strict_clean_v1/strict_target_sample_counts.csv,True,"[6, 7]",dde484367e1849b34a28b17e99381f59c04c94fb549d78390e720fbe3d905517

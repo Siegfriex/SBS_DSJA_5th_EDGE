@@ -1,0 +1,4 @@
+﻿column,dtype,count,missing_n,missing_pct,nunique,top,freq,top_pct,sample_values
+model_id,str,420,0,0.0,14,P1_STRUCTURE,30,7.142857142857142,P1_STRUCTURE | P1_SELECTIVITY | P2_S | P2_Q | P3_S
+encoded_feature,str,420,0,0.0,38,school_type_대학교,14,3.3333333333333335,school_type_대학교 | school_type_교육대학 | school_type_방송통신대학교 | school_type_산업대학 | region_sido_서울
+corr_matrix_rank_deficient,bool,420,0,0.0,1,False,420,100.0,False

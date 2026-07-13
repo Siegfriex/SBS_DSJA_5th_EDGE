@@ -1,0 +1,12 @@
+{
+  "working_directory": "/home/sieg/projects-wsl/SBS_dataScience",
+  "python_version": "3.12.3",
+  "pandas_version": "3.0.3",
+  "numpy_version": "2.5.0",
+  "pyarrow_version": "24.0.0",
+  "platform": "Linux-6.18.33.2-microsoft-standard-WSL2-x86_64-with-glibc2.39",
+  "git_commit": "5b1a3d5",
+  "random_state": 3085,
+  "run_started_at": "2026-07-13T02:54:15.479923+00:00",
+  "run_completed_at": "2026-07-13T02:54:20.425855+00:00"
+}

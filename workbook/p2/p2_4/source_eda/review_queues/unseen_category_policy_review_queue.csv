@@ -1,0 +1,7 @@
+﻿feature,train_category_n,validation_category_n,unseen_validation_category_n,unseen_values_preview,human_encoding_decision,identifier_should_be_feature,unknown_category_policy,reviewer_note
+campus_name_raw_x,9,4,1,분교|ERICA,,,,
+school_uid_x,140,30,30,SCH_1a904381ffad|SCH_215dd5d7b724|SCH_2178d9389c0b|SCH_2f1dd9f5df84|SCH_3475d2320701|SCH_350aadd7b42e|SCH_38a7fe8ddf6c|SCH_399b2a3af860|SCH_3a9f2002a350|SCH_517472e0016a|SCH_660b002d3bb9|SCH_7b0a75e6cfe5|SCH_7d73e0278bba|SCH_842f899d2eb8|SCH_893fafa4d1ec|SCH_9a2e18045dc2|SCH_a70179c6531f|SCH_ab9f4dbc01f8|SCH_ad7734bfb732|SCH_c80253ebd31c,,,,
+school_uid_y,139,29,29,SCH_1a904381ffad|SCH_215dd5d7b724|SCH_2178d9389c0b|SCH_2f1dd9f5df84|SCH_3475d2320701|SCH_350aadd7b42e|SCH_38a7fe8ddf6c|SCH_399b2a3af860|SCH_3a9f2002a350|SCH_517472e0016a|SCH_660b002d3bb9|SCH_7b0a75e6cfe5|SCH_7d73e0278bba|SCH_842f899d2eb8|SCH_893fafa4d1ec|SCH_a70179c6531f|SCH_ab9f4dbc01f8|SCH_ad7734bfb732|SCH_c80253ebd31c|SCH_d4dadcb61205,,,,
+region_sido,16,14,1,제주,,,,
+region_sigungu,95,37,13,경기 부천시|경기 안산시|경북 상주시|대구 달서구|대구 북구|대전 동구|대전 중구|부산 영도구|서울 성동구|서울 용산구|제주 제주시|충북 괴산군|충북 진천군,,,,
+school_uid,140,30,30,SCH_1a904381ffad|SCH_215dd5d7b724|SCH_2178d9389c0b|SCH_2f1dd9f5df84|SCH_3475d2320701|SCH_350aadd7b42e|SCH_38a7fe8ddf6c|SCH_399b2a3af860|SCH_3a9f2002a350|SCH_517472e0016a|SCH_660b002d3bb9|SCH_7b0a75e6cfe5|SCH_7d73e0278bba|SCH_842f899d2eb8|SCH_893fafa4d1ec|SCH_9a2e18045dc2|SCH_a70179c6531f|SCH_ab9f4dbc01f8|SCH_ad7734bfb732|SCH_c80253ebd31c,,,,

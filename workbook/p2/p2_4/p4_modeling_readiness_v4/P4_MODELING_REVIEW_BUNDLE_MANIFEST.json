@@ -1,0 +1,271 @@
+{
+  "created_at": "2026-07-13T05:06:13.246778+00:00",
+  "files": [
+    {
+      "label": "mart_department_model_base_2024_strict_drop.parquet",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/source_eda/strict_clean_v1/mart_department_model_base_2024_strict_drop.parquet",
+      "relative_path": "workbook/p2/p2_4/source_eda/strict_clean_v1/mart_department_model_base_2024_strict_drop.parquet",
+      "shape": [
+        7592,
+        151
+      ],
+      "row_count": 7592,
+      "column_count": 151,
+      "size_bytes": 1565423,
+      "mtime": "2026-07-13T11:10:43.122172",
+      "sha256": "5f56e375fd1c0474a5e55652859ae007e2f45becd6d3350ee4c82e21fab8df9b"
+    },
+    {
+      "label": "strict_target_sample_membership.csv",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/source_eda/strict_clean_v1/strict_target_sample_membership.csv",
+      "relative_path": "workbook/p2/p2_4/source_eda/strict_clean_v1/strict_target_sample_membership.csv",
+      "shape": [
+        61452,
+        7
+      ],
+      "row_count": 61452,
+      "column_count": 7,
+      "size_bytes": 3911786,
+      "mtime": "2026-07-13T11:10:43.876487",
+      "sha256": "29bf19120774e7d0a86e1c6b6892d012832f3fd6fd5dbed5e6a752e8f2e0e61c"
+    },
+    {
+      "label": "strict_target_sample_counts.csv",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/source_eda/strict_clean_v1/strict_target_sample_counts.csv",
+      "relative_path": "workbook/p2/p2_4/source_eda/strict_clean_v1/strict_target_sample_counts.csv",
+      "shape": [
+        6,
+        7
+      ],
+      "row_count": 6,
+      "column_count": 7,
+      "size_bytes": 440,
+      "mtime": "2026-07-13T11:10:43.878331",
+      "sha256": "dde484367e1849b34a28b17e99381f59c04c94fb549d78390e720fbe3d905517"
+    },
+    {
+      "label": "manual_approved_feature_registry.csv",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/source_eda/human_handoff_packet/03_MODEL_INPUT/manual_approved_feature_registry.csv",
+      "relative_path": "workbook/p2/p2_4/source_eda/human_handoff_packet/03_MODEL_INPUT/manual_approved_feature_registry.csv",
+      "shape": [
+        198,
+        11
+      ],
+      "row_count": 198,
+      "column_count": 11,
+      "size_bytes": 29026,
+      "mtime": "2026-07-13T13:29:07.567287",
+      "sha256": "2cdb7797c4619c625fc6a171710970b7691446f4d62cae9accd2ab5c68f15051"
+    },
+    {
+      "label": "manual_approved_target_and_scope_policy.csv",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/source_eda/human_handoff_packet/03_MODEL_INPUT/manual_approved_target_and_scope_policy.csv",
+      "relative_path": "workbook/p2/p2_4/source_eda/human_handoff_packet/03_MODEL_INPUT/manual_approved_target_and_scope_policy.csv",
+      "shape": [
+        32,
+        7
+      ],
+      "row_count": 32,
+      "column_count": 7,
+      "size_bytes": 6184,
+      "mtime": "2026-07-13T13:29:07.572415",
+      "sha256": "c3f56647cc63135dd74609ed4b0436d0058655fc0e82354691b276a067d5b389"
+    },
+    {
+      "label": "P4_PHASE_SAMPLE_REGISTRY_FINAL.csv",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/p4_modeling_readiness_v4/artifacts/P4_PHASE_SAMPLE_REGISTRY_FINAL.csv",
+      "relative_path": "workbook/p2/p2_4/p4_modeling_readiness_v4/artifacts/P4_PHASE_SAMPLE_REGISTRY_FINAL.csv",
+      "shape": [
+        12,
+        12
+      ],
+      "row_count": 12,
+      "column_count": 12,
+      "size_bytes": 1667,
+      "mtime": "2026-07-13T14:06:03.312332",
+      "sha256": "d518bab363399a31037590a2cb285f2a76e88318f5d25bf93ac365441f48e611"
+    },
+    {
+      "label": "P4_PHASE_SAMPLE_MEMBERSHIP_FINAL.parquet",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/p4_modeling_readiness_v4/data/P4_PHASE_SAMPLE_MEMBERSHIP_FINAL.parquet",
+      "relative_path": "workbook/p2/p2_4/p4_modeling_readiness_v4/data/P4_PHASE_SAMPLE_MEMBERSHIP_FINAL.parquet",
+      "shape": [
+        7592,
+        21
+      ],
+      "row_count": 7592,
+      "column_count": 21,
+      "size_bytes": 198537,
+      "mtime": "2026-07-13T14:06:03.317337",
+      "sha256": "c6504fd04c918ce33439462f7b277aa8ae4363f185ef93210fcc761f01e9fb46"
+    },
+    {
+      "label": "department_model_column_registry_v4.csv",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/p4_modeling_readiness_v4/artifacts/department_model_column_registry_v4.csv",
+      "relative_path": "workbook/p2/p2_4/p4_modeling_readiness_v4/artifacts/department_model_column_registry_v4.csv",
+      "shape": [
+        151,
+        27
+      ],
+      "row_count": 151,
+      "column_count": 27,
+      "size_bytes": 65608,
+      "mtime": "2026-07-13T14:06:03.121399",
+      "sha256": "c8f3954654de2853c92c4643b7ccf5cb271a7ad50de92507538d0fb336365ee5"
+    },
+    {
+      "label": "P4_PHASE_FEATURE_SET_FINAL.csv",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/p4_modeling_readiness_v4/artifacts/P4_PHASE_FEATURE_SET_FINAL.csv",
+      "relative_path": "workbook/p2/p2_4/p4_modeling_readiness_v4/artifacts/P4_PHASE_FEATURE_SET_FINAL.csv",
+      "shape": [
+        241,
+        11
+      ],
+      "row_count": 241,
+      "column_count": 11,
+      "size_bytes": 41865,
+      "mtime": "2026-07-13T14:06:03.545473",
+      "sha256": "05e3d5a89e4405d305ee496efc6dae97c1a790c2023c88363a34205ccf284899"
+    },
+    {
+      "label": "P4_PHASE_MODEL_SPEC_FINAL.csv",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/p4_modeling_readiness_v4/artifacts/P4_PHASE_MODEL_SPEC_FINAL.csv",
+      "relative_path": "workbook/p2/p2_4/p4_modeling_readiness_v4/artifacts/P4_PHASE_MODEL_SPEC_FINAL.csv",
+      "shape": [
+        18,
+        11
+      ],
+      "row_count": 18,
+      "column_count": 11,
+      "size_bytes": 3881,
+      "mtime": "2026-07-13T14:06:03.546686",
+      "sha256": "7887229f14c99f2fc729724944e2c174824770bd3c8fd1f501f577d8de8f7e74"
+    },
+    {
+      "label": "P4_DUPLICATE_CONFLICT_RESOLUTION.csv",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/p4_modeling_readiness_v4/qa/P4_DUPLICATE_CONFLICT_RESOLUTION.csv",
+      "relative_path": "workbook/p2/p2_4/p4_modeling_readiness_v4/qa/P4_DUPLICATE_CONFLICT_RESOLUTION.csv",
+      "shape": [
+        1,
+        4
+      ],
+      "row_count": 1,
+      "column_count": 4,
+      "size_bytes": 190,
+      "mtime": "2026-07-13T14:06:03.122954",
+      "sha256": "17f57f1dc3c6f153c15090bd7f756d7fa8cf8bb3127686833e1247aa201004d3"
+    },
+    {
+      "label": "P4_PHASE_DESIGN_MATRIX_RANK.csv",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/p4_modeling_readiness_v4/qa/P4_PHASE_DESIGN_MATRIX_RANK.csv",
+      "relative_path": "workbook/p2/p2_4/p4_modeling_readiness_v4/qa/P4_PHASE_DESIGN_MATRIX_RANK.csv",
+      "shape": [
+        32,
+        17
+      ],
+      "row_count": 32,
+      "column_count": 17,
+      "size_bytes": 5810,
+      "mtime": "2026-07-13T14:06:05.246419",
+      "sha256": "79c4a30d5c600c43528317b398958e67e007fa00145a33f63c9d729052888d27"
+    },
+    {
+      "label": "P4_LINEAR_ALIAS_GROUPS.csv",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/p4_modeling_readiness_v4/qa/P4_LINEAR_ALIAS_GROUPS.csv",
+      "relative_path": "workbook/p2/p2_4/p4_modeling_readiness_v4/qa/P4_LINEAR_ALIAS_GROUPS.csv",
+      "shape": [
+        56,
+        6
+      ],
+      "row_count": 56,
+      "column_count": 6,
+      "size_bytes": 18209,
+      "mtime": "2026-07-13T14:06:05.247329",
+      "sha256": "9cc607bbfebfa0553158fe2848981e15915373569c4e223318e614af6437f88a"
+    },
+    {
+      "label": "P4_VIF_TOP30_BY_PHASE.csv",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/p4_modeling_readiness_v4/qa/P4_VIF_TOP30_BY_PHASE.csv",
+      "relative_path": "workbook/p2/p2_4/p4_modeling_readiness_v4/qa/P4_VIF_TOP30_BY_PHASE.csv",
+      "shape": [
+        420,
+        5
+      ],
+      "row_count": 420,
+      "column_count": 5,
+      "size_bytes": 27763,
+      "mtime": "2026-07-13T14:06:05.247987",
+      "sha256": "69b7791a6e41a31072915cc950fcc04c9fb26a38ce13f05573b4c8111d47d1ce"
+    },
+    {
+      "label": "P4_TARGET_PROFILE_BY_PHASE.csv",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/p4_modeling_readiness_v4/profiles/P4_TARGET_PROFILE_BY_PHASE.csv",
+      "relative_path": "workbook/p2/p2_4/p4_modeling_readiness_v4/profiles/P4_TARGET_PROFILE_BY_PHASE.csv",
+      "shape": [
+        396,
+        20
+      ],
+      "row_count": 396,
+      "column_count": 20,
+      "size_bytes": 53293,
+      "mtime": "2026-07-13T14:06:08.986413",
+      "sha256": "bf54505424cf8902a6386ccca27b8328d81cc920797fe20f732b955aa9a99d5f"
+    },
+    {
+      "label": "P4_MODEL_FAMILY_RECOMMENDATION.csv",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/p4_modeling_readiness_v4/artifacts/P4_MODEL_FAMILY_RECOMMENDATION.csv",
+      "relative_path": "workbook/p2/p2_4/p4_modeling_readiness_v4/artifacts/P4_MODEL_FAMILY_RECOMMENDATION.csv",
+      "shape": [
+        8,
+        8
+      ],
+      "row_count": 8,
+      "column_count": 8,
+      "size_bytes": 2305,
+      "mtime": "2026-07-13T14:06:08.987943",
+      "sha256": "193db8e4da1201fa9ef8fbe635803de560d563e4c1446770129066fbc497c68c"
+    },
+    {
+      "label": "P3_NESTED_CROSSFIT_SMOKE.csv",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/p4_modeling_readiness_v4/qa/P3_NESTED_CROSSFIT_SMOKE.csv",
+      "relative_path": "workbook/p2/p2_4/p4_modeling_readiness_v4/qa/P3_NESTED_CROSSFIT_SMOKE.csv",
+      "shape": [
+        1,
+        11
+      ],
+      "row_count": 1,
+      "column_count": 11,
+      "size_bytes": 1098,
+      "mtime": "2026-07-13T14:06:09.480439",
+      "sha256": "9b6cf3cf96d047c0ff44f8c15e5cddc8acb0eab04281b7045c2a6a714c760926"
+    },
+    {
+      "label": "P4_FULL_PIPELINE_BOOTSTRAP_SMOKE.csv",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/p4_modeling_readiness_v4/qa/P4_FULL_PIPELINE_BOOTSTRAP_SMOKE.csv",
+      "relative_path": "workbook/p2/p2_4/p4_modeling_readiness_v4/qa/P4_FULL_PIPELINE_BOOTSTRAP_SMOKE.csv",
+      "shape": [
+        3,
+        11
+      ],
+      "row_count": 3,
+      "column_count": 11,
+      "size_bytes": 405,
+      "mtime": "2026-07-13T14:06:13.173052",
+      "sha256": "11af013f6f8b0f587bb7ab67772a6dcd823555382111aba37ad02a23a436bb41"
+    },
+    {
+      "label": "P4_FINAL_MODELING_READINESS.json",
+      "path": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/p4_modeling_readiness_v4/reports/P4_FINAL_MODELING_READINESS.json",
+      "relative_path": "workbook/p2/p2_4/p4_modeling_readiness_v4/reports/P4_FINAL_MODELING_READINESS.json",
+      "shape": [
+        29,
+        null
+      ],
+      "row_count": 29,
+      "column_count": null,
+      "size_bytes": 1323,
+      "mtime": "2026-07-13T14:06:13.175691",
+      "sha256": "fd8c33ddd2999a59f82a9c24f08a9db9073112c9aad5176b3f6e54659723f99a"
+    }
+  ]
+}

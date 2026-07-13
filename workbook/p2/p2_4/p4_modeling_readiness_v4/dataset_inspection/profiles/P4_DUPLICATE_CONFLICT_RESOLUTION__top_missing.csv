@@ -1,0 +1,2 @@
+﻿rank,position,column,dtype,non_null_n,missing_n,missing_pct,nunique,unique_ratio,is_all_null,is_constant,is_identifier_candidate,top_value_share
+1,14,exclusion_reason,str,8,28,77.77777777777779,2,0.25,False,False,False,0.7777777777777778

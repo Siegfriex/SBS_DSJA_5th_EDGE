@@ -1,0 +1,7 @@
+﻿area,issue_type,manual_decision,rows,status
+human_required,bridge_design_required,drop_D05_scope,1,approved
+human_required,historical_2023_target_unavailable,exclude_2023_target,8,approved
+human_required,missing_panel_source,drop_panel_track,2,approved
+human_required,source_unavailable_all_null,exclude_from_features,2,approved
+target_leakage,leakage_fail_pairs,keep_blocked,16,approved
+deleted_row_recovery,strict_deleted_rows,no_deleted_rows_recovered,2650,approved

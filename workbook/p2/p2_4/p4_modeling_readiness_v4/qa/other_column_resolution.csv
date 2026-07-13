@@ -1,0 +1,9 @@
+﻿column,found,previous_feature_block,resolved_feature_block,semantic_role,model_feature_allowed,status,reason
+school_name_base_raw,True,OTHER,K,identifier_or_label,False,RESOLVED,Base school-name label; not a model feature.
+dept_field_raw,True,OTHER,K,identifier_or_label,False,RESOLVED,Raw department-field label; not a model feature.
+dept_field_std,True,OTHER,K,identifier_or_label,False,RESOLVED,Standardized department-field label; not a model feature.
+headcount_grain_version,True,OTHER,QUALITY,grain_lineage_metadata,False,RESOLVED,Headcount grain version metadata.
+grain_resolution_method,True,OTHER,QUALITY,grain_lineage_metadata,False,RESOLVED,Grain resolution method metadata.
+hc_major_group_raw,True,OTHER,QUALITY,major_mapping_lineage_metadata,False,RESOLVED,Raw headcount major label; use canonical major_group_7 only.
+major7_sample_exclusion_rule,True,OTHER,QUALITY,sample_exclusion_metadata,False,RESOLVED,Sample exclusion rule metadata.
+__OTHER_TOTAL_AFTER_RESOLUTION__,True,OTHER,0,audit_total,False,PASS,Final registry must have OTHER=0.

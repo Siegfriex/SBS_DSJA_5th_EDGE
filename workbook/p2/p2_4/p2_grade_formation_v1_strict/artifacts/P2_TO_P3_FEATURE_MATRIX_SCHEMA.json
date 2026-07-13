@@ -1,0 +1,88 @@
+{
+  "created_at": "2026-07-13T06:29:30.853258+00:00",
+  "target": "a_rate_pct",
+  "target_unit": "percentage_point",
+  "strict_d08_path": "workbook/p2/p2_4/source_eda/strict_clean_v1/mart_department_model_base_2024_strict_drop.parquet",
+  "strict_d08_sha256": "5f56e375fd1c0474a5e55652859ae007e2f45becd6d3350ee4c82e21fab8df9b",
+  "samples": {
+    "P2_STRUCTURE_READY": {
+      "sample_id": "P2_STRUCTURE_READY",
+      "row_n": 7592,
+      "school_n": 197,
+      "campus_n": 261,
+      "major7_n": 7,
+      "train_n": 5534,
+      "validation_n": 1168,
+      "test_n": 890,
+      "excluded_conflict_n": 0,
+      "strict_clean_base_n": 7592,
+      "row_id_hash": "2e3fb7557ee894b50542591376211ec84817501cd7b4122ae529914192741af4",
+      "status": "READY"
+    },
+    "P2_SELECTIVITY_READY": {
+      "sample_id": "P2_SELECTIVITY_READY",
+      "row_n": 3119,
+      "school_n": 146,
+      "campus_n": 179,
+      "major7_n": 7,
+      "train_n": 2293,
+      "validation_n": 514,
+      "test_n": 312,
+      "excluded_conflict_n": 0,
+      "strict_clean_base_n": 7592,
+      "row_id_hash": "1a0e36bb24d7e7f894897503bf0baf2c36f9b8710978b9fc7d4b818b242c4924",
+      "status": "READY"
+    }
+  },
+  "p2_s_feature_status": "READY",
+  "p2_q_feature_status": "BLOCKED_FEATURE_CONTRACT",
+  "p2_s_final_spec": {
+    "model_id": "P2-S4",
+    "categorical": [
+      "major_group_7",
+      "school_type",
+      "region_sido",
+      "campus_branch",
+      "credit_forfeit_flag"
+    ],
+    "numeric": [
+      "female_student_share_pct",
+      "international_student_share_pct",
+      "leave_rate_pct",
+      "student_faculty_ratio",
+      "fulltime_faculty_share_pct",
+      "log_enrolled_students",
+      "log_graduates"
+    ]
+  },
+  "p2_q_final_spec": {
+    "model_id": "P2-Q4",
+    "categorical": [
+      "major_group_7",
+      "school_type",
+      "region_sido",
+      "campus_branch",
+      "credit_forfeit_flag"
+    ],
+    "numeric": [
+      "female_student_share_pct",
+      "international_student_share_pct",
+      "leave_rate_pct",
+      "student_faculty_ratio",
+      "fulltime_faculty_share_pct",
+      "log_enrolled_students",
+      "log_graduates",
+      "selectivity_proxy_pct",
+      "competition_ratio"
+    ],
+    "status": "BLOCKED_FEATURE_CONTRACT"
+  },
+  "preprocessing": {
+    "categorical_missing": "__MISSING__",
+    "categorical_unseen": "__OTHER__",
+    "coding": "treatment/drop reference",
+    "numeric_imputation": "development median",
+    "numeric_missing_indicator": "only when missing observed in development fit",
+    "standardization": "available for prediction/standardized coefficient track"
+  }
+}

@@ -1,0 +1,3 @@
+﻿path,relative_path,exists,size_bytes,modified_at,sha256,exact_requested_name,git_tracked
+/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/p4_modeling_readiness_v4/p2_G4_dataset_cell_inspection.ipynb,workbook/p2/p2_4/p4_modeling_readiness_v4/p2_G4_dataset_cell_inspection.ipynb,True,2419219,2026-07-13T04:06:01.719570+00:00,cf980e2962e6906853d49cf71c46d6062e07be897d23a72f01070f0e6bcc790b,False,False
+/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/p4_preprocessing_integrity_v1/executed/p2_G4_dataset_cell_inspection.ipynb,workbook/p2/p2_4/p4_preprocessing_integrity_v1/executed/p2_G4_dataset_cell_inspection.ipynb,True,2419219,2026-07-13T04:06:01.719570+00:00,cf980e2962e6906853d49cf71c46d6062e07be897d23a72f01070f0e6bcc790b,False,False

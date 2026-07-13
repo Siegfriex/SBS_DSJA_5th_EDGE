@@ -1,0 +1,33 @@
+﻿model_id,sample_id,target,coding,status,train_n,raw_feature_count,numeric_feature_count,categorical_feature_count,encoded_feature_count,rank,rank_deficiency,condition_number,constant_columns,duplicate_encoded_columns_n,perfect_alias_groups_n,recommended_action
+P1_STRUCTURE,P1_STRUCTURE_READY,a_rate_pct,onehot_full,WARN,4080,13,8.0,5.0,37.0,33.0,4.0,33.34752491413106,degree_course_대학과정,0.0,4.0,Use treatment coding for linear models.
+P1_STRUCTURE,P1_STRUCTURE_READY,a_rate_pct,treatment,PASS,4080,13,8.0,5.0,32.0,32.0,0.0,26.89350559821392,,0.0,0.0,
+P1_SELECTIVITY,P1_SELECTIVITY_READY,a_rate_pct,onehot_full,WARN,1742,16,11.0,5.0,38.0,34.0,4.0,87.6992515311576,degree_course_대학과정,0.0,4.0,Use treatment coding for linear models.
+P1_SELECTIVITY,P1_SELECTIVITY_READY,a_rate_pct,treatment,PASS,1742,16,11.0,5.0,33.0,33.0,0.0,47.075691585511215,,0.0,0.0,
+P2_S,P2_STRUCTURE_READY,a_rate_pct,onehot_full,WARN,5534,11,6.0,5.0,37.0,33.0,4.0,129.23256459629735,degree_course_대학과정,0.0,4.0,Use treatment coding for linear models.
+P2_S,P2_STRUCTURE_READY,a_rate_pct,treatment,PASS,5534,11,6.0,5.0,32.0,32.0,0.0,94.82564013081095,,0.0,0.0,
+P2_Q,P2_SELECTIVITY_READY,a_rate_pct,onehot_full,WARN,2293,14,9.0,5.0,37.0,33.0,4.0,92.549336519561,degree_course_대학과정,0.0,4.0,Use treatment coding for linear models.
+P2_Q,P2_SELECTIVITY_READY,a_rate_pct,treatment,PASS,2293,14,9.0,5.0,32.0,32.0,0.0,70.4266578528154,,0.0,0.0,
+P3_S,P3_STRUCTURE_READY,a_rate_pct,onehot_full,WARN,5534,11,6.0,5.0,37.0,33.0,4.0,129.23256459629735,degree_course_대학과정,0.0,4.0,Use treatment coding for linear models.
+P3_S,P3_STRUCTURE_READY,a_rate_pct,treatment,PASS,5534,11,6.0,5.0,32.0,32.0,0.0,94.82564013081095,,0.0,0.0,
+P3_Q,P3_SELECTIVITY_READY,a_rate_pct,onehot_full,WARN,2293,14,9.0,5.0,37.0,33.0,4.0,92.549336519561,degree_course_대학과정,0.0,4.0,Use treatment coding for linear models.
+P3_Q,P3_SELECTIVITY_READY,a_rate_pct,treatment,PASS,2293,14,9.0,5.0,32.0,32.0,0.0,70.4266578528154,,0.0,0.0,
+P4_E_STRUCTURE_A_RATE,P4_E_STRUCTURE_READY,health_employment_rate_pct,onehot_full,WARN,4080,12,7.0,5.0,36.0,32.0,4.0,32.32087440940801,degree_course_대학과정,0.0,4.0,Use treatment coding for linear models.
+P4_E_STRUCTURE_A_RATE,P4_E_STRUCTURE_READY,health_employment_rate_pct,treatment,PASS,4080,12,7.0,5.0,31.0,31.0,0.0,26.765002143847916,,0.0,0.0,
+P4_E_STRUCTURE_RESIDUAL,P4_E_STRUCTURE_READY,health_employment_rate_pct,treatment,PENDING_UPSTREAM_RESIDUAL,4080,12,,,,,,,,,,Generate required OOF grade residual before fitting this spec.
+P4_E_SELECTIVITY_A_RATE,P4_E_SELECTIVITY_READY,health_employment_rate_pct,onehot_full,WARN,1742,15,10.0,5.0,37.0,33.0,4.0,87.68515264735295,degree_course_대학과정,0.0,4.0,Use treatment coding for linear models.
+P4_E_SELECTIVITY_A_RATE,P4_E_SELECTIVITY_READY,health_employment_rate_pct,treatment,PASS,1742,15,10.0,5.0,32.0,32.0,0.0,48.064342050456,,0.0,0.0,
+P4_E_SELECTIVITY_RESIDUAL,P4_E_SELECTIVITY_READY,health_employment_rate_pct,treatment,PENDING_UPSTREAM_RESIDUAL,1742,15,,,,,,,,,,Generate required OOF grade residual before fitting this spec.
+P4_P_STRUCTURE_A_RATE,P4_P_STRUCTURE_READY,graduate_school_progression_rate_pct,onehot_full,WARN,4129,12,7.0,5.0,38.0,34.0,4.0,111.47681727171694,degree_course_대학과정,0.0,4.0,Use treatment coding for linear models.
+P4_P_STRUCTURE_A_RATE,P4_P_STRUCTURE_READY,graduate_school_progression_rate_pct,treatment,PASS,4129,12,7.0,5.0,33.0,33.0,0.0,84.41952739666249,,0.0,0.0,
+P4_P_STRUCTURE_RESIDUAL,P4_P_STRUCTURE_READY,graduate_school_progression_rate_pct,treatment,PENDING_UPSTREAM_RESIDUAL,4129,12,,,,,,,,,,Generate required OOF grade residual before fitting this spec.
+P4_P_SELECTIVITY_A_RATE,P4_P_SELECTIVITY_READY,graduate_school_progression_rate_pct,onehot_full,WARN,1756,15,10.0,5.0,38.0,34.0,4.0,88.35820692747336,degree_course_대학과정,0.0,4.0,Use treatment coding for linear models.
+P4_P_SELECTIVITY_A_RATE,P4_P_SELECTIVITY_READY,graduate_school_progression_rate_pct,treatment,PASS,1756,15,10.0,5.0,33.0,33.0,0.0,69.10836864452585,,0.0,0.0,
+P4_P_SELECTIVITY_RESIDUAL,P4_P_SELECTIVITY_READY,graduate_school_progression_rate_pct,treatment,PENDING_UPSTREAM_RESIDUAL,1756,15,,,,,,,,,,Generate required OOF grade residual before fitting this spec.
+P4_E_JOINT_STRUCTURE_A_RATE,P4_JOINT_STRUCTURE_READY,health_employment_rate_pct,onehot_full,WARN,4080,12,7.0,5.0,36.0,32.0,4.0,32.32087440940801,degree_course_대학과정,0.0,4.0,Use treatment coding for linear models.
+P4_E_JOINT_STRUCTURE_A_RATE,P4_JOINT_STRUCTURE_READY,health_employment_rate_pct,treatment,PASS,4080,12,7.0,5.0,31.0,31.0,0.0,26.765002143847916,,0.0,0.0,
+P4_P_JOINT_STRUCTURE_A_RATE,P4_JOINT_STRUCTURE_READY,graduate_school_progression_rate_pct,onehot_full,WARN,4080,12,7.0,5.0,36.0,32.0,4.0,32.32087440940801,degree_course_대학과정,0.0,4.0,Use treatment coding for linear models.
+P4_P_JOINT_STRUCTURE_A_RATE,P4_JOINT_STRUCTURE_READY,graduate_school_progression_rate_pct,treatment,PASS,4080,12,7.0,5.0,31.0,31.0,0.0,26.765002143847916,,0.0,0.0,
+P4_E_JOINT_SELECTIVITY_A_RATE,P4_JOINT_SELECTIVITY_READY,health_employment_rate_pct,onehot_full,WARN,1742,15,10.0,5.0,37.0,33.0,4.0,87.68515264735295,degree_course_대학과정,0.0,4.0,Use treatment coding for linear models.
+P4_E_JOINT_SELECTIVITY_A_RATE,P4_JOINT_SELECTIVITY_READY,health_employment_rate_pct,treatment,PASS,1742,15,10.0,5.0,32.0,32.0,0.0,48.064342050456,,0.0,0.0,
+P4_P_JOINT_SELECTIVITY_A_RATE,P4_JOINT_SELECTIVITY_READY,graduate_school_progression_rate_pct,onehot_full,WARN,1742,15,10.0,5.0,37.0,33.0,4.0,87.68515264735295,degree_course_대학과정,0.0,4.0,Use treatment coding for linear models.
+P4_P_JOINT_SELECTIVITY_A_RATE,P4_JOINT_SELECTIVITY_READY,graduate_school_progression_rate_pct,treatment,PASS,1742,15,10.0,5.0,32.0,32.0,0.0,48.064342050456,,0.0,0.0,

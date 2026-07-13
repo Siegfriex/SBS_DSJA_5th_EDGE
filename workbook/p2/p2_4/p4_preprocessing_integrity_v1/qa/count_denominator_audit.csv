@@ -1,0 +1,14 @@
+﻿family,column,exists,non_null_n,missing_n,status
+GRADE,a_grade_students_n,False,0,10242,not_observed
+GRADE,graded_students_n,False,0,10242,not_observed
+GRADE,a_rate_pct,True,10242,0,observed
+GRADE,a_rate_prop,False,0,10242,not_observed
+RETENTION,initial_employed_n,False,0,10242,not_observed
+RETENTION,retained_1_n,False,0,10242,not_observed
+RETENTION,retained_2_n,False,0,10242,not_observed
+RETENTION,retained_3_n,False,0,10242,not_observed
+RETENTION,retained_4_n,False,0,10242,not_observed
+PROGRESSION,graduate_school_progressors_n,False,0,10242,not_observed
+PROGRESSION,graduates_n,True,8561,1681,observed
+PROGRESSION,graduate_school_progression_rate_pct,True,7587,2655,observed
+PROGRESSION,graduate_school_progression_prop,False,0,10242,not_observed

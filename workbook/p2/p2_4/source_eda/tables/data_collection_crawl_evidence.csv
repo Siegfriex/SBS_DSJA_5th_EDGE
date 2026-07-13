@@ -1,0 +1,8 @@
+﻿collection,evidence_file,rows,status_summary,method_signal
+ADIGA,workbook/p2/p2_2/data/crawl_2024_admission_full/01_crawl_source_registry_merged.csv,214,"{'success': 179, 'partial': 35}","source_url, retrieved_at, http_status, content_sha256, raw_file_path, parser_version 보존"
+ADIGA,workbook/p2/p2_2/data/crawl_2024_admission_full/02_admission_result_raw_2024_merged.csv,6316,"{'columns': 18, 'raw_html_files': 163}",raw_header_json/raw_cells_json와 semantic field를 동시 보존
+GOMS,workbook/p2/p2_2/data/goms_subject_crawl/02_download_manifest.csv,39,{'success': 39},"topic_id, kind, measure, file_path, sha256, year range 보존"
+GOMS,workbook/p2/p2_2/data/goms_subject_crawl/qa/final_qa_summary.csv,1,"{'total_topics': 39, 'categorical_topics': 21, 'continuous_topics': 18, 'parse_failures': 0, 'proportion_review_count': 0, 'year_coverage_review_count': 0, 'duplicate_rows_categorical': 0, 'duplicate_rows_continuous': 0, 'cross_file_hash_duplicates': 'PASS', 'stddev_available': False, 'stddev_reason': 'site JS bug (callbackGOMSSubject unconditionally resets viewType2 to index 0 on every render) makes 분산/표준편차 unreachable via official UI/CSV flow'}","parse failure, proportion sum, year coverage, duplicate, stddev 제한 QA"
+GOMS normalized distribution,workbook/p2/p2_2/data/goms_subject_crawl/normalized/goms_distribution_long.csv,29160,{'columns': 9},normalized downstream table
+GOMS normalized continuous,workbook/p2/p2_2/data/goms_subject_crawl/normalized/goms_continuous_long.csv,2230,{'columns': 8},normalized downstream table
+ADIGA department proxy,workbook/p2/p2_2/final/admission/P2_admission_proxy_v3_by_department.csv,3737,{'columns': 8},normalized downstream table

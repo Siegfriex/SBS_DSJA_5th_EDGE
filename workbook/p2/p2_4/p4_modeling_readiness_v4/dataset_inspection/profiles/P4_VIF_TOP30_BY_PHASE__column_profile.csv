@@ -1,0 +1,6 @@
+﻿position,column,dtype,non_null_n,missing_n,missing_pct,nunique,unique_ratio,is_all_null,is_constant,is_identifier_candidate,top_value_share
+1,model_id,str,420,0,0.0,14,0.03333333333333333,False,False,True,0.07142857142857142
+2,rank,int64,420,0,0.0,30,0.07142857142857142,False,False,False,0.03333333333333333
+3,encoded_feature,str,420,0,0.0,38,0.09047619047619047,False,False,False,0.03333333333333333
+4,vif,float64,420,0,0.0,240,0.5714285714285714,False,False,False,0.007142857142857143
+5,corr_matrix_rank_deficient,bool,420,0,0.0,1,0.002380952380952381,False,True,False,1.0

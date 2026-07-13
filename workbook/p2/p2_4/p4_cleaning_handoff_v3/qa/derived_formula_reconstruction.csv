@@ -1,0 +1,9 @@
+﻿derived_column,formula,audited_n,max_abs_diff,mean_abs_diff,tolerance,status
+competition_ratio,applicants_n / recruitment_n where recruitment_n > 0,5257,3.711597344135953e-06,1.639370199060077e-07,0.001,PASS
+admission_yield_ratio,admits_n / recruitment_n where recruitment_n > 0,5257,3.8146972691777137e-07,9.33562572624198e-09,0.001,PASS
+admit_per_applicant_ratio,admits_n / applicants_n where applicants_n > 0,5260,2.938257137596878e-08,3.97013504511064e-09,0.001,PASS
+leave_rate_pct,leave_students_n / enrolled_students_n * 100 where enrolled_students_n > 0,8441,3.691642518788285e-06,4.45929738911061e-07,0.001,PASS
+female_student_share_pct,female_students_n / enrolled_students_n * 100 where enrolled_students_n > 0,8441,3.796268771338873e-06,7.625902329781351e-07,0.001,PASS
+international_student_share_pct,international_students_n / enrolled_students_n * 100 where enrolled_students_n > 0,8441,3.7368463097209315e-06,5.232227669928931e-08,0.001,PASS
+log_enrolled_students,log1p(enrolled_students_n),8561,4.337720316271998e-07,9.221659055262793e-08,0.001,PASS
+log_graduates,log1p(graduates_n),8561,2.3839938734226962e-07,4.611437176618787e-08,0.001,PASS

@@ -1,0 +1,1818 @@
+﻿search_term,outcome_row_id,school_name_raw,dept_name_raw,major_group_7,major7_mapping_method,major7_mapping_confidence,major7_evidence
+자유전공,OC2024_00380,강원대학교,자유전공학부(학생설계전공 인문사회계열) | 자유전공학부(학생설계전공 자연과학계열) | 자유전공학부(학생설계전공 인문사회계열),HUM,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=자유
+자유전공,OC2024_00846,경남대학교,자유전공학부,HUM,inherited_headcount,high,D01 v2 high-confidence match 대계열=인문계열
+자유전공,OC2024_02540,국립순천대학교,자유전공학부(인문사회・자연),HUM,inherited_headcount,high,D01 v2 high-confidence match 대계열=인문계열
+자유전공,OC2024_03048,단국대학교,국제자유전공학부 영상연기&제작전공,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+자유전공,OC2024_03345,대구대학교,자유전공학부,HUM,inherited_headcount,high,D01 v2 high-confidence match 대계열=인문계열
+자유전공,OC2024_04206,동아대학교,분자유전공학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+자유전공,OC2024_05159,상지대학교,자유전공학부,HUM,inherited_headcount,high,D01 v2 high-confidence match 대계열=인문계열
+자유전공,OC2024_05408,서울대학교,자유전공학부,HUM,inherited_headcount,high,D01 v2 high-confidence match 대계열=인문계열
+자유전공,OC2024_06053,세한대학교,자유전공학과,HUM,inherited_headcount,high,D01 v2 high-confidence match 대계열=인문계열
+자유전공,OC2024_06147,수원대학교,자유전공학부,HUM,inherited_headcount,high,D01 v2 high-confidence match 대계열=인문계열
+자유전공,OC2024_06244,순천향대학교,글로벌자유전공학과,HUM,inherited_headcount,high,D01 v2 high-confidence match 대계열=인문계열
+자유전공,OC2024_06334,숭실대학교,융합특성화자유전공학부,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+자유전공,OC2024_07557,이화여자대학교,자유전공,HUM,inherited_headcount,high,D01 v2 high-confidence match 대계열=인문계열
+자유전공,OC2024_07594,인제대학교,글로벌자유전공학과,HUM,inherited_headcount,high,D01 v2 high-confidence match 대계열=인문계열
+자유전공,OC2024_07633,인제대학교,자유전공학부,HUM,inherited_headcount,high,D01 v2 high-confidence match 대계열=인문계열
+융합,OC2024_00053,가천대학교,스마트시티융합학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_00115,가톨릭관동대학교,바이오융합공학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+융합,OC2024_00227,강남대학교,ICT융합공학부,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_00236,강남대학교,복지융합인재학부 미술문화복지전공,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+융합,OC2024_00237,강남대학교,복지융합인재학부 스포츠복지전공,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+융합,OC2024_00238,강남대학교,복지융합인재학부 유니버설비주얼디자인전공,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+융합,OC2024_00250,강남대학교,융합자율전공학부,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+융합,OC2024_00252,강남대학교,인공지능융합공학부,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_00268,강원대학교,AI융합학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_00288,강원대학교,글로벌융합학부,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+융합,OC2024_00299,강원대학교,동물산업융합학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+융합,OC2024_00319,강원대학교,배터리융합공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_00425,강원대학교_제2캠퍼스,건설융합학부,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_00426,강원대학교_제2캠퍼스,건설융합학부 건축공학전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_00427,강원대학교_제2캠퍼스,건설융합학부 건축학전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_00428,강원대학교_제2캠퍼스,건설융합학부 토목공학전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_00452,강원대학교_제2캠퍼스,소프트웨어미디어융합전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_00458,강원대학교_제2캠퍼스,에너지자원융합공학전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_00485,건국대학교,K뷰티산업융합학과,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+융합,OC2024_00519,건국대학교,스마트ICT융합공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_00524,건국대학교,신산업융합학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+융합,OC2024_00529,건국대학교,융합생명공학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+융합,OC2024_00530,건국대학교,융합인재학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+융합,OC2024_00568,건국대학교(글로컬)_분교,녹색기술융합학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+융합,OC2024_00587,건국대학교(글로컬)_분교,소방방재융합학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_00653,건양대학교,융합IT학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_00654,건양대학교,융합기계공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_00655,건양대학교,융합디자인학과,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+융합,OC2024_00700,경기대학교,바이오융합학부,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+융합,OC2024_00717,경기대학교,융합보안학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_00718,경기대학교,융합에너지시스템공학부,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_00751,경남과학기술대학교(폐교),IoT융합시스템전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_00810,경남대학교,기계융합공학과(중소기업계약학과),ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_00830,경남대학교,스마트기계융합공학전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_01018,경북대학교,융합학부 로봇및스마트시스템공학전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_01019,경북대학교,융합학부 수소 및 신재생에너지전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_01020,경북대학교,융합학부 의생명융합공학전공,MED,inherited_headcount,high,D01 v2 high-confidence match 대계열=의약계열
+융합,OC2024_01060,경북대학교,"컴퓨터학부(글로벌소프트웨어융합전공) | 컴퓨터학부(플랫폼소프트웨어전공, 데이터과학전공)",ENG,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=컴퓨터
+융합,OC2024_01092,경상국립대학교,기계융합공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_01099,경상국립대학교,동물생명융합학부,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+융합,OC2024_01156,경상국립대학교,융합전자공학전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_01312,경운대학교,소프트웨어융합계열,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_01371,경일대학교,기계자동화융합학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_01387,경일대학교,스포츠융합학부,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+융합,OC2024_01393,경일대학교,전기전자융합학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_01396,경일대학교,조기취업형계약학부 스마트팩토리융합학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_01419,경희대학교,글로벌문화기술융합전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_01444,경희대학교,소프트웨어융합학과,ENG,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=소프트웨어융합
+융합,OC2024_01609,고려대학교,글로벌한국융합학부,HUM,inherited_headcount,high,D01 v2 high-confidence match 대계열=인문계열
+융합,OC2024_01622,고려대학교,보건환경융합과학부,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_01644,고려대학교,융합에너지공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_01683,고려대학교(세종)_분교,디스플레이융합전공,,unknown,unknown,"no inherited, dictionary, or strict keyword evidence"
+융합,OC2024_01685,고려대학교(세종)_분교,문화ICT융합전공,,ambiguous,low,hits=ENG; evidence=ENG:ict; ambiguous_token=True
+융합,OC2024_01686,고려대학교(세종)_분교,문화유산융합학부,,unknown,unknown,"no inherited, dictionary, or strict keyword evidence"
+융합,OC2024_01707,고려대학교(세종)_분교,융합경영학부,SOC,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=융합경영
+융합,OC2024_01711,고려대학교(세종)_분교,전자·기계융합공학과,,ambiguous,low,hits=ENG; evidence=ENG:기계/전자/공학; ambiguous_token=True
+융합,OC2024_01718,고려대학교(세종)_분교,컴퓨터융합소프트웨어학과,,ambiguous,low,hits=ENG; evidence=ENG:컴퓨터/소프트웨어; ambiguous_token=True
+융합,OC2024_01767,광신대학교,복지상담융합학부,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+융합,OC2024_01800,광운대학교,스포츠융합과학과,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+융합,OC2024_01810,광운대학교,전자융합공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_01814,광운대학교,정보융합학부,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_01892,광주대학교,융합기계공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_01893,광주대학교,융합디자인학부,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+융합,OC2024_01894,광주대학교,융합소프트웨어학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_01910,광주여자대학교,AI융합학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_01918,광주여자대학교,미래융합학부(뷰티산업학과) | 미래융합학부(사회복지상담전공) | 미래융합학부(사회복지상담학과) | 미래융합학부(언어재활심리학과) | 미래융합학부(언어재활전공) | 미래융합학부(영양식품학과),,ambiguous,low,"hits=MED,ART,SOC,HUM; evidence=MED:재활 | ART:뷰티 | SOC:사회복지/심리/상담 | HUM:언어; ambiguous_token=True"
+융합,OC2024_01985,국립강릉원주대학교(폐교),해양바이오식품학과 해양식품융합전공,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+융합,OC2024_02045,국립경국대학교,원예・생약융합학부,,ambiguous,low,hits=NAT; evidence=NAT:원예; ambiguous_token=True
+융합,OC2024_02064,국립경국대학교,창의융합학부(이공계열) | 창의융합학부(인문사회계열),,ambiguous,low,"hits=SOC,HUM; evidence=SOC:회계 | HUM:인문; ambiguous_token=True"
+융합,OC2024_02108,국립공주대학교,도자문화융합디자인학과,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+융합,OC2024_02112,국립공주대학교,디지털융합금형공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_02204,국립군산대학교,IT융합통신공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_02209,국립군산대학교,공간디자인융합기술학부(공간디자인융합기술학전공) | 공간디자인융합기술학부 | 공간디자인융합기술학부,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_02239,국립군산대학교,인공지능융합학과,ENG,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=인공지능융합
+융합,OC2024_02250,국립군산대학교,컴퓨터소프트웨어학부 | 컴퓨터소프트웨어학부(소프트웨어학전공) | 컴퓨터소프트웨어학부(인공지능융합전공) | 컴퓨터소프트웨어학부(임베디드소프트웨어전공) | 컴퓨터소프트웨어학부(컴퓨터정보공학전공),ENG,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=컴퓨터소프트웨어
+융합,OC2024_02266,국립금오공과대학교,IT융합학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_02276,국립금오공과대학교,메디컬IT융합공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_02283,국립금오공과대학교,전자IT융합전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_02334,국립목포대학교,융합소프트웨어학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_02372,국립목포해양대학교,해양스포츠・레저융합학과,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+융합,OC2024_02399,국립부경대학교,기계IT융합시스템공학전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_02405,국립부경대학교,나노융합공학전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_02406,국립부경대학교,나노융합반도체공학부,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_02408,국립부경대학교,데이터비즈니스융합전공,,ambiguous,low,"hits=ENG,SOC; evidence=ENG:데이터 | SOC:비즈니스; ambiguous_token=True"
+융합,OC2024_02416,국립부경대학교,빅데이터융합전공,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+융합,OC2024_02418,국립부경대학교,사회복지융합전공,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+융합,OC2024_02448,국립부경대학교,위성정보융합공학전공,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+융합,OC2024_02450,국립부경대학교,융합소재공학부,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_02451,국립부경대학교,융합인재개발학부,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+융합,OC2024_02454,국립부경대학교,의공학IT융합전공,MED,inherited_headcount,high,D01 v2 high-confidence match 대계열=의약계열
+융합,OC2024_02469,국립부경대학교,지능형로봇융합전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_02493,국립부경대학교,휴먼ICT융합전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_02494,국립부경대학교,휴먼바이오융합전공,MED,inherited_headcount,high,D01 v2 high-confidence match 대계열=의약계열
+융합,OC2024_02535,국립순천대학교,융합바이오시스템기계공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_02536,국립순천대학교,융합산업학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_02572,국립창원대학교,기계공학부 스마트제조융합전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_02589,국립창원대학교,생물학화학융합학부,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+융합,OC2024_02637,국립한국교통대학교,바이오메디컬융합학과,MED,inherited_headcount,high,D01 v2 high-confidence match 대계열=의약계열
+융합,OC2024_02661,국립한국교통대학교,융합경영학과 | 융합경영전공,SOC,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=융합경영
+융합,OC2024_02690,국립한국교통대학교,행정정보융합학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+융합,OC2024_02706,국립한국해양대학교,전자전기정보공학부(나노반도체공학전공) | 전자전기정보공학부(데이터사이언스전공) | 전자전기정보공학부(전기전자공학전공) | 전자전기정보공학부(전자정보통신공학전공) | 전자전기정보공학부(전자통신공학전공) | 전자전기정보공학부(전파융합공학전공),,ambiguous,low,hits=ENG; evidence=ENG:데이터사이언스/데이터/전자/전기/정보통신; ambiguous_token=True
+융합,OC2024_02709,국립한국해양대학교,항해융합학부 | 항해융합학부(지능항해시스템전공) | 항해융합학부(해사경영관리전공) | 항해융합학부(해사글로벌전공) | 항해융합학부(해사법무보험전공) | 항해융합학부(해사안전전공) | 항해융합학부(지능항해시스템전공) | 항해융합학부(해사경영관리전공) | 항해융합학부(해사글로벌전공) | 항해융합학부(해사법무보험전공) | 항해융합학부(해사안전전공),ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_02717,국립한국해양대학교,"해양과학융합학부(수산바이오공학전공) | 해양과학융합학부(해양생물공학전공) | 해양과학융합학부(해양생물공학전공, 수산바이오공학전공) | 해양과학융합학부(해양환경학전공) | 해양과학융합학부(수산바이오공학전공) | 해양과학융합학부(해양생물공학전공) | 해양과학융합학부(해양환경학전공)",,ambiguous,low,"hits=ENG,NAT; evidence=ENG:공학 | NAT:생물/환경/수산/바이오/과학; ambiguous_token=True"
+융합,OC2024_02719,국립한국해양대학교,해양신소재융합공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_02732,국립한밭대학교,기계소재융합시스템공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_02734,국립한밭대학교,모바일융합공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_02746,국립한밭대학교,융합건설시스템학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_02747,국립한밭대학교,융합경영학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+융합,OC2024_02759,국립한밭대학교,창의융합학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_02766,국민대학교,AI빅데이터융합경영학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+융합,OC2024_02799,국민대학교,바이오발효융합학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+융합,OC2024_02822,국민대학교,융합기계공학전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_02823,국민대학교,융합전자공학전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_02831,국민대학교,자동차IT융합학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_02845,국민대학교,지능형반도체융합전자전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_02926,나사렛대학교,"IT・방송영상융합학부(정보통신보안트랙,멀티미디어콘텐츠트랙,인공지능소프트웨어트랙)",ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_02927,나사렛대학교,IT융합학부,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_02966,나사렛대학교,재활융합기술학과,MED,inherited_headcount,high,D01 v2 high-confidence match 대계열=의약계열
+융합,OC2024_03038,단국대학교,SW융합학부,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_03068,단국대학교,융합반도체공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_03205,대구가톨릭대학교,소프트웨어융합학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_03284,대구대학교,IT융합학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_03298,대구대학교,글로컬융합학부(평생교육・청소년학전공),,ambiguous,low,hits=EDU; evidence=EDU:교육; ambiguous_token=True
+융합,OC2024_03325,대구대학교,시각디자인융합학부(서비스마케팅디자인전공) | 시각디자인융합학부(시각디자인전공) | 시각디자인융합학부(시각디자인전공),,ambiguous,low,"hits=ART,SOC; evidence=ART:디자인 | SOC:마케팅; ambiguous_token=True"
+융합,OC2024_03341,대구대학교,융합예술학부(아트앤디자인전공),ART,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=융합예술
+융합,OC2024_03362,대구대학교,특수창의융합학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+융합,OC2024_03377,대구예술대학교,공연융합예술전공,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+융합,OC2024_03378,대구예술대학교,공연융합예술학과 무용전공,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+융합,OC2024_03379,대구예술대학교,공연융합예술학과 음악전공,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+융합,OC2024_03381,대구예술대학교,디지털융합디자인전공,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+융합,OC2024_03418,대구한의대학교,바이오산업융합학부,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+융합,OC2024_03466,대구한의대학교,자기설계융합학부,HUM,inherited_headcount,high,D01 v2 high-confidence match 대계열=인문계열
+융합,OC2024_03515,대전대학교,AI융합학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_03608,대진대학교,스마트융합보안학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_03622,대진대학교,의료IT융합전공,MED,inherited_headcount,high,D01 v2 high-confidence match 대계열=의약계열
+융합,OC2024_03632,대진대학교,휴먼・로봇융합전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_03637,덕성여자대학교,가상현실융합학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_03645,덕성여자대학교,글로벌융합대학,HUM,inherited_headcount,high,D01 v2 high-confidence match 대계열=인문계열
+융합,OC2024_03709,동국대학교,AI소프트웨어융합학부,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_03710,동국대학교,AI융합학부,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_03722,동국대학교,공공인재융합전공,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+융합,OC2024_03765,동국대학교,융합에너지신소재공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_03896,동덕여자대학교,문화지식융합학부 HCI사이언스전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_03897,동덕여자대학교,문화지식융합학부 글로벌MICE전공,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+융합,OC2024_03898,동덕여자대학교,문화지식융합학부 데이터사이언스전공,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+융합,OC2024_03899,동덕여자대학교,문화지식융합학부 문화예술경영전공,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+융합,OC2024_03900,동덕여자대학교,문화지식융합학부 커뮤니케이션콘텐츠전공,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+융합,OC2024_04004,동명대학교,융합미디어전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_04037,동서대학교,ICT융합공학과 | ICT융합공학부 | ICT융합공학과,ENG,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=ict융합공
+융합,OC2024_04062,동서대학교,메카트로닉스 융합공학부,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_04229,동아대학교,융합경영학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+융합,OC2024_04239,동아대학교,인간환경융합공학부 건축공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_04240,동아대학교,인간환경융합공학부 토목공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_04241,동아대학교,인간환경융합공학부 환경공학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+융합,OC2024_04277,동양대학교,AI빅데이터융합학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_04278,동양대학교,AI융합사회복지학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+융합,OC2024_04279,동양대학교,IT융합경영학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+융합,OC2024_04313,동양대학교,철도전기융합학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_04356,동의대학교,라이프융합학부,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+융합,OC2024_04386,동의대학교,소프트웨어융합학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_04511,명지대학교_제2캠퍼스,미래융합경영학과,,ambiguous,low,hits=SOC; evidence=SOC:경영; ambiguous_token=True
+융합,OC2024_04531,명지대학교_제2캠퍼스,융합디자인학과,ART,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=융합디자인
+융합,OC2024_04532,명지대학교_제2캠퍼스,융합소프트웨어학부,ENG,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=융합소프트웨어
+융합,OC2024_04533,명지대학교_제2캠퍼스,융합예술실용음악학과,,ambiguous,low,hits=ART; evidence=ART:음악/실용음악/예술; ambiguous_token=True
+융합,OC2024_04622,목원대학교,정보통신융합공학부,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_04860,부산대학교,의생명융합공학부,MED,inherited_headcount,high,D01 v2 high-confidence match 대계열=의약계열
+융합,OC2024_04894,부산외국어대학교,G2(영·중)융합학부 | G2융합학과 | G2융합학과,,unknown,unknown,"no inherited, dictionary, or strict keyword evidence"
+융합,OC2024_04909,부산외국어대학교,글로벌미래융합학부,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+융합,OC2024_04913,부산외국어대학교,동남아창의융합학부,HUM,inherited_headcount,high,D01 v2 high-confidence match 대계열=인문계열
+융합,OC2024_04927,부산외국어대학교,스마트융합보안학과 | 스마트융합보안전공,ENG,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=스마트융합보안
+융합,OC2024_04936,부산외국어대학교,영상콘텐츠융합전공 | 영상콘텐츠융합학과,,ambiguous,low,hits=ART; evidence=ART:영상/콘텐츠; ambiguous_token=True
+융합,OC2024_04944,부산외국어대학교,인공지능융합학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_04948,부산외국어대학교,일본어융합학부(비즈니스일본어전공) | 일본어융합학부(일본IT전공) | 일본어융합학부(한일문화콘텐츠전공),,ambiguous,low,"hits=ENG,ART,SOC,HUM; evidence=ENG:it | ART:콘텐츠 | SOC:비즈니스 | HUM:일문/문화콘텐츠; ambiguous_token=True"
+융합,OC2024_04949,부산외국어대학교,일본어창의융합학부,HUM,inherited_headcount,high,D01 v2 high-confidence match 대계열=인문계열
+융합,OC2024_04950,부산외국어대학교,전자로봇・보안학부(스마트융합보안전공) | 전자로봇・보안학부(전자로봇전공),,ambiguous,low,hits=ENG; evidence=ENG:전자/로봇/보안; ambiguous_token=True
+융합,OC2024_04973,삼육대학교,IT융합공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_04982,삼육대학교,바이오융합공학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+융합,OC2024_04994,삼육대학교,인공지능융합학부,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_05003,상명대학교,SW융합학부 게임전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_05004,상명대학교,SW융합학부 애니메이션전공,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+융합,OC2024_05005,상명대학교,SW융합학부 전기공학전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_05006,상명대학교,SW융합학부 지능IOT융합전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_05007,상명대학교,SW융합학부 컴퓨터과학전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_05008,상명대학교,SW융합학부 한일문화콘텐츠전공,HUM,inherited_headcount,high,D01 v2 high-confidence match 대계열=인문계열
+융합,OC2024_05030,상명대학교,융합경영학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+융합,OC2024_05036,상명대학교,전기전자공학부 융합전자공학전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_05037,상명대학교,지능・데이터융합학부,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_05038,상명대학교,지능・데이터융합학부 빅데이터융합전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_05039,상명대학교,지능・데이터융합학부 스마트생산전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_05040,상명대학교,지능・데이터융합학부 핀테크전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_05041,상명대학교,지능・데이터융합학부 휴먼지능정보공학전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_05066,상명대학교_제2캠퍼스,스포츠융합학부,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+융합,OC2024_05126,상지대학교,비즈니스융합학부 기업회계전공,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+융합,OC2024_05127,상지대학교,비즈니스융합학부 무역・물류전공,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+융합,OC2024_05152,상지대학교,융합관광기획학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+융합,OC2024_05154,상지대학교,인공지능융합공학부 스마트자동차전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_05155,상지대학교,인공지능융합공학부 인공지능전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_05156,상지대학교,인공지능융합공학부 정보통신소프트웨어전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_05157,상지대학교,인공지능융합공학부 지능형로봇전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_05240,서경대학교,나노융합공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_05280,서울과학기술대학교,건설환경융합공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_05292,서울과학기술대학교,미래에너지융합학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_05295,서울과학기술대학교,스마트ICT융합공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_05303,서울과학기술대학교,융합기계공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_05309,서울과학기술대학교,정보통신융합공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_05424,서울대학교,첨단융합학부,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_05455,서울시립대학교,융합전공학부 국사학-도시역사경관학 전공,HUM,inherited_headcount,high,D01 v2 high-confidence match 대계열=인문계열
+융합,OC2024_05456,서울시립대학교,융합전공학부 국제관계학-빅데이터분석학 전공,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+융합,OC2024_05457,서울시립대학교,융합전공학부 도시공학-국제도시개발학 전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_05458,서울시립대학교,융합전공학부 도시공학-도시부동산기획경영학 전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_05459,서울시립대학교,융합전공학부 도시사회학-국제도시개발학 전공,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+융합,OC2024_05460,서울시립대학교,융합전공학부 물리학-나노반도체물리학,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+융합,OC2024_05461,서울시립대학교,융합전공학부 생명과학-빅데이터분석학전공,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+융합,OC2024_05462,서울시립대학교,융합응용화학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+융합,OC2024_05463,서울시립대학교,융합전공학부 조경학-환경생태도시학전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_05464,서울시립대학교,융합전공학부 철학-동아시아문화학 전공,HUM,inherited_headcount,high,D01 v2 high-confidence match 대계열=인문계열
+융합,OC2024_05472,서울시립대학교,첨단융합학부 융합바이오헬스전공,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+융합,OC2024_05473,서울시립대학교,첨단융합학부 지능형반도체전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_05474,서울시립대학교,첨단융합학부 첨단인공지능전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_05482,서울신학대학교,IT융합소프트웨어학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_05510,서울여자대학교,메타버스융합콘텐츠전공,HUM,inherited_headcount,high,D01 v2 high-confidence match 대계열=인문계열
+융합,OC2024_05512,서울여자대학교,바이오헬스융합학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+융합,OC2024_05521,서울여자대학교,소프트웨어융합학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_05633,선문대학교,기계ICT융합공학부,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_05718,성공회대학교,IT융합자율학부,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_05729,성공회대학교,미디어콘텐츠융합학부,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+융합,OC2024_05730,성공회대학교,미디어콘텐츠융합자율학부,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+융합,OC2024_05731,성공회대학교,미래융합학부,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+융합,OC2024_05734,성공회대학교,사회융합학부,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+융합,OC2024_05735,성공회대학교,사회융합자율학부,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+융합,OC2024_05739,성공회대학교,소프트웨어융합학부,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_05744,성공회대학교,인문융합자율학부,HUM,inherited_headcount,high,D01 v2 high-confidence match 대계열=인문계열
+융합,OC2024_05745,성공회대학교,인문융합콘텐츠학부,HUM,inherited_headcount,high,D01 v2 high-confidence match 대계열=인문계열
+융합,OC2024_05753,성균관대학교,AI융합운영전공,,unknown,unknown,"no inherited, dictionary, or strict keyword evidence"
+융합,OC2024_05766,성균관대학교,글로벌융합학부,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+융합,OC2024_05769,성균관대학교,데이터사이언스융합전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_05780,성균관대학교,반도체융합공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_05787,성균관대학교,소재부품융합공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_05803,성균관대학교,융합생명공학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+융합,OC2024_05804,성균관대학교,응용AI융합학부,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+융합,OC2024_05807,성균관대학교,인공지능융합전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_05813,성균관대학교,컬처앤테크놀로지융합전공,HUM,inherited_headcount,high,D01 v2 high-confidence match 대계열=인문계열
+융합,OC2024_05824,성신여자대학교,AI융합학부,ENG,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=ai융합
+융합,OC2024_05844,성신여자대학교,바이오헬스융합학부,NAT,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=바이오헬스융합
+융합,OC2024_05865,성신여자대학교,융합보안공학과,,ambiguous,low,hits=ENG; evidence=ENG:공학/보안; ambiguous_token=True
+융합,OC2024_05875,성신여자대학교,청정융합에너지공학과,,ambiguous,low,hits=ENG; evidence=ENG:에너지/공학; ambiguous_token=True
+융합,OC2024_05882,성신여자대학교,화학・에너지융합학부,,ambiguous,low,"hits=ENG,NAT; evidence=ENG:에너지 | NAT:화학; ambiguous_token=True"
+융합,OC2024_05977,세종대학교,문화산업경영융합전공,HUM,inherited_headcount,high,D01 v2 high-confidence match 대계열=인문계열
+융합,OC2024_05981,세종대학교,바이오융합공학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+융합,OC2024_05982,세종대학교,바이오융합공학전공/생명시스템학부,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+융합,OC2024_05992,세종대학교,스마트생명산업융합학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+융합,OC2024_05999,세종대학교,영상디자인융합전공,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+융합,OC2024_06004,세종대학교,우주항공드론공학부(우주항공공학전공) | 우주항공드론공학부(지능형드론융합전공) | 우주항공드론공학부(항공시스템공학전공) | 우주항공드론공학부(우주항공공학전공),,ambiguous,low,hits=ENG; evidence=ENG:항공/공학; ambiguous_token=True
+융합,OC2024_06034,세종대학교,환경에너지공간융합학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_06075,송원대학교,사회서비스융합학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+융합,OC2024_06143,수원대학교,융합화학산업,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+융합,OC2024_06181,숙명여자대학교,글로벌융합학부,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+융합,OC2024_06198,숙명여자대학교,소프트웨어융합전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_06273,순천향대학교,융합기계학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_06274,순천향대학교,융합바이오화학공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_06299,숭실대학교,AI융합학부,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_06334,숭실대학교,융합특성화자유전공학부,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_06338,숭실대학교,전자정보공학부 IT융합전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_06357,신경주대학교,AI융합미디어창업학과,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+융합,OC2024_06384,신경주대학교,융합소프트웨어공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_06399,신라대학교,IoT융합전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_06436,신라대학교,미래융합학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_06452,신라대학교,산업디자인융합학과,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+융합,OC2024_06454,신라대학교,산업설비융합학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_06484,신라대학교,융합기계공학부,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_06490,신라대학교,자동차IT융합전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_06546,신한대학교,소프트웨어융합학과,ENG,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=소프트웨어융합
+융합,OC2024_06566,신한대학교_제2캠퍼스,미래스포츠융합학과,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+융합,OC2024_06577,신한대학교_제2캠퍼스,소프트웨어융합학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_06616,아주대학교,국방디지털융합학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_06636,아주대학교,융합시스템공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_06646,안양대학교,AI융합학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_06688,안양대학교_제2캠퍼스,융합소프트웨어전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_06694,연세대학교,IT융합공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_06717,연세대학교,디스플레이융합공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_06725,연세대학교,바이오융합전공,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+융합,OC2024_06761,연세대학교,에너지환경융합전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_06763,연세대학교,융합과학공학부,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_06764,연세대학교,융합인문사회과학부,HUM,inherited_headcount,high,D01 v2 high-confidence match 대계열=인문계열
+융합,OC2024_06819,연세대학교(미래)_분교,바이오융합공학전공,,ambiguous,low,"hits=ENG,NAT; evidence=ENG:공학 | NAT:바이오; ambiguous_token=True"
+융합,OC2024_06820,연세대학교(미래)_분교,반도체시스템융합공학전공,,ambiguous,low,hits=ENG; evidence=ENG:반도체/공학; ambiguous_token=True
+융합,OC2024_06821,연세대학교(미래)_분교,반도체인프라및환경융합공학전공,,ambiguous,low,"hits=ENG,NAT; evidence=ENG:반도체/공학 | NAT:환경; ambiguous_token=True"
+융합,OC2024_06836,연세대학교(미래)_분교,응용전기전자융합공학전공,,ambiguous,low,hits=ENG; evidence=ENG:전자/전기/공학; ambiguous_token=True
+융합,OC2024_06900,영남대학교,소프트웨어융합전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_06919,영남대학교,융합화학공학전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_06977,영산대학교(양산)_제2캠퍼스,융합전공학부,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+융합,OC2024_06979,영산대학교(양산)_제2캠퍼스,인문문화융합학과,HUM,inherited_headcount,high,D01 v2 high-confidence match 대계열=인문계열
+융합,OC2024_07041,예원예술대학교,융합조형디자인전공,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+융합,OC2024_07089,우석대학교,IT전자융합공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_07152,우송대학교,Endicott 자율융합학부,HUM,inherited_headcount,high,D01 v2 high-confidence match 대계열=인문계열
+융합,OC2024_07153,우송대학교,IT융합학부 컴퓨터・소프트웨어전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_07154,우송대학교,IT융합학부 컴퓨터공학전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_07176,우송대학교,융합경영학부 경영학전공,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+융합,OC2024_07177,우송대학교,융합경영학부 글로벌융합비즈니스학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+융합,OC2024_07187,우송대학교,테크노미디어융합학부 게임멀티미디어전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_07188,우송대학교,테크노미디어융합학부 글로벌미디어영상학과,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+융합,OC2024_07189,우송대학교,테크노미디어융합학부 미디어디자인・영상전공,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+융합,OC2024_07216,울산대학교,AI융합전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_07217,울산대학교,IT융합전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_07346,원광대학교,인공지능융합학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_07352,원광대학교,전자융합공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_07362,원광대학교,탄소융합공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_07371,원광대학교,화학융합공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_07373,위덕대학교,IT융합학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_07417,유원대학교,문화복지융합학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+융합,OC2024_07460,을지대학교_제2캠퍼스,빅데이터의료융합학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_07551,이화여자대학교,융합보건학과,MED,inherited_headcount,high,D01 v2 high-confidence match 대계열=의약계열
+융합,OC2024_07552,이화여자대학교,융합콘텐츠학과,HUM,inherited_headcount,high,D01 v2 high-confidence match 대계열=인문계열
+융합,OC2024_07595,인제대학교,나노융합공학부,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_07631,인제대학교,인문문화융합학부,HUM,inherited_headcount,high,D01 v2 high-confidence match 대계열=인문계열
+융합,OC2024_07652,인천가톨릭대학교_제2캠퍼스,융합디자인학과,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+융합,OC2024_07751,인하대학교,디자인융합학과,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+융합,OC2024_07758,인하대학교,반도체산업융합학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_07769,인하대학교,소프트웨어융합공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_07809,전남대학교,IoT인공지능융합전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_07816,전남대학교,고분자융합소재공학부,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_07838,전남대학교,빅데이터융합학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+융합,OC2024_07868,전남대학교,융합바이오시스템기계공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_07888,전남대학교,지능실감미디어융합전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_07889,전남대학교,지능형모빌리티융합학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_07907,전남대학교_제2캠퍼스,기계IT융합공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_07921,전남대학교_제2캠퍼스,스마트융합공정공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_07924,전남대학교_제2캠퍼스,융합생명공학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+융합,OC2024_07930,전남대학교_제2캠퍼스,창의융합학부,HUM,inherited_headcount,high,D01 v2 high-confidence match 대계열=인문계열
+융합,OC2024_07935,전남대학교_제2캠퍼스,해양융합과학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+융합,OC2024_07995,전북대학교,생명자원융합학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+융합,OC2024_08024,전북대학교,융합기술공학부(IT융합기전공학전공) | 융합기술공학부(IT융합자동차공학전공) | 융합기술공학부(IT응용시스템공학전공),,ambiguous,low,hits=ENG; evidence=ENG:자동차/공학/it; ambiguous_token=True
+융합,OC2024_08035,전북대학교,전자공학부 | 전자공학부(나노전자공학전공) | 전자공학부(융합IT공학전공) | 전자공학부(정보통신공학전공) | 전자공학부(제어로봇공학전공),ENG,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=전자공
+융합,OC2024_08104,전주대학교,기계자동차융합공학부,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_08106,전주대학교,기술융합디자인공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_08166,전주대학교,탄소융합공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_08196,제주국제대학교,융합경영학부,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+융합,OC2024_08197,제주국제대학교,융합경영학부 항공경영학전공,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+융합,OC2024_08263,제주대학교,융합디자인학과,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+융합,OC2024_08329,조선대학교,미래융합학부,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+융합,OC2024_08340,조선대학교,스마트이동체 융합시스템공학부 | 스마트이동체융합시스템공학부(자동차공학전공),,ambiguous,low,hits=ENG; evidence=ENG:자동차/공학; ambiguous_token=True
+융합,OC2024_08345,조선대학교,신산업융합학부(뷰티화장품산업전공) | 신산업융합학부(소방에너지시스템전공) | 신산업융합학부(스마트ICT융합전공),SOC,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=신산업융합
+융합,OC2024_08358,조선대학교,융합수리과학부,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+융합,OC2024_08389,조선대학교,휴먼융합서비스학부(문화산업전공) | 휴먼융합서비스학부(부동산비즈니스전공) | 휴먼융합서비스학부(스마트비즈니스전공),,ambiguous,low,hits=SOC; evidence=SOC:부동산/비즈니스; ambiguous_token=True
+융합,OC2024_08488,중앙대학교,융합공학부,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_08530,중원대학교,글로컬융합사회학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+융합,OC2024_08548,중원대학교,융합바이오학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+융합,OC2024_08589,차의과학대학교,헬스케어융합학부(인문사회) | 헬스케어융합학부(자연과학),,ambiguous,low,"hits=NAT,HUM; evidence=NAT:과학 | HUM:인문; ambiguous_token=True"
+융합,OC2024_08600,창신대학교,스마트융합공학부 소방방재전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_08601,창신대학교,스마트융합공학부 컴퓨터전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_08661,청주대학교,광기술에너지융합전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_08699,청주대학교,에너지융합공학과,,ambiguous,low,hits=ENG; evidence=ENG:에너지/공학; ambiguous_token=True
+융합,OC2024_08777,추계예술대학교,융합예술학부,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+융합,OC2024_08812,충남대학교,도시・자치융합학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+융합,OC2024_08825,충남대학교,반도체융합학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_08831,충남대학교,생명정보융합학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+융합,OC2024_08883,충남대학교,컴퓨터융합학부,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_09009,평택대학교,ICT환경융합전공 | ICT환경융합학과,,ambiguous,low,"hits=ENG,NAT; evidence=ENG:ict | NAT:환경; ambiguous_token=True"
+융합,OC2024_09034,평택대학교,융합소프트웨어학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_09044,포항공과대학교,IT융합공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_09056,한경국립대학교,AI반도체융합전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_09083,한경국립대학교,소프트웨어융합전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_09102,한경국립대학교,웰니스산업융합학부,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+융합,OC2024_09132,한국공학대학교,IT융합디자인공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_09135,한국공학대학교,글로벌융합공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_09164,한국과학기술원,융합인재학부,HUM,inherited_headcount,high,D01 v2 high-confidence match 대계열=인문계열
+융합,OC2024_09198,한국기술교육대학교,기전융합공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_09265,한국외국어대학교,AI데이터융합전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_09269,한국외국어대학교,Finance & AI융합전공,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+융합,OC2024_09272,한국외국어대학교,Language & AI융합전공 | Language & AI융합전공 | Language & AI융합학부,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_09275,한국외국어대학교,Social Science & AI융합전공 | Social Science & AI융합학부,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+융합,OC2024_09289,한국외국어대학교,기후변화융합전공,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+융합,OC2024_09334,한국외국어대학교,융합인재학부,HUM,inherited_headcount,high,D01 v2 high-confidence match 대계열=인문계열
+융합,OC2024_09335,한국외국어대학교,융합일본지역전공 | 융합일본지역학부,,unknown,unknown,"no inherited, dictionary, or strict keyword evidence"
+융합,OC2024_09383,한국전통문화대학교,융합고고학과,HUM,inherited_headcount,high,D01 v2 high-confidence match 대계열=인문계열
+융합,OC2024_09407,한국침례신학대학교,융합실용기악과,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+융합,OC2024_09424,한남대학교,AI융합학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_09472,한남대학교,융합디자인전공 | 융합디자인학과,ART,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=융합디자인
+융합,OC2024_09508,한동대학교,창의융합교육원(공학) | 창의융합교육원(인문사회),,ambiguous,low,"hits=ENG,EDU,HUM; evidence=ENG:공학 | EDU:교육 | HUM:인문; ambiguous_token=True"
+융합,OC2024_09510,한동대학교,콘텐츠융합디자인학부,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+융합,OC2024_09512,한라대학교,ICT융합공학부,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_09544,한림대학교,AI기술경영융합전공,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+융합,OC2024_09545,한림대학교,AI로봇융합전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_09546,한림대학교,AI의료융합전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_09562,한림대학교,미래융합스쿨,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+융합,OC2024_09579,한림대학교,융합과학수사학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_09580,한림대학교,융합신소재공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_09582,한림대학교,의과학융합전공,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+융합,OC2024_09584,한림대학교,인공지능융합학부,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_09605,한서대학교,디자인융합학과,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+융합,OC2024_09655,한성대학교,IT융합공학부,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_09675,한성대학교,융합보안학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_09684,한세대학교,ICT융합학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_09720,한신대학교,공공인재빅데이터융합학,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+융합,OC2024_09730,한신대학교,글로벌・공공인재 융합계열,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+융합,OC2024_09754,한신대학교,소프트웨어융합학부,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_09755,한신대학교,소프트웨어융합학전공,,ambiguous,low,hits=ENG; evidence=ENG:소프트웨어; ambiguous_token=True
+융합,OC2024_09760,한신대학교,신학・인문융합계열,HUM,inherited_headcount,high,D01 v2 high-confidence match 대계열=인문계열
+융합,OC2024_09770,한신대학교,이공계융합계열,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+융합,OC2024_09786,한신대학교,중국어문화영상융합학과,HUM,inherited_headcount,high,D01 v2 high-confidence match 대계열=인문계열
+융합,OC2024_09833,한양대학교,산업융합학부,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_09853,한양대학교,융합전자공학부,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_09874,한양대학교(ERICA)_분교,ICT융합학부,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_09896,한양대학교(ERICA)_분교,스마트융합공학부 건축IT융합전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_09897,한양대학교(ERICA)_분교,스마트융합공학부 로봇융합전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_09898,한양대학교(ERICA)_분교,스마트융합공학부 소재・부품융합전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_09899,한양대학교(ERICA)_분교,스마트융합공학부 스마트ICT융합전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_09900,한양대학교(ERICA)_분교,스마트융합공학부 지속가능건축융합전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_09908,한양대학교(ERICA)_분교,융합디자인학부,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+융합,OC2024_09923,한양대학교(ERICA)_분교,해양융합공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_09991,호남대학교,바이오융합학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+융합,OC2024_10000,호남대학교,시각융합디자인학과,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+융합,OC2024_10099,호서대학교,전자융합공학부,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_10134,호원대학교,소방.전기융합학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_10149,호원대학교,컴퓨터.게임융합학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+융합,OC2024_10174,홍익대학교,디자인경영융합학부,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+융합,OC2024_10214,홍익대학교_제2캠퍼스,소프트웨어융합학과,ENG,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=소프트웨어융합
+융합,OC2024_10219,홍익대학교_제2캠퍼스,전자전기융합공학과,,ambiguous,low,hits=ENG; evidence=ENG:전자/전기/공학; ambiguous_token=True
+데이터사이언스,OC2024_00189,가톨릭대학교,데이터사이언스학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+데이터사이언스,OC2024_00241,강남대학교,산업데이터사이언스학부,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+데이터사이언스,OC2024_01694,고려대학교(세종)_분교,빅데이터사이언스학부,ENG,keyword_rule,medium,ENG:데이터사이언스/데이터
+데이터사이언스,OC2024_01785,광운대학교,데이터사이언스전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+데이터사이언스,OC2024_01948,국립강릉원주대학교(폐교),데이터사이언스학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+데이터사이언스,OC2024_02474,국립부경대학교,통계・데이터사이언스전공,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+데이터사이언스,OC2024_02633,국립한국교통대학교,데이터사이언스전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+데이터사이언스,OC2024_02706,국립한국해양대학교,전자전기정보공학부(나노반도체공학전공) | 전자전기정보공학부(데이터사이언스전공) | 전자전기정보공학부(전기전자공학전공) | 전자전기정보공학부(전자정보통신공학전공) | 전자전기정보공학부(전자통신공학전공) | 전자전기정보공학부(전파융합공학전공),,ambiguous,low,hits=ENG; evidence=ENG:데이터사이언스/데이터/전자/전기/정보통신; ambiguous_token=True
+데이터사이언스,OC2024_03080,단국대학교,통계데이터사이언스학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+데이터사이언스,OC2024_03591,대진대학교,데이터사이언스학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+데이터사이언스,OC2024_03646,덕성여자대학교,데이터사이언스학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+데이터사이언스,OC2024_03731,동국대학교,데이터사이언스전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+데이터사이언스,OC2024_03885,동덕여자대학교,데이터사이언스전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+데이터사이언스,OC2024_03898,동덕여자대학교,문화지식융합학부 데이터사이언스전공,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+데이터사이언스,OC2024_04807,부산대학교,데이터사이언스전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+데이터사이언스,OC2024_05128,상지대학교,빅데이터사이언스학과,ENG,keyword_rule,medium,ENG:데이터사이언스/데이터
+데이터사이언스,OC2024_05505,서울여자대학교,데이터사이언스학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+데이터사이언스,OC2024_05769,성균관대학교,데이터사이언스융합전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+데이터사이언스,OC2024_05856,성신여자대학교,수리통계데이터사이언스학부,,ambiguous,low,"hits=ENG,NAT; evidence=ENG:데이터사이언스/데이터 | NAT:통계; ambiguous_token=False"
+데이터사이언스,OC2024_05972,세종대학교,데이터사이언스학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+데이터사이언스,OC2024_06010,세종대학교,인공지능데이터사이언스학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+데이터사이언스,OC2024_06185,숙명여자대학교,데이터사이언스전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+데이터사이언스,OC2024_06674,안양대학교,통계데이터사이언스학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+데이터사이언스,OC2024_06809,연세대학교(미래)_분교,데이터사이언스학전공,ENG,keyword_rule,medium,ENG:데이터사이언스/데이터
+데이터사이언스,OC2024_07509,이화여자대학교,데이터사이언스학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+데이터사이언스,OC2024_07750,인하대학교,데이터사이언스학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+데이터사이언스,OC2024_08222,제주대학교,데이터사이언스학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+데이터사이언스,OC2024_08664,청주대학교,데이터사이언스학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+데이터사이언스,OC2024_09134,한국공학대학교,경영학부 (IT경영전공) | 경영학부(경영학전공) | 경영학부(데이터사이언스경영전공),SOC,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=경영
+데이터사이언스,OC2024_09556,한림대학교,데이터사이언스학부,ENG,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=데이터사이언스
+데이터사이언스,OC2024_09736,한신대학교,데이터사이언스,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+데이터사이언스,OC2024_09821,한양대학교,데이터사이언스전공 | 데이터사이언스학부,ENG,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=데이터사이언스
+데이터사이언스,OC2024_09895,한양대학교(ERICA)_분교,수리데이터사이언스학과,ENG,keyword_rule,medium,ENG:데이터사이언스/데이터
+데이터사이언스,OC2024_10225,화성의과학대학교,데이터사이언스학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+바이오,OC2024_00040,가천대학교,바이오나노학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+바이오,OC2024_00041,가천대학교,바이오의료기기학과,MED,inherited_headcount,high,D01 v2 high-confidence match 대계열=의약계열
+바이오,OC2024_00114,가톨릭관동대학교,바이오메디컬전공,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+바이오,OC2024_00115,가톨릭관동대학교,바이오융합공학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+바이오,OC2024_00192,가톨릭대학교,바이오메디컬소프트웨어학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+바이오,OC2024_00193,가톨릭대학교,바이오메디컬화학공학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+바이오,OC2024_00313,강원대학교,바이오산업공학부,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+바이오,OC2024_00314,강원대학교,바이오시스템공학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+바이오,OC2024_00315,강원대학교,바이오시스템공학전공,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+바이오,OC2024_00316,강원대학교,바이오시스템기계공학전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+바이오,OC2024_00317,강원대학교,바이오자원환경학전공,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+바이오,OC2024_00329,강원대학교,산림바이오소재공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+바이오,OC2024_00330,강원대학교,산림바이오소재공학전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+바이오,OC2024_00443,강원대학교_제2캠퍼스,바이오기능성소재학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+바이오,OC2024_00578,건국대학교(글로컬)_분교,바이오메디컬공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+바이오,OC2024_00579,건국대학교(글로컬)_분교,바이오생명공학전공,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+바이오,OC2024_00580,건국대학교(글로컬)_분교,바이오의약학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+바이오,OC2024_00581,건국대학교(글로컬)_분교,바이오의약학전공,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+바이오,OC2024_00656,건양대학교,의약바이오학과 | 의약바이오학부 | 의약바이오학과,NAT,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=의약바이오
+바이오,OC2024_00700,경기대학교,바이오융합학부,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+바이오,OC2024_00955,경북대학교,바이오섬유소재학과,NAT,keyword_rule,medium,NAT:바이오
+바이오,OC2024_01257,경성대학교,스마트바이오학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+바이오,OC2024_01617,고려대학교,바이오시스템의과학부,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+바이오,OC2024_01618,고려대학교,바이오의공학부,MED,inherited_headcount,high,D01 v2 high-confidence match 대계열=의약계열
+바이오,OC2024_01809,광운대학교,전자바이오물리학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+바이오,OC2024_01983,국립강릉원주대학교(폐교),해양바이오식품학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+바이오,OC2024_01984,국립강릉원주대학교(폐교),해양바이오식품학과 해양바이오전공,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+바이오,OC2024_01985,국립강릉원주대학교(폐교),해양바이오식품학과 해양식품융합전공,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+바이오,OC2024_02494,국립부경대학교,휴먼바이오융합전공,MED,inherited_headcount,high,D01 v2 high-confidence match 대계열=의약계열
+바이오,OC2024_02515,국립순천대학교,바이오한약자원학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+바이오,OC2024_02535,국립순천대학교,융합바이오시스템기계공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+바이오,OC2024_02637,국립한국교통대학교,바이오메디컬융합학과,MED,inherited_headcount,high,D01 v2 high-confidence match 대계열=의약계열
+바이오,OC2024_02717,국립한국해양대학교,"해양과학융합학부(수산바이오공학전공) | 해양과학융합학부(해양생물공학전공) | 해양과학융합학부(해양생물공학전공, 수산바이오공학전공) | 해양과학융합학부(해양환경학전공) | 해양과학융합학부(수산바이오공학전공) | 해양과학융합학부(해양생물공학전공) | 해양과학융합학부(해양환경학전공)",,ambiguous,low,"hits=ENG,NAT; evidence=ENG:공학 | NAT:생물/환경/수산/바이오/과학; ambiguous_token=True"
+바이오,OC2024_02799,국민대학교,바이오발효융합학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+바이오,OC2024_02800,국민대학교,바이오의약전공,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+바이오,OC2024_03011,남서울대학교,바이오헬스컨디셔닝학과,NAT,keyword_rule,medium,NAT:바이오
+바이오,OC2024_03182,대구가톨릭대학교,바이오메디대학,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+바이오,OC2024_03183,대구가톨릭대학교,바이오메디컬학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+바이오,OC2024_03320,대구대학교,생명환경학부(바이오산업학전공),NAT,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=생명환경
+바이오,OC2024_03368,대구대학교,화장품바이오학부(바이오메디컬전공) | 화장품바이오학부(화장품제약전공),NAT,keyword_rule,medium,NAT:바이오
+바이오,OC2024_03418,대구한의대학교,바이오산업융합학부,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+바이오,OC2024_03533,대전대학교,바이오응용화학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+바이오,OC2024_03657,덕성여자대학교,바이오공학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+바이오,OC2024_03658,덕성여자대학교,바이오공학전공,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+바이오,OC2024_03739,동국대학교,바이오환경과학과,NAT,keyword_rule,medium,NAT:환경/바이오/과학
+바이오,OC2024_03807,동국대학교(WISE)_분교,바이오제약공학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+바이오,OC2024_03808,동국대학교(WISE)_분교,바이오제약공학전공,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+바이오,OC2024_04065,동서대학교,바이오제약공학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+바이오,OC2024_04128,동신대학교,바이오화장품학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+바이오,OC2024_04204,동아대학교,바이오메디컬학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+바이오,OC2024_04367,동의대학교,바이오의약공학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+바이오,OC2024_04368,동의대학교,바이오의약공학전공,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+바이오,OC2024_04584,목원대학교,생명과학부 바이오헬스전공,NAT,keyword_rule,medium,NAT:생명과학/바이오/과학
+바이오,OC2024_04668,배재대학교,바이오・의생명공학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+바이오,OC2024_04821,부산대학교,바이오산업기계공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+바이오,OC2024_04822,부산대학교,바이오소재과학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+바이오,OC2024_04823,부산대학교,바이오환경에너지학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+바이오,OC2024_04982,삼육대학교,바이오융합공학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+바이오,OC2024_05170,상지대학교,제약바이오전공 | 제약바이오학과,NAT,keyword_rule,medium,NAT:바이오
+바이오,OC2024_05366,서울대학교,바이오시스템・소재학부,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+바이오,OC2024_05472,서울시립대학교,첨단융합학부 융합바이오헬스전공,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+바이오,OC2024_05512,서울여자대학교,바이오헬스융합학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+바이오,OC2024_05574,서원대학교,바이오코스메틱전공 | 바이오코스메틱학과,NAT,keyword_rule,medium,NAT:바이오
+바이오,OC2024_05765,성균관대학교,글로벌바이오메디컬공학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+바이오,OC2024_05778,성균관대학교,바이오메카트로닉스학과,NAT,keyword_rule,medium,NAT:바이오
+바이오,OC2024_05841,성신여자대학교,바이오생명공학과,,ambiguous,low,"hits=ENG,NAT; evidence=ENG:공학 | NAT:바이오; ambiguous_token=False"
+바이오,OC2024_05842,성신여자대학교,바이오식품공학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+바이오,OC2024_05843,성신여자대학교,바이오신약의과학부,NAT,keyword_rule,medium,NAT:바이오/과학
+바이오,OC2024_05844,성신여자대학교,바이오헬스융합학부,NAT,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=바이오헬스융합
+바이오,OC2024_05898,세명대학교,동물바이오헬스학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+바이오,OC2024_05904,세명대학교,바이오식품산업학부,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+바이오,OC2024_05905,세명대학교,바이오식품영양학부,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+바이오,OC2024_05906,세명대학교,바이오제약산업학부,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+바이오,OC2024_05907,세명대학교,바이오코스메틱학과,NAT,keyword_rule,medium,NAT:바이오
+바이오,OC2024_05908,세명대학교,바이오환경공학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+바이오,OC2024_05980,세종대학교,바이오산업자원공학전공,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+바이오,OC2024_05981,세종대학교,바이오융합공학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+바이오,OC2024_05982,세종대학교,바이오융합공학전공/생명시스템학부,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+바이오,OC2024_06121,수원대학교,바이오공학및마케팅,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+바이오,OC2024_06122,수원대학교,바이오화학산업학부,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+바이오,OC2024_06274,순천향대학교,융합바이오화학공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+바이오,OC2024_06437,신라대학교,바이오식품공학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+바이오,OC2024_06438,신라대학교,바이오식품소재학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+바이오,OC2024_06568,신한대학교_제2캠퍼스,바이오식품산업전공,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+바이오,OC2024_06569,신한대학교_제2캠퍼스,바이오식품외식산업학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+바이오,OC2024_06691,안양대학교_제2캠퍼스,해양바이오공학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+바이오,OC2024_06692,안양대학교_제2캠퍼스,해양바이오공학전공,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+바이오,OC2024_06693,안양대학교_제2캠퍼스,해양바이오시스템공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+바이오,OC2024_06724,연세대학교,바이오생활공학전공,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+바이오,OC2024_06725,연세대학교,바이오융합전공,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+바이오,OC2024_06818,연세대학교(미래)_분교,바이오공학전공,NAT,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=바이오공학
+바이오,OC2024_06819,연세대학교(미래)_분교,바이오융합공학전공,,ambiguous,low,"hits=ENG,NAT; evidence=ENG:공학 | NAT:바이오; ambiguous_token=True"
+바이오,OC2024_06867,영남대학교,고분자·바이오소재전공,NAT,keyword_rule,medium,NAT:바이오
+바이오,OC2024_07200,울산과학기술원,바이오메디컬공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+바이오,OC2024_07442,유원대학교,의약바이오학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+바이오,OC2024_07457,을지대학교_제2캠퍼스,바이오공학부,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+바이오,OC2024_07584,이화여자대학교,휴먼기계바이오공학과 | 휴먼기계바이오공학부,,ambiguous,low,"hits=ENG,NAT; evidence=ENG:기계/공학 | NAT:바이오; ambiguous_token=False"
+바이오,OC2024_07602,인제대학교,바이오테크놀로지학부,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+바이오,OC2024_07667,인천대학교,나노바이오전공,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+바이오,OC2024_07668,인천대학교,나노바이오공학전공,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+바이오,OC2024_07685,인천대학교,바이오-로봇시스템공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+바이오,OC2024_07757,인하대학교,바이오제약공학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+바이오,OC2024_07835,전남대학교,바이오에너지공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+바이오,OC2024_07868,전남대학교,융합바이오시스템기계공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+바이오,OC2024_07892,전남대학교,지역 ・ 바이오시스템공학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+바이오,OC2024_07933,전남대학교_제2캠퍼스,해양바이오식품학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+바이오,OC2024_07965,전북대학교,기계설계공학부(기계설계공학전공) | 기계설계공학부(나노바이오기계시스템공학전공),ENG,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=기계설계공
+바이오,OC2024_07982,전북대학교,바이오메디컬공학부(헬스케어기기공학전공) | 바이오메디컬공학부(헬스케어정보공학전공),ENG,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=바이오메디컬공
+바이오,OC2024_08118,전주대학교,바이오기능성식품학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+바이오,OC2024_08232,제주대학교,바이오메디컬정보학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+바이오,OC2024_08233,제주대학교,바이오소재전공,NAT,keyword_rule,medium,NAT:바이오
+바이오,OC2024_08414,중부대학교,바이오식품학전공,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+바이오,OC2024_08415,중부대학교,바이오화장품학전공,NAT,keyword_rule,medium,NAT:바이오
+바이오,OC2024_08534,중원대학교,바이오산업학부,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+바이오,OC2024_08548,중원대학교,융합바이오학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+바이오,OC2024_08581,차의과학대학교,바이오공학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+바이오,OC2024_08677,청주대학교,바이오메디컬학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+바이오,OC2024_08678,청주대학교,바이오산업공학전공,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+바이오,OC2024_08679,청주대학교,바이오의약학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+바이오,OC2024_08715,청주대학교,제약바이오메디컬공학전공,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+바이오,OC2024_08824,충남대학교,바이오시스템기계공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+바이오,OC2024_08918,충북대학교,바이오시스템공학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+바이오,OC2024_09154,한국과학기술원,바이오및뇌공학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+바이오,OC2024_09306,한국외국어대학교,바이오메디컬공학전공,MED,inherited_headcount,high,D01 v2 high-confidence match 대계열=의약계열
+바이오,OC2024_09449,한남대학교,바이오제약공학과,NAT,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=바이오제약공
+바이오,OC2024_09563,한림대학교,바이오메디컬학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+바이오,OC2024_09611,한서대학교,바이오식품과학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+바이오,OC2024_09612,한서대학교,바이오식품의과학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+바이오,OC2024_09615,한서대학교,뷰티바이오산업학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+바이오,OC2024_09828,한양대학교,바이오메디컬공학전공,MED,inherited_headcount,high,D01 v2 high-confidence match 대계열=의약계열
+바이오,OC2024_09991,호남대학교,바이오융합학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+바이오,OC2024_10208,홍익대학교_제2캠퍼스,바이오화학공학과,,ambiguous,low,"hits=ENG,NAT; evidence=ENG:화학공학/공학 | NAT:화학/바이오; ambiguous_token=False"
+바이오,OC2024_10226,화성의과학대학교,바이오헬스케어학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+산업디자인,OC2024_00512,건국대학교,산업디자인학과,ART,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=산업디자인
+산업디자인,OC2024_00584,건국대학교(글로컬)_분교,산업디자인전공 | 산업디자인학과,ART,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=산업디자인
+산업디자인,OC2024_01254,경성대학교,산업디자인학전공,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+산업디자인,OC2024_01439,경희대학교,산업디자인학과,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+산업디자인,OC2024_01544,계명대학교,산업디자인과,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+산업디자인,OC2024_01880,광주대학교,산업디자인학과,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+산업디자인,OC2024_02223,국립군산대학교,산업디자인학과 | 산업디자인학부 | 산업디자인학부,ART,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=산업디자인
+산업디자인,OC2024_02586,국립창원대학교,산업디자인학과,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+산업디자인,OC2024_02644,국립한국교통대학교,산업디자인전공 | 산업디자인학과,ART,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=산업디자인
+산업디자인,OC2024_02737,국립한밭대학교,산업디자인학과,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+산업디자인,OC2024_03197,대구가톨릭대학교,산업디자인과,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+산업디자인,OC2024_03318,대구대학교,산업디자인학과,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+산업디자인,OC2024_03430,대구한의대학교,산업디자인공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+산업디자인,OC2024_03431,대구한의대학교,산업디자인공학전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+산업디자인,OC2024_03603,대진대학교,산업디자인학과,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+산업디자인,OC2024_03982,동명대학교,반려동물산업디자인전공,,ambiguous,low,"hits=NAT,ART; evidence=NAT:동물 | ART:디자인/산업디자인; ambiguous_token=False"
+산업디자인,OC2024_03987,동명대학교,산업디자인학과,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+산업디자인,OC2024_04173,동아대학교,건축・디자인・패션대학 산업디자인학과,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+산업디자인,OC2024_04211,동아대학교,산업디자인학과,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+산업디자인,OC2024_04469,명지대학교,디자인학부 산업디자인전공,ART,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=디자인산업디자인
+산업디자인,OC2024_04582,목원대학교,산업디자인학과,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+산업디자인,OC2024_04673,배재대학교,산업디자인전공,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+산업디자인,OC2024_05059,상명대학교_제2캠퍼스,산업디자인학과,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+산업디자인,OC2024_05134,상지대학교,산업디자인학과,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+산업디자인,OC2024_05289,서울과학기술대학교,디자인학과 | 디자인학과(산업디자인전공) | 디자인학과(시각디자인전공),ART,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=디자인
+산업디자인,OC2024_05518,서울여자대학교,산업디자인학과,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+산업디자인,OC2024_05917,세명대학교,산업디자인학과,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+산업디자인,OC2024_05986,세종대학교,산업디자인학과,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+산업디자인,OC2024_06194,숙명여자대학교,산업디자인과,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+산업디자인,OC2024_06451,신라대학교,산업디자인전공 | 산업디자인학과,ART,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=산업디자인
+산업디자인,OC2024_06452,신라대학교,산업디자인융합학과,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+산업디자인,OC2024_06453,신라대학교,산업디자인학전공,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+산업디자인,OC2024_06574,신한대학교_제2캠퍼스,산업디자인학과,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+산업디자인,OC2024_06826,연세대학교(미래)_분교,산업디자인학전공,ART,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=산업디자인학
+산업디자인,OC2024_06893,영남대학교,산업디자인학과,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+산업디자인,OC2024_07245,울산대학교,산업디자인학전공,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+산업디자인,OC2024_07330,원광대학교,실내・산업디자인학과,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+산업디자인,OC2024_07526,이화여자대학교,산업디자인전공,ART,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=산업디자인
+산업디자인,OC2024_07990,전북대학교,산업디자인학과,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+산업디자인,OC2024_07991,전북대학교,산업디자인과,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+산업디자인,OC2024_08128,전주대학교,산업디자인전공 | 산업디자인학과,ART,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=산업디자인
+산업디자인,OC2024_08422,중부대학교,산업디자인학전공,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+산업디자인,OC2024_08505,중앙대학교_제2캠퍼스,디자인학부(공예전공) | 디자인학부(산업디자인전공) | 디자인학부(시각디자인전공) | 디자인학부(실내환경디자인전공) | 디자인학부(패션디자인전공) | 디자인학부(패션전공),ART,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=디자인
+산업디자인,OC2024_08689,청주대학교,산업디자인학과,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+산업디자인,OC2024_09139,한국공학대학교,디자인공학부(미디어디자인공학전공) | 디자인공학부(산업디자인공학전공),ART,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=디자인공
+산업디자인,OC2024_09156,한국과학기술원,산업디자인학과,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+산업디자인,OC2024_09617,한서대학교,산업디자인학과,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+산업디자인,OC2024_09893,한양대학교(ERICA)_분교,산업디자인학과,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+산업디자인,OC2024_09947,협성대학교,산업디자인학과,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+산업디자인,OC2024_09995,호남대학교,산업디자인학과,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+산업디자인,OC2024_10072,호서대학교,산업디자인학과,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+산업디자인,OC2024_10175,홍익대학교,디자인학부 산업디자인전공,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+교육공학,OC2024_00491,건국대학교,교육공학과,EDU,inherited_headcount,high,D01 v2 high-confidence match 대계열=교육계열
+교육공학,OC2024_02008,국립경국대학교,교육공학과,EDU,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=교육공
+교육공학,OC2024_07495,이화여자대학교,교육공학과,EDU,inherited_headcount,high,D01 v2 high-confidence match 대계열=교육계열
+교육공학,OC2024_09813,한양대학교,교육공학과,EDU,inherited_headcount,high,D01 v2 high-confidence match 대계열=교육계열
+의공학,OC2024_00071,가천대학교,의공학과,ENG,keyword_rule,medium,ENG:공학/의공학
+의공학,OC2024_00670,건양대학교_제2캠퍼스,의공학부 | 의공학과,ENG,keyword_rule,medium,ENG:공학/의공학
+의공학,OC2024_01442,경희대학교,생체의공학과,ENG,keyword_rule,medium,ENG:공학/의공학
+의공학,OC2024_01618,고려대학교,바이오의공학부,MED,inherited_headcount,high,D01 v2 high-confidence match 대계열=의약계열
+의공학,OC2024_01630,고려대학교,생체의공학과,ENG,keyword_rule,medium,ENG:공학/의공학
+의공학,OC2024_02453,국립부경대학교,의공학전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+의공학,OC2024_02454,국립부경대학교,의공학IT융합전공,MED,inherited_headcount,high,D01 v2 high-confidence match 대계열=의약계열
+의공학,OC2024_06276,순천향대학교,의공학과,ENG,keyword_rule,medium,ENG:공학/의공학
+의공학,OC2024_06838,연세대학교(미래)_분교,의공학부,ENG,keyword_rule,medium,ENG:공학/의공학
+의공학,OC2024_06839,연세대학교(미래)_분교,의공학전공,ENG,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=의공학
+의공학,OC2024_07263,울산대학교,의공학전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+의공학,OC2024_07625,인제대학교,의공학부,ENG,keyword_rule,medium,ENG:공학/의공학
+의공학,OC2024_07925,전남대학교_제2캠퍼스,의공학과,ENG,keyword_rule,medium,ENG:공학/의공학
+문화콘텐츠,OC2024_00256,강남대학교,한영문화콘텐츠학과,HUM,inherited_headcount,high,D01 v2 high-confidence match 대계열=인문계열
+문화콘텐츠,OC2024_00503,건국대학교,문화콘텐츠학과,HUM,inherited_headcount,high,D01 v2 high-confidence match 대계열=인문계열
+문화콘텐츠,OC2024_00740,경기대학교_제2캠퍼스,관광문화콘텐츠학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+문화콘텐츠,OC2024_00815,경남대학교,문화콘텐츠학과,HUM,inherited_headcount,high,D01 v2 high-confidence match 대계열=인문계열
+문화콘텐츠,OC2024_01240,경성대학교,문화콘텐츠학전공,HUM,inherited_headcount,high,D01 v2 high-confidence match 대계열=인문계열
+문화콘텐츠,OC2024_01688,고려대학교(세종)_분교,문화콘텐츠전공,HUM,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=문화콘텐츠
+문화콘텐츠,OC2024_01790,광운대학교,문화콘텐츠개발전공,HUM,inherited_headcount,high,D01 v2 high-confidence match 대계열=인문계열
+문화콘텐츠,OC2024_02072,국립경국대학교,한자문화콘텐츠학과,,ambiguous,low,"hits=ART,HUM; evidence=ART:콘텐츠 | HUM:문화콘텐츠; ambiguous_token=False"
+문화콘텐츠,OC2024_02313,국립목포대학교,문화콘텐츠학과,HUM,inherited_headcount,high,D01 v2 high-confidence match 대계열=인문계열
+문화콘텐츠,OC2024_02862,극동대학교,글로벌문화콘텐츠학과,HUM,inherited_headcount,high,D01 v2 high-confidence match 대계열=인문계열
+문화콘텐츠,OC2024_03163,대구가톨릭대학교,글로벌문화콘텐츠학과,HUM,inherited_headcount,high,D01 v2 high-confidence match 대계열=인문계열
+문화콘텐츠,OC2024_03528,대전대학교,글로벌문화콘텐츠학전공,HUM,inherited_headcount,high,D01 v2 high-confidence match 대계열=인문계열
+문화콘텐츠,OC2024_03618,대진대학교,역사·문화콘텐츠학부 | 역사·문화콘텐츠학과,HUM,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=역사문화콘텐츠
+문화콘텐츠,OC2024_03811,동국대학교(WISE)_분교,불교문화콘텐츠전공,HUM,inherited_headcount,high,D01 v2 high-confidence match 대계열=인문계열
+문화콘텐츠,OC2024_03968,동명대학교,글로벌문화콘텐츠학과,HUM,inherited_headcount,high,D01 v2 high-confidence match 대계열=인문계열
+문화콘텐츠,OC2024_04948,부산외국어대학교,일본어융합학부(비즈니스일본어전공) | 일본어융합학부(일본IT전공) | 일본어융합학부(한일문화콘텐츠전공),,ambiguous,low,"hits=ENG,ART,SOC,HUM; evidence=ENG:it | ART:콘텐츠 | SOC:비즈니스 | HUM:일문/문화콘텐츠; ambiguous_token=True"
+문화콘텐츠,OC2024_05008,상명대학교,SW융합학부 한일문화콘텐츠전공,HUM,inherited_headcount,high,D01 v2 high-confidence match 대계열=인문계열
+문화콘텐츠,OC2024_05035,상명대학교,인문콘텐츠학부 한일문화콘텐츠학과,HUM,inherited_headcount,high,D01 v2 high-confidence match 대계열=인문계열
+문화콘텐츠,OC2024_05118,상지대학교,문화콘텐츠학과,HUM,inherited_headcount,high,D01 v2 high-confidence match 대계열=인문계열
+문화콘텐츠,OC2024_05248,서경대학교,문화콘텐츠학과(인문과학대학),HUM,inherited_headcount,high,D01 v2 high-confidence match 대계열=인문계열
+문화콘텐츠,OC2024_05495,서울신학대학교,일본어문화콘텐츠학과,HUM,inherited_headcount,high,D01 v2 high-confidence match 대계열=인문계열
+문화콘텐츠,OC2024_05497,서울신학대학교,중국언어문화콘텐츠학과,HUM,inherited_headcount,high,D01 v2 high-confidence match 대계열=인문계열
+문화콘텐츠,OC2024_05507,서울여자대학교,독일문화콘텐츠전공,HUM,inherited_headcount,high,D01 v2 high-confidence match 대계열=인문계열
+문화콘텐츠,OC2024_05540,서울여자대학교,프랑스문화콘텐츠전공,HUM,inherited_headcount,high,D01 v2 high-confidence match 대계열=인문계열
+문화콘텐츠,OC2024_05665,선문대학교,역사문화콘텐츠학과 | 역사문화콘텐츠학부,HUM,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=역사문화콘텐츠
+문화콘텐츠,OC2024_05895,세명대학교,글로벌언어문화콘텐츠학부,HUM,inherited_headcount,high,D01 v2 high-confidence match 대계열=인문계열
+문화콘텐츠,OC2024_06118,수원대학교,문화콘텐츠테크놀러지,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+문화콘텐츠,OC2024_06294,순천향대학교,한국문화콘텐츠학과,HUM,inherited_headcount,high,D01 v2 high-confidence match 대계열=인문계열
+문화콘텐츠,OC2024_06433,신라대학교,문화콘텐츠학과,HUM,inherited_headcount,high,D01 v2 high-confidence match 대계열=인문계열
+문화콘텐츠,OC2024_06622,아주대학교,문화콘텐츠학과,HUM,inherited_headcount,high,D01 v2 high-confidence match 대계열=인문계열
+문화콘텐츠,OC2024_07065,용인대학교,문화콘텐츠학과,HUM,inherited_headcount,high,D01 v2 high-confidence match 대계열=인문계열
+문화콘텐츠,OC2024_07390,위덕대학교,역사문화콘텐츠학과,HUM,inherited_headcount,high,D01 v2 high-confidence match 대계열=인문계열
+문화콘텐츠,OC2024_07598,인제대학교,문화콘텐츠학과,HUM,inherited_headcount,high,D01 v2 high-confidence match 대계열=인문계열
+문화콘텐츠,OC2024_07650,인천가톨릭대학교_제2캠퍼스,문화콘텐츠학과,HUM,inherited_headcount,high,D01 v2 high-confidence match 대계열=인문계열
+문화콘텐츠,OC2024_07754,인하대학교,문화콘텐츠문화경영학과,HUM,inherited_headcount,high,D01 v2 high-confidence match 대계열=인문계열
+문화콘텐츠,OC2024_07914,전남대학교_제2캠퍼스,문화콘텐츠학부,HUM,inherited_headcount,high,D01 v2 high-confidence match 대계열=인문계열
+문화콘텐츠,OC2024_08114,전주대학교,문화콘텐츠학과,HUM,inherited_headcount,high,D01 v2 high-confidence match 대계열=인문계열
+문화콘텐츠,OC2024_08139,전주대학교,역사문화콘텐츠학과,HUM,inherited_headcount,high,D01 v2 high-confidence match 대계열=인문계열
+문화콘텐츠,OC2024_08325,조선대학교,문화콘텐츠학부 | 문화콘텐츠학부(가구・도자디자인전공) | 문화콘텐츠학부(시각문화큐레이터전공) | 문화콘텐츠학부(현대조형미디어전공),HUM,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=문화콘텐츠
+문화콘텐츠,OC2024_08675,청주대학교,문화콘텐츠학과,HUM,inherited_headcount,high,D01 v2 high-confidence match 대계열=인문계열
+문화콘텐츠,OC2024_09662,한성대학교,문학문화콘텐츠학과,HUM,inherited_headcount,high,D01 v2 high-confidence match 대계열=인문계열
+문화콘텐츠,OC2024_09741,한신대학교,디지털문화콘텐츠학전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+문화콘텐츠,OC2024_09742,한신대학교,디지털영상문화콘텐츠학과,HUM,inherited_headcount,high,D01 v2 high-confidence match 대계열=인문계열
+문화콘텐츠,OC2024_09743,한신대학교,디지털영상문화콘텐츠학,HUM,inherited_headcount,high,D01 v2 high-confidence match 대계열=인문계열
+문화콘텐츠,OC2024_09787,한신대학교,중국어문화콘텐츠학,HUM,inherited_headcount,high,D01 v2 high-confidence match 대계열=인문계열
+문화콘텐츠,OC2024_09800,한신대학교,한중문화콘텐츠학과,HUM,inherited_headcount,high,D01 v2 high-confidence match 대계열=인문계열
+문화콘텐츠,OC2024_09889,한양대학교(ERICA)_분교,문화콘텐츠학과,HUM,inherited_headcount,high,D01 v2 high-confidence match 대계열=인문계열
+스포츠과학,OC2024_00350,강원대학교,스포츠과학과,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+스포츠과학,OC2024_00591,건국대학교(글로컬)_분교,스포츠과학부(골프지도전공) | 스포츠과학부(생활체육학전공),ART,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=스포츠과
+스포츠과학,OC2024_00711,경기대학교,스포츠과학부,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+스포츠과학,OC2024_00831,경남대학교,스포츠과학과,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+스포츠과학,OC2024_01700,고려대학교(세종)_분교,스포츠과학전공,ART,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=스포츠과학
+스포츠과학,OC2024_01883,광주대학교,스포츠과학부,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+스포츠과학,OC2024_02249,국립군산대학교,체육학부 | 체육학부(체육학전공) | 체육학부(스포츠과학전공) | 체육학부 | 체육학부(스포츠과학전공) | 체육학부(체육학전공),ART,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=체육
+스포츠과학,OC2024_02718,국립한국해양대학교,해양스포츠과학과,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+스포츠과학,OC2024_03818,동국대학교(WISE)_분교,스포츠과학과,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+스포츠과학,OC2024_03819,동국대학교(WISE)_분교,스포츠과학전공,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+스포츠과학,OC2024_04739,백석대학교,스포츠과학부,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+스포츠과학,OC2024_04740,백석대학교,스포츠과학부 태권도전공,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+스포츠과학,OC2024_04837,부산대학교,스포츠과학과,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+스포츠과학,OC2024_05296,서울과학기술대학교,스포츠과학과,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+스포츠과학,OC2024_05452,서울시립대학교,스포츠과학과,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+스포츠과학,OC2024_05657,선문대학교,스포츠과학과 | 스포츠과학부,ART,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=스포츠과
+스포츠과학,OC2024_05791,성균관대학교,스포츠과학과,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+스포츠과학,OC2024_05857,성신여자대학교,스포츠과학부,ART,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=스포츠과
+스포츠과학,OC2024_06130,수원대학교,스포츠과학부,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+스포츠과학,OC2024_06263,순천향대학교,스포츠과학과,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+스포츠과학,OC2024_06684,안양대학교_제2캠퍼스,스포츠과학과,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+스포츠과학,OC2024_07035,예원예술대학교,스포츠과학과,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+스포츠과학,OC2024_07254,울산대학교,스포츠과학부,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+스포츠과학,OC2024_07326,원광대학교,스포츠과학부,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+스포츠과학,OC2024_07536,이화여자대학교,스포츠과학전공,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+스포츠과학,OC2024_07700,인천대학교,스포츠과학부,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+스포츠과학,OC2024_07773,인하대학교,스포츠과학과,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+스포츠과학,OC2024_08006,전북대학교,스포츠과학과,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+스포츠과학,OC2024_08250,제주대학교,스포츠과학과,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+스포츠과학,OC2024_08510,중앙대학교_제2캠퍼스,스포츠과학부,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+스포츠과학,OC2024_08627,청운대학교,스포츠과학과,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+스포츠과학,OC2024_08842,충남대학교,스포츠과학과,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+스포츠과학,OC2024_09084,한경국립대학교,스포츠과학과,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+스포츠과학,OC2024_09085,한경국립대학교,스포츠과학전공,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+스포츠과학,OC2024_09465,한남대학교,스포츠과학과,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+스포츠과학,OC2024_09901,한양대학교(ERICA)_분교,스포츠과학부,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+스포츠과학,OC2024_10080,호서대학교,스포츠과학부,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+스포츠과학,OC2024_10235,화성의과학대학교,스포츠과학부,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+심리,OC2024_00059,가천대학교,심리학과,SOC,keyword_rule,medium,SOC:심리
+심리,OC2024_00177,가톨릭꽃동네대학교,사회복지·상담심리학부,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+심리,OC2024_00178,가톨릭꽃동네대학교,사회복지・상담심리학부 사회복지학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+심리,OC2024_00179,가톨릭꽃동네대학교,사회복지・상담심리학부 상담심리학과,SOC,keyword_rule,medium,SOC:사회복지/심리/상담
+심리,OC2024_00180,가톨릭꽃동네대학교,상담심리학과,SOC,keyword_rule,medium,SOC:심리/상담
+심리,OC2024_00201,가톨릭대학교,심리학과,SOC,keyword_rule,medium,SOC:심리
+심리,OC2024_00263,강서대학교,상담심리학과,SOC,keyword_rule,medium,SOC:심리/상담
+심리,OC2024_00360,강원대학교,심리학전공,SOC,keyword_rule,medium,SOC:심리
+심리,OC2024_00411,강원대학교,행정.심리학부,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+심리,OC2024_00649,건양대학교,심리상담치료학과,SOC,keyword_rule,medium,SOC:심리/상담
+심리,OC2024_00834,경남대학교,심리학과,SOC,keyword_rule,medium,SOC:심리
+심리,OC2024_00997,경북대학교,심리학과,SOC,keyword_rule,medium,SOC:심리
+심리,OC2024_01141,경상국립대학교,심리학과,SOC,keyword_rule,medium,SOC:심리
+심리,OC2024_01264,경성대학교,심리학과,SOC,keyword_rule,medium,SOC:심리
+심리,OC2024_01311,경운대학교,상담심리학전공,SOC,keyword_rule,medium,SOC:심리/상담
+심리,OC2024_01381,경일대학교,상담심리학과,SOC,keyword_rule,medium,SOC:심리/상담
+심리,OC2024_01559,계명대학교,심리학과,SOC,keyword_rule,medium,SOC:심리
+심리,OC2024_01639,고려대학교,심리학부,SOC,keyword_rule,medium,SOC:심리
+심리,OC2024_01795,광운대학교,산업심리학과,SOC,keyword_rule,medium,SOC:심리
+심리,OC2024_01887,광주대학교,심리학과,SOC,keyword_rule,medium,SOC:심리
+심리,OC2024_01918,광주여자대학교,미래융합학부(뷰티산업학과) | 미래융합학부(사회복지상담전공) | 미래융합학부(사회복지상담학과) | 미래융합학부(언어재활심리학과) | 미래융합학부(언어재활전공) | 미래융합학부(영양식품학과),,ambiguous,low,"hits=MED,ART,SOC,HUM; evidence=MED:재활 | ART:뷰티 | SOC:사회복지/심리/상담 | HUM:언어; ambiguous_token=True"
+심리,OC2024_01923,광주여자대학교,상담심리학과,SOC,keyword_rule,medium,SOC:심리/상담
+심리,OC2024_02382,국립부경대학교,경찰범죄심리학전공,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+심리,OC2024_02910,김천대학교,사회복지상담학부(사회복지전공) | 사회복지상담학부(상담심리전공),SOC,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=사회복지상담
+심리,OC2024_02947,나사렛대학교,상담심리학과,SOC,keyword_rule,medium,SOC:심리/상담
+심리,OC2024_02952,나사렛대학교,심리재활학전공,MED,inherited_headcount,high,D01 v2 high-confidence match 대계열=의약계열
+심리,OC2024_02954,나사렛대학교,아동심리교육학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+심리,OC2024_03115,단국대학교_제2캠퍼스,심리치료학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+심리,OC2024_03199,대구가톨릭대학교,상담심리학과,SOC,keyword_rule,medium,SOC:심리/상담
+심리,OC2024_03216,대구가톨릭대학교,심리학과,SOC,keyword_rule,medium,SOC:심리
+심리,OC2024_03330,대구대학교,심리학과,SOC,keyword_rule,medium,SOC:심리
+심리,OC2024_03349,대구대학교,재활심리학과,MED,inherited_headcount,high,D01 v2 high-confidence match 대계열=의약계열
+심리,OC2024_03382,대구예술대학교,복지&심리상담전공,SOC,keyword_rule,medium,SOC:심리/상담
+심리,OC2024_03415,대구한의대학교,미술심리치료전공 | 미술심리치료학과,,ambiguous,low,"hits=ART,SOC; evidence=ART:미술 | SOC:심리; ambiguous_token=False"
+심리,OC2024_03434,대구한의대학교,상담심리학과 | 상담심리전공,SOC,keyword_rule,medium,SOC:심리/상담
+심리,OC2024_03435,대구한의대학교,상담심리학전공,SOC,keyword_rule,medium,SOC:심리/상담
+심리,OC2024_03546,대전대학교,산업・광고심리학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+심리,OC2024_03615,대진대학교,아동심리교육전공,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+심리,OC2024_03683,덕성여자대학교,심리학과,SOC,keyword_rule,medium,SOC:심리
+심리,OC2024_03684,덕성여자대학교,심리학전공,SOC,keyword_rule,medium,SOC:심리
+심리,OC2024_03805,동국대학교(WISE)_분교,명상심리상담학과,SOC,keyword_rule,medium,SOC:심리/상담
+심리,OC2024_03988,동명대학교,상담・임상심리학과,SOC,keyword_rule,medium,SOC:심리/상담
+심리,OC2024_04098,동서대학교,청소년상담심리학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+심리,OC2024_04137,동신대학교,상담심리학과,SOC,keyword_rule,medium,SOC:심리/상담
+심리,OC2024_04283,동양대학교,경찰범죄심리학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+심리,OC2024_04284,동양대학교,경찰행정・범죄심리학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+심리,OC2024_04394,동의대학교,심리학과,SOC,keyword_rule,medium,SOC:심리
+심리,OC2024_04458,루터대학교,상담심리학과,SOC,keyword_rule,medium,SOC:심리/상담
+심리,OC2024_04523,명지대학교_제2캠퍼스,심리치료학과,SOC,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=심리치료
+심리,OC2024_04526,명지대학교_제2캠퍼스,아동심리상담학과,SOC,keyword_rule,medium,SOC:심리/상담
+심리,OC2024_04687,배재대학교,심리상담학과,SOC,keyword_rule,medium,SOC:심리/상담
+심리,OC2024_04761,부산가톨릭대학교,사회복지상담심리학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+심리,OC2024_04843,부산대학교,심리학과,SOC,keyword_rule,medium,SOC:심리
+심리,OC2024_04923,부산외국어대학교,상담심리전공 | 상담심리학과,SOC,keyword_rule,medium,SOC:심리/상담
+심리,OC2024_04986,삼육대학교,상담심리학과,SOC,keyword_rule,medium,SOC:심리/상담
+심리,OC2024_05207,서강대학교,심리학과,SOC,keyword_rule,medium,SOC:심리
+심리,OC2024_05388,서울대학교,심리학과,SOC,keyword_rule,medium,SOC:심리
+심리,OC2024_05502,서울여자대학교,교육심리학과,EDU,inherited_headcount,high,D01 v2 high-confidence match 대계열=교육계열
+심리,OC2024_05547,서울장신대학교,상담심리학과,SOC,keyword_rule,medium,SOC:심리/상담
+심리,OC2024_05553,서울한영대학교,상담심리학과,SOC,keyword_rule,medium,SOC:심리/상담
+심리,OC2024_05560,서울한영대학교,재활상담심리학과,HUM,inherited_headcount,high,D01 v2 high-confidence match 대계열=인문계열
+심리,OC2024_05580,서원대학교,상담심리전공 | 상담심리학과,SOC,keyword_rule,medium,SOC:심리/상담
+심리,OC2024_05648,선문대학교,상담ㆍ산업심리학과,SOC,keyword_rule,medium,SOC:심리/상담
+심리,OC2024_05649,선문대학교,상담산업심리학과,SOC,keyword_rule,medium,SOC:심리/상담
+심리,OC2024_05650,선문대학교,상담심리학과,SOC,keyword_rule,medium,SOC:심리/상담
+심리,OC2024_05651,선문대학교,상담심리사회복지학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+심리,OC2024_05795,성균관대학교,심리학과,SOC,keyword_rule,medium,SOC:심리
+심리,OC2024_05860,성신여자대학교,심리학과,SOC,keyword_rule,medium,SOC:심리
+심리,OC2024_05918,세명대학교,상담심리학과,SOC,keyword_rule,medium,SOC:심리/상담
+심리,OC2024_06077,송원대학교,상담심리학과,SOC,keyword_rule,medium,SOC:심리/상담
+심리,OC2024_06193,숙명여자대학교,사회심리학과,SOC,keyword_rule,medium,SOC:심리
+심리,OC2024_06445,신라대학교,복지상담학부 상담심리복지전공,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+심리,OC2024_06456,신라대학교,상담심리복지학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+심리,OC2024_06575,신한대학교_제2캠퍼스,상담심리학과,SOC,keyword_rule,medium,SOC:심리/상담
+심리,OC2024_06633,아주대학교,심리학과,SOC,keyword_rule,medium,SOC:심리
+심리,OC2024_06749,연세대학교,심리학과,SOC,keyword_rule,medium,SOC:심리
+심리,OC2024_06908,영남대학교,심리학과,SOC,keyword_rule,medium,SOC:심리
+심리,OC2024_06961,영남신학대학교,상담심리학과,SOC,keyword_rule,medium,SOC:심리/상담
+심리,OC2024_07112,우석대학교,상담심리학과,SOC,keyword_rule,medium,SOC:심리/상담
+심리,OC2024_07123,우석대학교,심리학과,SOC,keyword_rule,medium,SOC:심리
+심리,OC2024_07124,우석대학교,심리운동・상담학과,SOC,keyword_rule,medium,SOC:심리/상담
+심리,OC2024_07542,이화여자대학교,심리학과,SOC,keyword_rule,medium,SOC:심리
+심리,OC2024_07543,이화여자대학교,심리학전공,SOC,keyword_rule,medium,SOC:심리
+심리,OC2024_07611,인제대학교,상담심리치료학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+심리,OC2024_07776,인하대학교,아동심리학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+심리,OC2024_07859,전남대학교,심리학과,SOC,keyword_rule,medium,SOC:심리
+심리,OC2024_08013,전북대학교,심리학과,SOC,keyword_rule,medium,SOC:심리
+심리,OC2024_08129,전주대학교,상담심리학과,SOC,keyword_rule,medium,SOC:심리/상담
+심리,OC2024_08146,전주대학교,예술심리치료학과,MED,inherited_headcount,high,D01 v2 high-confidence match 대계열=의약계열
+심리,OC2024_08332,조선대학교,상담심리학과,SOC,keyword_rule,medium,SOC:심리/상담
+심리,OC2024_08479,중앙대학교,심리학과,SOC,keyword_rule,medium,SOC:심리
+심리,OC2024_08582,차의과학대학교,상담심리학과,SOC,keyword_rule,medium,SOC:심리/상담
+심리,OC2024_08847,충남대학교,심리학과,SOC,keyword_rule,medium,SOC:심리
+심리,OC2024_08953,충북대학교,심리학과,SOC,keyword_rule,medium,SOC:심리
+심리,OC2024_09080,한경국립대학교,상담심리학전공,SOC,keyword_rule,medium,SOC:심리/상담
+심리,OC2024_09403,한국침례신학대학교,상담심리학과,SOC,keyword_rule,medium,SOC:심리/상담
+심리,OC2024_09460,한남대학교,상담심리학과,SOC,keyword_rule,medium,SOC:심리/상담
+심리,OC2024_09505,한동대학교,상담심리사회복지학부,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+심리,OC2024_09575,한림대학교,심리학과,SOC,keyword_rule,medium,SOC:심리
+심리,OC2024_09761,한신대학교,심리․아동학부,SOC,keyword_rule,medium,SOC:심리
+심리,OC2024_09762,한신대학교,심리・아동학,SOC,keyword_rule,medium,SOC:심리
+심리,OC2024_09774,한신대학교,임상심리전공,SOC,keyword_rule,medium,SOC:심리
+심리,OC2024_09846,한양대학교,심리뇌과학전공,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+심리,OC2024_09929,한일장신대학교,심리상담학과,SOC,keyword_rule,medium,SOC:심리/상담
+심리,OC2024_09996,호남대학교,상담심리학과,SOC,keyword_rule,medium,SOC:심리/상담
+심리,OC2024_10073,호서대학교,산업심리학과,SOC,keyword_rule,medium,SOC:심리
+심리,OC2024_10239,화성의과학대학교,의료심리학과,HUM,inherited_headcount,high,D01 v2 high-confidence match 대계열=인문계열
+식품영양,OC2024_00056,가천대학교,식품영양학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+식품영양,OC2024_00200,가톨릭대학교,식품영양학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+식품영양,OC2024_00264,강서대학교,식품영양학과 | 식품영양학부(식품영양학전공) | 식품영양학과,NAT,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=식품영양
+식품영양,OC2024_00455,강원대학교_제2캠퍼스,식품영양학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+식품영양,OC2024_00596,건국대학교(글로컬)_분교,식품영양학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+식품영양,OC2024_00597,건국대학교(글로컬)_분교,식품영양학전공 트랙,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+식품영양,OC2024_00832,경남대학교,식품영양학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+식품영양,OC2024_00991,경북대학교,식품영양학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+식품영양,OC2024_01139,경상국립대학교,식품영양학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+식품영양,OC2024_01261,경성대학교,식품영양학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+식품영양,OC2024_01453,경희대학교,식품영양학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+식품영양,OC2024_01555,계명대학교,식품영양학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+식품영양,OC2024_01735,고신대학교,식품영양학과 | 식품영양학부 | 식품영양학과,NAT,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=식품영양
+식품영양,OC2024_01886,광주대학교,식품영양학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+식품영양,OC2024_01926,광주여자대학교,식품영양학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+식품영양,OC2024_01965,국립강릉원주대학교(폐교),식품영양학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+식품영양,OC2024_02041,국립경국대학교,식품영양학과,NAT,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=식품영양
+식품영양,OC2024_02147,국립공주대학교,식품영양학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+식품영양,OC2024_02148,국립공주대학교,식품영양학전공,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+식품영양,OC2024_02230,국립군산대학교,식품생명과학부(식품영양학전공),NAT,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=식품생명과
+식품영양,OC2024_02231,국립군산대학교,식품영양학과,NAT,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=식품영양
+식품영양,OC2024_02326,국립목포대학교,식품영양학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+식품영양,OC2024_02439,국립부경대학교,식품영양학전공,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+식품영양,OC2024_02528,국립순천대학교,식품영양학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+식품영양,OC2024_02597,국립창원대학교,식품영양학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+식품영양,OC2024_02653,국립한국교통대학교,식품영양학전공,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+식품영양,OC2024_02813,국민대학교,식품영양학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+식품영양,OC2024_02874,극동대학교,식품영양학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+식품영양,OC2024_02916,김천대학교,식품영양학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+식품영양,OC2024_02986,남부대학교,식품영양학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+식품영양,OC2024_03112,단국대학교_제2캠퍼스,식품영양학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+식품영양,OC2024_03211,대구가톨릭대학교,식품영양학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+식품영양,OC2024_03327,대구대학교,식품영양학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+식품영양,OC2024_03449,대구한의대학교,식품영양학과 | 식품영양학과 | 식품영양전공,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+식품영양,OC2024_03450,대구한의대학교,식품영양학전공,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+식품영양,OC2024_03550,대전대학교,식품영양학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+식품영양,OC2024_03611,대진대학교,식품영양학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+식품영양,OC2024_03680,덕성여자대학교,식품영양학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+식품영양,OC2024_03681,덕성여자대학교,식품영양학전공,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+식품영양,OC2024_03913,동덕여자대학교,식품영양학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+식품영양,OC2024_03929,동덕여자대학교,자연과학부 식품영양학전공,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+식품영양,OC2024_03993,동명대학교,식품영양학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+식품영양,OC2024_04078,동서대학교,식품영양학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+식품영양,OC2024_04140,동신대학교,식품영양학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+식품영양,OC2024_04218,동아대학교,식품영양학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+식품영양,OC2024_04391,동의대학교,식품영양학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+식품영양,OC2024_04480,명지대학교,식품영양학과,NAT,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=식품영양
+식품영양,OC2024_04681,배재대학교,식품영양학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+식품영양,OC2024_04682,배재대학교,식품영양학전공,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+식품영양,OC2024_04840,부산대학교,식품영양학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+식품영양,OC2024_04987,삼육대학교,식품영양학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+식품영양,OC2024_05028,상명대학교,외식의류학부 식품영양학전공,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+식품영양,OC2024_05143,상지대학교,식품영양학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+식품영양,OC2024_05144,상지대학교,식품영양학전공,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+식품영양,OC2024_05387,서울대학교,식품영양학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+식품영양,OC2024_05527,서울여자대학교,식품영양학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+식품영양,OC2024_05528,서울여자대학교,식품영양학전공,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+식품영양,OC2024_05589,서원대학교,식품영양학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+식품영양,OC2024_05859,성신여자대학교,식품영양학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+식품영양,OC2024_05905,세명대학교,바이오식품영양학부,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+식품영양,OC2024_06079,송원대학교,식품영양학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+식품영양,OC2024_06131,수원대학교,식품영양학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+식품영양,OC2024_06201,숙명여자대학교,식품영양학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+식품영양,OC2024_06265,순천향대학교,식품영양학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+식품영양,OC2024_06465,신라대학교,식품영양학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+식품영양,OC2024_06466,신라대학교,식품영양학전공,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+식품영양,OC2024_06581,신한대학교_제2캠퍼스,식품영양학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+식품영양,OC2024_06662,안양대학교,식품영양학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+식품영양,OC2024_06745,연세대학교,식품영양학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+식품영양,OC2024_06906,영남대학교,식품영양학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+식품영양,OC2024_07073,용인대학교,식품영양학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+식품영양,OC2024_07122,우석대학교,식품영양학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+식품영양,OC2024_07256,울산대학교,식품영양학전공,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+식품영양,OC2024_07329,원광대학교,식품영양학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+식품영양,OC2024_07388,위덕대학교,식품영양학전공,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+식품영양,OC2024_07464,을지대학교_제2캠퍼스,식품영양학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+식품영양,OC2024_07541,이화여자대학교,식품영양학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+식품영양,OC2024_07616,인제대학교,식품영양・식품공학부,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+식품영양,OC2024_07774,인하대학교,식품영양학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+식품영양,OC2024_07856,전남대학교,식품영양과학부,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+식품영양,OC2024_08008,전북대학교,식품영양학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+식품영양,OC2024_08136,전주대학교,식품영양학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+식품영양,OC2024_08253,제주대학교,식품영양학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+식품영양,OC2024_08344,조선대학교,식품영양학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+식품영양,OC2024_08427,중부대학교,식품영양학전공,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+식품영양,OC2024_08512,중앙대학교_제2캠퍼스,식품공학부(식품공학전공) | 식품공학부(식품영양전공),NAT,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=식품공
+식품영양,OC2024_08602,창신대학교,식품영양학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+식품영양,OC2024_08628,청운대학교,식품영양학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+식품영양,OC2024_08845,충남대학교,식품영양학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+식품영양,OC2024_08951,충북대학교,식품영양학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+식품영양,OC2024_09092,한경국립대학교,식품영양학전공,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+식품영양,OC2024_09220,한국방송통신대학교,생활과학부 식품영양학전공,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+식품영양,OC2024_09466,한남대학교,식품영양학과,NAT,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=식품영양
+식품영양,OC2024_09574,한림대학교,식품영양학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+식품영양,OC2024_09843,한양대학교,식품영양학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+식품영양,OC2024_10001,호남대학교,식품영양학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+식품영양,OC2024_10084,호서대학교,식품영양학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+건축,OC2024_00017,가천대학교,건축학부,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_00018,가천대학교,건축공학전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_00019,가천대학교,건축학전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_00058,가천대학교,실내건축학전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_00097,가톨릭관동대학교,건축공학전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_00098,가톨릭관동대학교,건축학전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_00271,강원대학교,건축학과(5),ENG,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=건축
+건축,OC2024_00272,강원대학교,건축·토목·환경공학부,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_00273,강원대학교,건축공학전공,ENG,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=건축공학
+건축,OC2024_00274,강원대학교,건축학전공(5년제),ENG,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=건축학
+건축,OC2024_00426,강원대학교_제2캠퍼스,건설융합학부 건축공학전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_00427,강원대학교_제2캠퍼스,건설융합학부 건축학전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_00429,강원대학교_제2캠퍼스,건축디자인학과,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+건축,OC2024_00430,강원대학교_제2캠퍼스,건축시스템공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_00431,강원대학교_제2캠퍼스,건축학전공(5년제),ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_00486,건국대학교,건축학과 | 건축학부,ENG,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=건축
+건축,OC2024_00487,건국대학교,건축공학전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_00488,건국대학교,건축학전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_00682,경기대학교,건축학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_00683,경기대학교,건축공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_00753,경남과학기술대학교(폐교),건축학과(5),ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_00754,경남과학기술대학교(폐교),건축공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_00793,경남대학교,건축학부,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_00794,경남대학교,건축공학전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_00795,경남대학교,건축학전공(5년),ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_00894,경동대학교_제4캠퍼스,건축공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_00895,경동대학교_제4캠퍼스,건축디자인학과,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+건축,OC2024_00922,경북대학교,건축학부(건축공학전공) | 건축학부(건축학전공),ENG,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=건축
+건축,OC2024_00923,경북대학교,건축・토목공학부 건축공학전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_01079,경상국립대학교,건축학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_01080,경상국립대학교,건축공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_01081,경상국립대학교,건축공학전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_01082,경상국립대학교,건축시스템공학전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_01216,경성대학교,건축학과(5년제),ENG,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=건축
+건축,OC2024_01263,경성대학교,실내건축학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_01362,경일대학교,건축디자인과(5년제),ART,keyword_rule,medium,ART:디자인
+건축,OC2024_01363,경일대학교,건축토목공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_01383,경일대학교,스마트공학부 건축토목공학전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_01407,경희대학교,건축학과,ENG,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=건축
+건축,OC2024_01408,경희대학교,건축공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_01508,계명대학교,건축학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_01509,계명대학교,건축공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_01600,고려대학교,건축학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_01601,고려대학교,건축사회환경공학부,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_01774,광운대학교,건축학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_01775,광운대학교,건축공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_01856,광주대학교,건축학부,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_01927,광주여자대학교,실내건축디자인학과,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+건축,OC2024_02004,국립경국대학교,건축공학과,ENG,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=건축공
+건축,OC2024_02078,국립공주대학교,건축학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_02079,국립공주대학교,건축학부 건축공학전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_02096,국립공주대학교,그린스마트건축공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_02207,국립군산대학교,건축공학부,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_02267,국립금오공과대학교,건축공학전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_02268,국립금오공과대학교,건축학전공(5년),ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_02297,국립목포대학교,건축학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_02298,국립목포대학교,건축・토목공학과(건축공학심화트랙) | 건축・토목공학과(토목공학트랙) | 건축・토목공학과(건축공학심화트랙),ENG,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=건축토목공
+건축,OC2024_02299,국립목포대학교,건축공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_02376,국립부경대학교,건축공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_02377,국립부경대학교,건축학전공(5년),ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_02496,국립순천대학교,건축학부,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_02563,국립창원대학교,건축학부 건축공학전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_02564,국립창원대학교,건축학부 건축학전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_02621,국립한국교통대학교,건축학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_02622,국립한국교통대학교,건축공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_02623,국립한국교통대학교,건축공학전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_02624,국립한국교통대학교,건축학전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_02716,국립한국해양대학교,해양공간건축학부,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_02726,국립한밭대학교,건축학과(5년제),ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_02727,국립한밭대학교,건축공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_02770,국민대학교,건축설계전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_02771,국민대학교,건축시스템전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_02999,남서울대학교,건축학과(5),ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_03000,남서울대학교,건축공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_03039,단국대학교,건축학과 | 건축학부,ENG,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=건축
+건축,OC2024_03146,대구가톨릭대학교,건축학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_03147,대구가톨릭대학교,건축공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_03287,대구대학교,건축공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_03329,대구대학교,실내건축디자인학과,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+건축,OC2024_03374,대구예술대학교,건축실내디자인전공,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+건축,OC2024_03398,대구한의대학교,건축학전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_03442,대구한의대학교,스마트시티건축학전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_03452,대구한의대학교,실내건축디자인학과,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+건축,OC2024_03519,대전대학교,건축학과(4) | 건축학과(5),ENG,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=건축
+건축,OC2024_03520,대전대학교,건축공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_03583,대진대학교,건축공학부,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_03714,동국대학교,건축공학부,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_03715,동국대학교,건축공학전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_03716,동국대학교,건축학전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_03953,동명대학교,건축학과 | 건축학과(5년제),ENG,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=건축
+건축,OC2024_03954,동명대학교,건축공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_03994,동명대학교,실내건축학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_04041,동서대학교,건축학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_04042,동서대학교,건축공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_04043,동서대학교,건축공학전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_04044,동서대학교,건축설계학전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_04114,동신대학교,건축학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_04172,동아대학교,건축학과 | 건축학과(5년제),ENG,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=건축
+건축,OC2024_04173,동아대학교,건축・디자인・패션대학 산업디자인학과,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+건축,OC2024_04174,동아대학교,건축학과 건축학전공(5년제),ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_04175,동아대학교,건축공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_04176,동아대학교,건축학과 실내건축디자인전공,ART,keyword_rule,medium,ART:디자인
+건축,OC2024_04239,동아대학교,인간환경융합공학부 건축공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_04281,동양대학교,건축소방안전학과,SOC,keyword_rule,medium,SOC:소방
+건축,OC2024_04296,동양대학교,스마트건축공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_04321,동의대학교,건축학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_04322,동의대학교,건축공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_04323,동의대학교,건축공학전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_04324,동의대학교,건축학전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_04461,명지대학교,건축학부(건축학전공/전통건축전공) (5년제),ENG,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=건축
+건축,OC2024_04462,명지대학교,건축학부 건축학전공(5년제),ENG,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=건축건축학
+건축,OC2024_04463,명지대학교,건축학부 공간디자인전공(5년제),ART,keyword_rule,medium,ART:디자인
+건축,OC2024_04464,명지대학교,건축학부 전통건축전공(5년제),,unknown,unknown,"no inherited, dictionary, or strict keyword evidence"
+건축,OC2024_04540,목원대학교,건축학부,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_04541,목원대학교,건축학부 건축공학전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_04542,목원대학교,건축학부 건축학전공(5년제),ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_04645,배재대학교,건축학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_04684,배재대학교,실내건축학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_04789,부산대학교,건축학과(5년제),ENG,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=건축
+건축,OC2024_04790,부산대학교,건축공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_04975,삼육대학교,건축학과(4년제) | 건축학과(5년제),ENG,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=건축
+건축,OC2024_05272,서경대학교,토목건축공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_05281,서울과학기술대학교,건축학부건축공학전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_05282,서울과학기술대학교,건축학부건축학전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_05341,서울대학교,건축학과 | 건축학과(건축공학전공),ENG,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=건축
+건축,OC2024_05342,서울대학교,건축학과(건축학전공(5년)),ENG,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=건축
+건축,OC2024_05433,서울시립대학교,건축학부 건축공학전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_05434,서울시립대학교,건축학부 건축학전공(5년제),ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_05562,서원대학교,건축학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_05617,선문대학교,건축학부,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_05618,선문대학교,건축사회환경공학부,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_05755,성균관대학교,건축학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_05756,성균관대학교,건축토목공학부,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_05885,세명대학교,건축학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_05886,세명대학교,건축공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_05950,세종대학교,건축학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_05951,세종대학교,건축공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_05952,세종대학교,건축공학전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_05953,세종대학교,건축학전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_06067,송원대학교,건축공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_06098,수원대학교,건축도시부동산학부,SOC,keyword_rule,medium,SOC:부동산
+건축,OC2024_06099,수원대학교,건축학,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_06235,순천향대학교,건축학과(5),ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_06300,숭실대학교,건축학부,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_06301,숭실대학교,건축학부 건축공학전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_06302,숭실대학교,건축학부 건축학전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_06303,숭실대학교,건축학부 실내건축전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_06388,신경주대학교,전통건축학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_06403,신라대학교,건축학과 | 건축학부,ENG,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=건축
+건축,OC2024_06404,신라대학교,건축공학전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_06405,신라대학교,건축학전공(5년제),ENG,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=건축학
+건축,OC2024_06471,신라대학교,실내건축디자인전공 | 실내건축디자인학과,ART,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=실내건축디자인
+건축,OC2024_06611,아주대학교,건축학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_06697,연세대학교,건축공학(4년제),ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_06698,연세대학교,건축학(5년제),ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_06748,연세대학교,실내건축학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_06860,영남대학교,건축학부,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_06861,영남대학교,건축공학전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_06862,영남대학교,건축디자인전공,ART,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=건축디자인
+건축,OC2024_06863,영남대학교,건축학전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_06965,영산대학교(양산)_제2캠퍼스,건축공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_07092,우석대학교,건축학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_07093,우석대학교,건축・인테리어디자인학과,ART,keyword_rule,medium,ART:디자인
+건축,OC2024_07094,우석대학교,건축인테리어디자인학과,ART,keyword_rule,medium,ART:디자인
+건축,OC2024_07180,우송대학교,철도건설시스템학부 건축공학전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_07221,울산대학교,건축학부,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_07222,울산대학교,건축공학전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_07223,울산대학교,건축학전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_07292,원광대학교,건축학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_07293,원광대학교,건축공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_07407,유원대학교,건축공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_07484,이화여자대학교,건축학과(5년),ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_07485,이화여자대학교,건축도시시스템공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_07486,이화여자대학교,건축도시시스템공학전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_07487,이화여자대학교,건축학전공(5년),ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_07588,인제대학교,건축학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_07618,인제대학교,실내건축학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_07660,인천대학교,건축공학전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_07670,인천대학교,도시건축학부,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_07671,인천대학교,도시건축학전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_07737,인하대학교,건축학부,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_07738,인하대학교,건축공학전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_07739,인하대학교,건축학전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_07812,전남대학교,건축공학전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_07813,전남대학교,건축도시설계전공(5년),ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_07904,전남대학교_제2캠퍼스,건축디자인학과,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+건축,OC2024_07943,전북대학교,건축공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_08081,전주대학교,건축학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_08082,전주대학교,건축공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_08182,제주국제대학교,건축학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_08209,제주대학교,건축공학전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_08210,제주대학교,건축학전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_08303,조선대학교,건축학과(5년제),ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_08304,조선대학교,건축공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_08391,중부대학교,건축학전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_08458,중앙대학교,건축학부 | 건축학부(건축공학전공) | 건축학부(건축학전공),ENG,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=건축
+건축,OC2024_08611,청운대학교,건축공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_08653,청주대학교,건축학과 | 건축학과(5),ENG,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=건축
+건축,OC2024_08654,청주대학교,건축공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_08734,초당대학교,건축학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_08794,충남대학교,건축학과(5),ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_08795,충남대학교,건축공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_08841,충남대학교,스마트시티건축공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_08896,충북대학교,건축학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_08897,충북대학교,건축공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_09059,한경국립대학교,건축공학전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_09060,한경국립대학교,건축학전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_09199,한국기술교육대학교,디자인ㆍ건축공학부,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_09238,한국예술종합학교,건축과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_09384,한국전통문화대학교,전통건축학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_09426,한남대학교,건축학과(5년제),ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_09427,한남대학교,건축·토목공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_09428,한남대학교,건축공학전공,ENG,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=건축공학
+건축,OC2024_09515,한라대학교,건축학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_09652,한서대학교,환경・토목・건축학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_09700,한세대학교,실내건축디자인학과,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+건축,OC2024_09805,한양대학교,건축학부,ENG,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=건축
+건축,OC2024_09806,한양대학교,건축공학부,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_09845,한양대학교,실내건축디자인학과,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+건축,OC2024_09876,한양대학교(ERICA)_분교,건축공학전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_09877,한양대학교(ERICA)_분교,건축학전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_09896,한양대학교(ERICA)_분교,스마트융합공학부 건축IT융합전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_09900,한양대학교(ERICA)_분교,스마트융합공학부 지속가능건축융합전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_09932,협성대학교,건축공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_09971,호남대학교,건축학과 | 건축학부,ENG,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=건축
+건축,OC2024_09972,호남대학교,건축공학전공,ENG,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=건축공학
+건축,OC2024_09973,호남대학교,건축학전공,ENG,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=건축학
+건축,OC2024_10039,호서대학교,건축학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_10040,호서대학교,건축공학전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_10041,호서대학교,건축토목공학부,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_10119,호원대학교,건축학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_10120,호원대학교,건축인테리어학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_10157,홍익대학교,건축학부 건축학전공(5년제),ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_10158,홍익대학교,건축학부 실내건축학전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+건축,OC2024_10197,홍익대학교_제2캠퍼스,건축공학부,ENG,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=건축공
+건축,OC2024_10198,홍익대학교_제2캠퍼스,건축공학부 건축공학전공,ENG,keyword_rule,medium,ENG:건축공학/공학
+건축,OC2024_10199,홍익대학교_제2캠퍼스,건축공학부 건축디자인전공(5년제),,ambiguous,low,"hits=ENG,ART; evidence=ENG:건축공학/공학 | ART:디자인; ambiguous_token=False"
+AI,OC2024_00015,가천대학교,AI・소프트웨어학부(소프트웨어전공) | AI・소프트웨어학부(인공지능전공),ENG,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=ai소프트웨어
+AI,OC2024_00209,가톨릭대학교,인공지능학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_00252,강남대학교,인공지능융합공학부,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_00257,강서대학교,AI기반경영학과,SOC,keyword_rule,medium,SOC:경영
+AI,OC2024_00268,강원대학교,AI융합학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_00422,강원대학교_제2캠퍼스,AI소프트웨어학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_00674,건양대학교_제2캠퍼스,의료인공지능학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_00675,건양대학교_제2캠퍼스,인공지능학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_00719,경기대학교,인공지능전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_00844,경남대학교,인공지능학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_01039,경북대학교,전자공학부 | 전자공학부(인공지능전공),ENG,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=전자공
+AI,OC2024_01061,경북대학교,컴퓨터학부 인공지능컴퓨팅전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_01075,경상국립대학교,AI정보공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_01212,경성대학교,AI미디어학과,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+AI,OC2024_01213,경성대학교,AI수리학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+AI,OC2024_01472,경희대학교,인공지능학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_01709,고려대학교(세종)_분교,인공지능사이버보안학과,ENG,keyword_rule,medium,ENG:인공지능/보안
+AI,OC2024_01787,광운대학교,로봇학부 AI로봇전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_01804,광운대학교,인공지능전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_01852,광주대학교,AI소프트웨어학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_01853,광주대학교,AI자동차학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_01909,광주여자대학교,AI미디어콘텐츠학과,ART,keyword_rule,medium,ART:콘텐츠/미디어
+AI,OC2024_01910,광주여자대학교,AI융합학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_02165,국립공주대학교,인공지능학부,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_02239,국립군산대학교,인공지능융합학과,ENG,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=인공지능융합
+AI,OC2024_02250,국립군산대학교,컴퓨터소프트웨어학부 | 컴퓨터소프트웨어학부(소프트웨어학전공) | 컴퓨터소프트웨어학부(인공지능융합전공) | 컴퓨터소프트웨어학부(임베디드소프트웨어전공) | 컴퓨터소프트웨어학부(컴퓨터정보공학전공),ENG,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=컴퓨터소프트웨어
+AI,OC2024_02282,국립금오공과대학교,인공지능공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_02336,국립목포대학교,인공지능공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_02455,국립부경대학교,인공지능전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_02471,국립부경대학교,컴퓨터・인공지능공학부,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_02538,국립순천대학교,인공지능공학부,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_02616,국립한국교통대학교,AI・데이터공학부,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_02617,국립한국교통대학교,AI교통응용전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_02618,국립한국교통대학교,AI로봇공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_02705,국립한국해양대학교,인공지능공학부(지능제어시스템공학전공) | 인공지능공학부(컴퓨터공학전공),ENG,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=인공지능공
+AI,OC2024_02712,국립한국해양대학교,해사인공지능・보안학부(AI전공) | 해사인공지능・보안학부(사이버보안전공),ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_02749,국립한밭대학교,인공지능소프트웨어학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_02765,국민대학교,AI디자인학과,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+AI,OC2024_02766,국민대학교,AI빅데이터융합경영학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+AI,OC2024_02826,국민대학교,인공지능전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_02854,극동대학교,AI컴퓨터공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_02855,극동대학교,AI컴퓨터공학전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_02926,나사렛대학교,"IT・방송영상융합학부(정보통신보안트랙,멀티미디어콘텐츠트랙,인공지능소프트웨어트랙)",ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_02928,나사렛대학교,IT인공지능학부 | IT인공지능학부(인공지능빅데이터트랙/정보통신보안트랙/멀티미디어콘텐츠트랙),,ambiguous,low,"hits=ENG,ART; evidence=ENG:인공지능/데이터/정보통신/it/보안 | ART:콘텐츠/미디어; ambiguous_token=False"
+AI,OC2024_03140,대구가톨릭대학교,AI빅데이터공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_03283,대구대학교,AI학과 | AI학부(AI소프트웨어전공) | AI학부(AI엔터테인먼트전공) | AI학과,ENG,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=ai
+AI,OC2024_03514,대전대학교,AI소프트웨어학부,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_03515,대전대학교,AI융합학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_03544,대전대학교,빅데이터인공지능학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_03580,대진대학교,AI빅데이터전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_03709,동국대학교,AI소프트웨어융합학부,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_03710,동국대학교,AI융합학부,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_03767,동국대학교,인공지능전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_03946,동명대학교,AI학부,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_03947,동명대학교,AI자동화설계공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_04008,동명대학교,인공지능전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_04090,동서대학교,인공지능응용학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_04262,동아대학교,컴퓨터・AI공학부 AI학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_04263,동아대학교,컴퓨터・AI공학부 컴퓨터공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_04277,동양대학교,AI빅데이터융합학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_04278,동양대학교,AI융합사회복지학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+AI,OC2024_04413,동의대학교,인공지능학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_04870,부산대학교,정보컴퓨터공학부 인공지능전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_04944,부산외국어대학교,인공지능융합학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_04994,삼육대학교,인공지능융합학부,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_05154,상지대학교,인공지능융합공학부 스마트자동차전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_05155,상지대학교,인공지능융합공학부 인공지능전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_05156,상지대학교,인공지능융합공학부 정보통신소프트웨어전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_05157,상지대학교,인공지능융합공학부 지능형로봇전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_05212,서강대학교,인공지능학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_05304,서울과학기술대학교,인공지능응용학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_05466,서울시립대학교,인공지능학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_05474,서울시립대학교,첨단융합학부 첨단인공지능전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_05613,선문대학교,AI소프트웨어학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_05743,성공회대학교,인공지능전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_05753,성균관대학교,AI융합운영전공,,unknown,unknown,"no inherited, dictionary, or strict keyword evidence"
+AI,OC2024_05784,성균관대학교,산업인공지능전공,ENG,keyword_rule,medium,ENG:인공지능
+AI,OC2024_05804,성균관대학교,응용AI융합학부,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+AI,OC2024_05807,성균관대학교,인공지능융합전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_05824,성신여자대학교,AI융합학부,ENG,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=ai융합
+AI,OC2024_05948,세종대학교,AI로봇학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_06009,세종대학교,인공지능학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_06010,세종대학교,인공지능데이터사이언스학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_06036,세한대학교,AI콘텐츠디자인학과,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+AI,OC2024_06052,세한대학교,인공지능빅데이터학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_06210,숙명여자대학교,인공지능공학부,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_06232,순천향대학교,AI・빅데이터학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_06299,숭실대학교,AI융합학부,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_06357,신경주대학교,AI융합미디어창업학과,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+AI,OC2024_06358,신경주대학교,AI전기자동차학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_06486,신라대학교,인공지능학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_06646,안양대학교,AI융합학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_06771,연세대학교,인공지능학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_06796,연세대학교(미래)_분교,AI보건정보관리학과,MED,keyword_rule,medium,MED:보건
+AI,OC2024_06963,영산대학교(양산)_제2캠퍼스,AI・컴퓨터공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_07048,용인대학교,AI학부,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_07151,우송대학교,AI・빅데이터학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_07216,울산대학교,AI융합전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_07346,원광대학교,인공지능융합학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_07405,유원대학교,AI소프트웨어학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_07556,이화여자대학교,인공지능학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_07585,인제대학교,AI소프트웨어학부,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_07785,인하대학교,인공지능공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_07809,전남대학교,IoT인공지능융합전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_07876,전남대학교,인공지능학부,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_08050,전북대학교,컴퓨터인공지능학부,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_08152,전주대학교,인공지능학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_08265,제주대학교,인공지능전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_08362,조선대학교,인공지능공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_08456,중앙대학교,AI학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_08577,차의과학대학교,AI보건의료학부,MED,keyword_rule,medium,MED:보건/의료
+AI,OC2024_08707,청주대학교,인공지능소프트웨어학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_08863,충남대학교,인공지능학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_08937,충북대학교,소프트웨어학부 인공지능전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_09056,한경국립대학교,AI반도체융합전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_09131,한국공학대학교,AI소프트웨어학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_09140,한국공학대학교,메카트로닉스공학부(AI로봇전공) | 메카트로닉스공학부(메카트로닉스전공),ENG,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=메카트로닉스공
+AI,OC2024_09146,한국공학대학교,인공지능학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_09265,한국외국어대학교,AI데이터융합전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_09269,한국외국어대학교,Finance & AI융합전공,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+AI,OC2024_09272,한국외국어대학교,Language & AI융합전공 | Language & AI융합전공 | Language & AI융합학부,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_09275,한국외국어대학교,Social Science & AI융합전공 | Social Science & AI융합학부,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+AI,OC2024_09410,한국항공대학교,AI자율주행시스템공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_09424,한남대학교,AI융합학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_09511,한라대학교,AI정보보안학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_09544,한림대학교,AI기술경영융합전공,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+AI,OC2024_09545,한림대학교,AI로봇융합전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_09546,한림대학교,AI의료융합전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_09584,한림대학교,인공지능융합학부,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_09653,한성대학교,AI응용학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_09705,한신대학교,AI・SW계열,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_09706,한신대학교,AI・SW학,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_09707,한신대학교,AI시스템반도체학,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_09771,한신대학교,인공지능,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_09911,한양대학교(ERICA)_분교,인공지능학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_10012,호남대학교,자율주행AI전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+AI,OC2024_10066,호서대학교,빅데이터AI학과 | 빅데이터AI학부,ENG,keyword_rule,medium,ENG:데이터
+반도체,OC2024_00042,가천대학교,반도체・디스플레이학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+반도체,OC2024_00043,가천대학교,반도체・전자공학부,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+반도체,OC2024_00044,가천대학교,반도체공학부(반도체・디스플레이전공) | 반도체공학부(반도체설계전공),ENG,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=반도체공
+반도체,OC2024_00045,가천대학교,반도체설계학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+반도체,OC2024_00077,가천대학교,전자공학과 | 전자공학부(시스템반도체전공) | 전자공학부(전자공학전공) | 전자공학부(차세대반도체전공),ENG,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=전자공
+반도체,OC2024_00318,강원대학교,반도체물리학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+반도체,OC2024_00641,건양대학교,반도체공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+반도체,OC2024_01111,경상국립대학교,반도체공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+반도체,OC2024_01477,경희대학교,전자정보공학부 반도체공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+반도체,OC2024_01619,고려대학교,반도체공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+반도체,OC2024_01682,고려대학교(세종)_분교,디스플레이・반도체물리학과,,ambiguous,low,"hits=ENG,NAT; evidence=ENG:반도체 | NAT:물리; ambiguous_token=False"
+반도체,OC2024_01691,고려대학교(세종)_분교,반도체물리전공,NAT,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=반도체물리
+반도체,OC2024_01717,고려대학교(세종)_분교,지능형반도체공학과,ENG,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=지능형반도체공
+반도체,OC2024_01792,광운대학교,반도체시스템공학부 반도체시스템공학전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+반도체,OC2024_01832,광주과학기술원,반도체공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+반도체,OC2024_01972,국립강릉원주대학교(폐교),전자・반도체공학부 | 전자・반도체공학부(반도체공학전공) | 전자・반도체공학부(전자공학전공),ENG,keyword_rule,medium,ENG:전자/반도체/공학
+반도체,OC2024_02027,국립경국대학교,반도체・신소재공학과,ENG,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=반도체신소재공
+반도체,OC2024_02121,국립공주대학교,반도체정보공학전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+반도체,OC2024_02248,국립군산대학교,첨단과학기술학부 | 첨단과학기술학부(반도체물리전공) | 첨단과학기술학부(소재화학전공),,ambiguous,low,"hits=ENG,NAT; evidence=ENG:반도체 | NAT:물리/화학/과학; ambiguous_token=False"
+반도체,OC2024_02277,국립금오공과대학교,반도체시스템전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+반도체,OC2024_02315,국립목포대학교,반도체응용물리학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+반도체,OC2024_02406,국립부경대학교,나노융합반도체공학부,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+반도체,OC2024_02410,국립부경대학교,디스플레이반도체공학전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+반도체,OC2024_02470,국립부경대학교,차세대반도체공학전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+반도체,OC2024_02578,국립창원대학교,반도체물리학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+반도체,OC2024_02638,국립한국교통대학교,반도체신소재공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+반도체,OC2024_02706,국립한국해양대학교,전자전기정보공학부(나노반도체공학전공) | 전자전기정보공학부(데이터사이언스전공) | 전자전기정보공학부(전기전자공학전공) | 전자전기정보공학부(전자정보통신공학전공) | 전자전기정보공학부(전자통신공학전공) | 전자전기정보공학부(전파융합공학전공),,ambiguous,low,hits=ENG; evidence=ENG:데이터사이언스/데이터/전자/전기/정보통신; ambiguous_token=True
+반도체,OC2024_02735,국립한밭대학교,반도체시스템공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+반도체,OC2024_02845,국민대학교,지능형반도체융합전자전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+반도체,OC2024_02869,극동대학교,반도체장비공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+반도체,OC2024_03068,단국대학교,융합반도체공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+반도체,OC2024_03184,대구가톨릭대학교,반도체전자공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+반도체,OC2024_03268,대구경북과학기술원,반도체공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+반도체,OC2024_03534,대전대학교,반도체공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+반도체,OC2024_03736,동국대학교,물리반도체과학부,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+반도체,OC2024_03740,동국대학교,반도체과학전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+반도체,OC2024_04205,동아대학교,반도체학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+반도체,OC2024_04475,명지대학교,반도체공학과,ENG,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=반도체공
+반도체,OC2024_04865,부산대학교,전기전자공학부 반도체공학전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+반도체,OC2024_05068,상명대학교_제2캠퍼스,시스템반도체공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+반도체,OC2024_05121,상지대학교,반도체・에너지공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+반도체,OC2024_05122,상지대학교,반도체물리전자학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+반도체,OC2024_05204,서강대학교,시스템반도체공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+반도체,OC2024_05311,서울과학기술대학교,지능형반도체공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+반도체,OC2024_05460,서울시립대학교,융합전공학부 물리학-나노반도체물리학,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+반도체,OC2024_05473,서울시립대학교,첨단융합학부 지능형반도체전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+반도체,OC2024_05635,선문대학교,디스플레이반도체공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+반도체,OC2024_05779,성균관대학교,반도체시스템공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+반도체,OC2024_05780,성균관대학교,반도체융합공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+반도체,OC2024_05983,세종대학교,반도체시스템공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+반도체,OC2024_06123,수원대학교,반도체공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+반도체,OC2024_06743,연세대학교,시스템반도체공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+반도체,OC2024_06820,연세대학교(미래)_분교,반도체시스템융합공학전공,,ambiguous,low,hits=ENG; evidence=ENG:반도체/공학; ambiguous_token=True
+반도체,OC2024_06821,연세대학교(미래)_분교,반도체인프라및환경융합공학전공,,ambiguous,low,"hits=ENG,NAT; evidence=ENG:반도체/공학 | NAT:환경; ambiguous_token=True"
+반도체,OC2024_07201,울산과학기술원,반도체공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+반도체,OC2024_07234,울산대학교,나노반도체공학전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+반도체,OC2024_07314,원광대학교,반도체ㆍ디스플레이학부,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+반도체,OC2024_07381,위덕대학교,반도체전자공학전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+반도체,OC2024_07422,유원대학교,반도체디스플레이학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+반도체,OC2024_07565,이화여자대학교,지능형반도체공학전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+반도체,OC2024_07603,인제대학교,반도체공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+반도체,OC2024_07758,인하대학교,반도체산업융합학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+반도체,OC2024_07759,인하대학교,반도체시스템공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+반도체,OC2024_07983,전북대학교,반도체과학기술학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+반도체,OC2024_08535,중원대학교,반도체공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+반도체,OC2024_08554,중원대학교,전기반도체공학과,ENG,keyword_rule,medium,ENG:전기/반도체/공학
+반도체,OC2024_08555,중원대학교,전기반도체컴퓨터학부,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+반도체,OC2024_08680,청주대학교,반도체공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+반도체,OC2024_08696,청주대학교,시스템반도체공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+반도체,OC2024_08825,충남대학교,반도체융합학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+반도체,OC2024_08971,충북대학교,전자공학부 반도체공학전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+반도체,OC2024_09023,평택대학교,반도체디스플레이장비운영학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+반도체,OC2024_09047,포항공과대학교,반도체공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+반도체,OC2024_09056,한경국립대학교,AI반도체융합전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+반도체,OC2024_09138,한국공학대학교,나노반도체공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+반도체,OC2024_09155,한국과학기술원,반도체시스템공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+반도체,OC2024_09307,한국외국어대학교,반도체전자공학부(반도체공학전공) | 반도체전자공학부(전자공학전공),ENG,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=반도체전자공
+반도체,OC2024_09564,한림대학교,반도체・디스플레이스쿨,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+반도체,OC2024_09707,한신대학교,AI시스템반도체학,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+반도체,OC2024_09829,한양대학교,반도체공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+반도체,OC2024_10063,호서대학교,반도체공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+미디어,OC2024_00037,가천대학교,미디어커뮤니케이션학과,ART,keyword_rule,medium,ART:미디어
+미디어,OC2024_00191,가톨릭대학교,미디어기술콘텐츠학과,ART,keyword_rule,medium,ART:콘텐츠/미디어
+미디어,OC2024_00286,강원대학교,글로벌미디어커뮤니케이션전공,ART,keyword_rule,medium,ART:미디어
+미디어,OC2024_00311,강원대학교,미디어커뮤니케이션학과,ART,keyword_rule,medium,ART:미디어
+미디어,OC2024_00452,강원대학교_제2캠퍼스,소프트웨어미디어융합전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+미디어,OC2024_00453,강원대학교_제2캠퍼스,스포츠미디어전공,ART,keyword_rule,medium,ART:스포츠/미디어
+미디어,OC2024_00481,강원대학교_제2캠퍼스,컴퓨터・미디어・산업공학부 미디어공학전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+미디어,OC2024_00482,강원대학교_제2캠퍼스,컴퓨터・미디어・산업공학부 산업경영공학전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+미디어,OC2024_00483,강원대학교_제2캠퍼스,컴퓨터・미디어・산업공학부 컴퓨터공학전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+미디어,OC2024_00502,건국대학교,문화미디어학과,ART,keyword_rule,medium,ART:미디어
+미디어,OC2024_00505,건국대학교,미디어커뮤니케이션학과,ART,keyword_rule,medium,ART:미디어
+미디어,OC2024_00570,건국대학교(글로컬)_분교,다이나믹미디어전공,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+미디어,OC2024_00573,건국대학교(글로컬)_분교,동화미디어콘텐츠전공,ART,keyword_rule,medium,ART:콘텐츠/미디어
+미디어,OC2024_00576,건국대학교(글로컬)_분교,미디어문예창작전공 트랙,ART,keyword_rule,medium,ART:미디어
+미디어,OC2024_00577,건국대학교(글로컬)_분교,미디어콘텐츠전공 | 미디어콘텐츠학과,ART,keyword_rule,medium,ART:콘텐츠/미디어
+미디어,OC2024_00742,경기대학교_제2캠퍼스,미디어영상학과,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+미디어,OC2024_00817,경남대학교,미디어영상학과,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+미디어,OC2024_00953,경북대학교,미디어커뮤니케이션학과,ART,keyword_rule,medium,ART:미디어
+미디어,OC2024_01106,경상국립대학교,미디어커뮤니케이션학과,ART,keyword_rule,medium,ART:미디어
+미디어,OC2024_01212,경성대학교,AI미디어학과,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+미디어,OC2024_01244,경성대학교,미디어커뮤니케이션학과,ART,keyword_rule,medium,ART:미디어
+미디어,OC2024_01245,경성대학교,미디어콘텐츠학과,ART,keyword_rule,medium,ART:콘텐츠/미디어
+미디어,OC2024_01303,경운대학교,멀티미디어학과,ART,keyword_rule,medium,ART:미디어
+미디어,OC2024_01431,경희대학교,미디어학과,ART,keyword_rule,medium,ART:미디어
+미디어,OC2024_01539,계명대학교,사진미디어과,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+미디어,OC2024_01616,고려대학교,미디어학부,ART,keyword_rule,medium,ART:미디어
+미디어,OC2024_01689,고려대학교(세종)_분교,미디어문예창작전공,ART,keyword_rule,medium,ART:미디어
+미디어,OC2024_01791,광운대학교,미디어커뮤니케이션학부,ART,keyword_rule,medium,ART:미디어
+미디어,OC2024_01909,광주여자대학교,AI미디어콘텐츠학과,ART,keyword_rule,medium,ART:콘텐츠/미디어
+미디어,OC2024_01995,국립강릉원주대학교_제2캠퍼스(폐교),멀티미디어공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+미디어,OC2024_02020,국립경국대학교,멀티미디어공학과,ENG,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=멀티미디어공
+미디어,OC2024_02217,국립군산대학교,미디어문화학부(미디어문화전공) | 미디어문화학부 | 미디어문화학부,HUM,inherited_headcount,high,D01 v2 high-confidence match 대계열=인문계열
+미디어,OC2024_02413,국립부경대학교,미디어커뮤니케이션학부,ART,keyword_rule,medium,ART:미디어
+미디어,OC2024_02518,국립순천대학교,사진미디어학과,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+미디어,OC2024_02543,국립순천대학교,정보통신·멀티미디어공학부(멀티미디어공학전공) | 정보통신·멀티미디어공학부(정보통신공학전공),,ambiguous,low,"hits=ENG,ART; evidence=ENG:정보통신/공학 | ART:미디어; ambiguous_token=False"
+미디어,OC2024_02576,국립창원대학교,미디어커뮤니케이션학과,ART,keyword_rule,medium,ART:미디어
+미디어,OC2024_02636,국립한국교통대학교,미디어&콘텐츠학과,ART,keyword_rule,medium,ART:콘텐츠/미디어
+미디어,OC2024_02757,국립한밭대학교,지능미디어공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+미디어,OC2024_02797,국민대학교,미디어전공,ART,keyword_rule,medium,ART:미디어
+미디어,OC2024_02868,극동대학교,미디어영상제작학과,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+미디어,OC2024_02926,나사렛대학교,"IT・방송영상융합학부(정보통신보안트랙,멀티미디어콘텐츠트랙,인공지능소프트웨어트랙)",ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+미디어,OC2024_02928,나사렛대학교,IT인공지능학부 | IT인공지능학부(인공지능빅데이터트랙/정보통신보안트랙/멀티미디어콘텐츠트랙),,ambiguous,low,"hits=ENG,ART; evidence=ENG:인공지능/데이터/정보통신/it/보안 | ART:콘텐츠/미디어; ambiguous_token=False"
+미디어,OC2024_03009,남서울대학교,멀티미디어학과,ART,keyword_rule,medium,ART:미디어
+미디어,OC2024_03022,남서울대학교,시각미디어디자인학과,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+미디어,OC2024_03058,단국대학교,미디어커뮤니케이션학부,ART,keyword_rule,medium,ART:미디어
+미디어,OC2024_03178,대구가톨릭대학교,미디어영상광고홍보학부,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+미디어,OC2024_03241,대구가톨릭대학교,인터미디어아트과,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+미디어,OC2024_03307,대구대학교,문화예술학부 | 문화예술학부(미디어문예창작전공),ART,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=문화예술
+미디어,OC2024_03310,대구대학교,미디어커뮤니케이션학부 | 미디어커뮤니케이션학부(광고PR전공) | 미디어커뮤니케이션학부(영상콘텐츠전공),,ambiguous,low,"hits=ART,SOC; evidence=ART:영상/콘텐츠/미디어 | SOC:광고; ambiguous_token=False"
+미디어,OC2024_03383,대구예술대학교,사진영상미디어전공,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+미디어,OC2024_03597,대진대학교,미디어커뮤니케이션학과,ART,keyword_rule,medium,ART:미디어
+미디어,OC2024_03634,덕성여자대학교,IT미디어공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+미디어,OC2024_03635,덕성여자대학교,IT미디어공학전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+미디어,OC2024_03732,동국대학교,멀티미디어공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+미디어,OC2024_03733,동국대학교,멀티미디어소프트웨어공학전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+미디어,OC2024_03747,동국대학교,사회언론정보학부 미디어커뮤니케이션학전공,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+미디어,OC2024_03887,동덕여자대학교,디자인학부 미디어디자인전공,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+미디어,OC2024_03901,동덕여자대학교,미디어디자인학과,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+미디어,OC2024_03978,동명대학교,미디어커뮤니케이션학과,ART,keyword_rule,medium,ART:미디어
+미디어,OC2024_04004,동명대학교,융합미디어전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+미디어,OC2024_04060,동서대학교,디지털미디어디자인전공,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+미디어,OC2024_04198,동아대학교,미디어커뮤니케이션학과,ART,keyword_rule,medium,ART:미디어
+미디어,OC2024_04365,동의대학교,미디어커뮤니케이션학과,ART,keyword_rule,medium,ART:미디어
+미디어,OC2024_04484,명지대학교,예술학부(뮤지컬공연전공) | 예술학부(성악전공) | 예술학부(아트앤멀티미디어작곡전공) | 예술학부(영화전공) | 예술학부(작곡전공) | 예술학부(피아노전공),ART,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=예술
+미디어,OC2024_04503,명지대학교_제2캠퍼스,디지털미디어학과,ART,keyword_rule,medium,ART:미디어
+미디어,OC2024_04666,배재대학교,미디어콘텐츠학과,ART,keyword_rule,medium,ART:콘텐츠/미디어
+미디어,OC2024_04818,부산대학교,미디어커뮤니케이션학과,ART,keyword_rule,medium,ART:미디어
+미디어,OC2024_05018,상명대학교,뉴미디어작곡과,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+미디어,OC2024_05054,상명대학교_제2캠퍼스,디자인학부 AR・VR미디어디자인전공,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+미디어,OC2024_05078,상명대학교_제2캠퍼스,예술학부 사진영상미디어전공,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+미디어,OC2024_05120,상지대학교,미디어영상광고학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+미디어,OC2024_05199,서강대학교,미디어&엔터테인먼트학과,ART,keyword_rule,medium,ART:엔터테인먼트/미디어
+미디어,OC2024_05306,서울과학기술대학교,전자IT미디어공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+미디어,OC2024_05508,서울여자대학교,디지털미디어학과,ART,keyword_rule,medium,ART:미디어
+미디어,OC2024_05537,서울여자대학교,첨단미디어디자인전공,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+미디어,OC2024_05571,서원대학교,멀티미디어전공,ART,keyword_rule,medium,ART:미디어
+미디어,OC2024_05592,서원대학교,영상미디어전공,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+미디어,OC2024_05640,선문대학교,미디어커뮤니케이션학과 | 미디어커뮤니케이션학부,ART,keyword_rule,medium,ART:미디어
+미디어,OC2024_05701,성결대학교,미디어소프트웨어학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+미디어,OC2024_05724,성공회대학교,글로벌미디어아트경영전공,,ambiguous,low,"hits=ART,SOC; evidence=ART:미디어 | SOC:경영; ambiguous_token=False"
+미디어,OC2024_05729,성공회대학교,미디어콘텐츠융합학부,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+미디어,OC2024_05730,성공회대학교,미디어콘텐츠융합자율학부,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+미디어,OC2024_05776,성균관대학교,미디어커뮤니케이션학과,ART,keyword_rule,medium,ART:미디어
+미디어,OC2024_05839,성신여자대학교,미디어영상연기학과,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+미디어,OC2024_05840,성신여자대학교,미디어커뮤니케이션학과,ART,keyword_rule,medium,ART:미디어
+미디어,OC2024_05903,세명대학교,미디어문화학부,HUM,inherited_headcount,high,D01 v2 high-confidence match 대계열=인문계열
+미디어,OC2024_05979,세종대학교,미디어커뮤니케이션학과,ART,keyword_rule,medium,ART:미디어
+미디어,OC2024_06119,수원대학교,미디어SW,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+미디어,OC2024_06120,수원대학교,미디어커뮤니케이션학과,ART,keyword_rule,medium,ART:미디어
+미디어,OC2024_06191,숙명여자대학교,미디어학부,ART,keyword_rule,medium,ART:미디어
+미디어,OC2024_06251,순천향대학교,미디어커뮤니케이션학과,ART,keyword_rule,medium,ART:미디어
+미디어,OC2024_06309,숭실대학교,글로벌미디어학부,ART,keyword_rule,medium,ART:미디어
+미디어,OC2024_06317,숭실대학교,미디어경영학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+미디어,OC2024_06357,신경주대학교,AI융합미디어창업학과,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+미디어,OC2024_06414,신라대학교,광고홍보영상미디어학부,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+미디어,OC2024_06435,신라대학교,미디어문예창작학과,ART,keyword_rule,medium,ART:미디어
+미디어,OC2024_06564,신한대학교_제2캠퍼스,미디어언론학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+미디어,OC2024_06565,신한대학교_제2캠퍼스,미디어영상학과,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+미디어,OC2024_06597,아신대학교,교육미디어커뮤니케이션학부,HUM,inherited_headcount,high,D01 v2 high-confidence match 대계열=인문계열
+미디어,OC2024_06599,아신대학교,기독교교육과 미디어학과,HUM,inherited_headcount,high,D01 v2 high-confidence match 대계열=인문계열
+미디어,OC2024_06621,아주대학교,디지털미디어학과,ART,keyword_rule,medium,ART:미디어
+미디어,OC2024_06657,안양대학교,디지털미디어디자인학과 | 디지털미디어디자인학과(공학) | 디지털미디어디자인전공 | 디지털미디어디자인학과(공학) | 디지털미디어디자인전공,ART,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=디지털미디어디자인
+미디어,OC2024_06719,연세대학교,문화・미디어전공,ART,keyword_rule,medium,ART:미디어
+미디어,OC2024_06721,연세대학교,문화미디어전공,ART,keyword_rule,medium,ART:미디어
+미디어,OC2024_06888,영남대학교,미디어커뮤니케이션학과,ART,keyword_rule,medium,ART:미디어
+미디어,OC2024_07068,용인대학교,미디어디자인학과,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+미디어,OC2024_07108,우석대학교,미디어영상학과,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+미디어,OC2024_07187,우송대학교,테크노미디어융합학부 게임멀티미디어전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+미디어,OC2024_07188,우송대학교,테크노미디어융합학부 글로벌미디어영상학과,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+미디어,OC2024_07189,우송대학교,테크노미디어융합학부 미디어디자인・영상전공,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+미디어,OC2024_07287,울산대학교,회화・미디어아트전공,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+미디어,OC2024_07419,유원대학교,미디어콘텐츠학과,ART,keyword_rule,medium,ART:콘텐츠/미디어
+미디어,OC2024_07569,이화여자대학교,커뮤니케이션·미디어학부,ART,keyword_rule,medium,ART:미디어
+미디어,OC2024_07597,인제대학교,멀티미디어학부,ART,keyword_rule,medium,ART:미디어
+미디어,OC2024_07600,인제대학교,미디어커뮤니케이션학과,ART,keyword_rule,medium,ART:미디어
+미디어,OC2024_07684,인천대학교,미디어커뮤니케이션학과,ART,keyword_rule,medium,ART:미디어
+미디어,OC2024_07756,인하대학교,미디어커뮤니케이션학과,ART,keyword_rule,medium,ART:미디어
+미디어,OC2024_07833,전남대학교,미디어커뮤니케이션학과,ART,keyword_rule,medium,ART:미디어
+미디어,OC2024_07888,전남대학교,지능실감미디어융합전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+미디어,OC2024_07980,전북대학교,미디어커뮤니케이션학과,ART,keyword_rule,medium,ART:미디어
+미디어,OC2024_08134,전주대학교,스마트미디어학과,ART,keyword_rule,medium,ART:미디어
+미디어,OC2024_08225,제주대학교,멀티미디어디자인전공,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+미디어,OC2024_08325,조선대학교,문화콘텐츠학부 | 문화콘텐츠학부(가구・도자디자인전공) | 문화콘텐츠학부(시각문화큐레이터전공) | 문화콘텐츠학부(현대조형미디어전공),HUM,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=문화콘텐츠
+미디어,OC2024_08328,조선대학교,미디어커뮤니케이션학과,ART,keyword_rule,medium,ART:미디어
+미디어,OC2024_08413,중부대학교,미디어커뮤니케이션학전공,ART,keyword_rule,medium,ART:미디어
+미디어,OC2024_08471,중앙대학교,미디어커뮤니케이션학부,ART,keyword_rule,medium,ART:미디어
+미디어,OC2024_08587,차의과학대학교,의료홍보미디어학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+미디어,OC2024_08618,청운대학교,멀티미디어학과,ART,keyword_rule,medium,ART:미디어
+미디어,OC2024_08623,청운대학교,미디어커뮤니케이션학과,ART,keyword_rule,medium,ART:미디어
+미디어,OC2024_08668,청주대학교,디지털미디어디자인학과,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+미디어,OC2024_09022,평택대학교,미디어디자인전공 | 미디어디자인학과,ART,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=미디어디자인
+미디어,OC2024_09072,한경국립대학교,문예창작미디어콘텐츠홍보전공,ART,keyword_rule,medium,ART:콘텐츠/미디어
+미디어,OC2024_09073,한경국립대학교,미디어문예창작학과,ART,keyword_rule,medium,ART:미디어
+미디어,OC2024_09086,한경국립대학교,시각미디어디자인전공,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+미디어,OC2024_09139,한국공학대학교,디자인공학부(미디어디자인공학전공) | 디자인공학부(산업디자인공학전공),ART,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=디자인공
+미디어,OC2024_09214,한국방송통신대학교,미디어영상학과,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+미디어,OC2024_09242,한국예술종합학교,멀티미디어영상과,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+미디어,OC2024_09305,한국외국어대학교,미디어커뮤니케이션학부,ART,keyword_rule,medium,ART:미디어
+미디어,OC2024_09308,한국외국어대학교,방송.영상.뉴미디어전공,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+미디어,OC2024_09438,한남대학교,글로벌미디어・컬처전공,ART,keyword_rule,medium,ART:미디어
+미디어,OC2024_09443,한남대학교,멀티미디어공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+미디어,OC2024_09444,한남대학교,멀티미디어공학전공,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+미디어,OC2024_09447,한남대학교,미디어영상전공 | 미디어영상학과,ART,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=미디어영상
+미디어,OC2024_09520,한라대학교,광고영상미디어학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+미디어,OC2024_09527,한라대학교,미디어광고콘텐츠학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+미디어,OC2024_09561,한림대학교,미디어스쿨,ART,keyword_rule,medium,ART:미디어
+미디어,OC2024_09610,한서대학교,미디어문예창작학과,ART,keyword_rule,medium,ART:미디어
+미디어,OC2024_09691,한세대학교,미디어영상광고학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+미디어,OC2024_09714,한신대학교,경영・미디어계열,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+미디어,OC2024_09746,한신대학교,미디어영상전공,ART,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=미디어영상
+미디어,OC2024_09747,한신대학교,미디어영상광고홍보학부,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+미디어,OC2024_09748,한신대학교,미디어영상광고홍보학,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+미디어,OC2024_09826,한양대학교,미디어커뮤니케이션학과,ART,keyword_rule,medium,ART:미디어
+미디어,OC2024_09890,한양대학교(ERICA)_분교,미디어테크놀로지전공,ART,keyword_rule,medium,ART:미디어
+미디어,OC2024_09915,한양대학교(ERICA)_분교,정보사회미디어학과,ART,keyword_rule,medium,ART:미디어
+미디어,OC2024_09943,협성대학교,미디어영상광고학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+미디어,OC2024_09986,호남대학교,미디어영상공연학과,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+미디어,OC2024_09987,호남대학교,미디어영화영상제작전공,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+미디어,OC2024_09988,호남대학교,미디어커뮤니케이션학과,ART,keyword_rule,medium,ART:미디어
+미디어,OC2024_10061,호서대학교,미디어커뮤니케이션학과,ART,keyword_rule,medium,ART:미디어
+미디어,OC2024_10122,호원대학교,공연미디어학부,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+미디어,OC2024_10205,홍익대학교_제2캠퍼스,디자인·영상학부 디지털미디어디자인전공,ART,keyword_rule,medium,ART:디자인/영상/미디어
+보건,OC2024_00552,건국대학교,환경보건과학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+보건,OC2024_00822,경남대학교,보건의료정보학과,MED,inherited_headcount,high,D01 v2 high-confidence match 대계열=의약계열
+보건,OC2024_00884,경동대학교_제3캠퍼스,보건관리학과 | 보건관리학과(자연과학),MED,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=보건관리
+보건,OC2024_01234,경성대학교,동물보건생명과학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+보건,OC2024_01376,경일대학교,보건의료・사회복지학부,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+보건,OC2024_01517,계명대학교,공중보건학과,MED,inherited_headcount,high,D01 v2 high-confidence match 대계열=의약계열
+보건,OC2024_01621,고려대학교,보건정책관리학부,MED,keyword_rule,medium,MED:보건
+보건,OC2024_01622,고려대학교,보건환경융합과학부,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+보건,OC2024_01730,고신대학교,보건의료정보관리전공,MED,keyword_rule,medium,MED:보건/의료
+보건,OC2024_01731,고신대학교,보건환경학부,MED,inherited_headcount,high,D01 v2 high-confidence match 대계열=의약계열
+보건,OC2024_01754,고신대학교,환경보건전공,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+보건,OC2024_01872,광주대학교,보건행정학부,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+보건,OC2024_01920,광주여자대학교,반려동물보건학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+보건,OC2024_01921,광주여자대학교,보건행정학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+보건,OC2024_02123,국립공주대학교,보건행정학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+보건,OC2024_02588,국립창원대학교,생명보건학부,MED,keyword_rule,medium,MED:보건
+보건,OC2024_03012,남서울대학교,보건행정학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+보건,OC2024_03014,남서울대학교,뷰티보건학과,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+보건,OC2024_03102,단국대학교_제2캠퍼스,보건행정학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+보건,OC2024_03185,대구가톨릭대학교,반려동물보건학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+보건,OC2024_03189,대구가톨릭대학교,보건안전학과,MED,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=보건안전
+보건,OC2024_03198,대구가톨릭대학교,산업보건학전공,MED,inherited_headcount,high,D01 v2 high-confidence match 대계열=의약계열
+보건,OC2024_03419,대구한의대학교,반려동물보건학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+보건,OC2024_03421,대구한의대학교,보건관리전공,MED,inherited_headcount,high,D01 v2 high-confidence match 대계열=의약계열
+보건,OC2024_03422,대구한의대학교,보건안전전공,MED,inherited_headcount,high,D01 v2 high-confidence match 대계열=의약계열
+보건,OC2024_03423,대구한의대학교,보건의료행정전공,MED,inherited_headcount,high,D01 v2 high-confidence match 대계열=의약계열
+보건,OC2024_03432,대구한의대학교,산업안전보건전공,MED,inherited_headcount,high,D01 v2 high-confidence match 대계열=의약계열
+보건,OC2024_03458,대구한의대학교,안전보건전공,MED,keyword_rule,medium,MED:보건
+보건,OC2024_03537,대전대학교,보건의료경영학과,MED,inherited_headcount,high,D01 v2 high-confidence match 대계열=의약계열
+보건,OC2024_03599,대진대학교,보건경영학과,MED,inherited_headcount,high,D01 v2 high-confidence match 대계열=의약계열
+보건,OC2024_03809,동국대학교(WISE)_분교,보건의료정보학과,MED,inherited_headcount,high,D01 v2 high-confidence match 대계열=의약계열
+보건,OC2024_03825,동국대학교(WISE)_분교,안전보건전공,MED,keyword_rule,medium,MED:보건
+보건,OC2024_03906,동덕여자대학교,보건관리학과,MED,inherited_headcount,high,D01 v2 high-confidence match 대계열=의약계열
+보건,OC2024_03928,동덕여자대학교,자연과학부 보건관리학전공,MED,inherited_headcount,high,D01 v2 high-confidence match 대계열=의약계열
+보건,OC2024_03980,동명대학교,반려동물보건학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+보건,OC2024_04068,동서대학교,보건행정학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+보건,OC2024_04132,동신대학교,보건행정학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+보건,OC2024_04293,동양대학교,보건의료행정학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+보건,OC2024_04579,목원대학교,보건의료관리학과,MED,inherited_headcount,high,D01 v2 high-confidence match 대계열=의약계열
+보건,OC2024_04614,목원대학교,의생명·보건학부,MED,keyword_rule,medium,MED:보건
+보건,OC2024_04669,배재대학교,보건의료복지학과 | 보건의료복지학과(인문사회계열),,ambiguous,low,"hits=MED,SOC,HUM; evidence=MED:보건/의료 | SOC:회계 | HUM:인문; ambiguous_token=False"
+보건,OC2024_04756,부산가톨릭대학교,노인복지보건학과,MED,inherited_headcount,high,D01 v2 high-confidence match 대계열=의약계열
+보건,OC2024_04764,부산가톨릭대학교,안전보건학과,MED,keyword_rule,medium,MED:보건
+보건,OC2024_04983,삼육대학교,보건관리학과,MED,inherited_headcount,high,D01 v2 high-confidence match 대계열=의약계열
+보건,OC2024_05123,상지대학교,보건의료경영전공 | 보건의료경영학과,MED,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=보건의료경영
+보건,OC2024_05899,세명대학교,동물보건학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+보건,OC2024_05911,세명대학교,보건안전공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+보건,OC2024_05912,세명대학교,보건안전학과,MED,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=보건안전
+보건,OC2024_06081,송원대학교,재활보건학과,MED,inherited_headcount,high,D01 v2 high-confidence match 대계열=의약계열
+보건,OC2024_06253,순천향대학교,보건행정경영학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+보건,OC2024_06297,순천향대학교,환경보건학과,MED,inherited_headcount,high,D01 v2 high-confidence match 대계열=의약계열
+보건,OC2024_06443,신라대학교,보건행정학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+보건,OC2024_06796,연세대학교(미래)_분교,AI보건정보관리학과,MED,keyword_rule,medium,MED:보건
+보건,OC2024_06823,연세대학교(미래)_분교,보건의료정보관리학전공,MED,keyword_rule,medium,MED:보건/의료
+보건,OC2024_06824,연세대학교(미래)_분교,보건행정학과 | 보건행정학부 | 보건행정학과,SOC,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=보건행정
+보건,OC2024_06825,연세대학교(미래)_분교,보건행정학전공,SOC,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=보건행정학
+보건,OC2024_07070,용인대학교,산업환경보건학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+보건,OC2024_07109,우석대학교,보건의료경영학과,MED,inherited_headcount,high,D01 v2 high-confidence match 대계열=의약계열
+보건,OC2024_07110,우석대학교,보건의료관리학과,MED,inherited_headcount,high,D01 v2 high-confidence match 대계열=의약계열
+보건,OC2024_07163,우송대학교,보건의료경영학과,MED,inherited_headcount,high,D01 v2 high-confidence match 대계열=의약계열
+보건,OC2024_07309,원광대학교,동물보건학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+보건,OC2024_07316,원광대학교,복지・보건학부,MED,keyword_rule,medium,MED:보건
+보건,OC2024_07331,원광대학교,안전보건학과,MED,keyword_rule,medium,MED:보건
+보건,OC2024_07382,위덕대학교,보건관리학과,MED,inherited_headcount,high,D01 v2 high-confidence match 대계열=의약계열
+보건,OC2024_07425,유원대학교,보건행정학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+보건,OC2024_07432,유원대학교,산업안전보건학과,MED,inherited_headcount,high,D01 v2 high-confidence match 대계열=의약계열
+보건,OC2024_07459,을지대학교_제2캠퍼스,보건환경안전학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+보건,OC2024_07551,이화여자대학교,융합보건학과,MED,inherited_headcount,high,D01 v2 high-confidence match 대계열=의약계열
+보건,OC2024_07604,인제대학교,반려동물보건학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+보건,OC2024_07607,인제대학교,보건안전공학과,ENG,inherited_headcount,high,D01 v2 high-confidence match 대계열=공학계열
+보건,OC2024_07608,인제대학교,보건행정학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+보건,OC2024_08122,전주대학교,보건관리학과,MED,inherited_headcount,high,D01 v2 high-confidence match 대계열=의약계열
+보건,OC2024_08177,전주대학교,환경보건전공,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+보건,OC2024_08406,중부대학교,동물보건학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+보건,OC2024_08416,중부대학교,보건행정학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+보건,OC2024_08448,중부대학교,한방보건제약학과,MED,keyword_rule,medium,MED:약학/보건
+보건,OC2024_08536,중원대학교,보건행정학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+보건,OC2024_08577,차의과학대학교,AI보건의료학부,MED,keyword_rule,medium,MED:보건/의료
+보건,OC2024_08595,창신대학교,보건안전학과,MED,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=보건안전
+보건,OC2024_08666,청주대학교,동물보건복지학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+보건,OC2024_08684,청주대학교,보건행정학전공,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+보건,OC2024_08744,초당대학교,보건의료행정학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+보건,OC2024_09216,한국방송통신대학교,보건환경학과,MED,inherited_headcount,high,D01 v2 high-confidence match 대계열=의약계열
+보건,OC2024_09614,한서대학교,보건상담복지학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+보건,OC2024_09623,한서대학교,안전보건학과,MED,keyword_rule,medium,MED:보건
+보건,OC2024_09692,한세대학교,보건복지사회적경제학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+보건,OC2024_09945,협성대학교,보건관리학과,MED,inherited_headcount,high,D01 v2 high-confidence match 대계열=의약계열
+보건,OC2024_10053,호서대학교,동물보건복지학과,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+보건,OC2024_10090,호서대학교,안전보건학과,MED,keyword_rule,medium,MED:보건
+보건,OC2024_10230,화성의과학대학교,사회복지보건학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+상담,OC2024_00008,가야대학교(김해),사회복지상담학과 | 사회복지상담학과(3년과정),SOC,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=사회복지상담
+상담,OC2024_00118,가톨릭관동대학교,복지상담학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+상담,OC2024_00136,가톨릭관동대학교,언어재활상담학과,MED,inherited_headcount,high,D01 v2 high-confidence match 대계열=의약계열
+상담,OC2024_00153,가톨릭관동대학교,중독재활상담학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+상담,OC2024_00177,가톨릭꽃동네대학교,사회복지·상담심리학부,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+상담,OC2024_00178,가톨릭꽃동네대학교,사회복지・상담심리학부 사회복지학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+상담,OC2024_00179,가톨릭꽃동네대학교,사회복지・상담심리학부 상담심리학과,SOC,keyword_rule,medium,SOC:사회복지/심리/상담
+상담,OC2024_00180,가톨릭꽃동네대학교,상담심리학과,SOC,keyword_rule,medium,SOC:심리/상담
+상담,OC2024_00263,강서대학교,상담심리학과,SOC,keyword_rule,medium,SOC:심리/상담
+상담,OC2024_00649,건양대학교,심리상담치료학과,SOC,keyword_rule,medium,SOC:심리/상담
+상담,OC2024_00860,경남대학교,평생교육상담보육학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+상담,OC2024_01310,경운대학교,상담복지학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+상담,OC2024_01311,경운대학교,상담심리학전공,SOC,keyword_rule,medium,SOC:심리/상담
+상담,OC2024_01381,경일대학교,상담심리학과,SOC,keyword_rule,medium,SOC:심리/상담
+상담,OC2024_01728,고신대학교,기독교상담과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+상담,OC2024_01749,고신대학교,재활상담학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+상담,OC2024_01767,광신대학교,복지상담융합학부,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+상담,OC2024_01768,광신대학교,사회복지상담학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+상담,OC2024_01799,광운대학교,스포츠상담재활학과,ART,inherited_headcount,high,D01 v2 high-confidence match 대계열=예체능계열
+상담,OC2024_01889,광주대학교,언어재활상담학과,MED,inherited_headcount,high,D01 v2 high-confidence match 대계열=의약계열
+상담,OC2024_01900,광주대학교,청소년상담ㆍ평생교육학과,EDU,inherited_headcount,high,D01 v2 high-confidence match 대계열=교육계열
+상담,OC2024_01918,광주여자대학교,미래융합학부(뷰티산업학과) | 미래융합학부(사회복지상담전공) | 미래융합학부(사회복지상담학과) | 미래융합학부(언어재활심리학과) | 미래융합학부(언어재활전공) | 미래융합학부(영양식품학과),,ambiguous,low,"hits=MED,ART,SOC,HUM; evidence=MED:재활 | ART:뷰티 | SOC:사회복지/심리/상담 | HUM:언어; ambiguous_token=True"
+상담,OC2024_01923,광주여자대학교,상담심리학과,SOC,keyword_rule,medium,SOC:심리/상담
+상담,OC2024_02476,국립부경대학교,평생교육・상담학전공,EDU,inherited_headcount,high,D01 v2 high-confidence match 대계열=교육계열
+상담,OC2024_02521,국립순천대학교,사회서비스상담학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+상담,OC2024_02910,김천대학교,사회복지상담학부(사회복지전공) | 사회복지상담학부(상담심리전공),SOC,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=사회복지상담
+상담,OC2024_02940,나사렛대학교,기독교상담학전공,SOC,keyword_rule,medium,SOC:상담
+상담,OC2024_02947,나사렛대학교,상담심리학과,SOC,keyword_rule,medium,SOC:심리/상담
+상담,OC2024_03063,단국대학교,상담학과,SOC,keyword_rule,medium,SOC:상담
+상담,OC2024_03143,대구가톨릭대학교,가족상담복지학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+상담,OC2024_03199,대구가톨릭대학교,상담심리학과,SOC,keyword_rule,medium,SOC:심리/상담
+상담,OC2024_03348,대구대학교,재활상담학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+상담,OC2024_03356,대구대학교,청소년상담복지학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+상담,OC2024_03373,대구대학교,휴먼케어창의학부(실버복지・복지상담학전공) | 휴먼케어창의학부(자산관리・6차산업학전공),,ambiguous,low,"hits=MED,SOC; evidence=MED:의학 | SOC:상담; ambiguous_token=False"
+상담,OC2024_03382,대구예술대학교,복지&심리상담전공,SOC,keyword_rule,medium,SOC:심리/상담
+상담,OC2024_03406,대구한의대학교,노인복지상담학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+상담,OC2024_03434,대구한의대학교,상담심리학과 | 상담심리전공,SOC,keyword_rule,medium,SOC:심리/상담
+상담,OC2024_03435,대구한의대학교,상담심리학전공,SOC,keyword_rule,medium,SOC:심리/상담
+상담,OC2024_03455,대구한의대학교,아동복지상담학과 | 아동복지상담전공,SOC,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=아동복지상담
+상담,OC2024_03477,대구한의대학교,청소년교육상담학과 | 청소년교육상담전공,SOC,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=청소년교육상담
+상담,OC2024_03478,대구한의대학교,청소년교육상담학전공,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+상담,OC2024_03509,대신대학교,상담영어학부,SOC,keyword_rule,medium,SOC:상담
+상담,OC2024_03552,대전대학교,아동교육상담학과,EDU,inherited_headcount,high,D01 v2 high-confidence match 대계열=교육계열
+상담,OC2024_03805,동국대학교(WISE)_분교,명상심리상담학과,SOC,keyword_rule,medium,SOC:심리/상담
+상담,OC2024_03988,동명대학교,상담・임상심리학과,SOC,keyword_rule,medium,SOC:심리/상담
+상담,OC2024_04070,동서대학교,사회복지상담학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+상담,OC2024_04098,동서대학교,청소년상담심리학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+상담,OC2024_04137,동신대학교,상담심리학과,SOC,keyword_rule,medium,SOC:심리/상담
+상담,OC2024_04372,동의대학교,보육・가정상담학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+상담,OC2024_04442,동의대학교,평생교육·청소년상담학과,EDU,inherited_headcount,high,D01 v2 high-confidence match 대계열=교육계열
+상담,OC2024_04458,루터대학교,상담심리학과,SOC,keyword_rule,medium,SOC:심리/상담
+상담,OC2024_04517,명지대학교_제2캠퍼스,복지상담학과,SOC,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=복지상담
+상담,OC2024_04518,명지대학교_제2캠퍼스,복지상담경영학과,SOC,keyword_rule,medium,SOC:경영/상담
+상담,OC2024_04525,명지대학교_제2캠퍼스,아동보육상담학과,SOC,keyword_rule,medium,SOC:상담
+상담,OC2024_04526,명지대학교_제2캠퍼스,아동심리상담학과,SOC,keyword_rule,medium,SOC:심리/상담
+상담,OC2024_04687,배재대학교,심리상담학과,SOC,keyword_rule,medium,SOC:심리/상담
+상담,OC2024_04761,부산가톨릭대학교,사회복지상담심리학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+상담,OC2024_04923,부산외국어대학교,상담심리전공 | 상담심리학과,SOC,keyword_rule,medium,SOC:심리/상담
+상담,OC2024_04986,삼육대학교,상담심리학과,SOC,keyword_rule,medium,SOC:심리/상담
+상담,OC2024_05161,상지대학교,재활상담학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+상담,OC2024_05181,상지대학교,평생교육상담학과,EDU,inherited_headcount,high,D01 v2 high-confidence match 대계열=교육계열
+상담,OC2024_05547,서울장신대학교,상담심리학과,SOC,keyword_rule,medium,SOC:심리/상담
+상담,OC2024_05553,서울한영대학교,상담심리학과,SOC,keyword_rule,medium,SOC:심리/상담
+상담,OC2024_05560,서울한영대학교,재활상담심리학과,HUM,inherited_headcount,high,D01 v2 high-confidence match 대계열=인문계열
+상담,OC2024_05580,서원대학교,상담심리전공 | 상담심리학과,SOC,keyword_rule,medium,SOC:심리/상담
+상담,OC2024_05648,선문대학교,상담ㆍ산업심리학과,SOC,keyword_rule,medium,SOC:심리/상담
+상담,OC2024_05649,선문대학교,상담산업심리학과,SOC,keyword_rule,medium,SOC:심리/상담
+상담,OC2024_05650,선문대학교,상담심리학과,SOC,keyword_rule,medium,SOC:심리/상담
+상담,OC2024_05651,선문대학교,상담심리사회복지학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+상담,OC2024_05697,성결대학교,기독교교육상담학과,HUM,inherited_headcount,high,D01 v2 high-confidence match 대계열=인문계열
+상담,OC2024_05918,세명대학교,상담심리학과,SOC,keyword_rule,medium,SOC:심리/상담
+상담,OC2024_06045,세한대학교,사회복지상담학과,SOC,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=사회복지상담
+상담,OC2024_06077,송원대학교,상담심리학과,SOC,keyword_rule,medium,SOC:심리/상담
+상담,OC2024_06290,순천향대학교,청소년교육 ・ 상담학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+상담,OC2024_06444,신라대학교,복지상담학부 사회복지전공,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+상담,OC2024_06445,신라대학교,복지상담학부 상담심리복지전공,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+상담,OC2024_06449,신라대학교,사회복지상담학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+상담,OC2024_06456,신라대학교,상담심리복지학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+상담,OC2024_06575,신한대학교_제2캠퍼스,상담심리학과,SOC,keyword_rule,medium,SOC:심리/상담
+상담,OC2024_06600,아신대학교,기독교교육상담학과,HUM,inherited_headcount,high,D01 v2 high-confidence match 대계열=인문계열
+상담,OC2024_06601,아신대학교,기독교상담학과,SOC,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=기독교상담
+상담,OC2024_06603,아신대학교,상담복지학부,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+상담,OC2024_06961,영남신학대학교,상담심리학과,SOC,keyword_rule,medium,SOC:심리/상담
+상담,OC2024_06968,영산대학교(양산)_제2캠퍼스,노인복지상담학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+상담,OC2024_06970,영산대학교(양산)_제2캠퍼스,동양상담복지학과,SOC,keyword_rule,medium,SOC:상담
+상담,OC2024_07007,영산대학교(해운대),아동・가족상담학과,SOC,keyword_rule,medium,SOC:상담
+상담,OC2024_07112,우석대학교,상담심리학과,SOC,keyword_rule,medium,SOC:심리/상담
+상담,OC2024_07124,우석대학교,심리운동・상담학과,SOC,keyword_rule,medium,SOC:심리/상담
+상담,OC2024_07134,우석대학교,재활상담학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+상담,OC2024_07278,울산대학교,철학・상담전공,HUM,inherited_headcount,high,D01 v2 high-confidence match 대계열=인문계열
+상담,OC2024_07344,원광대학교,의료상담학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+상담,OC2024_07385,위덕대학교,사회복지서비스상담학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+상담,OC2024_07611,인제대학교,상담심리치료학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+상담,OC2024_08129,전주대학교,상담심리학과,SOC,keyword_rule,medium,SOC:심리/상담
+상담,OC2024_08186,제주국제대학교,복지상담학부 언어치료학전공,,ambiguous,low,"hits=SOC,HUM; evidence=SOC:상담 | HUM:언어; ambiguous_token=False"
+상담,OC2024_08187,제주국제대학교,상담복지학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+상담,OC2024_08332,조선대학교,상담심리학과,SOC,keyword_rule,medium,SOC:심리/상담
+상담,OC2024_08523,중앙승가대학교,선명상상담학전공,SOC,keyword_rule,medium,SOC:상담
+상담,OC2024_08524,중앙승가대학교,포교사회학상담학전공,SOC,keyword_rule,medium,SOC:상담/사회학
+상담,OC2024_08582,차의과학대학교,상담심리학과,SOC,keyword_rule,medium,SOC:심리/상담
+상담,OC2024_08746,초당대학교,사회복지상담학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+상담,OC2024_08769,총신대학교,중독상담학과,SOC,keyword_rule,medium,SOC:상담
+상담,OC2024_08770,총신대학교,중독재활상담학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+상담,OC2024_09002,칼빈대학교,복지상담학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+상담,OC2024_09006,칼빈대학교,아동・복지상담학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+상담,OC2024_09030,평택대학교,아동・청소년교육상담학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+상담,OC2024_09038,평택대학교,재활상담학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+상담,OC2024_09080,한경국립대학교,상담심리학전공,SOC,keyword_rule,medium,SOC:심리/상담
+상담,OC2024_09219,한국방송통신대학교,생활과학부 가정복지상담학전공,NAT,inherited_headcount,high,D01 v2 high-confidence match 대계열=자연계열
+상담,OC2024_09403,한국침례신학대학교,상담심리학과,SOC,keyword_rule,medium,SOC:심리/상담
+상담,OC2024_09460,한남대학교,상담심리학과,SOC,keyword_rule,medium,SOC:심리/상담
+상담,OC2024_09481,한남대학교,철학상담학전공,HUM,inherited_headcount,high,D01 v2 high-confidence match 대계열=인문계열
+상담,OC2024_09505,한동대학교,상담심리사회복지학부,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+상담,OC2024_09614,한서대학교,보건상담복지학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+상담,OC2024_09690,한세대학교,기독교교육•상담학과,HUM,inherited_headcount,high,D01 v2 high-confidence match 대계열=인문계열
+상담,OC2024_09776,한신대학교,재활상담학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+상담,OC2024_09777,한신대학교,재활상담학,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+상담,OC2024_09929,한일장신대학교,심리상담학과,SOC,keyword_rule,medium,SOC:심리/상담
+상담,OC2024_09980,호남대학교,라이프코칭상담학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+상담,OC2024_09996,호남대학교,상담심리학과,SOC,keyword_rule,medium,SOC:심리/상담
+상담,OC2024_10034,호남신학대학교,기독교사회복지상담학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+상담,OC2024_10035,호남신학대학교,사회복지상담학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+상담,OC2024_10069,호서대학교,사회복지상담학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+상담,OC2024_10107,호서대학교,청소년문화・상담학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+호텔관광,OC2024_00633,건양대학교,글로벌호텔관광학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+호텔관광,OC2024_00662,건양대학교,호텔관광학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+호텔관광,OC2024_00893,경동대학교_제3캠퍼스,호텔관광경영학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+호텔관광,OC2024_00915,경동대학교_제4캠퍼스,호텔관광경영학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+호텔관광,OC2024_01293,경성대학교,호텔관광경영학전공,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+호텔관광,OC2024_01906,광주대학교,호텔관광경영학부,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+호텔관광,OC2024_01940,광주여자대학교,호텔관광경영학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+호텔관광,OC2024_02976,나사렛대학교,항공호텔관광경영학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+호텔관광,OC2024_03262,대구가톨릭대학교,호텔관광학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+호텔관광,OC2024_03367,대구대학교,호텔관광경영학부 | 호텔관광경영학부(관광경영전공) | 호텔관광경영학부(호텔관광전공),SOC,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=호텔관광경영
+호텔관광,OC2024_03498,대구한의대학교,호텔관광학전공,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+호텔관광,OC2024_03861,동국대학교(WISE)_분교,호텔관광경영학부,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+호텔관광,OC2024_03862,동국대학교(WISE)_분교,호텔관광경영학전공,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+호텔관광,OC2024_04030,동명대학교,호텔관광학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+호텔관광,OC2024_04167,동신대학교,호텔관광경영학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+호텔관광,OC2024_04632,목원대학교,항공호텔관광전공,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+호텔관광,OC2024_04633,목원대학교,항공호텔관광경영학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+호텔관광,OC2024_05942,세명대학교,호텔관광경영학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+호텔관광,OC2024_06003,세종대학교,외식경영학전공/호텔관광외식경영학부,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+호텔관광,OC2024_06029,세종대학교,호텔관광경영학전공/호텔관광외식경영학부,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+호텔관광,OC2024_06030,세종대학교,호텔관광외식경영학부,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+호텔관광,OC2024_06168,수원대학교,호텔관광학부,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+호텔관광,OC2024_07190,우송대학교,호텔관광경영학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+호텔관광,OC2024_08206,제주국제대학교,호텔관광경영학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+호텔관광,OC2024_08636,청운대학교,호텔관광경영학부(관광경영전공) | 호텔관광경영학부(호텔경영전공) | 호텔관광경영학과 | 호텔관광경영학부(관광경영전공) | 호텔관광경영학부(호텔경영전공),SOC,exact_dictionary,medium,unique dictionary inherited from matched rows: dept_field_std=호텔관광경영
+호텔관광,OC2024_09541,한라대학교,호텔관광경영학부,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+호텔관광,OC2024_09967,협성대학교,호텔관광・유통경영학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
+호텔관광,OC2024_09968,협성대학교,호텔관광경영학과,SOC,inherited_headcount,high,D01 v2 high-confidence match 대계열=사회계열
