@@ -1,0 +1,7 @@
+﻿key_candidate,exists,null_key_rows,duplicate_key_rows,duplicate_key_groups,unique_key_n,value_conflict_group_n,status
+outcome_row_id,True,0,0,0,10242,0,PASS
+analysis_year+school_uid+campus_uid+dept_uid,True,0,36,18,10224,18,WARN
+analysis_year+school_uid+campus_uid+dept_uid+outcome_row_id,True,0,0,0,10242,0,PASS
+school_uid,True,0,10235,193,200,0,PASS
+campus_uid,True,0,10200,410,452,0,PASS
+dept_uid,True,0,40,20,10222,0,PASS

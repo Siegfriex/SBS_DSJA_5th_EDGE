@@ -1,0 +1,1 @@
+﻿column,registry_role,feature_block,measurement_level,actual_dtype,expected_dtype,nullable,non_null_n,missing_n,missing_pct,unique_n,min,p01,median,p99,max,example_values,coercion_failure_n,infinite_n,all_null,constant,near_constant,status

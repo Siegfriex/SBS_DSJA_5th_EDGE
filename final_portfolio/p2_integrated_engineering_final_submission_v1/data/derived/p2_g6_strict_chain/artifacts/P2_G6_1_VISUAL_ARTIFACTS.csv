@@ -1,0 +1,9 @@
+block_id,figure_path,question,data_used
+V01_STATUS_LINEAGE,workbook/p2/P2_6/figures/P2_G6_1_V01_STATUS_LINEAGE.png,P3/P4 strict 상태와 hash가 같은 실행 사슬을 가리키는가?,"P3_P4_CONFIRMATORY_STATUS.json, P3/P4 status json"
+V02_P3_RESIDUAL_DIAGNOSTIC,workbook/p2/P2_6/figures/P2_G6_1_V02_P3_RESIDUAL_DIAGNOSTIC.png,"P3 residual은 강한 예측모형의 잔차인가, 구조 통제 후 남은 grade signal인가?","P3_STRUCTURE_GRADE_RESIDUAL_FULL.parquet, P3_OOF_PERFORMANCE.csv, P3_FULL_FOLD_METRICS.csv"
+V03_P4_SAMPLE_STRUCTURE,workbook/p2/P2_6/figures/P2_G6_1_V03_P4_SAMPLE_STRUCTURE.png,P4 모형의 비교가 같은 표본 구조와 outcome availability 위에서 이루어졌는가?,"P4_SAMPLE_AUDIT.csv, P4_STRUCTURE_JOINT_FRAME.parquet"
+V04_P4_AME_FOREST,workbook/p2/P2_6/figures/P2_G6_1_V04_P4_AME_FOREST.png,RAW_A와 OOF residual은 취업률/대학원 진학률에 어느 정도의 추가 신호를 주는가?,"P4_COEFFICIENT_RESULTS.csv, P4_BOOTSTRAP_CI.csv"
+V05_D_BOOTSTRAP,workbook/p2/P2_6/figures/P2_G6_1_V05_D_BOOTSTRAP.png,grade signal의 추가 효과가 취업률보다 대학원 진학률에서 더 큰가?,"P4_EMPLOYMENT_PROGRESSION_DIFFERENCE.csv, P4_BOOTSTRAP_CI.csv"
+V06_LOCKED_TEST_IMPROVEMENT,workbook/p2/P2_6/figures/P2_G6_1_V06_LOCKED_TEST_IMPROVEMENT.png,P4 signal 추가가 locked test에서 base 대비 외부 예측을 개선했는가?,P4_LOCKED_TEST_METRICS.csv
+V07_RAW_RESID_EQUIVALENCE,workbook/p2/P2_6/figures/P2_G6_1_V07_RAW_RESID_EQUIVALENCE.png,현재 P4 설계에서 RAW_A와 OOF residual을 독립적인 두 신호처럼 해석해도 되는가?,"P4_WITHIN_RAW_EQUIVALENCE_AUDIT.csv, P3_STRUCTURE_GRADE_RESIDUAL_FULL.parquet"
+V08_P6_DECISION_DASHBOARD,workbook/p2/P2_6/figures/P2_G6_1_V08_P6_DECISION_DASHBOARD.png,P6로 넘길 결과론적 판단과 경고를 한 장으로 고정할 수 있는가?,"P3/P4 summary objects, P6 status dictionary"

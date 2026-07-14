@@ -1,0 +1,8 @@
+﻿rate_name,status,audited_n,violation_n,max_abs_diff,tolerance
+competition_ratio,PASS,5257,0,3.711597344135953e-06,0.001
+admission_yield_ratio,PASS,5257,0,3.8146972691777137e-07,0.001
+admit_per_applicant_ratio,PASS,5260,0,2.938257137596878e-08,0.001
+leave_rate_pct,PASS,8441,0,3.691642518788285e-06,0.001
+female_student_share_pct,PASS,8441,0,3.796268771338873e-06,0.001
+international_student_share_pct,PASS,8441,0,3.7368463097209315e-06,0.001
+fulltime_faculty_share_pct,PASS,6379,0,3.6831559810934777e-06,0.001

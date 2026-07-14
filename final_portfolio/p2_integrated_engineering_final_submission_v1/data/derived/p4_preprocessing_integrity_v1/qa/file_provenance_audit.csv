@@ -1,0 +1,215 @@
+﻿label,path,relative_path,exists,file_type,size_bytes,modified_at,sha256,expected_sha256,hash_match,actual_shape,expected_shape,shape_match,loader,encoding,json_top_level_keys,json_structure,parquet_schema,status,warning_code
+mart_department_model_base_2024,/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/p4_handoff_candidate/shared/mart_department_model_base_2024.parquet,workbook/p2/p2_3/p4_handoff_candidate/shared/mart_department_model_base_2024.parquet,True,.parquet,2103297,2026-07-12T12:47:51.507501+00:00,598b68b31b5358dfd23839d4c138cc64838d05876b7791980b376c0453f29962,598b68b31b5358dfd23839d4c138cc64838d05876b7791980b376c0453f29962,True,"[10242, 151]","[10242, 151]",True,pd.read_parquet,,null,null,"analysis_year: int16
+outcome_row_id: large_string
+school_name_raw: large_string
+school_name_base_raw: large_string
+school_name_std: large_string
+campus_name_raw_x: large_string
+campus_seq: large_string
+campus_branch: large_string
+campus_name_std_x: large_string
+dept_name_raw: large_string
+dept_name_std: large_string
+dept_field_raw: large_string
+dept_field_std: large_string
+credit_forfeit_flag: bool
+selectivity_proxy_pct: float
+a_rate_pct: float
+cd_rate_pct: float
+f_rate_pct: float
+employment_rate_pct: float
+health_employment_rate_pct: float
+progression_rate_pct: float
+vocational_college_progression_rate_pct: float
+university_progression_rate_pct: float
+graduate_school_progression_rate_pct: float
+domestic_progression_rate_pct: float
+overseas_progression_rate_pct: float
+has_selectivity: bool
+has_employment: bool
+has_progression: bool
+rate_range_qa: dictionary<values=string, indices=int8, ordered=0>
+source_file: large_string
+source_sha256: large_string
+campus_region_raw: large_string
+dept_norm_strict: large_string
+dept_norm_suffix_reduced: large_string
+dept_token_signature: large_string
+school_uid_x: large_string
+headcount_row_id: large_string
+match_stage: large_string
+match_method: large_string
+match_status: large_string
+match_score: double
+candidate_count: int16
+review_needed: bool
+unmatched_reason: large_string
+match_evidence: large_string
+candidate_headcount_row_ids: large_string
+candidate_preview: large_string
+campus_conflict_flag: bool
+degree_course_conflict_flag: bool
+major_conflict_flag: bool
+forbidden_modifier_conflict_flag: bool
+headcount_match_flag: bool
+headcount_grain_version: large_string
+headcount_grain_uid: large_string
+grain_resolution_method: large_string
+grain_review_needed: bool
+raw_row_lineage: large_string
+school_uid_y: large_string
+campus_uid: large_string
+dept_uid: large_string
+kedi_dept_code: large_string
+school_type: large_string
+degree_course: large_string
+school_status_raw: large_string
+day_evening_raw: large_string
+campus_name_raw_y: large_string
+campus_name_std_y: large_string
+region_sido: large_string
+region_sigungu: large_string
+hc_major_group_raw: large_string
+hc_major_group_7: large_string
+field_middle_name: large_string
+field_small_name: large_string
+admission_capacity_n: int32
+recruitment_n: int32
+applicants_n: int32
+admits_n: int32
+enrolled_students_n: int32
+leave_students_n: int32
+graduates_n: int32
+fulltime_faculty_n: int32
+nonfulltime_faculty_n: int32
+international_students_n: int32
+female_students_n: int32
+masters_students_n: int32
+doctoral_students_n: int32
+competition_ratio: float
+admission_yield_ratio: float
+admit_per_applicant_ratio: float
+leave_rate_pct: float
+female_student_share_pct: float
+international_student_share_pct: float
+student_faculty_ratio: float
+fulltime_faculty_share_pct: float
+log_enrolled_students: float
+log_graduates: float
+school_uid: string
+major_group_7: string
+major7_mapping_method: large_string
+major7_mapping_confidence: large_string
+major7_candidate_count: int64
+major7_review_needed: bool
+major7_evidence: large_string
+major7_sample_exclusion_rule: large_string
+has_structure_context: bool
+has_major_group_7_high_medium: bool
+row_qa_status: large_string
+ctx24_reference_sample_n: float
+ctx24_mean_income_10kkrw: float
+ctx24_median_income_10kkrw: float
+ctx24_income_300plus_pct: float
+ctx24_income_400plus_pct: float
+ctx24_large_company_pct: float
+ctx24_mid_company_pct: float
+ctx24_small_company_pct: float
+ctx24_large_mid_company_pct: float
+ctx24_public_nonprofit_pct: float
+ctx24_cert_rate_pct: float
+ctx24_cert_per_person: float
+ctx24_log10_mean_income: float
+ctx24_industry_top3_pct: float
+ctx24_industry_hhi: float
+goms_profile_start_year: int16
+goms_profile_end_year: int16
+goms_profile_years_n: int16
+goms_aggregation_method: dictionary<values=string, indices=int8, ordered=0>
+goms_recent_employment_rate_pct: float
+goms_recent_firm_300plus_pct: float
+goms_recent_public_nonprofit_pct: float
+goms_recent_permanent_pct: float
+goms_recent_unstable_pct: float
+goms_recent_self_employed_pct: float
+goms_recent_industry_hhi: float
+goms_recent_industry_top3_pct: float
+goms_recent_professional_highskill_pct: float
+goms_recent_mean_income_10kkrw: float
+goms_recent_weekly_work_hours: float
+goms_recent_hourly_income_proxy: float
+goms_income_trend_per_year: float
+goms_hours_trend_per_year: float
+goms_firm_300plus_trend_per_year: float
+goms_permanent_trend_per_year: float
+goms_latest_2019_mean_income_10kkrw: float
+goms_latest_2019_weekly_work_hours: float
+goms_latest_2019_firm_300plus_pct: float
+goms_latest_2019_permanent_pct: float
+goms_source_years_observed: int16
+goms_year_over_year_review_flag: bool
+goms_mapping_confidence: dictionary<values=string, indices=int8, ordered=0>
+goms_row_qa_status: dictionary<values=string, indices=int8, ordered=0>
+-- schema metadata --
+pandas: '{""index_columns"": [], ""column_indexes"": [], ""columns"": [{""name"":' + 21257",PASS,
+P4_PHASE_SAMPLE_MEMBERSHIP_FINAL,/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/p4_modeling_readiness_v4/data/P4_PHASE_SAMPLE_MEMBERSHIP_FINAL.parquet,workbook/p2/p2_4/p4_modeling_readiness_v4/data/P4_PHASE_SAMPLE_MEMBERSHIP_FINAL.parquet,True,.parquet,273814,2026-07-13T02:12:50.209943+00:00,58d0308aa92f04badea3c7fc2db44fc28d0d93580db9bff4f16d47d870ebc7c6,58d0308aa92f04badea3c7fc2db44fc28d0d93580db9bff4f16d47d870ebc7c6,True,"[10242, 21]","[10242, 21]",True,pd.read_parquet,,null,null,"outcome_row_id: large_string
+analysis_year: int16
+school_uid: large_string
+campus_uid: large_string
+dept_uid: large_string
+major_group_7: large_string
+school_type: large_string
+region_sido: large_string
+split: large_string
+sample_P1_STRUCTURE_READY: bool
+sample_P1_SELECTIVITY_READY: bool
+sample_P2_STRUCTURE_READY: bool
+sample_P2_SELECTIVITY_READY: bool
+sample_P3_STRUCTURE_READY: bool
+sample_P3_SELECTIVITY_READY: bool
+sample_P4_E_STRUCTURE_READY: bool
+sample_P4_P_STRUCTURE_READY: bool
+sample_P4_JOINT_STRUCTURE_READY: bool
+sample_P4_E_SELECTIVITY_READY: bool
+sample_P4_P_SELECTIVITY_READY: bool
+sample_P4_JOINT_SELECTIVITY_READY: bool
+-- schema metadata --
+pandas: '{""index_columns"": [], ""column_indexes"": [], ""columns"": [{""name"":' + 2964",PASS,
+P4_PHASE_SAMPLE_REGISTRY_FINAL,/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/p4_modeling_readiness_v4/artifacts/P4_PHASE_SAMPLE_REGISTRY_FINAL.csv,workbook/p2/p2_4/p4_modeling_readiness_v4/artifacts/P4_PHASE_SAMPLE_REGISTRY_FINAL.csv,True,.csv,1587,2026-07-13T02:12:50.205743+00:00,6483fdf67cca469ed7bd2500e5ef917ffd01007194c83461f5c827b03f16805e,6483fdf67cca469ed7bd2500e5ef917ffd01007194c83461f5c827b03f16805e,True,"[12, 11]","[12, 11]",True,pd.read_csv,utf-8-sig,null,null,,PASS,
+department_model_column_registry_v4,/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/p4_modeling_readiness_v4/artifacts/department_model_column_registry_v4.csv,workbook/p2/p2_4/p4_modeling_readiness_v4/artifacts/department_model_column_registry_v4.csv,True,.csv,58300,2026-07-13T02:12:50.014680+00:00,ab75225547d42ddc8e6cdf686be61ecc8bf87512729d8d9d053652b521093b94,ab75225547d42ddc8e6cdf686be61ecc8bf87512729d8d9d053652b521093b94,True,"[151, 22]","[151, 22]",True,pd.read_csv,utf-8-sig,null,null,,PASS,
+P4_PHASE_FEATURE_SET_FINAL,/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/p4_modeling_readiness_v4/artifacts/P4_PHASE_FEATURE_SET_FINAL.csv,workbook/p2/p2_4/p4_modeling_readiness_v4/artifacts/P4_PHASE_FEATURE_SET_FINAL.csv,True,.csv,39889,2026-07-13T02:12:50.386869+00:00,dc851803d22a22e891a7fdd9a31dbe0c3d2ac56421a9798e06a9e87e20ce2320,dc851803d22a22e891a7fdd9a31dbe0c3d2ac56421a9798e06a9e87e20ce2320,True,"[250, 11]","[250, 11]",True,pd.read_csv,utf-8-sig,null,null,,PASS,
+P4_PHASE_MODEL_SPEC_FINAL,/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/p4_modeling_readiness_v4/artifacts/P4_PHASE_MODEL_SPEC_FINAL.csv,workbook/p2/p2_4/p4_modeling_readiness_v4/artifacts/P4_PHASE_MODEL_SPEC_FINAL.csv,True,.csv,2618,2026-07-13T02:12:50.388366+00:00,d7f560167ec752938b73dbee3c5f9dddc84fbc009d9eeaa3905b20946cc7dc48,d7f560167ec752938b73dbee3c5f9dddc84fbc009d9eeaa3905b20946cc7dc48,True,"[18, 10]","[18, 10]",True,pd.read_csv,utf-8-sig,null,null,,PASS,
+P4_DUPLICATE_CONFLICT_RESOLUTION,/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/p4_modeling_readiness_v4/qa/P4_DUPLICATE_CONFLICT_RESOLUTION.csv,workbook/p2/p2_4/p4_modeling_readiness_v4/qa/P4_DUPLICATE_CONFLICT_RESOLUTION.csv,True,.csv,13216,2026-07-13T02:12:50.049703+00:00,24d2e000661b3e67a353877383c7ef68b8e156f52bd11ac22f4b1fd724be8d4f,24d2e000661b3e67a353877383c7ef68b8e156f52bd11ac22f4b1fd724be8d4f,True,"[36, 14]","[36, 14]",True,pd.read_csv,utf-8-sig,null,null,,PASS,
+P4_TARGET_PROFILE_BY_PHASE,/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/p4_modeling_readiness_v4/profiles/P4_TARGET_PROFILE_BY_PHASE.csv,workbook/p2/p2_4/p4_modeling_readiness_v4/profiles/P4_TARGET_PROFILE_BY_PHASE.csv,True,.csv,53599,2026-07-13T02:12:59.628858+00:00,6f3fdb25676ccfdf59b0b2f458e5cdb5dd66dfb6f61e037b2e711418efffc25a,6f3fdb25676ccfdf59b0b2f458e5cdb5dd66dfb6f61e037b2e711418efffc25a,True,"[396, 20]","[396, 20]",True,pd.read_csv,utf-8-sig,null,null,,PASS,
+P4_FINAL_MODELING_READINESS,/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/p4_modeling_readiness_v4/reports/P4_FINAL_MODELING_READINESS.json,workbook/p2/p2_4/p4_modeling_readiness_v4/reports/P4_FINAL_MODELING_READINESS.json,True,.json,1079,2026-07-13T02:13:04.749244+00:00,8fcd0df2cee25f2b31ba498806ea5956e82e5da74580ce01573aa01c201ffbea,8fcd0df2cee25f2b31ba498806ea5956e82e5da74580ce01573aa01c201ffbea,True,"[24, 2]",null,,json.load,,"[""overall_status"", ""P1_MODELING_STATUS"", ""P2_S_MODELING_STATUS"", ""P2_Q_MODELING_STATUS"", ""P3_S_MODELING_STATUS"", ""P3_Q_MODELING_STATUS"", ""P4_E_STRUCTURE_STATUS"", ""P4_P_STRUCTURE_STATUS"", ""P4_JOINT_STRUCTURE_STATUS"", ""P4_E_SELECTIVITY_STATUS"", ""P4_P_SELECTIVITY_STATUS"", ""P4_JOINT_SELECTIVITY_STATUS"", ""P5_2024_EXPLORATORY_STATUS"", ""P7_STATUS"", ""P8_STATUS"", ""rank_block"", ""sample_block"", ""pending_residual_spec_n"", ""created_at"", ""active_d08_sha256"", ""active_d08_shape"", ""input_file_n"", ""duplicate_conflict_excluded_row_n"", ""OTHER_after_resolution""]","{""overall_status"": ""str"", ""P1_MODELING_STATUS"": ""str"", ""P2_S_MODELING_STATUS"": ""str"", ""P2_Q_MODELING_STATUS"": ""str"", ""P3_S_MODELING_STATUS"": ""str"", ""P3_Q_MODELING_STATUS"": ""str"", ""P4_E_STRUCTURE_STATUS"": ""str"", ""P4_P_STRUCTURE_STATUS"": ""str"", ""P4_JOINT_STRUCTURE_STATUS"": ""str"", ""P4_E_SELECTIVITY_STATUS"": ""str"", ""P4_P_SELECTIVITY_STATUS"": ""str"", ""P4_JOINT_SELECTIVITY_STATUS"": ""str"", ""P5_2024_EXPLORATORY_STATUS"": ""str"", ""P7_STATUS"": ""str"", ""P8_STATUS"": ""str"", ""rank_block"": ""bool"", ""sample_block"": ""bool"", ""pending_residual_spec_n"": ""int"", ""created_at"": ""str"", ""active_d08_sha256"": ""str"", ""active_d08_shape"": ""list"", ""input_file_n"": ""int"", ""duplicate_conflict_excluded_row_n"": ""int"", ""OTHER_after_resolution"": ""int""}",,PASS,
+P4_MODELING_REVIEW_BUNDLE_MANIFEST,/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/p4_modeling_readiness_v4/P4_MODELING_REVIEW_BUNDLE_MANIFEST.json,workbook/p2/p2_4/p4_modeling_readiness_v4/P4_MODELING_REVIEW_BUNDLE_MANIFEST.json,True,.json,8543,2026-07-13T02:13:04.784825+00:00,9afa80278fcec363790fb844c056b78c623ac98f46a5556e0049aae24615da79,,,"[15, 9]",null,,json.load,,"[""created_at"", ""files""]","{""created_at"": ""str"", ""files"": ""list""}",,PASS,
+P4_HANDOFF_MANIFEST,/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/p4_handoff_candidate/shared/P4_HANDOFF_MANIFEST.json,workbook/p2/p2_3/p4_handoff_candidate/shared/P4_HANDOFF_MANIFEST.json,True,.json,67404,2026-07-12T12:47:51.874951+00:00,b9ea9528b24630f15be8913012b40df81692d16e849120bb825f29ef35c01661,,,"[29, 2]",null,,json.load,,"[""dataset_version"", ""created_at"", ""agent"", ""producer_runs"", ""source_files"", ""source_hashes"", ""local2_handoff_hash"", ""local2_handoff_gate"", ""output_files"", ""output_hashes"", ""shape"", ""schema"", ""dtypes"", ""grain"", ""keys"", ""split_version"", ""sample_registry_hash"", ""feature_registry_hash"", ""target_registry_hash"", ""decision_log_hash"", ""transformation_log_hash"", ""merge_audit_hash"", ""schema_deviation_report_hash"", ""qa_summary"", ""warnings"", ""failures"", ""metrics"", ""p4_ready_candidate"", ""final_status""]","{""dataset_version"": ""str"", ""created_at"": ""str"", ""agent"": ""str"", ""producer_runs"": ""dict"", ""source_files"": ""dict"", ""source_hashes"": ""dict"", ""local2_handoff_hash"": ""str"", ""local2_handoff_gate"": ""dict"", ""output_files"": ""dict"", ""output_hashes"": ""dict"", ""shape"": ""dict"", ""schema"": ""dict"", ""dtypes"": ""dict"", ""grain"": ""dict"", ""keys"": ""dict"", ""split_version"": ""str"", ""sample_registry_hash"": ""str"", ""feature_registry_hash"": ""str"", ""target_registry_hash"": ""str"", ""decision_log_hash"": ""str"", ""transformation_log_hash"": ""str"", ""merge_audit_hash"": ""str"", ""schema_deviation_report_hash"": ""str"", ""qa_summary"": ""list"", ""warnings"": ""list"", ""failures"": ""list"", ""metrics"": ""dict"", ""p4_ready_candidate"": ""bool"", ""final_status"": ""str""}",,PASS,
+dim_school_split,/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/p4_handoff_candidate/shared/dim_school_split.csv,workbook/p2/p2_3/p4_handoff_candidate/shared/dim_school_split.csv,True,.csv,10962,2026-07-12T12:47:51.513828+00:00,85c2c851ddcfd02d5ead41dbd9424124e4ef1993347842c031e487e8f2a13583,,,"[200, 6]",null,,pd.read_csv,utf-8-sig,null,null,,PASS,
+shared_model_sample_membership,/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/p4_handoff_candidate/shared/model_sample_membership.parquet,workbook/p2/p2_3/p4_handoff_candidate/shared/model_sample_membership.parquet,True,.parquet,97788,2026-07-12T12:47:51.522709+00:00,ef7eb73a35e9a058959747272d1b1e832622c415adeb363754dcb0fcb507c830,,,"[10242, 17]",null,,pd.read_parquet,,null,null,"outcome_row_id: large_string
+school_uid: string
+split: large_string
+has_structure_context: bool
+has_major_group_7_high_medium: bool
+has_ctx24_context: bool
+has_goms_context: bool
+sample_GRADE_ALL: bool
+sample_GRADE_ALL_with_structure: bool
+sample_GRADE_SELECTIVITY: bool
+sample_GRADE_SELECTIVITY_with_structure: bool
+sample_EMPLOYMENT_HEALTH: bool
+sample_EMPLOYMENT_HEALTH_with_structure: bool
+sample_PROGRESSION_GRADSCHOOL: bool
+sample_PROGRESSION_GRADSCHOOL_with_structure: bool
+sample_JOINT_EMP_PROG: bool
+sample_JOINT_EMP_PROG_with_structure: bool
+-- schema metadata --
+pandas: '{""index_columns"": [], ""column_indexes"": [], ""columns"": [{""name"":' + 2551",PASS,
+shared_model_sample_registry,/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/p4_handoff_candidate/shared/model_sample_registry.csv,workbook/p2/p2_3/p4_handoff_candidate/shared/model_sample_registry.csv,True,.csv,1641,2026-07-12T12:47:51.515308+00:00,b3389c0051d9b9eeca555f43cd8194d99574c2444df68cd8273232f7f9a553f8,,,"[5, 12]",null,,pd.read_csv,utf-8-sig,null,null,,PASS,
+shared_column_registry,/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/p4_handoff_candidate/shared/department_model_column_registry.csv,workbook/p2/p2_3/p4_handoff_candidate/shared/department_model_column_registry.csv,True,.csv,14689,2026-07-12T12:47:51.527611+00:00,5871ec9ae36dd0e078eed403c67322784e3880d2fa82849671be45a6d252e126,,,"[198, 6]",null,,pd.read_csv,utf-8-sig,null,null,,PASS,
+shared_feature_registry,/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/p4_handoff_candidate/shared/p4_feature_set_registry.csv,workbook/p2/p2_3/p4_handoff_candidate/shared/p4_feature_set_registry.csv,True,.csv,588,2026-07-12T12:47:51.528370+00:00,776c7072444b5abee02f9a20942ca24cff5ec5c684593299a2c8c43dbf7a6529,,,"[4, 7]",null,,pd.read_csv,utf-8-sig,null,null,,PASS,
+shared_target_registry,/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_3/p4_handoff_candidate/shared/p4_target_candidate_registry.csv,workbook/p2/p2_3/p4_handoff_candidate/shared/p4_target_candidate_registry.csv,True,.csv,715,2026-07-12T12:47:51.528855+00:00,3e48aaea329c4df989af2e078635fd7d7cd1677d5afd6c99d5f106e6313b5247,,,"[6, 4]",null,,pd.read_csv,utf-8-sig,null,null,,PASS,
+cleaning_derived_formula_reconstruction,/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/p4_cleaning_handoff_v3/qa/derived_formula_reconstruction.csv,workbook/p2/p2_4/p4_cleaning_handoff_v3/qa/derived_formula_reconstruction.csv,True,.csv,1163,2026-07-13T01:52:13.237251+00:00,4c64021289618d58b469179e47f6a5b34946d5a0b16bb24d97975bb591e00be5,,,"[8, 7]",null,,pd.read_csv,utf-8-sig,null,null,,PASS,
+cleaning_split_integrity_audit,/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/p4_cleaning_handoff_v3/qa/split_integrity_audit.csv,workbook/p2/p2_4/p4_cleaning_handoff_v3/qa/split_integrity_audit.csv,True,.csv,191,2026-07-13T01:52:13.279673+00:00,828c5dfcca39b7edf532a868d55077cf96057087e0c80337c01605613d103964,,,"[6, 3]",null,,pd.read_csv,utf-8-sig,null,null,,PASS,
+cleaning_target_leakage_audit_by_phase,/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/p4_cleaning_handoff_v3/qa/target_leakage_audit_by_phase.csv,workbook/p2/p2_4/p4_cleaning_handoff_v3/qa/target_leakage_audit_by_phase.csv,True,.csv,5778,2026-07-13T01:52:12.423549+00:00,460718776978168fb812a2a134dc7641d41077e31ba7451dbe9b1b4c4ea23939,,,"[31, 11]",null,,pd.read_csv,utf-8-sig,null,null,,PASS,
+cleaning_count_denominator_inventory,/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/p4_cleaning_handoff_v3/qa/count_denominator_inventory.csv,workbook/p2/p2_4/p4_cleaning_handoff_v3/qa/count_denominator_inventory.csv,True,.csv,16393,2026-07-13T01:52:12.372057+00:00,e5f98113264ea1d5cce968e3864651295b71a13e2e087804023e23c47af09ae4,,,"[72, 13]",null,,pd.read_csv,utf-8-sig,null,null,,PASS,
+cleaning_context_grain_audit,/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_4/p4_cleaning_handoff_v3/qa/context_grain_audit.csv,workbook/p2/p2_4/p4_cleaning_handoff_v3/qa/context_grain_audit.csv,True,.csv,4915,2026-07-13T01:52:13.268207+00:00,3aaabb7042202aa085bc22b12fed632749515365a46bc48eb30c491c96ce3cb2,,,"[43, 8]",null,,pd.read_csv,utf-8-sig,null,null,,PASS,

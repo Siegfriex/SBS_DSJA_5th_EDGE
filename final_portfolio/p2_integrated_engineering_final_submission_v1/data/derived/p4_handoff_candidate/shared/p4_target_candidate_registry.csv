@@ -1,0 +1,7 @@
+﻿target_candidate,non_null_n,role,p3_policy
+a_rate_pct,10242,candidate_target_or_exposure,candidate only; P4 chooses target within declared sample
+cd_rate_pct,10242,candidate_target_or_exposure,candidate only; P4 chooses target within declared sample
+f_rate_pct,10242,candidate_target_or_exposure,candidate only; P4 chooses target within declared sample
+selectivity_proxy_pct,3737,candidate_target_or_exposure,candidate only; P4 chooses target within declared sample
+health_employment_rate_pct,7477,candidate_target_or_exposure,candidate only; P4 chooses target within declared sample
+graduate_school_progression_rate_pct,7587,candidate_target_or_exposure,candidate only; P4 chooses target within declared sample

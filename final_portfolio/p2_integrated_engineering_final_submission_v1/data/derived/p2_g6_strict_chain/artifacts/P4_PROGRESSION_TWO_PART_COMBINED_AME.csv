@@ -1,0 +1,3 @@
+grade_signal,signal_column,combined_AME,N,school_n
+RAW_A,a_rate_10pp,0.015659499480279872,5013,165
+OOF_RESIDUAL_FULL,grade_residual_structure_full_oof_10pp,0.015051743321332117,5013,165

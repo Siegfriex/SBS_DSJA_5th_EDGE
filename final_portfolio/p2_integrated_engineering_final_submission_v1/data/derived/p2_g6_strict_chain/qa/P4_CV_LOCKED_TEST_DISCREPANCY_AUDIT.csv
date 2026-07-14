@@ -1,0 +1,3 @@
+outcome,test_row_id_same,base_feature_same,preprocessing_vocabulary_same_contract,model_family_same,signal_scale_same_10pp,metric_function_same,probability_clipping_same,raw_test_iv_deviance,residual_test_iv_deviance,decision,interpretation
+GRAD_SCHOOL_PROGRESSION,True,True,True,True,True,True,True,0.004102017067823982,0.02886751625792905,TEST_RESIDUAL_EXTRAPOLATION,Residual can differ on locked test because test residual uses development-fit expected A while CV residual is regenerated inside folds.
+HEALTH_EMPLOYMENT,True,True,True,True,True,True,True,-0.001818304935026216,-0.0004138739061394503,EXPECTED_REPARAMETERIZATION,Residual can differ on locked test because test residual uses development-fit expected A while CV residual is regenerated inside folds.

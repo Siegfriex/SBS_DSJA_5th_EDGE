@@ -1,0 +1,87 @@
+# P5 v2 Strict Major7 Heterogeneity Report
+
+## 1. 연구질문
+같은 전공계열 안에서 학과별 A비율과 건강보험 취업률·대학원 진학률의 조건부 기울기가 어떻게 다른지 탐색했다.
+
+## 2. strict-clean 입력 계약
+- strict D08: `workbook/p2/p2_4/source_eda/strict_clean_v1/mart_department_model_base_2024_strict_drop.parquet`
+- strict D08 shape: `(7592, 151)`
+- strict D08 SHA256: `5f56e375fd1c0474a5e55652859ae007e2f45becd6d3350ee4c82e21fab8df9b`
+- structure joint sample: N=5,600, school_n=185
+- selectivity joint sample: N=2,355, school_n=130
+
+## 3. Grade Signal
+`RAW_A = a_rate_pct / 10`만 계열별 slope 모형에 사용했다. `WITHIN_MAJOR_A`는 같은 계열 안에서 RAW_A에 계열별 상수를 뺀 값이므로, 절편 포함 계열별 회귀에서는 slope가 RAW_A와 동일하다. 따라서 v2 strict 계열별 모형에서는 중복 branch를 제거했다.
+
+## 4. cell eligibility
+| branch | outcome | grade_signal | estimable_major_count |
+| --- | --- | --- | --- |
+| SELECTIVITY | GRAD_SCHOOL_PROGRESSION | RAW_A | 7 |
+| SELECTIVITY | HEALTH_EMPLOYMENT | RAW_A | 7 |
+| STRUCTURE | GRAD_SCHOOL_PROGRESSION | RAW_A | 14 |
+| STRUCTURE | HEALTH_EMPLOYMENT | RAW_A | 14 |
+
+## 5. 건강보험 취업 기울기
+| major_group_7 | ame_10pp | ame_ci_low_10pp | ame_ci_high_10pp | row_n | school_n |
+| --- | --- | --- | --- | --- | --- |
+| ART | -0.004299113454136146 | -0.01468159585746101 | 0.007325005065178493 | 646 | 138 |
+| EDU | 0.015633493230044156 | 0.0002561632199639525 | 0.031025696339146494 | 602 | 117 |
+| ENG | 0.019293907647504778 | 0.008277506239436771 | 0.028754622238991417 | 911 | 130 |
+| HUM | 0.020456479593155625 | 0.009140299686019334 | 0.03121201780224488 | 535 | 106 |
+| MED | -0.005656646888103524 | -0.03139036907773802 | 0.011755224077464163 | 374 | 115 |
+| NAT | -0.004780071627994119 | -0.018357682287781438 | 0.008952698144171229 | 583 | 111 |
+| SOC | 0.007144458729515359 | -0.0024091301844460316 | 0.016208018620907514 | 848 | 148 |
+
+## 6. 대학원 진학 기울기
+| major_group_7 | ame_10pp | ame_ci_low_10pp | ame_ci_high_10pp | row_n | school_n |
+| --- | --- | --- | --- | --- | --- |
+| ART | 0.006174260908314511 | 0.0005149794066556401 | 0.016800437111055083 | 646 | 138 |
+| EDU | 0.005315531275911081 | 0.0016401970154029256 | 0.012117358349005443 | 602 | 117 |
+| ENG | 0.04569829145877204 | 0.01622845512170717 | 0.0912135459790856 | 911 | 130 |
+| HUM | 0.013732387901922407 | 0.004090408564878187 | 0.03164571859015556 | 535 | 106 |
+| MED | 0.003801081860533882 | -0.0005926394501188857 | 0.07307119298841813 | 374 | 115 |
+| NAT | 0.0367302540297154 | 0.01168944630530656 | 0.06987562752328697 | 583 | 111 |
+| SOC | 0.011690291773049801 | 0.0051742957375792336 | 0.023298646792870078 | 848 | 148 |
+
+## 7. 취업·진학 차이
+| major_group_7 | employment_ame | progression_ame | difference |
+| --- | --- | --- | --- |
+| ART | -0.004299113454136146 | 0.006174260908314511 | 0.010473374362450657 |
+| EDU | 0.015633493230044156 | 0.005315531275911081 | -0.010317961954133075 |
+| ENG | 0.019293907647504778 | 0.04569829145877204 | 0.026404383811267265 |
+| HUM | 0.020456479593155625 | 0.013732387901922407 | -0.006724091691233218 |
+| MED | -0.005656646888103524 | 0.003801081860533882 | 0.009457728748637406 |
+| NAT | -0.004780071627994119 | 0.0367302540297154 | 0.04151032565770952 |
+| SOC | 0.007144458729515359 | 0.011690291773049801 | 0.0045458330435344425 |
+
+## 8. structure vs selectivity 안정성
+| major_group_7 | outcome | structure_ame | selectivity_ame | sign_agreement | ci_overlap |
+| --- | --- | --- | --- | --- | --- |
+| ART | HEALTH_EMPLOYMENT | -0.004299113454136146 | -0.011802535180515859 | True | True |
+| ART | GRAD_SCHOOL_PROGRESSION | 0.006174260908314511 | -0.0003915063829218875 | False | True |
+| EDU | HEALTH_EMPLOYMENT | 0.015633493230044156 | 0.008880068094780603 | True | True |
+| EDU | GRAD_SCHOOL_PROGRESSION | 0.005315531275911081 | 0.004258530091298723 | True | True |
+| ENG | HEALTH_EMPLOYMENT | 0.019293907647504778 | 0.010215998817484131 | True | True |
+| ENG | GRAD_SCHOOL_PROGRESSION | 0.04569829145877204 | 0.019991575942261818 | True | True |
+| HUM | HEALTH_EMPLOYMENT | 0.020456479593155625 | 0.024782994986794465 | True | True |
+| HUM | GRAD_SCHOOL_PROGRESSION | 0.013732387901922407 | 0.005279708007455756 | True | True |
+| MED | HEALTH_EMPLOYMENT | -0.005656646888103524 | -0.010365567187764522 | True | True |
+| MED | GRAD_SCHOOL_PROGRESSION | 0.003801081860533882 | -0.007038521608129515 | False | False |
+| NAT | HEALTH_EMPLOYMENT | -0.004780071627994119 | 0.0033244829136689137 | False | True |
+| NAT | GRAD_SCHOOL_PROGRESSION | 0.0367302540297154 | 0.018579229646925172 | True | True |
+| SOC | HEALTH_EMPLOYMENT | 0.007144458729515359 | 0.010288385977538709 | True | True |
+| SOC | GRAD_SCHOOL_PROGRESSION | 0.011690291773049801 | 0.013028438338219615 | True | True |
+
+## 9. context 기술 비교
+Context profile primary table은 유효한 7개 major만 포함한다. Spearman rho는 N=7 기술통계이며 context 효과 검정으로 해석하지 않는다.
+
+## 10. 한계와 금지해석
+- Fractional logit은 fractional response quasi-likelihood로 사용했다.
+- 개인 단위 Bernoulli likelihood 또는 인과효과로 해석하지 않는다.
+- context가 slope를 증가시켰다는 확증적 표현을 금지한다.
+
+## 11. P3 residual 상태
+`P5_RESIDUAL_STATUS = PENDING_UPSTREAM_RESIDUAL`
+
+## 12. v1 vs strict 비교
+`P5_V1_COMPARISON_STATUS = READY`. 비교표는 `artifacts/P5_V1_VS_STRICT_SENSITIVITY.csv`에 저장했다.

@@ -1,0 +1,5 @@
+hypothesis,primary_signal,estimand,effect,95% CI,Holm p,CV IV,test IV,bootstrap CI,decision,limitation
+H_E,RAW_A,AME 10pp,0.0061630009799682,"[0.000518, 0.011589]",0.0333133416446708,0.0002254458531236,-0.001818304935026216,"[0.000518, 0.011589]",PARTIALLY_SUPPORTED,RAW_A provides added information for health employment.
+H_P,RAW_A,AME 10pp,0.0172598576428447,"[0.010217, 0.024669]",1.2164593290761372e-11,0.0053937998838797,0.004102017067823982,"[0.010217, 0.024669]",SUPPORTED,RAW_A provides added information for graduate-school progression.
+H_D,RAW_A,D AME progression minus employment,0.011793532139204452,"[0.003216, 0.019641]",,,,"[0.003216, 0.019641]",SUPPORTED,"D is judged by school bootstrap CI, not by a p-value."
+H_P_TWO_PART,RAW_A,Two-part combined AME,0.015659499480279872,"[0.009023, 0.019981]",,,,"[0.009023, 0.019981]",SUPPORTED,Two-part model is sensitivity for zero process in graduate-school progression.

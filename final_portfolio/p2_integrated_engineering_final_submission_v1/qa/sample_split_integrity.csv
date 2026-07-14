@@ -1,0 +1,9 @@
+﻿metric,value
+split_rows,200
+split_school_uid_duplicates,0
+d08_rows_without_split_after_school_merge,0
+school_split_duplicate_assignments,0
+membership_rows,10242
+membership_outcome_row_id_duplicates,0
+membership_rows_not_in_d08,0
+sample_registry_rows,5

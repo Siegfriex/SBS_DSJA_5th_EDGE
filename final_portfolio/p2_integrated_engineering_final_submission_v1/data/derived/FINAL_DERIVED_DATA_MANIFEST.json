@@ -1,0 +1,1362 @@
+[
+  {
+    "derived_group": "p4_candidate_handoff",
+    "source_relative_path": "workbook/p2/p2_3/p4_handoff_candidate/P4_CANDIDATE_HANDOFF_LOCK.json",
+    "submission_relative_path": "data/derived/p4_handoff_candidate/P4_CANDIDATE_HANDOFF_LOCK.json",
+    "size_bytes": 3646,
+    "shape": "dict:4",
+    "sha256": "ebc866cca7c8b22ab7b800759e4e916b9f6f53747af1c7cbc289b71842e23af7",
+    "loader": "json",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p4_candidate_handoff",
+    "source_relative_path": "workbook/p2/p2_3/p4_handoff_candidate/P4_CANDIDATE_HANDOFF_LOCK.sha256",
+    "submission_relative_path": "data/derived/p4_handoff_candidate/P4_CANDIDATE_HANDOFF_LOCK.sha256",
+    "size_bytes": 97,
+    "shape": "",
+    "sha256": "049ee7eca0b0579d916c624fcd99c19dd02275537ffe3d7f5e4452ee1d354725",
+    "loader": "unprofiled",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p4_candidate_handoff",
+    "source_relative_path": "workbook/p2/p2_3/p4_handoff_candidate/local1/P4_HANDOFF_MANIFEST.json",
+    "submission_relative_path": "data/derived/p4_handoff_candidate/local1/P4_HANDOFF_MANIFEST.json",
+    "size_bytes": 67404,
+    "shape": "dict:29",
+    "sha256": "b9ea9528b24630f15be8913012b40df81692d16e849120bb825f29ef35c01661",
+    "loader": "json",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p4_candidate_handoff",
+    "source_relative_path": "workbook/p2/p2_3/p4_handoff_candidate/local1/bridge_campus_alias.csv",
+    "submission_relative_path": "data/derived/p4_handoff_candidate/local1/bridge_campus_alias.csv",
+    "size_bytes": 35943,
+    "shape": "229 x 10",
+    "sha256": "8033c6f596aec13af52dd3cb255ba4414b6a03299cd0a9cb7c6e8c91a3f7a0fa",
+    "loader": "csv",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p4_candidate_handoff",
+    "source_relative_path": "workbook/p2/p2_3/p4_handoff_candidate/local1/bridge_department_alias.csv",
+    "submission_relative_path": "data/derived/p4_handoff_candidate/local1/bridge_department_alias.csv",
+    "size_bytes": 4097995,
+    "shape": "19990 x 10",
+    "sha256": "2d380712d1220dab414976a8b0cc67708285dafe6f413e030e61fa953a1c936c",
+    "loader": "csv",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p4_candidate_handoff",
+    "source_relative_path": "workbook/p2/p2_3/p4_handoff_candidate/local1/bridge_department_major7_v2.csv",
+    "submission_relative_path": "data/derived/p4_handoff_candidate/local1/bridge_department_major7_v2.csv",
+    "size_bytes": 1047119,
+    "shape": "10242 x 8",
+    "sha256": "7a92574bd2d8928304cffb08ecbafa4a3ce2c3112a3afe19ae2852e16138fbab",
+    "loader": "csv",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p4_candidate_handoff",
+    "source_relative_path": "workbook/p2/p2_3/p4_handoff_candidate/local1/bridge_outcome_headcount_v2.csv",
+    "submission_relative_path": "data/derived/p4_handoff_candidate/local1/bridge_outcome_headcount_v2.csv",
+    "size_bytes": 2046842,
+    "shape": "10242 x 17",
+    "sha256": "0ee76ab52f2f78e841ef341d740e9098cfafb1d7c1d277f577657d1b3d454bea",
+    "loader": "csv",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p4_candidate_handoff",
+    "source_relative_path": "workbook/p2/p2_3/p4_handoff_candidate/local1/bridge_school_alias.csv",
+    "submission_relative_path": "data/derived/p4_handoff_candidate/local1/bridge_school_alias.csv",
+    "size_bytes": 337935,
+    "shape": "1919 x 6",
+    "sha256": "c4ea27cd4a71a4b93189578c0f6f28463bfd1981fb9a5abb5f9f2b8768499dc3",
+    "loader": "csv",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p4_candidate_handoff",
+    "source_relative_path": "workbook/p2/p2_3/p4_handoff_candidate/local1/department_model_column_registry.csv",
+    "submission_relative_path": "data/derived/p4_handoff_candidate/local1/department_model_column_registry.csv",
+    "size_bytes": 14689,
+    "shape": "198 x 6",
+    "sha256": "5871ec9ae36dd0e078eed403c67322784e3880d2fa82849671be45a6d252e126",
+    "loader": "csv",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p4_candidate_handoff",
+    "source_relative_path": "workbook/p2/p2_3/p4_handoff_candidate/local1/dept_headcount_master_2024.parquet",
+    "submission_relative_path": "data/derived/p4_handoff_candidate/local1/dept_headcount_master_2024.parquet",
+    "size_bytes": 6274643,
+    "shape": "34969 x 186",
+    "sha256": "2f187b5af44c828d4107af12368029caf6b83b6254af75b9653b6402b8f1b0ce",
+    "loader": "parquet",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p4_candidate_handoff",
+    "source_relative_path": "workbook/p2/p2_3/p4_handoff_candidate/local1/dept_master_2024_core.parquet",
+    "submission_relative_path": "data/derived/p4_handoff_candidate/local1/dept_master_2024_core.parquet",
+    "size_bytes": 1934037,
+    "shape": "10242 x 108",
+    "sha256": "c6fd569052684502e5bab5758510d3cd945f68ddeaa47fdfb3e9bab803889dca",
+    "loader": "parquet",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p4_candidate_handoff",
+    "source_relative_path": "workbook/p2/p2_3/p4_handoff_candidate/local1/dept_outcomes_2024.parquet",
+    "submission_relative_path": "data/derived/p4_handoff_candidate/local1/dept_outcomes_2024.parquet",
+    "size_bytes": 848641,
+    "shape": "10242 x 37",
+    "sha256": "45f8aa40f31e14b83b5d97f594abf89bb4a5aaa4bc67735767e19077d189f493",
+    "loader": "parquet",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p4_candidate_handoff",
+    "source_relative_path": "workbook/p2/p2_3/p4_handoff_candidate/local1/dim_headcount_grain_definition.csv",
+    "submission_relative_path": "data/derived/p4_handoff_candidate/local1/dim_headcount_grain_definition.csv",
+    "size_bytes": 496,
+    "shape": "6 x 3",
+    "sha256": "76857c3cebefbbcc9b3df77ea067c44f7cee0a4fe7517acf7fc946c5c3681a7e",
+    "loader": "csv",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p4_candidate_handoff",
+    "source_relative_path": "workbook/p2/p2_3/p4_handoff_candidate/local1/dim_school_split.csv",
+    "submission_relative_path": "data/derived/p4_handoff_candidate/local1/dim_school_split.csv",
+    "size_bytes": 10962,
+    "shape": "200 x 6",
+    "sha256": "85c2c851ddcfd02d5ead41dbd9424124e4ef1993347842c031e487e8f2a13583",
+    "loader": "csv",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p4_candidate_handoff",
+    "source_relative_path": "workbook/p2/p2_3/p4_handoff_candidate/local1/job_cert_bridge.parquet",
+    "submission_relative_path": "data/derived/p4_handoff_candidate/local1/job_cert_bridge.parquet",
+    "size_bytes": 31466,
+    "shape": "24 x 32",
+    "sha256": "f4447cf519bdf366e36851a68e6ec6b6605f9c9a591d96c911de4eece2327246",
+    "loader": "parquet",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p4_candidate_handoff",
+    "source_relative_path": "workbook/p2/p2_3/p4_handoff_candidate/local1/model_sample_membership.parquet",
+    "submission_relative_path": "data/derived/p4_handoff_candidate/local1/model_sample_membership.parquet",
+    "size_bytes": 97788,
+    "shape": "10242 x 17",
+    "sha256": "ef7eb73a35e9a058959747272d1b1e832622c415adeb363754dcb0fcb507c830",
+    "loader": "parquet",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p4_candidate_handoff",
+    "source_relative_path": "workbook/p2/p2_3/p4_handoff_candidate/local1/model_sample_registry.csv",
+    "submission_relative_path": "data/derived/p4_handoff_candidate/local1/model_sample_registry.csv",
+    "size_bytes": 1641,
+    "shape": "5 x 12",
+    "sha256": "b3389c0051d9b9eeca555f43cd8194d99574c2444df68cd8273232f7f9a553f8",
+    "loader": "csv",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p4_candidate_handoff",
+    "source_relative_path": "workbook/p2/p2_3/p4_handoff_candidate/local1/p4_feature_set_registry.csv",
+    "submission_relative_path": "data/derived/p4_handoff_candidate/local1/p4_feature_set_registry.csv",
+    "size_bytes": 588,
+    "shape": "4 x 7",
+    "sha256": "776c7072444b5abee02f9a20942ca24cff5ec5c684593299a2c8c43dbf7a6529",
+    "loader": "csv",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p4_candidate_handoff",
+    "source_relative_path": "workbook/p2/p2_3/p4_handoff_candidate/local1/p4_target_candidate_registry.csv",
+    "submission_relative_path": "data/derived/p4_handoff_candidate/local1/p4_target_candidate_registry.csv",
+    "size_bytes": 715,
+    "shape": "6 x 4",
+    "sha256": "3e48aaea329c4df989af2e078635fd7d7cd1677d5afd6c99d5f106e6313b5247",
+    "loader": "csv",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p4_candidate_handoff",
+    "source_relative_path": "workbook/p2/p2_3/p4_handoff_candidate/local1/wage_reference_by_major.parquet",
+    "submission_relative_path": "data/derived/p4_handoff_candidate/local1/wage_reference_by_major.parquet",
+    "size_bytes": 77696,
+    "shape": "14 x 87",
+    "sha256": "489caf15edbefa1ed0c30fdfa98dbe31096b36c219f6610dae69a2d5e49c47e5",
+    "loader": "parquet",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p4_candidate_handoff",
+    "source_relative_path": "workbook/p2/p2_3/p4_handoff_candidate/shared/P4_HANDOFF_MANIFEST.json",
+    "submission_relative_path": "data/derived/p4_handoff_candidate/shared/P4_HANDOFF_MANIFEST.json",
+    "size_bytes": 67404,
+    "shape": "dict:29",
+    "sha256": "b9ea9528b24630f15be8913012b40df81692d16e849120bb825f29ef35c01661",
+    "loader": "json",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p4_candidate_handoff",
+    "source_relative_path": "workbook/p2/p2_3/p4_handoff_candidate/shared/department_model_column_registry.csv",
+    "submission_relative_path": "data/derived/p4_handoff_candidate/shared/department_model_column_registry.csv",
+    "size_bytes": 14689,
+    "shape": "198 x 6",
+    "sha256": "5871ec9ae36dd0e078eed403c67322784e3880d2fa82849671be45a6d252e126",
+    "loader": "csv",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p4_candidate_handoff",
+    "source_relative_path": "workbook/p2/p2_3/p4_handoff_candidate/shared/dim_school_split.csv",
+    "submission_relative_path": "data/derived/p4_handoff_candidate/shared/dim_school_split.csv",
+    "size_bytes": 10962,
+    "shape": "200 x 6",
+    "sha256": "85c2c851ddcfd02d5ead41dbd9424124e4ef1993347842c031e487e8f2a13583",
+    "loader": "csv",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p4_candidate_handoff",
+    "source_relative_path": "workbook/p2/p2_3/p4_handoff_candidate/shared/mart_department_model_base_2024.parquet",
+    "submission_relative_path": "data/derived/p4_handoff_candidate/shared/mart_department_model_base_2024.parquet",
+    "size_bytes": 2103297,
+    "shape": "10242 x 151",
+    "sha256": "598b68b31b5358dfd23839d4c138cc64838d05876b7791980b376c0453f29962",
+    "loader": "parquet",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p4_candidate_handoff",
+    "source_relative_path": "workbook/p2/p2_3/p4_handoff_candidate/shared/model_sample_membership.parquet",
+    "submission_relative_path": "data/derived/p4_handoff_candidate/shared/model_sample_membership.parquet",
+    "size_bytes": 97788,
+    "shape": "10242 x 17",
+    "sha256": "ef7eb73a35e9a058959747272d1b1e832622c415adeb363754dcb0fcb507c830",
+    "loader": "parquet",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p4_candidate_handoff",
+    "source_relative_path": "workbook/p2/p2_3/p4_handoff_candidate/shared/model_sample_registry.csv",
+    "submission_relative_path": "data/derived/p4_handoff_candidate/shared/model_sample_registry.csv",
+    "size_bytes": 1641,
+    "shape": "5 x 12",
+    "sha256": "b3389c0051d9b9eeca555f43cd8194d99574c2444df68cd8273232f7f9a553f8",
+    "loader": "csv",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p4_candidate_handoff",
+    "source_relative_path": "workbook/p2/p2_3/p4_handoff_candidate/shared/p4_feature_set_registry.csv",
+    "submission_relative_path": "data/derived/p4_handoff_candidate/shared/p4_feature_set_registry.csv",
+    "size_bytes": 588,
+    "shape": "4 x 7",
+    "sha256": "776c7072444b5abee02f9a20942ca24cff5ec5c684593299a2c8c43dbf7a6529",
+    "loader": "csv",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p4_candidate_handoff",
+    "source_relative_path": "workbook/p2/p2_3/p4_handoff_candidate/shared/p4_target_candidate_registry.csv",
+    "submission_relative_path": "data/derived/p4_handoff_candidate/shared/p4_target_candidate_registry.csv",
+    "size_bytes": 715,
+    "shape": "6 x 4",
+    "sha256": "3e48aaea329c4df989af2e078635fd7d7cd1677d5afd6c99d5f106e6313b5247",
+    "loader": "csv",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p4_preprocessing_data",
+    "source_relative_path": "workbook/p2/p2_4/p4_preprocessing_integrity_v1/data/clean_department_model_base_2024.parquet",
+    "submission_relative_path": "data/derived/p4_preprocessing_integrity_v1/data/clean_department_model_base_2024.parquet",
+    "size_bytes": 2953708,
+    "shape": "10242 x 184",
+    "sha256": "dc4d320a44c2e6a109e4da58c8ee3aefaf98572e99d53f13daa804a8f2ca79a2",
+    "loader": "parquet",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p4_preprocessing_data",
+    "source_relative_path": "workbook/p2/p2_4/p4_preprocessing_integrity_v1/data/count_integrity_anomaly_rows.parquet",
+    "submission_relative_path": "data/derived/p4_preprocessing_integrity_v1/data/count_integrity_anomaly_rows.parquet",
+    "size_bytes": 2691,
+    "shape": "0 x 5",
+    "sha256": "caf0c44e480d79f404f8f46cb51c93366dec95bf7b9e0058bb93b1aaec5bfc5b",
+    "loader": "parquet",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p4_preprocessing_data",
+    "source_relative_path": "workbook/p2/p2_4/p4_preprocessing_integrity_v1/data/count_ready_rows.parquet",
+    "submission_relative_path": "data/derived/p4_preprocessing_integrity_v1/data/count_ready_rows.parquet",
+    "size_bytes": 74767,
+    "shape": "10242 x 7",
+    "sha256": "64781788884788a7ed750265e7e1387a4dd3db8828b0ab7fb52862bb8b8a686b",
+    "loader": "parquet",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p4_preprocessing_data",
+    "source_relative_path": "workbook/p2/p2_4/p4_preprocessing_integrity_v1/data/domain_anomaly_rows.parquet",
+    "submission_relative_path": "data/derived/p4_preprocessing_integrity_v1/data/domain_anomaly_rows.parquet",
+    "size_bytes": 21410,
+    "shape": "5043 x 8",
+    "sha256": "2239b56373eaf0b5a892d9d878115b4c3f441e288179904bed0c0cb4c076fba4",
+    "loader": "parquet",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p4_preprocessing_data",
+    "source_relative_path": "workbook/p2/p2_4/p4_preprocessing_integrity_v1/data/dtype_coercion_review_rows.parquet",
+    "submission_relative_path": "data/derived/p4_preprocessing_integrity_v1/data/dtype_coercion_review_rows.parquet",
+    "size_bytes": 1920,
+    "shape": "0 x 3",
+    "sha256": "42e9e10b7ceb9ee8797dfdd1af5ca6114c0e6279a68e58c65b444372a4950cfa",
+    "loader": "parquet",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p4_preprocessing_data",
+    "source_relative_path": "workbook/p2/p2_4/p4_preprocessing_integrity_v1/data/duplicate_conflict_rows.parquet",
+    "submission_relative_path": "data/derived/p4_preprocessing_integrity_v1/data/duplicate_conflict_rows.parquet",
+    "size_bytes": 15515,
+    "shape": "64 x 22",
+    "sha256": "3b20f608668606841a31fc1053d51bda630ab966621b9cf672ef8c850775f7d5",
+    "loader": "parquet",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p4_preprocessing_data",
+    "source_relative_path": "workbook/p2/p2_4/p4_preprocessing_integrity_v1/data/excluded_rows.parquet",
+    "submission_relative_path": "data/derived/p4_preprocessing_integrity_v1/data/excluded_rows.parquet",
+    "size_bytes": 4254,
+    "shape": "8 x 5",
+    "sha256": "a857d4301ba2fcf1f15655a059b61f6a7396517a794ce6824a49e252ddd038e7",
+    "loader": "parquet",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p4_preprocessing_data",
+    "source_relative_path": "workbook/p2/p2_4/p4_preprocessing_integrity_v1/data/join_review_rows.parquet",
+    "submission_relative_path": "data/derived/p4_preprocessing_integrity_v1/data/join_review_rows.parquet",
+    "size_bytes": 40847,
+    "shape": "1681 x 7",
+    "sha256": "48a165efb4f8c8d25c41029dae8ff40b2247e4c52766a15a5344e9e25ba02ff3",
+    "loader": "parquet",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p4_preprocessing_data",
+    "source_relative_path": "workbook/p2/p2_4/p4_preprocessing_integrity_v1/data/p2_selectivity_ready_2024.parquet",
+    "submission_relative_path": "data/derived/p4_preprocessing_integrity_v1/data/p2_selectivity_ready_2024.parquet",
+    "size_bytes": 1029334,
+    "shape": "3198 x 184",
+    "sha256": "a61f5fc9f6306cc310b09bd3fb4d292337f13b820ea0d028ac79aae3b8f38f96",
+    "loader": "parquet",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p4_preprocessing_data",
+    "source_relative_path": "workbook/p2/p2_4/p4_preprocessing_integrity_v1/data/p2_structure_ready_2024.parquet",
+    "submission_relative_path": "data/derived/p4_preprocessing_integrity_v1/data/p2_structure_ready_2024.parquet",
+    "size_bytes": 2443944,
+    "shape": "8561 x 184",
+    "sha256": "1dc4ce02999478f2ab5a10f2290e3bbd9148ea7986fcd3b5eed6d36029627baf",
+    "loader": "parquet",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p4_preprocessing_data",
+    "source_relative_path": "workbook/p2/p2_4/p4_preprocessing_integrity_v1/data/p4_employment_rate_ready_2024.parquet",
+    "submission_relative_path": "data/derived/p4_preprocessing_integrity_v1/data/p4_employment_rate_ready_2024.parquet",
+    "size_bytes": 1826832,
+    "shape": "6270 x 184",
+    "sha256": "9b543685c62eb212d78271fdd34725ea34d0d6ee383a96c60b0734d0b3ec2d5a",
+    "loader": "parquet",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p4_preprocessing_data",
+    "source_relative_path": "workbook/p2/p2_4/p4_preprocessing_integrity_v1/data/p4_joint_rate_ready_2024.parquet",
+    "submission_relative_path": "data/derived/p4_preprocessing_integrity_v1/data/p4_joint_rate_ready_2024.parquet",
+    "size_bytes": 1826832,
+    "shape": "6270 x 184",
+    "sha256": "9b543685c62eb212d78271fdd34725ea34d0d6ee383a96c60b0734d0b3ec2d5a",
+    "loader": "parquet",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p4_preprocessing_data",
+    "source_relative_path": "workbook/p2/p2_4/p4_preprocessing_integrity_v1/data/p4_progression_rate_ready_2024.parquet",
+    "submission_relative_path": "data/derived/p4_preprocessing_integrity_v1/data/p4_progression_rate_ready_2024.parquet",
+    "size_bytes": 1847111,
+    "shape": "6366 x 184",
+    "sha256": "6760bc705cb17b1873d42ae78bddbed9a9267290a7da54cde1b38b2ea5186a22",
+    "loader": "parquet",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p4_preprocessing_data",
+    "source_relative_path": "workbook/p2/p2_4/p4_preprocessing_integrity_v1/data/row_lineage.parquet",
+    "submission_relative_path": "data/derived/p4_preprocessing_integrity_v1/data/row_lineage.parquet",
+    "size_bytes": 824045,
+    "shape": "10242 x 10",
+    "sha256": "9e5589586932ce8bdc72ec395144ea3386d4ef0784079d6283f7704abd4a1113",
+    "loader": "parquet",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p4_preprocessing_qa",
+    "source_relative_path": "workbook/p2/p2_4/p4_preprocessing_integrity_v1/qa/all_null_constant_audit.csv",
+    "submission_relative_path": "data/derived/p4_preprocessing_integrity_v1/qa/all_null_constant_audit.csv",
+    "size_bytes": 11026,
+    "shape": "164 x 7",
+    "sha256": "f3bbfcb86ccb5c97315d9b3a5a85955f15a17351699f5fd71f83025b888f20b8",
+    "loader": "csv",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p4_preprocessing_qa",
+    "source_relative_path": "workbook/p2/p2_4/p4_preprocessing_integrity_v1/qa/column_schema_profile.csv",
+    "submission_relative_path": "data/derived/p4_preprocessing_integrity_v1/qa/column_schema_profile.csv",
+    "size_bytes": 34702,
+    "shape": "164 x 23",
+    "sha256": "0f1643dc37cf4103f680c2de39094c8b721e8cede0dcfe0e7a103058795f5ec3",
+    "loader": "csv",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p4_preprocessing_qa",
+    "source_relative_path": "workbook/p2/p2_4/p4_preprocessing_integrity_v1/qa/count_denominator_audit.csv",
+    "submission_relative_path": "data/derived/p4_preprocessing_integrity_v1/qa/count_denominator_audit.csv",
+    "size_bytes": 757,
+    "shape": "13 x 6",
+    "sha256": "28cba31f8405ddae2e79aa0db54b72db005e6d32e7b72d87a33a8a3cfc7ecbc1",
+    "loader": "csv",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p4_preprocessing_qa",
+    "source_relative_path": "workbook/p2/p2_4/p4_preprocessing_integrity_v1/qa/data_source_catalog.csv",
+    "submission_relative_path": "data/derived/p4_preprocessing_integrity_v1/qa/data_source_catalog.csv",
+    "size_bytes": 8221,
+    "shape": "9 x 13",
+    "sha256": "524555d9ddfad44908fac25969d9732d410bc212c2089fecde4b2ebfd6df6db9",
+    "loader": "csv",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p4_preprocessing_qa",
+    "source_relative_path": "workbook/p2/p2_4/p4_preprocessing_integrity_v1/qa/data_source_catalog_manifest.json",
+    "submission_relative_path": "data/derived/p4_preprocessing_integrity_v1/qa/data_source_catalog_manifest.json",
+    "size_bytes": 2076,
+    "shape": "list:5",
+    "sha256": "d8b6af042fd330a0ccfcc6bba02d1745ee632725fea33c39f37014a581318c0b",
+    "loader": "json",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p4_preprocessing_qa",
+    "source_relative_path": "workbook/p2/p2_4/p4_preprocessing_integrity_v1/qa/data_source_column_blocks.csv",
+    "submission_relative_path": "data/derived/p4_preprocessing_integrity_v1/qa/data_source_column_blocks.csv",
+    "size_bytes": 1392,
+    "shape": "25 x 5",
+    "sha256": "a82ed388090899b3f24fd8013084c1f4972b553448a4a0e87ac8f3471629c918",
+    "loader": "csv",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p4_preprocessing_qa",
+    "source_relative_path": "workbook/p2/p2_4/p4_preprocessing_integrity_v1/qa/data_source_column_catalog.csv",
+    "submission_relative_path": "data/derived/p4_preprocessing_integrity_v1/qa/data_source_column_catalog.csv",
+    "size_bytes": 40100,
+    "shape": "151 x 17",
+    "sha256": "1011ff9832bb2cd9d06ab289c9fd9be3ea7ab86803c699db5c609480f13815b7",
+    "loader": "csv",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p4_preprocessing_qa",
+    "source_relative_path": "workbook/p2/p2_4/p4_preprocessing_integrity_v1/qa/data_source_file_inventory.csv",
+    "submission_relative_path": "data/derived/p4_preprocessing_integrity_v1/qa/data_source_file_inventory.csv",
+    "size_bytes": 11465,
+    "shape": "30 x 11",
+    "sha256": "67f79d5ba4b62edc7231c8a67063730ace686aabba7f2325230af8cb4589b5a3",
+    "loader": "csv",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p4_preprocessing_qa",
+    "source_relative_path": "workbook/p2/p2_4/p4_preprocessing_integrity_v1/qa/dataset_inventory.csv",
+    "submission_relative_path": "data/derived/p4_preprocessing_integrity_v1/qa/dataset_inventory.csv",
+    "size_bytes": 18817,
+    "shape": "22 x 20",
+    "sha256": "87bd587872a02114fea6ce5c3c21d93324d449a4b363111088e3009fde5c56e4",
+    "loader": "csv",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p4_preprocessing_qa",
+    "source_relative_path": "workbook/p2/p2_4/p4_preprocessing_integrity_v1/qa/derived_formula_registry.csv",
+    "submission_relative_path": "data/derived/p4_preprocessing_integrity_v1/qa/derived_formula_registry.csv",
+    "size_bytes": 526,
+    "shape": "5 x 4",
+    "sha256": "204d9c887164514d762b671b7a49b00e57e5617144725f5e95fff843909072f9",
+    "loader": "csv",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p4_preprocessing_qa",
+    "source_relative_path": "workbook/p2/p2_4/p4_preprocessing_integrity_v1/qa/derived_rate_reconciliation.csv",
+    "submission_relative_path": "data/derived/p4_preprocessing_integrity_v1/qa/derived_rate_reconciliation.csv",
+    "size_bytes": 513,
+    "shape": "7 x 6",
+    "sha256": "6a0edfa0cc8baa46488988ca7379d193f08b6e6ddcf2d992b827b883bb2bd3dd",
+    "loader": "csv",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p4_preprocessing_qa",
+    "source_relative_path": "workbook/p2/p2_4/p4_preprocessing_integrity_v1/qa/domain_range_audit.csv",
+    "submission_relative_path": "data/derived/p4_preprocessing_integrity_v1/qa/domain_range_audit.csv",
+    "size_bytes": 843960,
+    "shape": "5043 x 8",
+    "sha256": "ff52d86c3a7fee3b722807a85f2614fe57d069b20b634c3a77a50b6c36a5365b",
+    "loader": "csv",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p4_preprocessing_qa",
+    "source_relative_path": "workbook/p2/p2_4/p4_preprocessing_integrity_v1/qa/domain_rule_registry.csv",
+    "submission_relative_path": "data/derived/p4_preprocessing_integrity_v1/qa/domain_rule_registry.csv",
+    "size_bytes": 7647,
+    "shape": "87 x 5",
+    "sha256": "b2fdb21b583546a8ab6329860181d04ba94d497bc4c44ae6a0524137a91f3d3c",
+    "loader": "csv",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p4_preprocessing_qa",
+    "source_relative_path": "workbook/p2/p2_4/p4_preprocessing_integrity_v1/qa/dtype_mismatch_audit.csv",
+    "submission_relative_path": "data/derived/p4_preprocessing_integrity_v1/qa/dtype_mismatch_audit.csv",
+    "size_bytes": 242,
+    "shape": "0 x 23",
+    "sha256": "de7f7033eaa0b7bfc9034acd3192a4cb71b4dae53ec4fe14907e5c79dd5bb739",
+    "loader": "csv",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p4_preprocessing_qa",
+    "source_relative_path": "workbook/p2/p2_4/p4_preprocessing_integrity_v1/qa/duplicate_conflict_audit.csv",
+    "submission_relative_path": "data/derived/p4_preprocessing_integrity_v1/qa/duplicate_conflict_audit.csv",
+    "size_bytes": 8279,
+    "shape": "64 x 9",
+    "sha256": "e3e2addf8090cd9117154d49689b9c4c56af5abe3c59a53b81888debd48821f3",
+    "loader": "csv",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p4_preprocessing_qa",
+    "source_relative_path": "workbook/p2/p2_4/p4_preprocessing_integrity_v1/qa/feature_role_leakage_audit.csv",
+    "submission_relative_path": "data/derived/p4_preprocessing_integrity_v1/qa/feature_role_leakage_audit.csv",
+    "size_bytes": 27766,
+    "shape": "250 x 12",
+    "sha256": "a65b38f7025edb9be31558e6f7f882f183b20275103711231a5bfa6d9239e7f7",
+    "loader": "csv",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p4_preprocessing_qa",
+    "source_relative_path": "workbook/p2/p2_4/p4_preprocessing_integrity_v1/qa/file_provenance_audit.csv",
+    "submission_relative_path": "data/derived/p4_preprocessing_integrity_v1/qa/file_provenance_audit.csv",
+    "size_bytes": 18817,
+    "shape": "22 x 20",
+    "sha256": "87bd587872a02114fea6ce5c3c21d93324d449a4b363111088e3009fde5c56e4",
+    "loader": "csv",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p4_preprocessing_qa",
+    "source_relative_path": "workbook/p2/p2_4/p4_preprocessing_integrity_v1/qa/grain_summary.csv",
+    "submission_relative_path": "data/derived/p4_preprocessing_integrity_v1/qa/grain_summary.csv",
+    "size_bytes": 216,
+    "shape": "9 x 2",
+    "sha256": "280a16dae5b2c58c99a7b8a6a6b2bc5779afc77c982030008b222a4e17ebd095",
+    "loader": "csv",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p4_preprocessing_qa",
+    "source_relative_path": "workbook/p2/p2_4/p4_preprocessing_integrity_v1/qa/join_cardinality_audit.csv",
+    "submission_relative_path": "data/derived/p4_preprocessing_integrity_v1/qa/join_cardinality_audit.csv",
+    "size_bytes": 808,
+    "shape": "3 x 20",
+    "sha256": "ea5c2d8831a17d9334e99d0693345bce01a3ed7f7752f1e4ea2b7318dd7d2a52",
+    "loader": "csv",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p4_preprocessing_qa",
+    "source_relative_path": "workbook/p2/p2_4/p4_preprocessing_integrity_v1/qa/join_unmatched_summary.csv",
+    "submission_relative_path": "data/derived/p4_preprocessing_integrity_v1/qa/join_unmatched_summary.csv",
+    "size_bytes": 30,
+    "shape": "0 x 2",
+    "sha256": "7f4920e32a6bc944dfbbbc4c47aacfd223058de9de360f5113947fb2c613baa5",
+    "loader": "csv",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p4_preprocessing_qa",
+    "source_relative_path": "workbook/p2/p2_4/p4_preprocessing_integrity_v1/qa/key_grain_audit.csv",
+    "submission_relative_path": "data/derived/p4_preprocessing_integrity_v1/qa/key_grain_audit.csv",
+    "size_bytes": 429,
+    "shape": "6 x 8",
+    "sha256": "faedd22444174f09db0207944958fdfd17ccfa3acbcd5650ddfabc8f3c1f5943",
+    "loader": "csv",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p4_preprocessing_qa",
+    "source_relative_path": "workbook/p2/p2_4/p4_preprocessing_integrity_v1/qa/major7_mapping_audit.csv",
+    "submission_relative_path": "data/derived/p4_preprocessing_integrity_v1/qa/major7_mapping_audit.csv",
+    "size_bytes": 1090,
+    "shape": "25 x 5",
+    "sha256": "8a11bab4765ec62cd9a5862e98f4301a5d487cfbeba11ca4455cd5bbe9b3dddb",
+    "loader": "csv",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p4_preprocessing_qa",
+    "source_relative_path": "workbook/p2/p2_4/p4_preprocessing_integrity_v1/qa/missingness_by_major7.csv",
+    "submission_relative_path": "data/derived/p4_preprocessing_integrity_v1/qa/missingness_by_major7.csv",
+    "size_bytes": 53611,
+    "shape": "1312 x 5",
+    "sha256": "9e407397fbbd21780252e303d8cdfb2ac73d1097f5d5b32d1460c3597d2ec315",
+    "loader": "csv",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p4_preprocessing_qa",
+    "source_relative_path": "workbook/p2/p2_4/p4_preprocessing_integrity_v1/qa/missingness_by_sample.csv",
+    "submission_relative_path": "data/derived/p4_preprocessing_integrity_v1/qa/missingness_by_sample.csv",
+    "size_bytes": 52671,
+    "shape": "912 x 5",
+    "sha256": "2b50812c4f6855e788de5e46ade418ac95df9df5d973ad66d122b5a316c1fd2e",
+    "loader": "csv",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p4_preprocessing_qa",
+    "source_relative_path": "workbook/p2/p2_4/p4_preprocessing_integrity_v1/qa/missingness_by_split.csv",
+    "submission_relative_path": "data/derived/p4_preprocessing_integrity_v1/qa/missingness_by_split.csv",
+    "size_bytes": 23318,
+    "shape": "492 x 5",
+    "sha256": "446769e3e756c8d8cdb645893ca0627f5f74d342c0f6f09025ab5946a1793fa8",
+    "loader": "csv",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p4_preprocessing_qa",
+    "source_relative_path": "workbook/p2/p2_4/p4_preprocessing_integrity_v1/qa/missingness_cooccurrence.csv",
+    "submission_relative_path": "data/derived/p4_preprocessing_integrity_v1/qa/missingness_cooccurrence.csv",
+    "size_bytes": 343,
+    "shape": "4 x 5",
+    "sha256": "89ee23c17de439f7d2a7543476ccf15944fa8214bee204c9fbaa573f693807ec",
+    "loader": "csv",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p4_preprocessing_qa",
+    "source_relative_path": "workbook/p2/p2_4/p4_preprocessing_integrity_v1/qa/missingness_profile.csv",
+    "submission_relative_path": "data/derived/p4_preprocessing_integrity_v1/qa/missingness_profile.csv",
+    "size_bytes": 9137,
+    "shape": "164 x 6",
+    "sha256": "12699b702c6279e97ee2322911a3e05f5a1d347596cf9a422d1fe570acc06c90",
+    "loader": "csv",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p4_preprocessing_qa",
+    "source_relative_path": "workbook/p2/p2_4/p4_preprocessing_integrity_v1/qa/notebook_discovery.csv",
+    "submission_relative_path": "data/derived/p4_preprocessing_integrity_v1/qa/notebook_discovery.csv",
+    "size_bytes": 758,
+    "shape": "2 x 8",
+    "sha256": "a216dc006fd951adf93a303667cd2c1b491dce638bc719d859c8005d75043aeb",
+    "loader": "csv",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p4_preprocessing_qa",
+    "source_relative_path": "workbook/p2/p2_4/p4_preprocessing_integrity_v1/qa/notebook_execution_audit.csv",
+    "submission_relative_path": "data/derived/p4_preprocessing_integrity_v1/qa/notebook_execution_audit.csv",
+    "size_bytes": 1894,
+    "shape": "19 x 11",
+    "sha256": "d7e2d94eacec9a99d41a44359d0b9ae37e28c257bba555184b835aabfddb9c26",
+    "loader": "csv",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p4_preprocessing_qa",
+    "source_relative_path": "workbook/p2/p2_4/p4_preprocessing_integrity_v1/qa/row_split_leakage_audit.csv",
+    "submission_relative_path": "data/derived/p4_preprocessing_integrity_v1/qa/row_split_leakage_audit.csv",
+    "size_bytes": 26,
+    "shape": "0 x 2",
+    "sha256": "ef6e13214e821ed9e30cfa357eccd4e76b116fc2d92477ed9ad1729b0bed0639",
+    "loader": "csv",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p4_preprocessing_qa",
+    "source_relative_path": "workbook/p2/p2_4/p4_preprocessing_integrity_v1/qa/sample_membership_audit.csv",
+    "submission_relative_path": "data/derived/p4_preprocessing_integrity_v1/qa/sample_membership_audit.csv",
+    "size_bytes": 877,
+    "shape": "12 x 11",
+    "sha256": "1d886a2419eb34a81a3e863bb8c5a082a7b4f12667f43753e689f1efbac5ffa3",
+    "loader": "csv",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p4_preprocessing_qa",
+    "source_relative_path": "workbook/p2/p2_4/p4_preprocessing_integrity_v1/qa/split_leakage_audit.csv",
+    "submission_relative_path": "data/derived/p4_preprocessing_integrity_v1/qa/split_leakage_audit.csv",
+    "size_bytes": 113,
+    "shape": "3 x 5",
+    "sha256": "6092119f562222171774771ba5a1331796c907d66eec966ca15c72a0a5e50a8f",
+    "loader": "csv",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p4_preprocessing_qa",
+    "source_relative_path": "workbook/p2/p2_4/p4_preprocessing_integrity_v1/qa/stored_notebook_output_reconciliation.csv",
+    "submission_relative_path": "data/derived/p4_preprocessing_integrity_v1/qa/stored_notebook_output_reconciliation.csv",
+    "size_bytes": 1621,
+    "shape": "22 x 5",
+    "sha256": "6d34be41b7f2282c44a6c6349945efa08c9c3d6d95b59c02692431f2fea5b5b1",
+    "loader": "csv",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p4_preprocessing_qa",
+    "source_relative_path": "workbook/p2/p2_4/p4_preprocessing_integrity_v1/qa/transformation_decision_ledger.csv",
+    "submission_relative_path": "data/derived/p4_preprocessing_integrity_v1/qa/transformation_decision_ledger.csv",
+    "size_bytes": 593,
+    "shape": "5 x 4",
+    "sha256": "aaa2a3f0194878feb4ab9e33ef4692f46820ce54ffa5a18455c60d744ad0f229",
+    "loader": "csv",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p4_modeling_artifacts",
+    "source_relative_path": "workbook/p2/p2_4/p4_modeling_readiness_v4/artifacts/P4_MODEL_FAMILY_RECOMMENDATION.csv",
+    "submission_relative_path": "data/derived/p4_modeling_readiness_v4/artifacts/P4_MODEL_FAMILY_RECOMMENDATION.csv",
+    "size_bytes": 2305,
+    "shape": "8 x 8",
+    "sha256": "193db8e4da1201fa9ef8fbe635803de560d563e4c1446770129066fbc497c68c",
+    "loader": "csv",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p4_modeling_artifacts",
+    "source_relative_path": "workbook/p2/p2_4/p4_modeling_readiness_v4/artifacts/P4_PHASE_FEATURE_SET_FINAL.csv",
+    "submission_relative_path": "data/derived/p4_modeling_readiness_v4/artifacts/P4_PHASE_FEATURE_SET_FINAL.csv",
+    "size_bytes": 41865,
+    "shape": "241 x 11",
+    "sha256": "05e3d5a89e4405d305ee496efc6dae97c1a790c2023c88363a34205ccf284899",
+    "loader": "csv",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p4_modeling_artifacts",
+    "source_relative_path": "workbook/p2/p2_4/p4_modeling_readiness_v4/artifacts/P4_PHASE_MODEL_SPEC_FINAL.csv",
+    "submission_relative_path": "data/derived/p4_modeling_readiness_v4/artifacts/P4_PHASE_MODEL_SPEC_FINAL.csv",
+    "size_bytes": 3881,
+    "shape": "18 x 11",
+    "sha256": "7887229f14c99f2fc729724944e2c174824770bd3c8fd1f501f577d8de8f7e74",
+    "loader": "csv",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p4_modeling_artifacts",
+    "source_relative_path": "workbook/p2/p2_4/p4_modeling_readiness_v4/artifacts/P4_PHASE_SAMPLE_REGISTRY_FINAL.csv",
+    "submission_relative_path": "data/derived/p4_modeling_readiness_v4/artifacts/P4_PHASE_SAMPLE_REGISTRY_FINAL.csv",
+    "size_bytes": 1667,
+    "shape": "12 x 12",
+    "sha256": "d518bab363399a31037590a2cb285f2a76e88318f5d25bf93ac365441f48e611",
+    "loader": "csv",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p4_modeling_artifacts",
+    "source_relative_path": "workbook/p2/p2_4/p4_modeling_readiness_v4/artifacts/P4_RECOMMENDED_FEATURE_SET_FINAL.csv",
+    "submission_relative_path": "data/derived/p4_modeling_readiness_v4/artifacts/P4_RECOMMENDED_FEATURE_SET_FINAL.csv",
+    "size_bytes": 24231,
+    "shape": "187 x 6",
+    "sha256": "71b7c575a459124d9b07f509d17719e80e3074e9f48128c9c8f58f8db8e68487",
+    "loader": "csv",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p4_modeling_artifacts",
+    "source_relative_path": "workbook/p2/p2_4/p4_modeling_readiness_v4/artifacts/department_model_column_registry_v4.csv",
+    "submission_relative_path": "data/derived/p4_modeling_readiness_v4/artifacts/department_model_column_registry_v4.csv",
+    "size_bytes": 65608,
+    "shape": "151 x 27",
+    "sha256": "c8f3954654de2853c92c4643b7ccf5cb271a7ad50de92507538d0fb336365ee5",
+    "loader": "csv",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p4_modeling_data",
+    "source_relative_path": "workbook/p2/p2_4/p4_modeling_readiness_v4/data/P4_PHASE_SAMPLE_MEMBERSHIP_FINAL.parquet",
+    "submission_relative_path": "data/derived/p4_modeling_readiness_v4/data/P4_PHASE_SAMPLE_MEMBERSHIP_FINAL.parquet",
+    "size_bytes": 198537,
+    "shape": "7592 x 21",
+    "sha256": "c6504fd04c918ce33439462f7b277aa8ae4363f185ef93210fcc761f01e9fb46",
+    "loader": "parquet",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p5_results",
+    "source_relative_path": "workbook/p2/p2_5/p5_major7_heterogeneity_v2_strict/artifacts/P5_EMPLOYMENT_PROGRESSION_AME_DIFFERENCE.csv",
+    "submission_relative_path": "data/derived/p5_major7_heterogeneity_v2_strict/artifacts/P5_EMPLOYMENT_PROGRESSION_AME_DIFFERENCE.csv",
+    "size_bytes": 1275,
+    "shape": "7 x 10",
+    "sha256": "773b64b49d64c6f919d715a8aac42b229bdc3780f73c083471a69ff01fb17a44",
+    "loader": "csv",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p5_results",
+    "source_relative_path": "workbook/p2/p2_5/p5_major7_heterogeneity_v2_strict/artifacts/P5_MAJOR7_CONTEXT_PROFILE.csv",
+    "submission_relative_path": "data/derived/p5_major7_heterogeneity_v2_strict/artifacts/P5_MAJOR7_CONTEXT_PROFILE.csv",
+    "size_bytes": 789,
+    "shape": "7 x 11",
+    "sha256": "bea057f64d2daff1328374c90c5dfb56a3feca3bacf71a16b9dcda9628f5dd5a",
+    "loader": "csv",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p5_results",
+    "source_relative_path": "workbook/p2/p2_5/p5_major7_heterogeneity_v2_strict/artifacts/P5_MAJOR7_SLOPE_ESTIMATES.csv",
+    "submission_relative_path": "data/derived/p5_major7_heterogeneity_v2_strict/artifacts/P5_MAJOR7_SLOPE_ESTIMATES.csv",
+    "size_bytes": 57915,
+    "shape": "84 x 28",
+    "sha256": "64205194868185d837ac25c704589d79902d22bb0cb28d191c8ba496677064b7",
+    "loader": "csv",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p5_results",
+    "source_relative_path": "workbook/p2/p2_5/p5_major7_heterogeneity_v2_strict/artifacts/P5_MODEL_SPEC_REGISTRY.csv",
+    "submission_relative_path": "data/derived/p5_major7_heterogeneity_v2_strict/artifacts/P5_MODEL_SPEC_REGISTRY.csv",
+    "size_bytes": 3658,
+    "shape": "42 x 7",
+    "sha256": "796076ae29040efec62f65273705674db6cc57f160c6cafbc7e3992d225ec5e9",
+    "loader": "csv",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p5_results",
+    "source_relative_path": "workbook/p2/p2_5/p5_major7_heterogeneity_v2_strict/artifacts/P5_RAW_A_PRIMARY_SUMMARY.csv",
+    "submission_relative_path": "data/derived/p5_major7_heterogeneity_v2_strict/artifacts/P5_RAW_A_PRIMARY_SUMMARY.csv",
+    "size_bytes": 139,
+    "shape": "2 x 5",
+    "sha256": "7f15e7daa6ad285dfe51a425a2979ce6284d22440d53646bb1712284c72dd6da",
+    "loader": "csv",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p5_results",
+    "source_relative_path": "workbook/p2/p2_5/p5_major7_heterogeneity_v2_strict/artifacts/P5_SLOPE_CONTEXT_DESCRIPTIVE.csv",
+    "submission_relative_path": "data/derived/p5_major7_heterogeneity_v2_strict/artifacts/P5_SLOPE_CONTEXT_DESCRIPTIVE.csv",
+    "size_bytes": 1375,
+    "shape": "10 x 8",
+    "sha256": "d9b3cbdde39fc91f7aa5d95c430d675f9d444a343d1fa55e39a0e17b3fa79904",
+    "loader": "csv",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p5_results",
+    "source_relative_path": "workbook/p2/p2_5/p5_major7_heterogeneity_v2_strict/artifacts/P5_SLOPE_CONTEXT_MERGED.csv",
+    "submission_relative_path": "data/derived/p5_major7_heterogeneity_v2_strict/artifacts/P5_SLOPE_CONTEXT_MERGED.csv",
+    "size_bytes": 2447,
+    "shape": "14 x 15",
+    "sha256": "9376c7164bea8fdd304d63bed94376ec329b0f12d2fe4de0c5f6e47bae8786ae",
+    "loader": "csv",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p5_results",
+    "source_relative_path": "workbook/p2/p2_5/p5_major7_heterogeneity_v2_strict/artifacts/P5_STRICT_INSIGHT_SUMMARY.csv",
+    "submission_relative_path": "data/derived/p5_major7_heterogeneity_v2_strict/artifacts/P5_STRICT_INSIGHT_SUMMARY.csv",
+    "size_bytes": 2890,
+    "shape": "14 x 15",
+    "sha256": "e10446841981473ae64a85ad7c29db465235a1e18798f4ce2598cef6efb2c961",
+    "loader": "csv",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p5_results",
+    "source_relative_path": "workbook/p2/p2_5/p5_major7_heterogeneity_v2_strict/artifacts/P5_STRICT_INSIGHT_V1_SENSITIVITY_PRIMARY.csv",
+    "submission_relative_path": "data/derived/p5_major7_heterogeneity_v2_strict/artifacts/P5_STRICT_INSIGHT_V1_SENSITIVITY_PRIMARY.csv",
+    "size_bytes": 4485,
+    "shape": "14 x 21",
+    "sha256": "95a1a6252d83b68a73d25168b5bc03fb6ef5c81ff2817e9cbe6f86bf208232f6",
+    "loader": "csv",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p5_results",
+    "source_relative_path": "workbook/p2/p2_5/p5_major7_heterogeneity_v2_strict/artifacts/P5_TABLE1_EMPLOYMENT_AME.csv",
+    "submission_relative_path": "data/derived/p5_major7_heterogeneity_v2_strict/artifacts/P5_TABLE1_EMPLOYMENT_AME.csv",
+    "size_bytes": 4832,
+    "shape": "7 x 28",
+    "sha256": "5c0c1487dac18cc35e5f5097ba889b6c3408360641e3531e8771ffb43fe40559",
+    "loader": "csv",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p5_results",
+    "source_relative_path": "workbook/p2/p2_5/p5_major7_heterogeneity_v2_strict/artifacts/P5_TABLE2_PROGRESSION_AME.csv",
+    "submission_relative_path": "data/derived/p5_major7_heterogeneity_v2_strict/artifacts/P5_TABLE2_PROGRESSION_AME.csv",
+    "size_bytes": 5046,
+    "shape": "7 x 28",
+    "sha256": "444ade8873dc2eabb2e186025d791c13e56ce94b6eefb88e9a5d53343a2c0b3d",
+    "loader": "csv",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p5_results",
+    "source_relative_path": "workbook/p2/p2_5/p5_major7_heterogeneity_v2_strict/artifacts/P5_TABLE3_PROGRESSION_MINUS_EMPLOYMENT_AME.csv",
+    "submission_relative_path": "data/derived/p5_major7_heterogeneity_v2_strict/artifacts/P5_TABLE3_PROGRESSION_MINUS_EMPLOYMENT_AME.csv",
+    "size_bytes": 1275,
+    "shape": "7 x 10",
+    "sha256": "773b64b49d64c6f919d715a8aac42b229bdc3780f73c083471a69ff01fb17a44",
+    "loader": "csv",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p5_results",
+    "source_relative_path": "workbook/p2/p2_5/p5_major7_heterogeneity_v2_strict/artifacts/P5_TABLE4_CONTEXT_PROFILE.csv",
+    "submission_relative_path": "data/derived/p5_major7_heterogeneity_v2_strict/artifacts/P5_TABLE4_CONTEXT_PROFILE.csv",
+    "size_bytes": 789,
+    "shape": "7 x 11",
+    "sha256": "bea057f64d2daff1328374c90c5dfb56a3feca3bacf71a16b9dcda9628f5dd5a",
+    "loader": "csv",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p5_results",
+    "source_relative_path": "workbook/p2/p2_5/p5_major7_heterogeneity_v2_strict/artifacts/P5_V1_VS_STRICT_SENSITIVITY.csv",
+    "submission_relative_path": "data/derived/p5_major7_heterogeneity_v2_strict/artifacts/P5_V1_VS_STRICT_SENSITIVITY.csv",
+    "size_bytes": 19265,
+    "shape": "84 x 17",
+    "sha256": "7973e7502051924273042e5d9bcc85718bebe5eec992565fb0a91f917e09693a",
+    "loader": "csv",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p5_reports",
+    "source_relative_path": "workbook/p2/p2_5/p5_major7_heterogeneity_v2_strict/reports/P5_2024_MAJOR7_HETEROGENEITY_V2_STRICT_REPORT.md",
+    "submission_relative_path": "data/derived/p5_major7_heterogeneity_v2_strict/reports/P5_2024_MAJOR7_HETEROGENEITY_V2_STRICT_REPORT.md",
+    "size_bytes": 5577,
+    "shape": "",
+    "sha256": "45e60516bea17d0e58812d567533e4f408def3ad0a2819a30602eaf81a60633e",
+    "loader": "unprofiled",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p5_reports",
+    "source_relative_path": "workbook/p2/p2_5/p5_major7_heterogeneity_v2_strict/reports/P5_2024_MAJOR7_HETEROGENEITY_V2_STRICT_STATUS.json",
+    "submission_relative_path": "data/derived/p5_major7_heterogeneity_v2_strict/reports/P5_2024_MAJOR7_HETEROGENEITY_V2_STRICT_STATUS.json",
+    "size_bytes": 1732,
+    "shape": "dict:25",
+    "sha256": "419d18bb0b47f44e52b81ee25d9973b7a3e98cb3915f957dd7a02b5ffa7cf54e",
+    "loader": "json",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p5_reports",
+    "source_relative_path": "workbook/p2/p2_5/p5_major7_heterogeneity_v2_strict/reports/P5_STRICT_MODELING_VISUAL_INSIGHT_NOTES.md",
+    "submission_relative_path": "data/derived/p5_major7_heterogeneity_v2_strict/reports/P5_STRICT_MODELING_VISUAL_INSIGHT_NOTES.md",
+    "size_bytes": 2701,
+    "shape": "",
+    "sha256": "1975b35d7635c62fa98e3ea46db95faf7493f15d8377919ced9e3b4acefc3b4b",
+    "loader": "unprofiled",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p6_results",
+    "source_relative_path": "workbook/p2/P2_6/artifacts/P2_G6_1_KEY_NUMBERS.csv",
+    "submission_relative_path": "data/derived/p2_g6_strict_chain/artifacts/P2_G6_1_KEY_NUMBERS.csv",
+    "size_bytes": 563,
+    "shape": "10 x 3",
+    "sha256": "2851c94f5f86e4fa0acc49d4d622fb205b5b4fed8daeaba2369fea328037ac5a",
+    "loader": "csv",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p6_results",
+    "source_relative_path": "workbook/p2/P2_6/artifacts/P2_G6_1_VISUAL_ARTIFACTS.csv",
+    "submission_relative_path": "data/derived/p2_g6_strict_chain/artifacts/P2_G6_1_VISUAL_ARTIFACTS.csv",
+    "size_bytes": 1902,
+    "shape": "8 x 4",
+    "sha256": "bd8be74ee2c9ec7370f7421f7bf7cb0157356e842e366d2658f5ff7ee5902e1d",
+    "loader": "csv",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p6_results",
+    "source_relative_path": "workbook/p2/P2_6/artifacts/P2_G6_1_VISUAL_DECISION_MATRIX.csv",
+    "submission_relative_path": "data/derived/p2_g6_strict_chain/artifacts/P2_G6_1_VISUAL_DECISION_MATRIX.csv",
+    "size_bytes": 882,
+    "shape": "5 x 5",
+    "sha256": "0b1954dd759259e34b9da49e57de012f899009ce9028030c64cf18bb98c7578c",
+    "loader": "csv",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p6_results",
+    "source_relative_path": "workbook/p2/P2_6/artifacts/P4_CV_RECALC_METRICS.csv",
+    "submission_relative_path": "data/derived/p2_g6_strict_chain/artifacts/P4_CV_RECALC_METRICS.csv",
+    "size_bytes": 6106,
+    "shape": "20 x 19",
+    "sha256": "12eb8e35cc81cf3b7fbae58fc35e6fb0643b878e6ca08fa9a8f95b4117a8ceb7",
+    "loader": "csv",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p6_results",
+    "source_relative_path": "workbook/p2/P2_6/artifacts/P4_EXACT_BOOTSTRAP_CI.csv",
+    "submission_relative_path": "data/derived/p2_g6_strict_chain/artifacts/P4_EXACT_BOOTSTRAP_CI.csv",
+    "size_bytes": 2798,
+    "shape": "18 x 10",
+    "sha256": "a022e4082b81109d0d13a8bec6f5771fa9815ec94551afe352a54380e83dd94a",
+    "loader": "csv",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p6_results",
+    "source_relative_path": "workbook/p2/P2_6/artifacts/P4_HYPOTHESIS_DECISION_TABLE.csv",
+    "submission_relative_path": "data/derived/p2_g6_strict_chain/artifacts/P4_HYPOTHESIS_DECISION_TABLE.csv",
+    "size_bytes": 927,
+    "shape": "4 x 11",
+    "sha256": "09b7d5f52e220a8433cf6ccf4d06fb245d2be47d73b0838ab51785bc39f0c5f1",
+    "loader": "csv",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p6_results",
+    "source_relative_path": "workbook/p2/P2_6/artifacts/P4_LOCKED_TEST_RECALC_METRICS.csv",
+    "submission_relative_path": "data/derived/p2_g6_strict_chain/artifacts/P4_LOCKED_TEST_RECALC_METRICS.csv",
+    "size_bytes": 1335,
+    "shape": "4 x 17",
+    "sha256": "ce8c4f035ed406d7984fe579496c028bcde3ddfb1e4643e0121292d91abbc5e0",
+    "loader": "csv",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p6_results",
+    "source_relative_path": "workbook/p2/P2_6/artifacts/P4_METRIC_CONTRACT.csv",
+    "submission_relative_path": "data/derived/p2_g6_strict_chain/artifacts/P4_METRIC_CONTRACT.csv",
+    "size_bytes": 135,
+    "shape": "3 x 3",
+    "sha256": "90a86143adbafa0f4864af7c526f63e2c4bcc00685c3cb132905ce3c418a2f21",
+    "loader": "csv",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p6_results",
+    "source_relative_path": "workbook/p2/P2_6/artifacts/P4_PROGRESSION_TWO_PART_COMBINED_AME.csv",
+    "submission_relative_path": "data/derived/p2_g6_strict_chain/artifacts/P4_PROGRESSION_TWO_PART_COMBINED_AME.csv",
+    "size_bytes": 186,
+    "shape": "2 x 5",
+    "sha256": "99f5f67f66e1f2620236ed6964ccdbc0b00f9bd08d39ad7ed7d7cd621799f8c4",
+    "loader": "csv",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p6_results",
+    "source_relative_path": "workbook/p2/P2_6/artifacts/P4_PROGRESSION_TWO_PART_COMBINED_BOOTSTRAP_CI.csv",
+    "submission_relative_path": "data/derived/p2_g6_strict_chain/artifacts/P4_PROGRESSION_TWO_PART_COMBINED_BOOTSTRAP_CI.csv",
+    "size_bytes": 269,
+    "shape": "2 x 7",
+    "sha256": "6babde22ce3c8dcdb794ead97a4702ba84a6f9f3af15be7e48f87fa2391805ae",
+    "loader": "csv",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p6_results",
+    "source_relative_path": "workbook/p2/P2_6/artifacts/P4_PROGRESSION_TWO_PART_RESULTS.csv",
+    "submission_relative_path": "data/derived/p2_g6_strict_chain/artifacts/P4_PROGRESSION_TWO_PART_RESULTS.csv",
+    "size_bytes": 913,
+    "shape": "4 x 12",
+    "sha256": "8cb1aad6b3970d3b1b5c9b32ebf3d0f30ae055fd423b46455c91ec7324cfe858",
+    "loader": "csv",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p6_results",
+    "source_relative_path": "workbook/p2/P2_6/artifacts/P4_RAW_A_BOOTSTRAP_DISTRIBUTION.parquet",
+    "submission_relative_path": "data/derived/p2_g6_strict_chain/artifacts/P4_RAW_A_BOOTSTRAP_DISTRIBUTION.parquet",
+    "size_bytes": 95344,
+    "shape": "500 x 23",
+    "sha256": "bf9a762913de5b9f5684bfca98e735d2a0f055179a21107444fadd971e278025",
+    "loader": "parquet",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p6_results",
+    "source_relative_path": "workbook/p2/P2_6/artifacts/P4_RESIDUAL_ALPHA_RESELECT_DISTRIBUTION.parquet",
+    "submission_relative_path": "data/derived/p2_g6_strict_chain/artifacts/P4_RESIDUAL_ALPHA_RESELECT_DISTRIBUTION.parquet",
+    "size_bytes": 31014,
+    "shape": "100 x 24",
+    "sha256": "9f2866aa5926d235e75e8184f8533a41f1bb154eff86bb1f54cab6fd0239a381",
+    "loader": "parquet",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p6_results",
+    "source_relative_path": "workbook/p2/P2_6/artifacts/P4_RESIDUAL_BOOTSTRAP_DISTRIBUTION.parquet",
+    "submission_relative_path": "data/derived/p2_g6_strict_chain/artifacts/P4_RESIDUAL_BOOTSTRAP_DISTRIBUTION.parquet",
+    "size_bytes": 96025,
+    "shape": "500 x 24",
+    "sha256": "53b5c79b2f6e58c57bf92aac6a579ebf64c33b22877d248a36ae4f0b2cfd54db",
+    "loader": "parquet",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p6_results",
+    "source_relative_path": "workbook/p2/P2_6/artifacts/P4_SIGNAL_ROLE_CONTRACT.csv",
+    "submission_relative_path": "data/derived/p2_g6_strict_chain/artifacts/P4_SIGNAL_ROLE_CONTRACT.csv",
+    "size_bytes": 1016,
+    "shape": "3 x 7",
+    "sha256": "867b9ab6eb0a0a939dc1b93bec2dd3e6db20b6ba9b3377df90c72bdfef4ea50b",
+    "loader": "csv",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p6_qa",
+    "source_relative_path": "workbook/p2/P2_6/qa/P2_G6_1_STATUS_TABLE.csv",
+    "submission_relative_path": "data/derived/p2_g6_strict_chain/qa/P2_G6_1_STATUS_TABLE.csv",
+    "size_bytes": 286,
+    "shape": "7 x 2",
+    "sha256": "e0249a8e3264d92244483e7f6ca70d2a1fded57be3f3bcf62f5ba6e355cf76b1",
+    "loader": "csv",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p6_qa",
+    "source_relative_path": "workbook/p2/P2_6/qa/P4_BOOTSTRAP_GROUP_LEAKAGE_AUDIT.csv",
+    "submission_relative_path": "data/derived/p2_g6_strict_chain/qa/P4_BOOTSTRAP_GROUP_LEAKAGE_AUDIT.csv",
+    "size_bytes": 973710,
+    "shape": "2505 x 17",
+    "sha256": "b1879446a419d0b98add004a57ae5a614f79e24fd9687457fb3b6cedb46afa97",
+    "loader": "csv",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p6_qa",
+    "source_relative_path": "workbook/p2/P2_6/qa/P4_BOOTSTRAP_ITERATION_AUDIT.csv",
+    "submission_relative_path": "data/derived/p2_g6_strict_chain/qa/P4_BOOTSTRAP_ITERATION_AUDIT.csv",
+    "size_bytes": 92661,
+    "shape": "1075 x 16",
+    "sha256": "0ec82487dc0966d2e7b5c6fc299acad3ab93233133bfb239e368ecb73092e2c4",
+    "loader": "csv",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p6_qa",
+    "source_relative_path": "workbook/p2/P2_6/qa/P4_BOOTSTRAP_SAMPLE_GENERATOR_TEST.csv",
+    "submission_relative_path": "data/derived/p2_g6_strict_chain/qa/P4_BOOTSTRAP_SAMPLE_GENERATOR_TEST.csv",
+    "size_bytes": 171,
+    "shape": "1 x 7",
+    "sha256": "fc5696caa972b8fe63f2c33273c62910fbd9df37b9273ed3b543f8f4e418bde1",
+    "loader": "csv",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p6_qa",
+    "source_relative_path": "workbook/p2/P2_6/qa/P4_CLOSURE_INPUT_CONTRACT.csv",
+    "submission_relative_path": "data/derived/p2_g6_strict_chain/qa/P4_CLOSURE_INPUT_CONTRACT.csv",
+    "size_bytes": 3682,
+    "shape": "14 x 13",
+    "sha256": "a5cbd1e09329519eb2bb278a57a309e5a1729e5d1b2d1f541410b0aa636bb61d",
+    "loader": "csv",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p6_qa",
+    "source_relative_path": "workbook/p2/P2_6/qa/P4_CV_LOCKED_TEST_DISCREPANCY_AUDIT.csv",
+    "submission_relative_path": "data/derived/p2_g6_strict_chain/qa/P4_CV_LOCKED_TEST_DISCREPANCY_AUDIT.csv",
+    "size_bytes": 767,
+    "shape": "2 x 12",
+    "sha256": "8192639e293927383c519f34984d3327a5db9fa72bb45481112b2ff84f1c6e05",
+    "loader": "csv",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p6_qa",
+    "source_relative_path": "workbook/p2/P2_6/qa/P4_CV_TEST_ALGORITHM_AUDIT.csv",
+    "submission_relative_path": "data/derived/p2_g6_strict_chain/qa/P4_CV_TEST_ALGORITHM_AUDIT.csv",
+    "size_bytes": 2959,
+    "shape": "13 x 4",
+    "sha256": "28271b1d9dd7d5194998d5ea3c7479044c0b36ac453b3e34e55c57e60e23642b",
+    "loader": "csv",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p6_qa",
+    "source_relative_path": "workbook/p2/P2_6/qa/P4_MULTIPLE_TESTING_FAMILY_CONTRACT.csv",
+    "submission_relative_path": "data/derived/p2_g6_strict_chain/qa/P4_MULTIPLE_TESTING_FAMILY_CONTRACT.csv",
+    "size_bytes": 529,
+    "shape": "3 x 4",
+    "sha256": "567404abc6082a5b1062a78bdc2bfcc1241c8713fd3d0102ba8cec81325360cb",
+    "loader": "csv",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p6_qa",
+    "source_relative_path": "workbook/p2/P2_6/qa/P4_MULTIPLE_TEST_CORRECTION.csv",
+    "submission_relative_path": "data/derived/p2_g6_strict_chain/qa/P4_MULTIPLE_TEST_CORRECTION.csv",
+    "size_bytes": 948,
+    "shape": "8 x 6",
+    "sha256": "259845999277eb4893d1eaa2085422c759f2707d74bade96e0d698e03fa0d0c4",
+    "loader": "csv",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p6_qa",
+    "source_relative_path": "workbook/p2/P2_6/qa/P4_PROGRESSION_ZERO_PROCESS_AUDIT.csv",
+    "submission_relative_path": "data/derived/p2_g6_strict_chain/qa/P4_PROGRESSION_ZERO_PROCESS_AUDIT.csv",
+    "size_bytes": 104,
+    "shape": "1 x 6",
+    "sha256": "29decaab9eacd22d190f2d190cf215066c88c2ed13926247440f131d134bd50d",
+    "loader": "csv",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p6_qa",
+    "source_relative_path": "workbook/p2/P2_6/qa/P4_RAW_A_BOOTSTRAP_ITERATION_AUDIT.csv",
+    "submission_relative_path": "data/derived/p2_g6_strict_chain/qa/P4_RAW_A_BOOTSTRAP_ITERATION_AUDIT.csv",
+    "size_bytes": 32911,
+    "shape": "475 x 14",
+    "sha256": "36f7137f31e6419055521e13f3d7b9f30ddc0159aa448dc4504357e82ba78a9e",
+    "loader": "csv",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p6_qa",
+    "source_relative_path": "workbook/p2/P2_6/qa/P4_RAW_A_BOOTSTRAP_PILOT_AUDIT.csv",
+    "submission_relative_path": "data/derived/p2_g6_strict_chain/qa/P4_RAW_A_BOOTSTRAP_PILOT_AUDIT.csv",
+    "size_bytes": 1875,
+    "shape": "25 x 14",
+    "sha256": "962fdd8cfa0d33e0107d05b8831560ef2c38f0819fecbec16b1e6d488bedc3c8",
+    "loader": "csv",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p6_qa",
+    "source_relative_path": "workbook/p2/P2_6/qa/P4_RESIDUAL_ALPHA_RESELECT_GROUP_AUDIT.csv",
+    "submission_relative_path": "data/derived/p2_g6_strict_chain/qa/P4_RESIDUAL_ALPHA_RESELECT_GROUP_AUDIT.csv",
+    "size_bytes": 199237,
+    "shape": "500 x 16",
+    "sha256": "37a4b7fcf418995209aa797a00347cb720e99dae14b432c906254e26c72e2bb8",
+    "loader": "csv",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p6_qa",
+    "source_relative_path": "workbook/p2/P2_6/qa/P4_RESIDUAL_ALPHA_RESELECT_ITERATION_AUDIT.csv",
+    "submission_relative_path": "data/derived/p2_g6_strict_chain/qa/P4_RESIDUAL_ALPHA_RESELECT_ITERATION_AUDIT.csv",
+    "size_bytes": 7512,
+    "shape": "100 x 15",
+    "sha256": "3d521c88ac75186b8d34956a64b0cccdbe5ba429a59737456371eac3290839e7",
+    "loader": "csv",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p6_qa",
+    "source_relative_path": "workbook/p2/P2_6/qa/P4_RESIDUAL_BOOTSTRAP_GROUP_AUDIT.csv",
+    "submission_relative_path": "data/derived/p2_g6_strict_chain/qa/P4_RESIDUAL_BOOTSTRAP_GROUP_AUDIT.csv",
+    "size_bytes": 959403,
+    "shape": "2500 x 16",
+    "sha256": "458086bb49a43c3fda8702d2daaaaf8e6476cb33d05e5bb84cc93d77fdab6c79",
+    "loader": "csv",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p6_qa",
+    "source_relative_path": "workbook/p2/P2_6/qa/P4_RESIDUAL_BOOTSTRAP_ITERATION_AUDIT.csv",
+    "submission_relative_path": "data/derived/p2_g6_strict_chain/qa/P4_RESIDUAL_BOOTSTRAP_ITERATION_AUDIT.csv",
+    "size_bytes": 37058,
+    "shape": "500 x 15",
+    "sha256": "baca7cdf10757c66d7ddb77d94e7e3cd01cb7bbf0d227530d40b412ff5eb3827",
+    "loader": "csv",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p6_qa",
+    "source_relative_path": "workbook/p2/P2_6/qa/P4_RESIDUAL_BOOTSTRAP_PILOT_AUDIT.csv",
+    "submission_relative_path": "data/derived/p2_g6_strict_chain/qa/P4_RESIDUAL_BOOTSTRAP_PILOT_AUDIT.csv",
+    "size_bytes": 2014,
+    "shape": "25 x 15",
+    "sha256": "2c224571ba8e6314febcc274b3ed436912897e1d8c68e9908acf300f3268b9c3",
+    "loader": "csv",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p6_reports",
+    "source_relative_path": "workbook/p2/P2_6/reports/P2_G6_1_STRICT_CHAIN_RUNUP_REPORT.md",
+    "submission_relative_path": "data/derived/p2_g6_strict_chain/reports/P2_G6_1_STRICT_CHAIN_RUNUP_REPORT.md",
+    "size_bytes": 2181,
+    "shape": "",
+    "sha256": "3e2743d52a5e720485233c91edaefb4c61c435527d9376c1731c732128cf7f46",
+    "loader": "unprofiled",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p6_reports",
+    "source_relative_path": "workbook/p2/P2_6/reports/P2_G6_1_VISUAL_MODEL_READING_GUIDE.md",
+    "submission_relative_path": "data/derived/p2_g6_strict_chain/reports/P2_G6_1_VISUAL_MODEL_READING_GUIDE.md",
+    "size_bytes": 3529,
+    "shape": "",
+    "sha256": "b3d19bac9d82cad6e1300a059b903e944ac65a49fff833a18ba56ab6bdfc27f6",
+    "loader": "unprofiled",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p6_reports",
+    "source_relative_path": "workbook/p2/P2_6/reports/P4_CONFIRMATORY_CLOSURE_REPORT.md",
+    "submission_relative_path": "data/derived/p2_g6_strict_chain/reports/P4_CONFIRMATORY_CLOSURE_REPORT.md",
+    "size_bytes": 10215,
+    "shape": "",
+    "sha256": "688f0d2ab9ce8d0642cbe3389a780fa17ad71fe9c2bc1f7afec8d5eaa6fec9d3",
+    "loader": "unprofiled",
+    "load_error": ""
+  },
+  {
+    "derived_group": "p6_reports",
+    "source_relative_path": "workbook/p2/P2_6/reports/P4_CONFIRMATORY_CLOSURE_STATUS.json",
+    "submission_relative_path": "data/derived/p2_g6_strict_chain/reports/P4_CONFIRMATORY_CLOSURE_STATUS.json",
+    "size_bytes": 1452,
+    "shape": "dict:28",
+    "sha256": "ba586abd7f7cc04c66b4616dfd1a5445c6b46bee99432b7f4790dc695b3f058b",
+    "loader": "json",
+    "load_error": ""
+  }
+]

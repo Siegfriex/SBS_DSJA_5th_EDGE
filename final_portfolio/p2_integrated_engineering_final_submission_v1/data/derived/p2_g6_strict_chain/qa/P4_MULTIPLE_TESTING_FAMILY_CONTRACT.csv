@@ -1,0 +1,4 @@
+family,description,signals,outcomes
+PRIMARY_RAW_A,RAW_A employment and progression fractional-logit coefficients.,['RAW_A'],"['HEALTH_EMPLOYMENT', 'GRAD_SCHOOL_PROGRESSION']"
+CONDITIONAL_FULL_RESIDUAL,OOF_RESIDUAL_FULL employment and progression fractional-logit coefficients.,['OOF_RESIDUAL_FULL'],"['HEALTH_EMPLOYMENT', 'GRAD_SCHOOL_PROGRESSION']"
+TWO_PART_SENSITIVITY,Part 1 and Part 2 grade-signal coefficients in progression two-part sensitivity.,"['RAW_A', 'OOF_RESIDUAL_FULL']","['PART1_POSITIVE', 'PART2_POSITIVE_RATE']"

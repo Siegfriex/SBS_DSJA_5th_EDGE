@@ -1,0 +1,5 @@
+﻿issue_id,severity,evidence,submission_handling
+WARN_D08_SPLIT_EXTERNAL,WARN,D08 has no direct split column; use school_uid merge to dim_school_split,sample/split integrity gate verifies the external split merge
+WARN_DIRECT_URL_LIMIT,WARN,some source direct download URLs are portal-level in the local source catalog,local file hashes and official portal URLs are retained as provenance anchors
+WARN_Q_BRANCH_BLOCKED,WARN,P6 Q/selectivity branch is not interpreted as launch-ready,final report restricts claims to validated D08 and strict-chain readout
+WARN_REGISTRY_COVERAGE,WARN,registry and D08 columns are not perfectly symmetric,missing/unregistered columns are written to qa/

@@ -1,0 +1,82 @@
+{
+  "created_at": "2026-07-12T21:47:25",
+  "purpose": "P2-G3 P4 candidate handoff immutable hash lock",
+  "ready_for_p4": true,
+  "files": {
+    "D01": {
+      "path": "workbook/p2/p2_3/p4_handoff_candidate/local1/dept_headcount_master_2024.parquet",
+      "sha256": "2f187b5af44c828d4107af12368029caf6b83b6254af75b9653b6402b8f1b0ce",
+      "size_bytes": 6274643
+    },
+    "D02": {
+      "path": "workbook/p2/p2_3/p4_handoff_candidate/local1/dept_outcomes_2024.parquet",
+      "sha256": "45f8aa40f31e14b83b5d97f594abf89bb4a5aaa4bc67735767e19077d189f493",
+      "size_bytes": 848641
+    },
+    "D03": {
+      "path": "workbook/p2/p2_3/p4_handoff_candidate/local1/dept_master_2024_core.parquet",
+      "sha256": "c6fd569052684502e5bab5758510d3cd945f68ddeaa47fdfb3e9bab803889dca",
+      "size_bytes": 1934037
+    },
+    "D04": {
+      "path": "workbook/p2/p2_3/p4_handoff_candidate/local1/wage_reference_by_major.parquet",
+      "sha256": "489caf15edbefa1ed0c30fdfa98dbe31096b36c219f6610dae69a2d5e49c47e5",
+      "size_bytes": 77696
+    },
+    "D05": {
+      "path": "workbook/p2/p2_3/p4_handoff_candidate/local1/job_cert_bridge.parquet",
+      "sha256": "f4447cf519bdf366e36851a68e6ec6b6605f9c9a591d96c911de4eece2327246",
+      "size_bytes": 31466
+    },
+    "D08": {
+      "path": "workbook/p2/p2_3/p4_handoff_candidate/shared/mart_department_model_base_2024.parquet",
+      "sha256": "598b68b31b5358dfd23839d4c138cc64838d05876b7791980b376c0453f29962",
+      "size_bytes": 2103297
+    },
+    "bridge_outcome_headcount": {
+      "path": "workbook/p2/p2_3/p4_handoff_candidate/local1/bridge_outcome_headcount_v2.csv",
+      "sha256": "0ee76ab52f2f78e841ef341d740e9098cfafb1d7c1d277f577657d1b3d454bea",
+      "size_bytes": 2046842
+    },
+    "bridge_department_major7": {
+      "path": "workbook/p2/p2_3/p4_handoff_candidate/local1/bridge_department_major7_v2.csv",
+      "sha256": "7a92574bd2d8928304cffb08ecbafa4a3ce2c3112a3afe19ae2852e16138fbab",
+      "size_bytes": 1047119
+    },
+    "dim_school_split": {
+      "path": "workbook/p2/p2_3/p4_handoff_candidate/local1/dim_school_split.csv",
+      "sha256": "85c2c851ddcfd02d5ead41dbd9424124e4ef1993347842c031e487e8f2a13583",
+      "size_bytes": 10962
+    },
+    "model_sample_registry": {
+      "path": "workbook/p2/p2_3/p4_handoff_candidate/local1/model_sample_registry.csv",
+      "sha256": "b3389c0051d9b9eeca555f43cd8194d99574c2444df68cd8273232f7f9a553f8",
+      "size_bytes": 1641
+    },
+    "model_sample_membership": {
+      "path": "workbook/p2/p2_3/p4_handoff_candidate/local1/model_sample_membership.parquet",
+      "sha256": "ef7eb73a35e9a058959747272d1b1e832622c415adeb363754dcb0fcb507c830",
+      "size_bytes": 97788
+    },
+    "department_model_column_registry": {
+      "path": "workbook/p2/p2_3/p4_handoff_candidate/local1/department_model_column_registry.csv",
+      "sha256": "5871ec9ae36dd0e078eed403c67322784e3880d2fa82849671be45a6d252e126",
+      "size_bytes": 14689
+    },
+    "p4_feature_set_registry": {
+      "path": "workbook/p2/p2_3/p4_handoff_candidate/local1/p4_feature_set_registry.csv",
+      "sha256": "776c7072444b5abee02f9a20942ca24cff5ec5c684593299a2c8c43dbf7a6529",
+      "size_bytes": 588
+    },
+    "local1_p4_manifest": {
+      "path": "workbook/p2/p2_3/p4_handoff_candidate/local1/P4_HANDOFF_MANIFEST.json",
+      "sha256": "43efe85d7379b752d166efdc80c64886b758af7d50067e5e435883e53849d621",
+      "size_bytes": 67404
+    },
+    "local2_handoff_manifest": {
+      "path": "workbook/p2/p2_3/shared_handoff/LOCAL2_HANDOFF_MANIFEST.json",
+      "sha256": "24609ead002563288af769758e91bf26b82f972e0be7e14c2b2ea607b707df6a",
+      "size_bytes": 4012
+    }
+  }
+}

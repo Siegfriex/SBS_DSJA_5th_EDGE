@@ -1,0 +1,10 @@
+{
+  "created_at_utc": "2026-07-14T00:20:41.956692+00:00",
+  "project_root": "/home/sieg/projects-wsl/SBS_dataScience",
+  "submission_root": "/home/sieg/projects-wsl/SBS_dataScience/workbook/p2/p2_integrated_engineering_final_submission_v1",
+  "python": "3.12.3 (main, Jun 19 2026, 12:46:00) [GCC 13.3.0]",
+  "platform": "Linux-6.18.33.2-microsoft-standard-WSL2-x86_64-with-glibc2.39",
+  "raw_files": 30,
+  "derived_files": 136,
+  "provenance_files": 11
+}

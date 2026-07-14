@@ -1,0 +1,101 @@
+[
+  {
+    "source_relative_path": "workbook/p2/p2_4/p4_preprocessing_integrity_v1/qa/data_source_file_inventory.csv",
+    "submission_relative_path": "provenance/source_catalog/data_source_file_inventory.csv",
+    "size_bytes": 11465,
+    "shape": "30 x 11",
+    "sha256": "67f79d5ba4b62edc7231c8a67063730ace686aabba7f2325230af8cb4589b5a3",
+    "loader": "csv",
+    "load_error": ""
+  },
+  {
+    "source_relative_path": "workbook/p2/p2_4/p4_preprocessing_integrity_v1/qa/data_source_catalog.csv",
+    "submission_relative_path": "provenance/source_catalog/data_source_catalog.csv",
+    "size_bytes": 8221,
+    "shape": "9 x 13",
+    "sha256": "524555d9ddfad44908fac25969d9732d410bc212c2089fecde4b2ebfd6df6db9",
+    "loader": "csv",
+    "load_error": ""
+  },
+  {
+    "source_relative_path": "workbook/p2/p2_4/p4_preprocessing_integrity_v1/reports/DATA_SOURCE_CATALOG.md",
+    "submission_relative_path": "provenance/DATA_SOURCE_CATALOG.md",
+    "size_bytes": 23469,
+    "shape": "",
+    "sha256": "3a8b0fb285d7d01efd3b19d855525265bb1e94c48353205cae0079c37bd7ef85",
+    "loader": "unprofiled",
+    "load_error": ""
+  },
+  {
+    "source_relative_path": "workbook/p2/p2_4/p4_preprocessing_integrity_v1/reports/DATA_PREPROCESSING_INTEGRITY_REPORT.md",
+    "submission_relative_path": "provenance/DATA_PREPROCESSING_INTEGRITY_REPORT.md",
+    "size_bytes": 14016,
+    "shape": "",
+    "sha256": "ea1f7abbdf130725b57b213c90ded70398d60c3c6953b140f8f221e09fb61f96",
+    "loader": "unprofiled",
+    "load_error": ""
+  },
+  {
+    "source_relative_path": "workbook/p2/p2_3/p4_handoff_candidate/P4_CANDIDATE_HANDOFF_LOCK.json",
+    "submission_relative_path": "provenance/P4_CANDIDATE_HANDOFF_LOCK.json",
+    "size_bytes": 3646,
+    "shape": "dict:4",
+    "sha256": "ebc866cca7c8b22ab7b800759e4e916b9f6f53747af1c7cbc289b71842e23af7",
+    "loader": "json",
+    "load_error": ""
+  },
+  {
+    "source_relative_path": "workbook/p2/p2_3/p4_handoff_candidate/P4_CANDIDATE_HANDOFF_LOCK.sha256",
+    "submission_relative_path": "provenance/P4_CANDIDATE_HANDOFF_LOCK.sha256",
+    "size_bytes": 97,
+    "shape": "",
+    "sha256": "049ee7eca0b0579d916c624fcd99c19dd02275537ffe3d7f5e4452ee1d354725",
+    "loader": "unprofiled",
+    "load_error": ""
+  },
+  {
+    "source_relative_path": "workbook/p2/p2_3/p4_handoff_candidate/shared/P4_HANDOFF_MANIFEST.json",
+    "submission_relative_path": "provenance/P4_HANDOFF_MANIFEST.json",
+    "size_bytes": 67404,
+    "shape": "dict:29",
+    "sha256": "b9ea9528b24630f15be8913012b40df81692d16e849120bb825f29ef35c01661",
+    "loader": "json",
+    "load_error": ""
+  },
+  {
+    "source_relative_path": "workbook/p2/p2_integrated_engineering_blueprint_v1/cell_runs/20260713T091641Z_5b1a3d5/HANDOFF_TO_CHATGPT.md",
+    "submission_relative_path": "provenance/HANDOFF_TO_CHATGPT.md",
+    "size_bytes": 2651,
+    "shape": "",
+    "sha256": "80dbb1ad7f178e2d7a7369de064a319c1b27dc67d1113b51f7f71838b07af985",
+    "loader": "unprofiled",
+    "load_error": ""
+  },
+  {
+    "source_relative_path": "workbook/p2/p2_integrated_engineering_blueprint_v1/runs/20260713T084211Z_5b1a3d5/HANDOFF_TO_CHATGPT.md",
+    "submission_relative_path": "provenance/HANDOFF_TO_CHATGPT.md",
+    "size_bytes": 3333,
+    "shape": "",
+    "sha256": "85e21bb31d6f74643aae16fc5a7473de3ec4c9ae3c7efd90699f94cc15f84e4a",
+    "loader": "unprofiled",
+    "load_error": ""
+  },
+  {
+    "source_relative_path": "workbook/p2/p2_integrated_engineering_blueprint_v1/P2_INTEGRATED_ENGINEERING_BLUEPRINT_CELL_BY_CELL.ipynb",
+    "submission_relative_path": "provenance/blueprints/P2_INTEGRATED_ENGINEERING_BLUEPRINT_CELL_BY_CELL.ipynb",
+    "size_bytes": 210359,
+    "shape": "",
+    "sha256": "a69fe53072bf9261639b099025dc3eb837de7e8ef618e537f4170aa17e106039",
+    "loader": "unprofiled",
+    "load_error": ""
+  },
+  {
+    "source_relative_path": "workbook/p2/p2_integrated_engineering_blueprint_v1/P2_INTEGRATED_ENGINEERING_BLUEPRINT_ONE_CELL.ipynb",
+    "submission_relative_path": "provenance/blueprints/P2_INTEGRATED_ENGINEERING_BLUEPRINT_ONE_CELL.ipynb",
+    "size_bytes": 52497,
+    "shape": "",
+    "sha256": "5afdbbd9506ab9d879e3ad1a0983a94e18126aa2cacc597b830d89d907568164",
+    "loader": "unprofiled",
+    "load_error": ""
+  }
+]

@@ -1,0 +1,9 @@
+﻿gate,status,evidence
+G01_raw_data_clone,PASS,qa/raw_data_integrity.csv
+G02_derived_data_clone,PASS,qa/derived_data_integrity.csv
+G03_active_mart_integrity,PASS,qa/active_mart_integrity.csv
+G04_source_lineage,PASS,qa/source_lineage_summary.csv
+G05_registry_coverage,WARN,qa/registry_audit.csv
+G06_sample_split,PASS,qa/sample_split_integrity.csv
+G07_target_coverage,PASS,qa/target_coverage_profile.csv
+G08_phase_result_readout,PASS,qa/phase_result_readout.csv

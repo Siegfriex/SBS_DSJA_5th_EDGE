@@ -1,0 +1,40 @@
+﻿group,group_name,topic,kind,topic_id,classification_version
+2,경제활동 상태,성별 경제활동 상태,categorical,GOMS_001,all
+2,경제활동 상태,학교유형별 경제활동 상태,categorical,GOMS_002,all
+2,경제활동 상태,전공계열별 경제활동 상태,categorical,GOMS_003,all
+3,현재 일자리,취업자의 성별 산업 분포,categorical,GOMS_004,all
+3,현재 일자리,취업자의 학교유형별 산업 분포,categorical,GOMS_005,all
+3,현재 일자리,취업자의 전공별 산업 분포,categorical,GOMS_006,all
+3,현재 일자리,취업자의 성별 직업 분포(~2016),categorical,GOMS_007,pre_2017
+3,현재 일자리,취업자의 성별 직업 분포(2017~),categorical,GOMS_008,post_2017
+3,현재 일자리,취업자의 학교유형별 직업 분포(~2016),categorical,GOMS_009,pre_2017
+3,현재 일자리,취업자의 학교유형별 직업 분포(2017~),categorical,GOMS_010,post_2017
+3,현재 일자리,취업자의 전공별 직업 분포(~2016),categorical,GOMS_011,pre_2017
+3,현재 일자리,취업자의 전공별 직업 분포(2017~),categorical,GOMS_012,post_2017
+3,현재 일자리,취업자의 성별 사업체 규모,categorical,GOMS_013,all
+3,현재 일자리,취업자의 학교유형별 사업체 규모,categorical,GOMS_014,all
+3,현재 일자리,취업자의 전공별 사업체 규모,categorical,GOMS_015,all
+3,현재 일자리,취업자의 성별 사업체 유형,categorical,GOMS_016,all
+3,현재 일자리,취업자의 학교유형별 사업체 유형,categorical,GOMS_017,all
+3,현재 일자리,취업자의 전공별 사업체 유형,categorical,GOMS_018,all
+3,현재 일자리,취업자의 성별 종사상 지위,categorical,GOMS_019,all
+3,현재 일자리,취업자의 학교유형별 종사상 지위,categorical,GOMS_020,all
+3,현재 일자리,취업자의 전공별 종사상 지위,categorical,GOMS_021,all
+4,근로소득,성별 월평균 근로소득,continuous,GOMS_022,all
+4,근로소득,학교유형별 월평균 근로소득,continuous,GOMS_023,all
+4,근로소득,전공계열별 월평균 근로소득,continuous,GOMS_024,all
+4,근로소득,산업별 월평균 근로소득,continuous,GOMS_025,all
+4,근로소득,직업별 월평균 근로소득(~2016),continuous,GOMS_026,pre_2017
+4,근로소득,직업별 월평균 근로소득(2017~),continuous,GOMS_027,post_2017
+4,근로소득,사업체 규모별 월평균 근로소득,continuous,GOMS_028,all
+4,근로소득,사업체 유형별 월평균 근로소득,continuous,GOMS_029,all
+4,근로소득,종사상지위별 월평균 근로소득,continuous,GOMS_030,all
+5,근로시간,성별 주당 평균 근로시간,continuous,GOMS_031,all
+5,근로시간,학교유형별 주당 평균 근로시간,continuous,GOMS_032,all
+5,근로시간,전공계열별 주당 평균 근로시간,continuous,GOMS_033,all
+5,근로시간,산업별 주당 평균 근로시간,continuous,GOMS_034,all
+5,근로시간,직업별 주당 평균 근로시간(~2016),continuous,GOMS_035,pre_2017
+5,근로시간,직업별 주당 평균 근로시간(2017~),continuous,GOMS_036,post_2017
+5,근로시간,사업체 규모별 주당 평균 근로시간,continuous,GOMS_037,all
+5,근로시간,사업체 유형별 주당 평균 근로시간,continuous,GOMS_038,all
+5,근로시간,종사상지위별 주당 평균 근로시간,continuous,GOMS_039,all
