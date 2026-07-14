@@ -1,0 +1,72 @@
+{
+  "bundle_name": "P2_2_CRAWL_ADMISSION_GOMS_SUBMISSION_20260714",
+  "created_at_utc": "2026-07-14T05:37:14+00:00",
+  "bundle_root": "workbook/p2/p2_2/submission/P2_2_CRAWL_ADMISSION_GOMS_SUBMISSION_20260714",
+  "zip_path": "workbook/p2/p2_2/submission/P2_2_CRAWL_ADMISSION_GOMS_SUBMISSION_20260714.zip",
+  "file_count": 578,
+  "notebook_execution": [
+    {
+      "notebook": "notebooks_executed/01_crawl_eda.executed.ipynb",
+      "code_cells": 29,
+      "executed_code_cells": 29,
+      "error_output_count": 0,
+      "status": "PASS",
+      "errors": ""
+    },
+    {
+      "notebook": "notebooks_executed/02_gate2_admission_rules.executed.ipynb",
+      "code_cells": 8,
+      "executed_code_cells": 8,
+      "error_output_count": 0,
+      "status": "PASS",
+      "errors": ""
+    },
+    {
+      "notebook": "notebooks_executed/03_gate2_final_rule_confirmation.executed.ipynb",
+      "code_cells": 8,
+      "executed_code_cells": 8,
+      "error_output_count": 0,
+      "status": "PASS",
+      "errors": ""
+    },
+    {
+      "notebook": "notebooks_executed/04_h1_h2_measurement_validation.executed.ipynb",
+      "code_cells": 36,
+      "executed_code_cells": 36,
+      "error_output_count": 0,
+      "status": "PASS",
+      "errors": ""
+    },
+    {
+      "notebook": "notebooks_executed/05_P2_G1_admission_visual_eda.executed.ipynb",
+      "code_cells": 1,
+      "executed_code_cells": 1,
+      "error_output_count": 0,
+      "status": "PASS",
+      "errors": ""
+    },
+    {
+      "notebook": "notebooks_executed/06_P2_G1_kedi_goms_subject.executed.ipynb",
+      "code_cells": 9,
+      "executed_code_cells": 9,
+      "error_output_count": 0,
+      "status": "PASS",
+      "errors": ""
+    }
+  ],
+  "excluded_patterns": {
+    "dirs": [
+      ".ipynb_checkpoints",
+      "__pycache__"
+    ],
+    "suffixes": [
+      ".pyc",
+      ".pyo"
+    ],
+    "name_parts": [
+      ".bak",
+      "bak_before",
+      "~"
+    ]
+  }
+}

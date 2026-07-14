@@ -1,159 +1,71 @@
-<div align="center">
+# DATAMINING 브랜치: 크롤러 산출물 제출 패키지
 
-**University Grade Signal Research Portfolio**<br>
-[![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python)](https://www.python.org/)
-[![Jupyter](https://img.shields.io/badge/Jupyter-Research_Notebooks-F37626?logo=jupyter)](https://jupyter.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-ETL_QA_Modeling-150458?logo=pandas)](https://pandas.pydata.org/)
-[![Parquet](https://img.shields.io/badge/Parquet-Reproducible_Handoffs-4B8BBE)](https://parquet.apache.org/)
+이 브랜치는 SBS DSJA 5기 EDGE 프로젝트의 데이터마이닝/크롤링 산출물을 제출용으로 정리한 전용 브랜치다. 핵심 목적은 웹 재수집에 의존하지 않고, 이미 저장된 HTML 캐시와 원자료를 기준으로 입시 데이터와 GOMS 주제별 통계를 재현 가능하게 검증하는 것이다.
 
-# SBS DSJA 5th EDGE — P2 Grade Signal Portfolio
+## 제출 파일
 
-**같은 A학점은 정말 같은 의미인가?**<br>
-2024년 대학-학과 단위 성적분포를 입결, 학교/전공구조, 노동시장 context, 취업성과, 대학원 진학성과와 연결해 검증한 엔지니어링 리서치 포트폴리오
+- 전체 제출 ZIP: `datamining_submission/package/P2_2_CRAWL_ADMISSION_GOMS_SUBMISSION_20260714.zip`
+- ZIP 해시: `datamining_submission/package/P2_2_CRAWL_ADMISSION_GOMS_SUBMISSION_20260714.zip.sha256`
+- 미리보기 폴더: `datamining_submission/preview/`
 
-</div>
+ZIP에는 전체 HTML 캐시, CSV/Parquet 원자료, 정규화 산출물, 실행 완료 노트북, 보고서, 재현 코드, 파일 해시 매니페스트가 들어 있다. GitHub에서 바로 확인할 수 있도록 실행 노트북과 보고서, 매니페스트, 재현 코드는 `preview` 폴더에도 별도로 배치했다.
 
----
+## 데이터 범위
 
-## Repository Policy
+| 구분 | 포함 내용 | 수량 |
+|---|---:|---:|
+| ADIGA 핵심 입시 HTML 캐시 | 51개 대학 정시 입시결과 원문 HTML | 51개 |
+| ADIGA 확장 입시 HTML 캐시 | 병합·확장 대상 대학 HTML | 163개 |
+| GOMS 주제별 페이지 HTML | 고용·소득·근로시간 주제별 스냅샷 | 57개 |
+| 실행 완료 노트북 | 캐시 기반 검증·정제·시각화 노트북 | 6개 |
+| 제출 패키지 파일 | 정제 후 ZIP 내부 파일 | 579개 |
 
-`main`은 포트폴리오 랜딩 README만 유지한다. 실제 연구 산출물은 단계별 브랜치에 분리했다.
+## 실행 검증 결과
 
-| Branch | Role | Representative Notebook |
-|---|---|---|
-| [`P2_1_3`](https://github.com/Siegfriex/SBS_DSJA_5th_EDGE/tree/P2_1_3) | Earlier P2-G3/G4 public package, audit summary, data card, research specification | [`docs/P2_G4_RESEARCH_SPEC.md`](https://github.com/Siegfriex/SBS_DSJA_5th_EDGE/blob/P2_1_3/docs/P2_G4_RESEARCH_SPEC.md) |
-| [`P2_2`](https://github.com/Siegfriex/SBS_DSJA_5th_EDGE/tree/P2_2) | Data understanding, admission validation, H1-H7 article-style EDA | [`h1_h7_intelligence_briefing.ipynb`](https://github.com/Siegfriex/SBS_DSJA_5th_EDGE/blob/P2_2/workbook/p2/p2_2/h1_h7_intelligence_briefing.ipynb) |
-| [`P2_3`](https://github.com/Siegfriex/SBS_DSJA_5th_EDGE/tree/P2_3) | GOMS bridge, independent audit, P4 handoff candidate | [`p3_1.ipynb`](https://github.com/Siegfriex/SBS_DSJA_5th_EDGE/blob/P2_3/workbook/p2/p2_3/p3_1.ipynb) |
-| [`P2_4`](https://github.com/Siegfriex/SBS_DSJA_5th_EDGE/tree/P2_4) | Strict grade formation, model readiness, residual/outcome chain | [`p2_grade_formation_strict.ipynb`](https://github.com/Siegfriex/SBS_DSJA_5th_EDGE/blob/P2_4/workbook/p2/p2_4/p2_grade_formation_v1_strict/p2_grade_formation_strict.ipynb) |
-| [`P2_5`](https://github.com/Siegfriex/SBS_DSJA_5th_EDGE/tree/P2_5) | Major7 heterogeneity modeling and visual A2 summary | [`P2_G5_A2.ipynb`](https://github.com/Siegfriex/SBS_DSJA_5th_EDGE/blob/P2_5/workbook/p2/p2_5/P2_G5_A2.ipynb) |
-| [`P2_6`](https://github.com/Siegfriex/SBS_DSJA_5th_EDGE/tree/P2_6) | Final strict-chain run-up and confirmatory closure | [`P2_G6_1.ipynb`](https://github.com/Siegfriex/SBS_DSJA_5th_EDGE/blob/P2_6/workbook/p2/P2_6/P2_G6_1.ipynb) |
+`datamining_submission/preview/run_logs/notebook_execution_summary.csv` 기준으로 아래 노트북은 모두 새로 실행했고, 에러 출력 없이 통과했다.
 
----
+| 순서 | 노트북 | 역할 | 상태 |
+|---:|---|---|---|
+| 1 | `01_crawl_eda.executed.ipynb` | ADIGA 크롤 원자료 EDA와 Gate 1/Gate 2 준비도 점검 | 통과 |
+| 2 | `02_gate2_admission_rules.executed.ipynb` | 모집요강 반영규칙 후보 표·텍스트 추출 | 통과 |
+| 3 | `03_gate2_final_rule_confirmation.executed.ipynb` | 대학별 최종 규칙 확인 요약 | 통과 |
+| 4 | `04_h1_h2_measurement_validation.executed.ipynb` | H1/H2 측정 검증과 수동검토 경계 확인 | 통과 |
+| 5 | `05_P2_G1_admission_visual_eda.executed.ipynb` | 최종 입시 프록시 시각화 EDA | 통과 |
+| 6 | `06_P2_G1_kedi_goms_subject.executed.ipynb` | GOMS 주제별 원자료 정규화와 QA | 통과 |
 
-## Research Question
+## 폴더 구성
 
-> **대학별·학과별 A비율 차이는 단순한 학점 관대성인가, 아니면 입학생 구성·전공구조·평가환경을 반영하는 신호인가? 그리고 이 신호는 취업시장과 대학원 진학시장에서 다르게 읽히는가?**
-
-이 프로젝트는 대학 순위표를 만드는 작업이 아니다. 분석 단위는 `2024년 x 학교 x 캠퍼스 x 학과/전공`이며, 결과는 개인 GPA가 아니라 집단 수준의 조건부 연관성으로 해석한다.
-
----
-
-## Engineering Research Flow
-
-```mermaid
-flowchart LR
-    P22[P2_2 Data Understanding<br/>admission validation / H1-H7 EDA]
-    P23[P2_3 Bridge + Audit<br/>GOMS context / P4 handoff]
-    P24[P2_4 Strict Modeling<br/>grade formation / residual / outcomes]
-    P25[P2_5 Heterogeneity<br/>major7 RAW_A and residual signals]
-    P26[P2_6 Closure<br/>strict-chain run-up]
-
-    P22 --> P23 --> P24 --> P25 --> P26
+```text
+datamining_submission/
+├── package/
+│   ├── P2_2_CRAWL_ADMISSION_GOMS_SUBMISSION_20260714.zip
+│   └── P2_2_CRAWL_ADMISSION_GOMS_SUBMISSION_20260714.zip.sha256
+└── preview/
+    ├── notebooks_executed/
+    ├── reports/
+    ├── manifests/
+    ├── run_logs/
+    └── code_repro/
 ```
 
-The core engineering principle is **contract-first modeling**:
+## 정제 기준
 
-1. Validate source and measurement assumptions before modeling.
-2. Freeze handoff manifests and lineage hashes before downstream use.
-3. Keep blocked branches blocked until the feature contract is approved.
-4. Separate development fit, cross-validation, and locked-test interpretation.
-5. Treat coefficients and AME values as conditional associations, not causal effects.
+제출 ZIP과 미리보기 폴더에서는 아래 항목을 제외했다.
 
----
+- 파이썬 바이트코드와 `__pycache__`
+- 주피터 체크포인트 폴더
+- 중간 백업 파일과 임시 파일
+- 원본 작업트리의 unrelated 파일
 
-## Branch Details
+반대로 재현에 필요한 캐시, 원자료, 정규화 결과, 실행 완료 노트북, 보고서, 재현 스크립트, 해시 매니페스트는 보존했다.
 
-### P2_2 — Data Understanding and H1-H7 EDA
+## 핵심 해석
 
-Purpose: establish the evidence base before modeling.<br>
-Representative notebook: [`h1_h7_intelligence_briefing.ipynb`](https://github.com/Siegfriex/SBS_DSJA_5th_EDGE/blob/P2_2/workbook/p2/p2_2/h1_h7_intelligence_briefing.ipynb)
+이 브랜치의 크롤러 산출물은 최종 통계모형의 결론이 아니라, 모델링 이전의 데이터 수집·측정·검증 기반이다. ADIGA 입시결과는 대학별 산식과 공개 범위가 다르기 때문에 원자료 그대로 대학 간 동일 척도라고 가정하면 안 된다. 따라서 이 패키지는 다음 판단을 가능하게 한다.
 
-Includes:
+- 어떤 대학과 모집단위가 실제 HTML 캐시로 확인되는지
+- 어느 행이 header-only, 중복 후보, 비교가능성 경고를 갖는지
+- 모집요강 규칙 추출이 어디까지 자동화되었고 어디서 검토가 필요한지
+- GOMS 주제별 통계가 어떤 원자료와 정규화 산출물로 이어지는지
 
-- grade distribution and admission-selectivity EDA
-- cached admission crawl validation
-- H1-H7 article-style briefing
-- major-level integrated sample and missingness semantics
-- validation outputs and figures
-
-### P2_3 — GOMS Bridge and Independent Audit
-
-Purpose: connect grade-signal data with labor-market context and produce a downstream handoff.<br>
-Representative notebook: [`p3_1.ipynb`](https://github.com/Siegfriex/SBS_DSJA_5th_EDGE/blob/P2_3/workbook/p2/p2_3/p3_1.ipynb)
-
-Includes:
-
-- independent P2-G3 audit report
-- GOMS major-profile artifacts
-- local1/local2 manifests
-- P4 candidate handoff lock
-- bridge QA and mapping evidence
-
-### P2_4 — Strict Grade-Formation Modeling
-
-Purpose: model A-rate formation under strict-clean contracts and produce residual/outcome branches.<br>
-Representative notebook: [`p2_grade_formation_strict.ipynb`](https://github.com/Siegfriex/SBS_DSJA_5th_EDGE/blob/P2_4/workbook/p2/p2_4/p2_grade_formation_v1_strict/p2_grade_formation_strict.ipynb)
-
-Includes:
-
-- P2-S nested OLS and locked-test reporting
-- GAM nonlinearity checks
-- MixedLM variance decomposition
-- P3 residual artifacts
-- P4 strict outcome-modeling artifacts
-- model-readiness and preprocessing-integrity reports
-
-### P2_5 — Major7 Heterogeneity
-
-Purpose: test whether the A-rate signal behaves differently by major group and outcome.<br>
-Representative notebook: [`P2_G5_A2.ipynb`](https://github.com/Siegfriex/SBS_DSJA_5th_EDGE/blob/P2_5/workbook/p2/p2_5/P2_G5_A2.ipynb)
-
-Includes:
-
-- strict major7 AME estimates
-- RAW_A and residual branch separation
-- P5 V1-vs-strict sensitivity audit
-- A2 visual insight notebook, figures, and report
-- context profile limitations with seven major groups
-
-### P2_6 — Final Strict-Chain Run-up
-
-Purpose: close the research chain and make the final cross-branch interpretation auditable.<br>
-Representative notebook: [`P2_G6_1.ipynb`](https://github.com/Siegfriex/SBS_DSJA_5th_EDGE/blob/P2_6/workbook/p2/P2_6/P2_G6_1.ipynb)
-
-Includes:
-
-- final strict-chain run-up report
-- confirmatory closure notebook
-- QA and manifest evidence
-- final figures and decision matrices
-
----
-
-## Current Published Branches
-
-| Branch | Folder Scope | Status |
-|---|---|---|
-| `P2_2` | `workbook/p2/p2_2/` | published |
-| `P2_3` | `workbook/p2/p2_3/` | published |
-| `P2_4` | `workbook/p2/p2_4/` | published |
-| `P2_5` | `workbook/p2/p2_5/` | published |
-| `P2_6` | `workbook/p2/P2_6/` | published |
-
----
-
-## Interpretation Guardrails
-
-- Do not treat A-rate coefficients as causal effects.
-- Do not merge P2-S and P2-Q conclusions when P2-Q is feature-contract blocked.
-- Do not interpret major7 context profiles as confirmatory meta-regression with only seven groups.
-- Do not compare development R2 and locked-test metrics as the same evidence.
-- Use branch manifests and README files to verify which upstream artifacts each stage reads.
-
----
-
-<div align="center">
-
-**P2 Grade Signal Portfolio** — Data engineering, measurement validation, statistical modeling, and visual research packaging
-
-</div>
+최종 연구 결론은 `FINAL` 브랜치에서 통합 노트북과 최종 포트폴리오 형태로 정리한다.

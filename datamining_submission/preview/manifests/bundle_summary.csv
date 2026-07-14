@@ -1,0 +1,14 @@
+﻿section,file_count,size_bytes
+code_repro,11,288696
+data_adiga_core_51,114,100080819
+data_adiga_full_163,177,159218697
+data_goms_subject_crawl,185,24101446
+documentation,1,1847
+execution_logs,1,523
+manifests,1,136242
+notebooks_executed,6,3617606
+notebooks_source,7,1479146
+outputs_actual_admission_2024,31,13382892
+outputs_final_admission,20,21547822
+outputs_final_visual_eda,16,2651395
+reports,7,23520
