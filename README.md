@@ -1,159 +1,79 @@
-<div align="center">
+# SBS DSJA 5기 EDGE 데이터사이언스 최종 포트폴리오
 
-**University Grade Signal Research Portfolio**<br>
-[![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python)](https://www.python.org/)
-[![Jupyter](https://img.shields.io/badge/Jupyter-Research_Notebooks-F37626?logo=jupyter)](https://jupyter.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-ETL_QA_Modeling-150458?logo=pandas)](https://pandas.pydata.org/)
-[![Parquet](https://img.shields.io/badge/Parquet-Reproducible_Handoffs-4B8BBE)](https://parquet.apache.org/)
+## 프로젝트 결론
 
-# SBS DSJA 5th EDGE — P2 Grade Signal Portfolio
+이 프로젝트는 “같은 A학점은 정말 같은 의미인가?”라는 질문에서 출발했다. 2024년 대학-학과 단위 성적분포를 입시 선택성, 학교·학과 구조, 전공계열, 노동시장 맥락, 취업성과, 대학원 진학성과와 연결해 검증했다.
 
-**같은 A학점은 정말 같은 의미인가?**<br>
-2024년 대학-학과 단위 성적분포를 입결, 학교/전공구조, 노동시장 context, 취업성과, 대학원 진학성과와 연결해 검증한 엔지니어링 리서치 포트폴리오
+최종 결론은 다음과 같다.
 
-</div>
+> 대학·학과별 A비율은 단순한 학점 관대성 지표 하나로 해석하기 어렵다. 입학생 구성, 전공구조, 학교 맥락, 취업·진학 성과와 함께 읽어야 하는 조건부 신호다. 다만 이 분석은 개인 단위 인과효과가 아니라 대학-학과 단위 집단 자료에서 관찰된 조건부 연관성이다.
 
----
+최종 제출 상태는 `PASS_WITH_WARNINGS`다. 이는 실패가 아니라, 데이터와 해석의 경계를 명시한 상태다. Q/selectivity branch는 launch-ready 결론으로 쓰지 않았고, registry coverage와 split merge 제한은 QA 파일과 최종 보고서에 남겼다.
 
-## Repository Policy
+## 최종 브랜치
 
-`main`은 포트폴리오 랜딩 README만 유지한다. 실제 연구 산출물은 단계별 브랜치에 분리했다.
-
-| Branch | Role | Representative Notebook |
+| 브랜치 | 역할 | 핵심 위치 |
 |---|---|---|
-| [`P2_1_3`](https://github.com/Siegfriex/SBS_DSJA_5th_EDGE/tree/P2_1_3) | Earlier P2-G3/G4 public package, audit summary, data card, research specification | [`docs/P2_G4_RESEARCH_SPEC.md`](https://github.com/Siegfriex/SBS_DSJA_5th_EDGE/blob/P2_1_3/docs/P2_G4_RESEARCH_SPEC.md) |
-| [`P2_2`](https://github.com/Siegfriex/SBS_DSJA_5th_EDGE/tree/P2_2) | Data understanding, admission validation, H1-H7 article-style EDA | [`h1_h7_intelligence_briefing.ipynb`](https://github.com/Siegfriex/SBS_DSJA_5th_EDGE/blob/P2_2/workbook/p2/p2_2/h1_h7_intelligence_briefing.ipynb) |
-| [`P2_3`](https://github.com/Siegfriex/SBS_DSJA_5th_EDGE/tree/P2_3) | GOMS bridge, independent audit, P4 handoff candidate | [`p3_1.ipynb`](https://github.com/Siegfriex/SBS_DSJA_5th_EDGE/blob/P2_3/workbook/p2/p2_3/p3_1.ipynb) |
-| [`P2_4`](https://github.com/Siegfriex/SBS_DSJA_5th_EDGE/tree/P2_4) | Strict grade formation, model readiness, residual/outcome chain | [`p2_grade_formation_strict.ipynb`](https://github.com/Siegfriex/SBS_DSJA_5th_EDGE/blob/P2_4/workbook/p2/p2_4/p2_grade_formation_v1_strict/p2_grade_formation_strict.ipynb) |
-| [`P2_5`](https://github.com/Siegfriex/SBS_DSJA_5th_EDGE/tree/P2_5) | Major7 heterogeneity modeling and visual A2 summary | [`P2_G5_A2.ipynb`](https://github.com/Siegfriex/SBS_DSJA_5th_EDGE/blob/P2_5/workbook/p2/p2_5/P2_G5_A2.ipynb) |
-| [`P2_6`](https://github.com/Siegfriex/SBS_DSJA_5th_EDGE/tree/P2_6) | Final strict-chain run-up and confirmatory closure | [`P2_G6_1.ipynb`](https://github.com/Siegfriex/SBS_DSJA_5th_EDGE/blob/P2_6/workbook/p2/P2_6/P2_G6_1.ipynb) |
+| [`DATAMINING`](https://github.com/Siegfriex/SBS_DSJA_5th_EDGE/tree/DATAMINING) | ADIGA/GOMS 크롤러와 캐시 기반 데이터마이닝 제출 패키지 | `datamining_submission/` |
+| [`FINAL`](https://github.com/Siegfriex/SBS_DSJA_5th_EDGE/tree/FINAL) | 통합 엔지니어링 최종 결론 포트폴리오 | `final_portfolio/` |
+| [`P2_2`](https://github.com/Siegfriex/SBS_DSJA_5th_EDGE/tree/P2_2) | 입시 데이터 이해, H1-H7 EDA, 검증 노트북 | `workbook/p2/p2_2/` |
+| [`P2_3`](https://github.com/Siegfriex/SBS_DSJA_5th_EDGE/tree/P2_3) | GOMS bridge, 독립 감사, P4 handoff 후보 | `workbook/p2/p2_3/` |
+| [`P2_4`](https://github.com/Siegfriex/SBS_DSJA_5th_EDGE/tree/P2_4) | 엄격한 학점 형성 모델링과 residual/outcome chain | `workbook/p2/p2_4/` |
+| [`P2_5`](https://github.com/Siegfriex/SBS_DSJA_5th_EDGE/tree/P2_5) | 전공 7계열 이질성 모델링과 A2 시각화 | `workbook/p2/p2_5/` |
+| [`P2_6`](https://github.com/Siegfriex/SBS_DSJA_5th_EDGE/tree/P2_6) | 최종 strict-chain run-up과 confirmatory closure | `workbook/p2/P2_6/` |
 
----
+`main` 브랜치는 전체 프로젝트를 안내하는 랜딩 README만 유지한다. 실제 산출물은 목적별 브랜치에 분리했다.
 
-## Research Question
+## 최종 검증 요약
 
-> **대학별·학과별 A비율 차이는 단순한 학점 관대성인가, 아니면 입학생 구성·전공구조·평가환경을 반영하는 신호인가? 그리고 이 신호는 취업시장과 대학원 진학시장에서 다르게 읽히는가?**
+| 항목 | 값 |
+|---|---:|
+| 최종 분석 mart 행 수 | 10,242 |
+| 최종 분석 mart 컬럼 수 | 151 |
+| 최종 원자료 파일 수 | 30 |
+| 최종 파생 데이터 파일 수 | 136 |
+| 최종 provenance 파일 수 | 11 |
+| 최종 manifest 검증 행 수 | 207 |
+| 최종 manifest 해시 불일치 | 0 |
+| 최종 실행 노트북 에러 출력 | 0 |
+| cell-by-cell 결론 노트북 에러 출력 | 0 |
+| DATAMINING 실행 노트북 | 6개 모두 통과 |
+| DATAMINING 제출 ZIP 해시 | 일치 |
 
-이 프로젝트는 대학 순위표를 만드는 작업이 아니다. 분석 단위는 `2024년 x 학교 x 캠퍼스 x 학과/전공`이며, 결과는 개인 GPA가 아니라 집단 수준의 조건부 연관성으로 해석한다.
+## 데이터마이닝 산출물
 
----
+`DATAMINING` 브랜치에는 제출용 크롤러 패키지를 정리했다.
 
-## Engineering Research Flow
+- ADIGA 핵심 입시 HTML 캐시: 51개
+- ADIGA 확장 입시 HTML 캐시: 163개
+- GOMS 주제별 페이지 HTML 스냅샷: 57개
+- 실행 완료 노트북: 6개
+- 제출 ZIP: `datamining_submission/package/P2_2_CRAWL_ADMISSION_GOMS_SUBMISSION_20260714.zip`
+- 실행 요약: `datamining_submission/preview/run_logs/notebook_execution_summary.csv`
 
-```mermaid
-flowchart LR
-    P22[P2_2 Data Understanding<br/>admission validation / H1-H7 EDA]
-    P23[P2_3 Bridge + Audit<br/>GOMS context / P4 handoff]
-    P24[P2_4 Strict Modeling<br/>grade formation / residual / outcomes]
-    P25[P2_5 Heterogeneity<br/>major7 RAW_A and residual signals]
-    P26[P2_6 Closure<br/>strict-chain run-up]
+이 브랜치는 최종 모델링 결론이 아니라, 모델링 이전의 수집·측정·검증 기반이다. ADIGA 입시결과는 대학별 산식과 공개 범위가 다르기 때문에, 원자료를 그대로 대학 간 동일 척도로 가정하지 않는다.
 
-    P22 --> P23 --> P24 --> P25 --> P26
-```
+## 최종 포트폴리오 산출물
 
-The core engineering principle is **contract-first modeling**:
+`FINAL` 브랜치에는 최종 결론과 제출 패키지를 정리했다.
 
-1. Validate source and measurement assumptions before modeling.
-2. Freeze handoff manifests and lineage hashes before downstream use.
-3. Keep blocked branches blocked until the feature contract is approved.
-4. Separate development fit, cross-validation, and locked-test interpretation.
-5. Treat coefficients and AME values as conditional associations, not causal effects.
+- 최종 실행 노트북: `final_portfolio/p2_integrated_engineering_final_submission_v1/P2_FINAL_SUBMISSION.ipynb`
+- 최종 결론 설계 노트북: `final_portfolio/p2_integrated_engineering_final_submission_v1/provenance/blueprints/P2_INTEGRATED_ENGINEERING_BLUEPRINT_CELL_BY_CELL.ipynb`
+- 최종 보고서: `final_portfolio/p2_integrated_engineering_final_submission_v1/reports/FINAL_SUBMISSION_REPORT.md`
+- 최종 검증 요약: `final_portfolio/FINAL_VALIDATION_SUMMARY.md`
+- 최종 manifest: `final_portfolio/p2_integrated_engineering_final_submission_v1/FINAL_SUBMISSION_PACKAGE_MANIFEST.csv`
 
----
+## 연구 흐름
 
-## Branch Details
+1. 입시·성적분포·학교 구조 데이터의 측정 가능성을 검증했다.
+2. ADIGA와 GOMS 크롤링/캐시를 정리해 재현 가능한 데이터마이닝 기반을 만들었다.
+3. 학교-학과 단위 분석 mart를 구성하고 handoff manifest와 해시를 고정했다.
+4. A비율, 입시 선택성, 전공계열, 취업·진학 결과를 strict-chain으로 연결했다.
+5. 최종 결론에서는 통과한 근거만 사용하고, 경고가 남은 branch는 해석 범위에서 제한했다.
 
-### P2_2 — Data Understanding and H1-H7 EDA
+## 해석 원칙
 
-Purpose: establish the evidence base before modeling.<br>
-Representative notebook: [`h1_h7_intelligence_briefing.ipynb`](https://github.com/Siegfriex/SBS_DSJA_5th_EDGE/blob/P2_2/workbook/p2/p2_2/h1_h7_intelligence_briefing.ipynb)
-
-Includes:
-
-- grade distribution and admission-selectivity EDA
-- cached admission crawl validation
-- H1-H7 article-style briefing
-- major-level integrated sample and missingness semantics
-- validation outputs and figures
-
-### P2_3 — GOMS Bridge and Independent Audit
-
-Purpose: connect grade-signal data with labor-market context and produce a downstream handoff.<br>
-Representative notebook: [`p3_1.ipynb`](https://github.com/Siegfriex/SBS_DSJA_5th_EDGE/blob/P2_3/workbook/p2/p2_3/p3_1.ipynb)
-
-Includes:
-
-- independent P2-G3 audit report
-- GOMS major-profile artifacts
-- local1/local2 manifests
-- P4 candidate handoff lock
-- bridge QA and mapping evidence
-
-### P2_4 — Strict Grade-Formation Modeling
-
-Purpose: model A-rate formation under strict-clean contracts and produce residual/outcome branches.<br>
-Representative notebook: [`p2_grade_formation_strict.ipynb`](https://github.com/Siegfriex/SBS_DSJA_5th_EDGE/blob/P2_4/workbook/p2/p2_4/p2_grade_formation_v1_strict/p2_grade_formation_strict.ipynb)
-
-Includes:
-
-- P2-S nested OLS and locked-test reporting
-- GAM nonlinearity checks
-- MixedLM variance decomposition
-- P3 residual artifacts
-- P4 strict outcome-modeling artifacts
-- model-readiness and preprocessing-integrity reports
-
-### P2_5 — Major7 Heterogeneity
-
-Purpose: test whether the A-rate signal behaves differently by major group and outcome.<br>
-Representative notebook: [`P2_G5_A2.ipynb`](https://github.com/Siegfriex/SBS_DSJA_5th_EDGE/blob/P2_5/workbook/p2/p2_5/P2_G5_A2.ipynb)
-
-Includes:
-
-- strict major7 AME estimates
-- RAW_A and residual branch separation
-- P5 V1-vs-strict sensitivity audit
-- A2 visual insight notebook, figures, and report
-- context profile limitations with seven major groups
-
-### P2_6 — Final Strict-Chain Run-up
-
-Purpose: close the research chain and make the final cross-branch interpretation auditable.<br>
-Representative notebook: [`P2_G6_1.ipynb`](https://github.com/Siegfriex/SBS_DSJA_5th_EDGE/blob/P2_6/workbook/p2/P2_6/P2_G6_1.ipynb)
-
-Includes:
-
-- final strict-chain run-up report
-- confirmatory closure notebook
-- QA and manifest evidence
-- final figures and decision matrices
-
----
-
-## Current Published Branches
-
-| Branch | Folder Scope | Status |
-|---|---|---|
-| `P2_2` | `workbook/p2/p2_2/` | published |
-| `P2_3` | `workbook/p2/p2_3/` | published |
-| `P2_4` | `workbook/p2/p2_4/` | published |
-| `P2_5` | `workbook/p2/p2_5/` | published |
-| `P2_6` | `workbook/p2/P2_6/` | published |
-
----
-
-## Interpretation Guardrails
-
-- Do not treat A-rate coefficients as causal effects.
-- Do not merge P2-S and P2-Q conclusions when P2-Q is feature-contract blocked.
-- Do not interpret major7 context profiles as confirmatory meta-regression with only seven groups.
-- Do not compare development R2 and locked-test metrics as the same evidence.
-- Use branch manifests and README files to verify which upstream artifacts each stage reads.
-
----
-
-<div align="center">
-
-**P2 Grade Signal Portfolio** — Data engineering, measurement validation, statistical modeling, and visual research packaging
-
-</div>
+- A비율 계수와 AME는 조건부 연관성이다.
+- 개인 단위 GPA나 개인 취업성과에 대한 인과효과로 해석하지 않는다.
+- Q/selectivity branch는 최종 근거로 확정하지 않는다.
+- 최종 결론은 `FINAL` 브랜치의 실행 노트북, 최종 보고서, QA 파일이 동시에 지지하는 범위 안에서만 사용한다.
