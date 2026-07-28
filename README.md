@@ -1,5 +1,15 @@
 # SBS DSJA 5기 EDGE 데이터사이언스 최종 포트폴리오
 
+<div align="center">
+
+
+**Data & ML**
+
+[![Python](https://img.shields.io/badge/Python-3.12.3-3776AB?logo=python&logoColor=white)](https://www.python.org/) [![pandas](https://img.shields.io/badge/pandas-3.0.3-150458?logo=pandas&logoColor=white)](https://pandas.pydata.org/) [![PyMuPDF](https://img.shields.io/badge/PyMuPDF-1.28.0-2C5BB4)](https://pymupdf.readthedocs.io/) [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.9.0-F7931E?logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
+
+</div>
+
+
 ## 프로젝트 결론
 
 이 프로젝트는 “같은 A학점은 정말 같은 의미인가?”라는 질문에서 출발했다. 2024년 대학-학과 단위 성적분포를 입시 선택성, 학교·학과 구조, 전공계열, 노동시장 맥락, 취업성과, 대학원 진학성과와 연결해 검증했다.
